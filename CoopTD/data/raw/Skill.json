@@ -1,0 +1,362 @@
+[
+  {
+    "SkillId": 14,
+    "Name": "Absolute Destruction",
+    "Identifier": "absolute-destruction",
+    "SkillTypeId": 2,
+    "Description": "Destroys the enemy with 5{0}% chance (Bosses and criminals are not destroyed)",
+    "LevelIncrease": "(+0.1)"
+  },
+  {
+    "SkillId": 21,
+    "Name": "Absolute Zero",
+    "Identifier": "absolute-zero",
+    "SkillTypeId": 2,
+    "Description": "Stuns the enemy for 3 secs with 2{0}% chance when attacking",
+    "LevelIncrease": "(+0.1)"
+  },
+  {
+    "SkillId": 28,
+    "Name": "Adrenaline",
+    "Identifier": "adrenaline",
+    "SkillTypeId": 2,
+    "Description": "Transforms into an awakened state for 5{0} sec upon hearing the horn that signals the start of a wave",
+    "LevelIncrease": "(+0.25)"
+  },
+  {
+    "SkillId": 8,
+    "Name": "Ancient Tombstone",
+    "Identifier": "ancient-tombstone",
+    "SkillTypeId": 2,
+    "Description": "Summons a boulder at a random nearby location every 5 sec to obstruct the enemy's path for 3{0} sec",
+    "LevelIncrease": "(+0.1)"
+  },
+  {
+    "SkillId": 29,
+    "Name": "Awakening",
+    "Identifier": "awakening",
+    "SkillTypeId": 2,
+    "Description": "Attack speed increases by 400{0}%, and attacks have a 3.5{1}% chance to deal additiona damage equal to 1.5{2}% of the enemy's max HP. Becomes exhauted for 5{3} seconds and cannot take any actions during the exhaustion.",
+    "LevelIncrease": "(+5);(+0.05);(+0.05);(-0.1)"
+  },
+  {
+    "SkillId": 2,
+    "Name": "Boulder Fragment",
+    "Identifier": "boulder-fragment",
+    "SkillTypeId": 1,
+    "Description": "Projectiles deal 0.3 AoE DMG",
+    "LevelIncrease": null
+  },
+  {
+    "SkillId": 10,
+    "Name": "Careful Aim III",
+    "Identifier": "careful-aim-iii",
+    "SkillTypeId": 2,
+    "Description": "Slows ATK SPD, but increases ATK range and fires powerful arrows",
+    "LevelIncrease": null
+  },
+  {
+    "SkillId": 43,
+    "Name": "Converged Might",
+    "Identifier": "converged-might",
+    "SkillTypeId": 2,
+    "Description": "When Asura is summoned, it wields combined power of the Sealed Asur'as Head, Torso, Arms, and Legs, granting 200{0}% ATK, 2 ATK SPD, and 2 range. Only one Asura can exist on the player's field at a time. After summoning, it instantly eliminates all enemies on the field. (Excludes bosses and bounty targets)",
+    "LevelIncrease": "(+15)"
+  },
+  {
+    "SkillId": 22,
+    "Name": "Dragon Roar",
+    "Identifier": "dragon-roar",
+    "SkillTypeId": 2,
+    "Description": "Grants all units 100{0}% increase to their ATK",
+    "LevelIncrease": "(+10)"
+  },
+  {
+    "SkillId": 9,
+    "Name": "Earthshattering strike",
+    "Identifier": "earthshattering-strike",
+    "SkillTypeId": 2,
+    "Description": "Stuns the target for 2 sec with 25{0}% chance when attacking",
+    "LevelIncrease": "(+0.25)"
+  },
+  {
+    "SkillId": 18,
+    "Name": "Excited Batting",
+    "Identifier": "excited-batting",
+    "SkillTypeId": 2,
+    "Description": "Gains 2 Gold upon landing a CRIT strike",
+    "LevelIncrease": null
+  },
+  {
+    "SkillId": 44,
+    "Name": "Fist of the Ancients",
+    "Identifier": "fist-of-the-ancients",
+    "SkillTypeId": 2,
+    "Description": "Asura's attacks give damage to the target and enemies within a 1 range.",
+    "LevelIncrease": null
+  },
+  {
+    "SkillId": 31,
+    "Name": "Free-Flying Helictoper",
+    "Identifier": "free-flying-helictoper",
+    "SkillTypeId": 2,
+    "Description": "Capable of moving freely to other locations, but moving decreases performance, resulting in 10% reduced ATK SPD",
+    "LevelIncrease": null
+  },
+  {
+    "SkillId": 1,
+    "Name": "Golem Habits",
+    "Identifier": "golem-habits",
+    "SkillTypeId": 1,
+    "Description": "Attacks the nearest enemy",
+    "LevelIncrease": null
+  },
+  {
+    "SkillId": 23,
+    "Name": "Great Earthquake",
+    "Identifier": "great-earthquake",
+    "SkillTypeId": 2,
+    "Description": "Causes a Great Earthquake every 10 strikes, dealing 200{0}% DMG to all enemies and stunning them for 2.5{1} sec",
+    "LevelIncrease": "(+5);(+0.1)"
+  },
+  {
+    "SkillId": 35,
+    "Name": "Great Scallion Blade",
+    "Identifier": "great-scallion-blade",
+    "SkillTypeId": 2,
+    "Description": "The scallion transforms into a massive blade, changing attacks to deal AoE with a range of 1.",
+    "LevelIncrease": null
+  },
+  {
+    "SkillId": 34,
+    "Name": "Growing Scallions",
+    "Identifier": "growing-scallions",
+    "SkillTypeId": 2,
+    "Description": "Scalluck consumes gold to upgrade its scallions. If the upgrade fails, the stats will decrease.",
+    "LevelIncrease": null
+  },
+  {
+    "SkillId": 15,
+    "Name": "Light's Protection",
+    "Identifier": "lights-protection",
+    "SkillTypeId": 2,
+    "Description": "Grants monsters within range of 1, 50{0}% increase to their CRIT RATE and 7{1}% increase to their ATK SPD",
+    "LevelIncrease": "(+1);(+1)"
+  },
+  {
+    "SkillId": 16,
+    "Name": "Magma Blast",
+    "Identifier": "magma-blast",
+    "SkillTypeId": 2,
+    "Description": "Every third attack, fires a projectile that deals an additional 300{0}% DMG",
+    "LevelIncrease": "(+10)"
+  },
+  {
+    "SkillId": 30,
+    "Name": "Mega Special Bomb",
+    "Identifier": "mega-special-bomb",
+    "SkillTypeId": 2,
+    "Description": "Surprise Mouse attacks enemies with a Mega Special Bomb. The bomb explodes upon collision, dealing damage within a 1.5 range",
+    "LevelIncrease": null
+  },
+  {
+    "SkillId": 26,
+    "Name": "Mind's Eye",
+    "Identifier": "minds-eye",
+    "SkillTypeId": 2,
+    "Description": "Master Cat swings a sword with their mind's eye with 9{0}% chance when attacking, dealing DMG equal to 500{1}% of the caster's ATK to enemies within their ATK range",
+    "LevelIncrease": "(+0.25);(+20)"
+  },
+  {
+    "SkillId": 37,
+    "Name": "Minigun",
+    "Identifier": "minigun",
+    "SkillTypeId": 2,
+    "Description": "Rapidly attacks enemies with the Minigun. When switched to Rocket Launcher, Attack Speed is decreased by 50{0}%.",
+    "LevelIncrease": "(-1)"
+  },
+  {
+    "SkillId": 25,
+    "Name": "Moneygrubber",
+    "Identifier": "moneygrubber",
+    "SkillTypeId": 2,
+    "Description": "Increases ATK by 100{0} per 1 Gold",
+    "LevelIncrease": "(+1)"
+  },
+  {
+    "SkillId": 17,
+    "Name": "Oni Hunt",
+    "Identifier": "oni-hunt",
+    "SkillTypeId": 2,
+    "Description": "Unleases a red sword aura with 7{0}% chance when attacking, dealing additional damage equal to 3{1}% of all enemies' Max HP along its path.",
+    "LevelIncrease": "(+0.15);(+0.1)"
+  },
+  {
+    "SkillId": 5,
+    "Name": "Orc's Fury",
+    "Identifier": "orcs-fury",
+    "SkillTypeId": 1,
+    "Description": "Increases ATK, but targets a random enemy within range",
+    "LevelIncrease": null
+  },
+  {
+    "SkillId": 13,
+    "Name": "Overheat",
+    "Identifier": "overheat",
+    "SkillTypeId": 2,
+    "Description": "Increases DMG by 15{0}% each time the same enemy is attacked",
+    "LevelIncrease": "(+1)"
+  },
+  {
+    "SkillId": 3,
+    "Name": "Persistence",
+    "Identifier": "persistence",
+    "SkillTypeId": 1,
+    "Description": "The skeleton continues attacking its target until the enemy dies.",
+    "LevelIncrease": null
+  },
+  {
+    "SkillId": 45,
+    "Name": "Power of Reclamation",
+    "Identifier": "power-of-reclamation",
+    "SkillTypeId": 2,
+    "Description": "Enhance Asura with magic stones.",
+    "LevelIncrease": null
+  },
+  {
+    "SkillId": 24,
+    "Name": "Rank Promotion",
+    "Identifier": "rank-promotion",
+    "SkillTypeId": 2,
+    "Description": "Rank rises every time 50 enemies are defeated. When the rank rises, CRIT DMG increases by 100{0}% and ATK SPD increases by 0.5{1}",
+    "LevelIncrease": "(+10);(+0.1)"
+  },
+  {
+    "SkillId": 6,
+    "Name": "Revenge",
+    "Identifier": "revenge",
+    "SkillTypeId": 1,
+    "Description": "Prioritizes bosses and criminals and deals additional DMG",
+    "LevelIncrease": null
+  },
+  {
+    "SkillId": 39,
+    "Name": "Rocket Launcher",
+    "Identifier": "rocket-launcher",
+    "SkillTypeId": 2,
+    "Description": "Attacks enemies with the Rocket Launcher, prioritizing enemies with time bombs attached and dealing damage to all enemies within a 2 range.",
+    "LevelIncrease": null
+  },
+  {
+    "SkillId": 41,
+    "Name": "Shadow Strike",
+    "Identifier": "shadow-strike",
+    "SkillTypeId": 2,
+    "Description": "Has a 3{0}% chance to absorb 1 soul and deal additional damage equal to 5{1}% of the enemy's max HP.",
+    "LevelIncrease": "(+1);(+0.1)"
+  },
+  {
+    "SkillId": 40,
+    "Name": "Soul Absorbtion",
+    "Identifier": "soul-absorbtion",
+    "SkillTypeId": 2,
+    "Description": "Attacks have a 8{0}% chance to absorb a soul.",
+    "LevelIncrease": "(+1)"
+  },
+  {
+    "SkillId": 19,
+    "Name": "Soul Army",
+    "Identifier": "soul-army",
+    "SkillTypeId": 2,
+    "Description": "Each time the number of Magic Stone Mining Slimes becomes a multiple of 5, it summons a soul that orbits nearby.",
+    "LevelIncrease": null
+  },
+  {
+    "SkillId": 42,
+    "Name": "Summon Shadow Lord",
+    "Identifier": "summon-shadow-lord",
+    "SkillTypeId": 2,
+    "Description": "Summoning [Shadow Lord] increases ATK SPD by 50{0}%, and ATK by 15{1}% per soul. [Shadow Lord] consumes souls to attack, dealing additional damage equal to 0.5{2}% of the enemy's max HP.",
+    "LevelIncrease": "(+3);(+2);(+0.05)"
+  },
+  {
+    "SkillId": 32,
+    "Name": "The Only One",
+    "Identifier": "the-only-one",
+    "SkillTypeId": 2,
+    "Description": "Only one can exist on your field",
+    "LevelIncrease": null
+  },
+  {
+    "SkillId": 20,
+    "Name": "Thin Ice",
+    "Identifier": "thin-ice",
+    "SkillTypeId": 2,
+    "Description": "Continuously freezes the nearby ground to reduce the enemy's MOV SPD b 50{0}%",
+    "LevelIncrease": "(+1)"
+  },
+  {
+    "SkillId": 38,
+    "Name": "Time Bomb",
+    "Identifier": "time-bomb",
+    "SkillTypeId": 2,
+    "Description": "Minigun has a 5{0}% chance to plant a time bomb, exploding after 5{1} seconds to deal 2{2}% of the target's max health as damage. It stuns all nearby enemies within a 1 range for 2 seconds.",
+    "LevelIncrease": "(+0.1);(-0.1);(+0.2)"
+  },
+  {
+    "SkillId": 36,
+    "Name": "Transcendent Scalluck",
+    "Identifier": "transcendent-scalluck",
+    "SkillTypeId": 2,
+    "Description": "Scalluck transcends, increasing its attack range by 4.",
+    "LevelIncrease": null
+  },
+  {
+    "SkillId": 33,
+    "Name": "Treasure Chest",
+    "Identifier": "treasure-chest",
+    "SkillTypeId": 2,
+    "Description": "The chest opens 60{0} sec after being summoned. The chest summons a random Demon God and grants 500{1} Gold and 50{2} Magic Stone(s). (Supreme Demon God excluded)",
+    "LevelIncrease": "(-2);(+10);(+10)"
+  },
+  {
+    "SkillId": 4,
+    "Name": "Vroom Vroom Drink I",
+    "Identifier": "vroom-vroom-drink-i",
+    "SkillTypeId": 1,
+    "Description": "Weakens ATK, but ATK SPD becomes incredibly fast",
+    "LevelIncrease": null
+  },
+  {
+    "SkillId": 7,
+    "Name": "Vroom Vroom Drink II",
+    "Identifier": "vroom-vroom-drink-ii",
+    "SkillTypeId": 1,
+    "Description": "Weakens ATK, but ATK SPD becomes incredibly fast",
+    "LevelIncrease": null
+  },
+  {
+    "SkillId": 12,
+    "Name": "Vroom Vroom Drink III",
+    "Identifier": "vroom-vroom-drink-iii",
+    "SkillTypeId": 1,
+    "Description": "Weakens ATK, but ATK SPD becomes incredibly fast",
+    "LevelIncrease": null
+  },
+  {
+    "SkillId": 11,
+    "Name": "Wave of Darkness",
+    "Identifier": "wave-of-darkness",
+    "SkillTypeId": 2,
+    "Description": "The attack pierces the enemy and hits all enemies in the path",
+    "LevelIncrease": null
+  },
+  {
+    "SkillId": 27,
+    "Name": "Wind Voodoo",
+    "Identifier": "wind-voodoo",
+    "SkillTypeId": 2,
+    "Description": "Grants all units on the field 25{0}% increase to their ATK SPD",
+    "LevelIncrease": "(+1)"
+  }
+]

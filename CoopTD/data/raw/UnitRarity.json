@@ -1,0 +1,32 @@
+[
+  {
+    "UnitRarityId": 1,
+    "Name": "Common",
+    "Identifier": "common"
+  },
+  {
+    "UnitRarityId": 5,
+    "Name": "Demon God",
+    "Identifier": "demon-god"
+  },
+  {
+    "UnitRarityId": 3,
+    "Name": "Epic",
+    "Identifier": "epic"
+  },
+  {
+    "UnitRarityId": 4,
+    "Name": "Legendary",
+    "Identifier": "legendary"
+  },
+  {
+    "UnitRarityId": 2,
+    "Name": "Rare",
+    "Identifier": "rare"
+  },
+  {
+    "UnitRarityId": 6,
+    "Name": "Supreme Demon God",
+    "Identifier": "supreme-demon-god"
+  }
+]

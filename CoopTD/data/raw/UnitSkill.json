@@ -1,0 +1,548 @@
+[
+  {
+    "UnitSkillId": 1,
+    "UnitId": 1,
+    "SkillId": 1,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 2,
+    "UnitId": 1,
+    "SkillId": 2,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 3,
+    "UnitId": 2,
+    "SkillId": 1,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 4,
+    "UnitId": 2,
+    "SkillId": 2,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 5,
+    "UnitId": 3,
+    "SkillId": 3,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 6,
+    "UnitId": 3,
+    "SkillId": 4,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 7,
+    "UnitId": 4,
+    "SkillId": 3,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 8,
+    "UnitId": 4,
+    "SkillId": 4,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 9,
+    "UnitId": 5,
+    "SkillId": 5,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 10,
+    "UnitId": 6,
+    "SkillId": 5,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 11,
+    "UnitId": 7,
+    "SkillId": 6,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 12,
+    "UnitId": 8,
+    "SkillId": 1,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 13,
+    "UnitId": 8,
+    "SkillId": 2,
+    "DescriptionOverride": "Projectiles deal 0.35 AoE DMG"
+  },
+  {
+    "UnitSkillId": 14,
+    "UnitId": 9,
+    "SkillId": 1,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 15,
+    "UnitId": 9,
+    "SkillId": 2,
+    "DescriptionOverride": "Projectiles deal 0.35 AoE DMG"
+  },
+  {
+    "UnitSkillId": 16,
+    "UnitId": 10,
+    "SkillId": 3,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 17,
+    "UnitId": 10,
+    "SkillId": 4,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 18,
+    "UnitId": 11,
+    "SkillId": 3,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 19,
+    "UnitId": 11,
+    "SkillId": 4,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 20,
+    "UnitId": 12,
+    "SkillId": 5,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 21,
+    "UnitId": 13,
+    "SkillId": 5,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 22,
+    "UnitId": 14,
+    "SkillId": 6,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 23,
+    "UnitId": 15,
+    "SkillId": 1,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 24,
+    "UnitId": 15,
+    "SkillId": 2,
+    "DescriptionOverride": "Projectiles deal 0.4 AoE DMG"
+  },
+  {
+    "UnitSkillId": 25,
+    "UnitId": 16,
+    "SkillId": 1,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 26,
+    "UnitId": 16,
+    "SkillId": 2,
+    "DescriptionOverride": "Projectiles deal 0.4 AoE DMG"
+  },
+  {
+    "UnitSkillId": 27,
+    "UnitId": 17,
+    "SkillId": 3,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 28,
+    "UnitId": 17,
+    "SkillId": 7,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 29,
+    "UnitId": 18,
+    "SkillId": 3,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 30,
+    "UnitId": 18,
+    "SkillId": 7,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 31,
+    "UnitId": 19,
+    "SkillId": 5,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 32,
+    "UnitId": 20,
+    "SkillId": 5,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 33,
+    "UnitId": 21,
+    "SkillId": 6,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 34,
+    "UnitId": 22,
+    "SkillId": 1,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 35,
+    "UnitId": 22,
+    "SkillId": 2,
+    "DescriptionOverride": "Projectiles deal 0.5 AoE DMG"
+  },
+  {
+    "UnitSkillId": 36,
+    "UnitId": 23,
+    "SkillId": 1,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 37,
+    "UnitId": 23,
+    "SkillId": 2,
+    "DescriptionOverride": "Projectiles deal 0.5 AoE DMG"
+  },
+  {
+    "UnitSkillId": 38,
+    "UnitId": 24,
+    "SkillId": 3,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 39,
+    "UnitId": 24,
+    "SkillId": 7,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 40,
+    "UnitId": 25,
+    "SkillId": 3,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 41,
+    "UnitId": 25,
+    "SkillId": 7,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 42,
+    "UnitId": 26,
+    "SkillId": 5,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 43,
+    "UnitId": 27,
+    "SkillId": 5,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 44,
+    "UnitId": 28,
+    "SkillId": 6,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 45,
+    "UnitId": 29,
+    "SkillId": 1,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 46,
+    "UnitId": 29,
+    "SkillId": 2,
+    "DescriptionOverride": "Projectiles deal 0.5 AoE DMG"
+  },
+  {
+    "UnitSkillId": 47,
+    "UnitId": 29,
+    "SkillId": 8,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 48,
+    "UnitId": 30,
+    "SkillId": 1,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 49,
+    "UnitId": 30,
+    "SkillId": 2,
+    "DescriptionOverride": "Projectiles deal 0.5 AoE DMG"
+  },
+  {
+    "UnitSkillId": 50,
+    "UnitId": 30,
+    "SkillId": 9,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 51,
+    "UnitId": 31,
+    "SkillId": 3,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 52,
+    "UnitId": 31,
+    "SkillId": 10,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 53,
+    "UnitId": 31,
+    "SkillId": 11,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 54,
+    "UnitId": 32,
+    "SkillId": 3,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 55,
+    "UnitId": 32,
+    "SkillId": 12,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 56,
+    "UnitId": 32,
+    "SkillId": 13,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 57,
+    "UnitId": 33,
+    "SkillId": 5,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 58,
+    "UnitId": 33,
+    "SkillId": 14,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 59,
+    "UnitId": 34,
+    "SkillId": 5,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 60,
+    "UnitId": 34,
+    "SkillId": 15,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 61,
+    "UnitId": 35,
+    "SkillId": 6,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 62,
+    "UnitId": 35,
+    "SkillId": 16,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 63,
+    "UnitId": 37,
+    "SkillId": 17,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 64,
+    "UnitId": 38,
+    "SkillId": 18,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 65,
+    "UnitId": 39,
+    "SkillId": 19,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 66,
+    "UnitId": 40,
+    "SkillId": 20,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 67,
+    "UnitId": 40,
+    "SkillId": 21,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 68,
+    "UnitId": 41,
+    "SkillId": 22,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 69,
+    "UnitId": 42,
+    "SkillId": 23,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 70,
+    "UnitId": 43,
+    "SkillId": 24,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 71,
+    "UnitId": 44,
+    "SkillId": 25,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 72,
+    "UnitId": 36,
+    "SkillId": 26,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 73,
+    "UnitId": 45,
+    "SkillId": 27,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 74,
+    "UnitId": 46,
+    "SkillId": 28,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 75,
+    "UnitId": 46,
+    "SkillId": 29,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 76,
+    "UnitId": 46,
+    "SkillId": 30,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 77,
+    "UnitId": 47,
+    "SkillId": 31,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 78,
+    "UnitId": 47,
+    "SkillId": 32,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 79,
+    "UnitId": 48,
+    "SkillId": 33,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 80,
+    "UnitId": 49,
+    "SkillId": 34,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 81,
+    "UnitId": 49,
+    "SkillId": 35,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 82,
+    "UnitId": 49,
+    "SkillId": 36,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 83,
+    "UnitId": 50,
+    "SkillId": 37,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 84,
+    "UnitId": 50,
+    "SkillId": 38,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 85,
+    "UnitId": 50,
+    "SkillId": 39,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 86,
+    "UnitId": 51,
+    "SkillId": 40,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 87,
+    "UnitId": 51,
+    "SkillId": 41,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 88,
+    "UnitId": 51,
+    "SkillId": 42,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 89,
+    "UnitId": 52,
+    "SkillId": 43,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 90,
+    "UnitId": 52,
+    "SkillId": 44,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 91,
+    "UnitId": 52,
+    "SkillId": 45,
+    "DescriptionOverride": null
+  }
+]

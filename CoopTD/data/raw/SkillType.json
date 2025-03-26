@@ -1,0 +1,12 @@
+[
+  {
+    "SkillTypeId": 2,
+    "Name": "Skill",
+    "Identifier": "skill"
+  },
+  {
+    "SkillTypeId": 1,
+    "Name": "Type Skill",
+    "Identifier": "type-skill"
+  }
+]

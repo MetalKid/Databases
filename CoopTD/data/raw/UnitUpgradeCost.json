@@ -1,0 +1,443 @@
+[
+  {
+    "UnitUpgradeCostId": 1,
+    "UnitRarityId": 1,
+    "ToLevel": 2,
+    "SilverCost": 50,
+    "UnitCount": 5
+  },
+  {
+    "UnitUpgradeCostId": 2,
+    "UnitRarityId": 2,
+    "ToLevel": 2,
+    "SilverCost": 100,
+    "UnitCount": 3
+  },
+  {
+    "UnitUpgradeCostId": 3,
+    "UnitRarityId": 3,
+    "ToLevel": 2,
+    "SilverCost": 100,
+    "UnitCount": 3
+  },
+  {
+    "UnitUpgradeCostId": 4,
+    "UnitRarityId": 4,
+    "ToLevel": 2,
+    "SilverCost": 100,
+    "UnitCount": 2
+  },
+  {
+    "UnitUpgradeCostId": 5,
+    "UnitRarityId": 5,
+    "ToLevel": 2,
+    "SilverCost": 1000,
+    "UnitCount": 30
+  },
+  {
+    "UnitUpgradeCostId": 6,
+    "UnitRarityId": 6,
+    "ToLevel": 2,
+    "SilverCost": 1000,
+    "UnitCount": 30
+  },
+  {
+    "UnitUpgradeCostId": 7,
+    "UnitRarityId": 5,
+    "ToLevel": 3,
+    "SilverCost": 2000,
+    "UnitCount": 70
+  },
+  {
+    "UnitUpgradeCostId": 8,
+    "UnitRarityId": 6,
+    "ToLevel": 3,
+    "SilverCost": 2000,
+    "UnitCount": 70
+  },
+  {
+    "UnitUpgradeCostId": 9,
+    "UnitRarityId": 5,
+    "ToLevel": 4,
+    "SilverCost": 4000,
+    "UnitCount": 130
+  },
+  {
+    "UnitUpgradeCostId": 10,
+    "UnitRarityId": 6,
+    "ToLevel": 4,
+    "SilverCost": 4000,
+    "UnitCount": 130
+  },
+  {
+    "UnitUpgradeCostId": 11,
+    "UnitRarityId": 5,
+    "ToLevel": 5,
+    "SilverCost": 6000,
+    "UnitCount": 210
+  },
+  {
+    "UnitUpgradeCostId": 12,
+    "UnitRarityId": 6,
+    "ToLevel": 5,
+    "SilverCost": 6000,
+    "UnitCount": 210
+  },
+  {
+    "UnitUpgradeCostId": 13,
+    "UnitRarityId": 5,
+    "ToLevel": 6,
+    "SilverCost": 10000,
+    "UnitCount": 320
+  },
+  {
+    "UnitUpgradeCostId": 14,
+    "UnitRarityId": 6,
+    "ToLevel": 6,
+    "SilverCost": 10000,
+    "UnitCount": 320
+  },
+  {
+    "UnitUpgradeCostId": 15,
+    "UnitRarityId": 5,
+    "ToLevel": 7,
+    "SilverCost": 14000,
+    "UnitCount": 460
+  },
+  {
+    "UnitUpgradeCostId": 16,
+    "UnitRarityId": 6,
+    "ToLevel": 7,
+    "SilverCost": 14000,
+    "UnitCount": 460
+  },
+  {
+    "UnitUpgradeCostId": 17,
+    "UnitRarityId": 5,
+    "ToLevel": 8,
+    "SilverCost": 20000,
+    "UnitCount": 620
+  },
+  {
+    "UnitUpgradeCostId": 18,
+    "UnitRarityId": 6,
+    "ToLevel": 8,
+    "SilverCost": 20000,
+    "UnitCount": 620
+  },
+  {
+    "UnitUpgradeCostId": 21,
+    "UnitRarityId": 5,
+    "ToLevel": 10,
+    "SilverCost": 34000,
+    "UnitCount": 1000
+  },
+  {
+    "UnitUpgradeCostId": 22,
+    "UnitRarityId": 6,
+    "ToLevel": 10,
+    "SilverCost": 34000,
+    "UnitCount": 1000
+  },
+  {
+    "UnitUpgradeCostId": 23,
+    "UnitRarityId": 1,
+    "ToLevel": 3,
+    "SilverCost": 100,
+    "UnitCount": 10
+  },
+  {
+    "UnitUpgradeCostId": 24,
+    "UnitRarityId": 1,
+    "ToLevel": 4,
+    "SilverCost": 200,
+    "UnitCount": 20
+  },
+  {
+    "UnitUpgradeCostId": 25,
+    "UnitRarityId": 1,
+    "ToLevel": 5,
+    "SilverCost": 300,
+    "UnitCount": 30
+  },
+  {
+    "UnitUpgradeCostId": 26,
+    "UnitRarityId": 1,
+    "ToLevel": 6,
+    "SilverCost": 500,
+    "UnitCount": 50
+  },
+  {
+    "UnitUpgradeCostId": 27,
+    "UnitRarityId": 2,
+    "ToLevel": 3,
+    "SilverCost": 200,
+    "UnitCount": 6
+  },
+  {
+    "UnitUpgradeCostId": 28,
+    "UnitRarityId": 2,
+    "ToLevel": 4,
+    "SilverCost": 300,
+    "UnitCount": 10
+  },
+  {
+    "UnitUpgradeCostId": 29,
+    "UnitRarityId": 2,
+    "ToLevel": 5,
+    "SilverCost": 500,
+    "UnitCount": 20
+  },
+  {
+    "UnitUpgradeCostId": 30,
+    "UnitRarityId": 2,
+    "ToLevel": 6,
+    "SilverCost": 800,
+    "UnitCount": 30
+  },
+  {
+    "UnitUpgradeCostId": 31,
+    "UnitRarityId": 2,
+    "ToLevel": 7,
+    "SilverCost": 1200,
+    "UnitCount": 40
+  },
+  {
+    "UnitUpgradeCostId": 32,
+    "UnitRarityId": 3,
+    "ToLevel": 3,
+    "SilverCost": 200,
+    "UnitCount": 4
+  },
+  {
+    "UnitUpgradeCostId": 33,
+    "UnitRarityId": 3,
+    "ToLevel": 4,
+    "SilverCost": 400,
+    "UnitCount": 8
+  },
+  {
+    "UnitUpgradeCostId": 34,
+    "UnitRarityId": 3,
+    "ToLevel": 5,
+    "SilverCost": 600,
+    "UnitCount": 12
+  },
+  {
+    "UnitUpgradeCostId": 35,
+    "UnitRarityId": 3,
+    "ToLevel": 6,
+    "SilverCost": 1000,
+    "UnitCount": 20
+  },
+  {
+    "UnitUpgradeCostId": 36,
+    "UnitRarityId": 3,
+    "ToLevel": 7,
+    "SilverCost": 1400,
+    "UnitCount": 30
+  },
+  {
+    "UnitUpgradeCostId": 37,
+    "UnitRarityId": 4,
+    "ToLevel": 3,
+    "SilverCost": 200,
+    "UnitCount": 3
+  },
+  {
+    "UnitUpgradeCostId": 38,
+    "UnitRarityId": 4,
+    "ToLevel": 4,
+    "SilverCost": 400,
+    "UnitCount": 6
+  },
+  {
+    "UnitUpgradeCostId": 39,
+    "UnitRarityId": 4,
+    "ToLevel": 5,
+    "SilverCost": 600,
+    "UnitCount": 10
+  },
+  {
+    "UnitUpgradeCostId": 40,
+    "UnitRarityId": 4,
+    "ToLevel": 6,
+    "SilverCost": 1000,
+    "UnitCount": 15
+  },
+  {
+    "UnitUpgradeCostId": 41,
+    "UnitRarityId": 4,
+    "ToLevel": 7,
+    "SilverCost": 1400,
+    "UnitCount": 20
+  },
+  {
+    "UnitUpgradeCostId": 42,
+    "UnitRarityId": 4,
+    "ToLevel": 8,
+    "SilverCost": 2000,
+    "UnitCount": 30
+  },
+  {
+    "UnitUpgradeCostId": 43,
+    "UnitRarityId": 1,
+    "ToLevel": 13,
+    "SilverCost": 3100,
+    "UnitCount": 310
+  },
+  {
+    "UnitUpgradeCostId": 44,
+    "UnitRarityId": 1,
+    "ToLevel": 14,
+    "SilverCost": 3600,
+    "UnitCount": 360
+  },
+  {
+    "UnitUpgradeCostId": 45,
+    "UnitRarityId": 2,
+    "ToLevel": 15,
+    "SilverCost": 7200,
+    "UnitCount": 260
+  },
+  {
+    "UnitUpgradeCostId": 46,
+    "UnitRarityId": 2,
+    "ToLevel": 14,
+    "SilverCost": 6000,
+    "UnitCount": 220
+  },
+  {
+    "UnitUpgradeCostId": 47,
+    "UnitRarityId": 3,
+    "ToLevel": 16,
+    "SilverCost": 10000,
+    "UnitCount": 200
+  },
+  {
+    "UnitUpgradeCostId": 48,
+    "UnitRarityId": 3,
+    "ToLevel": 17,
+    "SilverCost": 12000,
+    "UnitCount": 235
+  },
+  {
+    "UnitUpgradeCostId": 49,
+    "UnitRarityId": 4,
+    "ToLevel": 18,
+    "SilverCost": 14000,
+    "UnitCount": 215
+  },
+  {
+    "UnitUpgradeCostId": 50,
+    "UnitRarityId": 4,
+    "ToLevel": 19,
+    "SilverCost": 16000,
+    "UnitCount": 250
+  },
+  {
+    "UnitUpgradeCostId": 51,
+    "UnitRarityId": 1,
+    "ToLevel": 7,
+    "SilverCost": 700,
+    "UnitCount": 70
+  },
+  {
+    "UnitUpgradeCostId": 52,
+    "UnitRarityId": 2,
+    "ToLevel": 8,
+    "SilverCost": 1700,
+    "UnitCount": 60
+  },
+  {
+    "UnitUpgradeCostId": 53,
+    "UnitRarityId": 3,
+    "ToLevel": 8,
+    "SilverCost": 2000,
+    "UnitCount": 40
+  },
+  {
+    "UnitUpgradeCostId": 54,
+    "UnitRarityId": 4,
+    "ToLevel": 9,
+    "SilverCost": 2600,
+    "UnitCount": 40
+  },
+  {
+    "UnitUpgradeCostId": 55,
+    "UnitRarityId": 4,
+    "ToLevel": 10,
+    "SilverCost": 3400,
+    "UnitCount": 50
+  },
+  {
+    "UnitUpgradeCostId": 56,
+    "UnitRarityId": 5,
+    "ToLevel": 11,
+    "SilverCost": 42000,
+    "UnitCount": 1230
+  },
+  {
+    "UnitUpgradeCostId": 57,
+    "UnitRarityId": 6,
+    "ToLevel": 11,
+    "SilverCost": 42000,
+    "UnitCount": 1230
+  },
+  {
+    "UnitUpgradeCostId": 58,
+    "UnitRarityId": 2,
+    "ToLevel": 16,
+    "SilverCost": 10000,
+    "UnitCount": 300
+  },
+  {
+    "UnitUpgradeCostId": 59,
+    "UnitRarityId": 3,
+    "ToLevel": 9,
+    "SilverCost": 2600,
+    "UnitCount": 50
+  },
+  {
+    "UnitUpgradeCostId": 60,
+    "UnitRarityId": 2,
+    "ToLevel": 9,
+    "SilverCost": 2200,
+    "UnitCount": 80
+  },
+  {
+    "UnitUpgradeCostId": 61,
+    "UnitRarityId": 1,
+    "ToLevel": 8,
+    "SilverCost": 1000,
+    "UnitCount": 100
+  },
+  {
+    "UnitUpgradeCostId": 62,
+    "UnitRarityId": 4,
+    "ToLevel": 11,
+    "SilverCost": 4200,
+    "UnitCount": 65
+  },
+  {
+    "UnitUpgradeCostId": 63,
+    "UnitRarityId": 4,
+    "ToLevel": 20,
+    "SilverCost": 18000,
+    "UnitCount": 290
+  },
+  {
+    "UnitUpgradeCostId": 64,
+    "UnitRarityId": 3,
+    "ToLevel": 18,
+    "SilverCost": 14000,
+    "UnitCount": 275
+  },
+  {
+    "UnitUpgradeCostId": 65,
+    "UnitRarityId": 4,
+    "ToLevel": 21,
+    "SilverCost": 20000,
+    "UnitCount": 335
+  }
+]

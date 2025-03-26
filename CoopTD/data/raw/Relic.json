@@ -1,0 +1,392 @@
+[
+  {
+    "RelicId": 39,
+    "Name": "Ancient Heart Fragment",
+    "Identifier": "ancient-heart-fragment",
+    "FlavorText": "When the scattered fragments converge to form a heart, an overwhelming power awakens.",
+    "UnitId": 52,
+    "Description": "When Asura lands a critical attack, there is a 7{0}% chance to stun the target for 1 sescond, dealing additional damage equal to 3{1}% of the enemy's max HP.",
+    "LevelIncrease": "(+0.15);(+0.1)",
+    "Notes": null
+  },
+  {
+    "RelicId": 34,
+    "Name": "Auxillary Propeller",
+    "Identifier": "auxillary-propeller",
+    "FlavorText": "Unlimited warranty available",
+    "UnitId": 47,
+    "Description": "Decreases the ATK SPD reduction caused upon moving locations by 10{0}%.",
+    "LevelIncrease": "(+1)",
+    "Notes": null
+  },
+  {
+    "RelicId": 1,
+    "Name": "Axe of Onslaught",
+    "Identifier": "axe-of-onslaught",
+    "FlavorText": "Breaks things in half",
+    "UnitId": null,
+    "Description": "Increases all monsters' ATK by 15{0}%.",
+    "LevelIncrease": "(+3)",
+    "Notes": null
+  },
+  {
+    "RelicId": 28,
+    "Name": "Banana",
+    "Identifier": "banana",
+    "FlavorText": "Big Hand only eats bananas with 100% sweetness",
+    "UnitId": 42,
+    "Description": "Throws a banana peel that reduces the MOV SPD of enemies within a 1 range by 30{0}%.",
+    "LevelIncrease": "(+1)",
+    "Notes": null
+  },
+  {
+    "RelicId": 33,
+    "Name": "Blue Nutrient Injection",
+    "Identifier": "blue-nutrient-injection",
+    "FlavorText": "High in Vitamin C",
+    "UnitId": 46,
+    "Description": "Reduces Surprise Mouse's exhaustion duration by 1{0} sec.",
+    "LevelIncrease": "(+0.2)",
+    "Notes": null
+  },
+  {
+    "RelicId": 27,
+    "Name": "Cintamani Stone",
+    "Identifier": "cintamani-stone",
+    "FlavorText": "They say there were seven Cintamani Stones in ancient times",
+    "UnitId": 41,
+    "Description": "Dragon's Roar adds an additional 20{0}% critical damage boost.",
+    "LevelIncrease": "(+5)",
+    "Notes": null
+  },
+  {
+    "RelicId": 5,
+    "Name": "Crystal Blade",
+    "Identifier": "crystal-blade",
+    "FlavorText": "Demons use this as a paring knife.",
+    "UnitId": null,
+    "Description": "Increases all monsters' CRIT RATE by 10{0}%.",
+    "LevelIncrease": "(+1)",
+    "Notes": null
+  },
+  {
+    "RelicId": 4,
+    "Name": "Demon Core",
+    "Identifier": "demon-core",
+    "FlavorText": "Demon Demon Fruit",
+    "UnitId": null,
+    "Description": "All monsters gain 20{0}% of ATK as additional boss DMG.",
+    "LevelIncrease": "(+2)",
+    "Notes": null
+  },
+  {
+    "RelicId": 22,
+    "Name": "Dragon Heart",
+    "Identifier": "dragon-heart",
+    "FlavorText": "Devote your heart!",
+    "UnitId": 35,
+    "Description": "Magma Blast becomes a projectile that deals 1{0} AoE DMG.",
+    "LevelIncrease": "(+0.1)",
+    "Notes": null
+  },
+  {
+    "RelicId": 19,
+    "Name": "Executioner's Goggles",
+    "Identifier": "executioners-goggles",
+    "FlavorText": "It allows you to see through weakness",
+    "UnitId": 32,
+    "Description": "Executes enemy with 10{0}% HP or lower when attacking (Bosses and criminals are not executed).",
+    "LevelIncrease": "(+1)",
+    "Notes": null
+  },
+  {
+    "RelicId": 2,
+    "Name": "Eye of the Evil Eye",
+    "Identifier": "eye-of-the-evil-eye",
+    "FlavorText": "They say Evil Eye has a 50/10 vision",
+    "UnitId": null,
+    "Description": "Increases the base projectile attack range of all demons by 0.5{0} (excluding Ice Knight and Phantom Slime).",
+    "LevelIncrease": "(+0.05)",
+    "Notes": "Once the attack range barely covers a section, the attack will fully reach."
+  },
+  {
+    "RelicId": 11,
+    "Name": "Goblin Bank Contract",
+    "Identifier": "goblin-bank-contract",
+    "FlavorText": "The joy of completing a mission, plus a bonus!",
+    "UnitId": null,
+    "Description": "Mission rewards are increased by 10{0}%.",
+    "LevelIncrease": "(+4)",
+    "Notes": null
+  },
+  {
+    "RelicId": 24,
+    "Name": "Gold Bat",
+    "Identifier": "gold-bat",
+    "FlavorText": "Make it rain gold!",
+    "UnitId": 38,
+    "Description": "When obtaining Gold through skills, the Gold is also granted to allies with 25{0}% chance.",
+    "LevelIncrease": "(+5)",
+    "Notes": null
+  },
+  {
+    "RelicId": 7,
+    "Name": "Gold Coin",
+    "Identifier": "gold-coin",
+    "FlavorText": "Hard to distinguish from a Coin Man",
+    "UnitId": null,
+    "Description": "Increases starting Gold by 15{0}.",
+    "LevelIncrease": "(+3)",
+    "Notes": null
+  },
+  {
+    "RelicId": 18,
+    "Name": "Golden Arrowhead",
+    "Identifier": "golden-arrowhead",
+    "FlavorText": "This arrow must be retrieved at all costs",
+    "UnitId": 31,
+    "Description": "Fires arrows in three directions with 10{0}% chance when attacking.",
+    "LevelIncrease": "(+2)",
+    "Notes": null
+  },
+  {
+    "RelicId": 30,
+    "Name": "Golden Hat",
+    "Identifier": "golden-hat",
+    "FlavorText": "The epitome of capitalism",
+    "UnitId": 44,
+    "Description": "On attack, there is a 7{0}% chance to throw a coin pouch, dealing 200{1}% ATK to enemies within a 1.5 range around the target.",
+    "LevelIncrease": "(+0.1);(+10)",
+    "Notes": null
+  },
+  {
+    "RelicId": 35,
+    "Name": "Hidden Golden Key",
+    "Identifier": "hidden-golden-key",
+    "FlavorText": "Treasure cherished most by Mimics",
+    "UnitId": 48,
+    "Description": "Obtains 10{0}% more currency from Mimic chests.",
+    "LevelIncrease": "(+2.5)",
+    "Notes": null
+  },
+  {
+    "RelicId": 26,
+    "Name": "Ice Necklace",
+    "Identifier": "ice-necklace",
+    "FlavorText": "A necklace that contains a blizzard",
+    "UnitId": 40,
+    "Description": "Summons a blizzard every 120{0} sec, freezing all enemies on the field for 3{1} sec.",
+    "LevelIncrease": "(-1); (+0.2)",
+    "Notes": null
+  },
+  {
+    "RelicId": 10,
+    "Name": "Lucky Dice",
+    "Identifier": "lucky-dice",
+    "FlavorText": "You can have Rare monsters too!",
+    "UnitId": null,
+    "Description": "Summons a rare monster with 5{0}% chance when summoning.",
+    "LevelIncrease": "(+0.1)",
+    "Notes": null
+  },
+  {
+    "RelicId": 25,
+    "Name": "Magic Stone Elemental",
+    "Identifier": "magic-stone-elemental",
+    "FlavorText": "The soul of a Magic Stone Slime",
+    "UnitId": 39,
+    "Description": "Obtain 1 Magic Stone with 10{0}% chance when enemy is killed.",
+    "LevelIncrease": "(+2)",
+    "Notes": "Any enemy is killed, not just by Phantom Slime."
+  },
+  {
+    "RelicId": 31,
+    "Name": "Monk's Necklace",
+    "Identifier": "monks-necklace",
+    "FlavorText": "Always maintain a calm heart",
+    "UnitId": 36,
+    "Description": "`Mind's Eye` inflicts additional damage equal to 2{0}% of the enemy's max HP.",
+    "LevelIncrease": "(+0.2)",
+    "Notes": null
+  },
+  {
+    "RelicId": 17,
+    "Name": "Mysterious Boulder",
+    "Identifier": "mysterious-boulder",
+    "FlavorText": "They say that boulder worship has been practiced since ancient times",
+    "UnitId": 30,
+    "Description": "Increases stun duration by 1{0} sec.",
+    "LevelIncrease": "(+0.1)",
+    "Notes": null
+  },
+  {
+    "RelicId": 23,
+    "Name": "Oni Brazier",
+    "Identifier": "oni-brazier",
+    "FlavorText": "Oni fires are hard to put out",
+    "UnitId": 37,
+    "Description": "Ignites the enemy for 5 sec when attacking, dealing damage equal to 1{0}% of their current HP every second.",
+    "LevelIncrease": "(+0.2)",
+    "Notes": null
+  },
+  {
+    "RelicId": 20,
+    "Name": "Pearl of Blood",
+    "Identifier": "pearl-of-blood",
+    "FlavorText": "Draxar is mad for blood",
+    "UnitId": 33,
+    "Description": "When an enemy is instantly kiled, attack speed increases by 100{0}% for 5{1} seconds.",
+    "LevelIncrease": "(+5);(+0.2)",
+    "Notes": null
+  },
+  {
+    "RelicId": 37,
+    "Name": "Rabbit Bomb",
+    "Identifier": "rabbit-bomb",
+    "FlavorText": "Rabbits in late-night dreams... That must be scary.",
+    "UnitId": 50,
+    "Description": "Every 8{0} seconds, a Rabbit Bomb is placed at a random location nearby. The Rabbit Bomb explodes after 5{1} seconds, detonating all time bombs within a 1.5 range.",
+    "LevelIncrease": "(-0.15);(-0.1)",
+    "Notes": null
+  },
+  {
+    "RelicId": 38,
+    "Name": "Shadowe Contract",
+    "Identifier": "shadowe-contract",
+    "FlavorText": "Contracts made within the shadow are unbreakable.",
+    "UnitId": 51,
+    "Description": "A tile is bound to the shadow contract (only once). Monsters summoned on tiles with shadow contract have 5{0}% chance to absorb 1 soul upon attack.",
+    "LevelIncrease": "(+1)",
+    "Notes": null
+  },
+  {
+    "RelicId": 6,
+    "Name": "Sharp Claw",
+    "Identifier": "sharp-claw",
+    "FlavorText": "It hurts more if you hit the bone",
+    "UnitId": null,
+    "Description": "Increases all monsters' CRIT DMG by 20{0}%.",
+    "LevelIncrease": "(+5)",
+    "Notes": null
+  },
+  {
+    "RelicId": 14,
+    "Name": "Slime Negotiation Form",
+    "Identifier": "slime-negotiation-form",
+    "FlavorText": "Even slimes have rights",
+    "UnitId": null,
+    "Description": "Reduces the cost to hire Magic Stone Mining Slimes by 10{0}%.",
+    "LevelIncrease": "(+2)",
+    "Notes": null
+  },
+  {
+    "RelicId": 13,
+    "Name": "Slime Pickaxe",
+    "Identifier": "slime-pickaxe",
+    "FlavorText": "Pickaxes made by dwarves are renowned for their performance",
+    "UnitId": null,
+    "Description": "Increases Magic Stone mining speed by 10{0}%.",
+    "LevelIncrease": "(+0.5)",
+    "Notes": null
+  },
+  {
+    "RelicId": 12,
+    "Name": "Slush Fund",
+    "Identifier": "slush-fund",
+    "FlavorText": "Monster replacement on sale!",
+    "UnitId": null,
+    "Description": "Reduces monster replacement cost by 10{0}%.",
+    "LevelIncrease": "(+4)",
+    "Notes": null
+  },
+  {
+    "RelicId": 21,
+    "Name": "Soul Orb",
+    "Identifier": "soul-orb",
+    "FlavorText": "It is said that monsters experience astral projection upon death.",
+    "UnitId": 34,
+    "Description": "Grants monsters within range of 1, 50{0}% increase to their ATK.",
+    "LevelIncrease": "(+5)",
+    "Notes": null
+  },
+  {
+    "RelicId": 29,
+    "Name": "Special Warrior Badge",
+    "Identifier": "special-warrior-badge",
+    "FlavorText": "A badge given exclusively to marksmen with perfect aim",
+    "UnitId": 43,
+    "Description": "Increases ATK by 0.5{0}% every time an enemy is defeated.",
+    "LevelIncrease": "(+0.1)",
+    "Notes": null
+  },
+  {
+    "RelicId": 9,
+    "Name": "Super Fusion Machine",
+    "Identifier": "super-fusion-machine",
+    "FlavorText": "A surprise with every merge!",
+    "UnitId": null,
+    "Description": "Summons a monster two tiers higher with 5{0}% chance when merging (Supreme Demon God excluded).",
+    "LevelIncrease": "(+0.1)",
+    "Notes": null
+  },
+  {
+    "RelicId": 16,
+    "Name": "Thorn Tombstone",
+    "Identifier": "thorn-tombstone",
+    "FlavorText": "It stings if you get pricked by a thorn",
+    "UnitId": 29,
+    "Description": "Deals DMG equal to 10{0}% of the target's current HP to enemies that collide with the [Tombstone].",
+    "LevelIncrease": "(+0.5)",
+    "Notes": null
+  },
+  {
+    "RelicId": 36,
+    "Name": "Till Death Do Us Part",
+    "Identifier": "till-death-do-us-part",
+    "FlavorText": "A White Wig for Eternal Love",
+    "UnitId": 49,
+    "Description": "If Growing Scallions fails, there is a 20{0}% chance to retain the current upgrade.",
+    "LevelIncrease": "(+2.5)",
+    "Notes": null
+  },
+  {
+    "RelicId": 32,
+    "Name": "Totem of Worship",
+    "Identifier": "totem-of-worship",
+    "FlavorText": "Demon Gods become stronger the more they are worshipped",
+    "UnitId": 45,
+    "Description": "Adds an additional effect that increases CRIT RATE by 10{0}% to Wind Voodoo.",
+    "LevelIncrease": "(+1)",
+    "Notes": null
+  },
+  {
+    "RelicId": 15,
+    "Name": "Wind Feather",
+    "Identifier": "wind-feather",
+    "FlavorText": "Speed battle begins!",
+    "UnitId": null,
+    "Description": "Creates a zone that increases ATK SPD by 10{0}%.",
+    "LevelIncrease": "(+0.5)",
+    "Notes": null
+  },
+  {
+    "RelicId": 3,
+    "Name": "Wind's Blessing",
+    "Identifier": "winds-blessing",
+    "FlavorText": "Have you ever been to the Windy Hills?",
+    "UnitId": null,
+    "Description": "Increases all monsters' ATK SPD by 5{0}%.",
+    "LevelIncrease": "(+0.5)",
+    "Notes": null
+  },
+  {
+    "RelicId": 8,
+    "Name": "Zephyros' Feather",
+    "Identifier": "zephyros-feather",
+    "FlavorText": "The more HP is reduced, the fuller the wallet becomes",
+    "UnitId": null,
+    "Description": "Obtain 20{0} additional Gold whenever HP is reduced.",
+    "LevelIncrease": "(+2)",
+    "Notes": null
+  }
+]

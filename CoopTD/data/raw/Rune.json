@@ -1,0 +1,74 @@
+[
+  {
+    "RuneId": 1,
+    "Name": "Ancient Gold Coin",
+    "Identifier": "ancient-gold-coin",
+    "MinLevel": 5,
+    "Description": "Obtain 5{0} gold per wave.",
+    "LevelIncrease": "(+1)",
+    "Notes": "Extremely helpful for early waves. Should probably max this or Negotiation first. "
+  },
+  {
+    "RuneId": 2,
+    "Name": "Anicent Mana Stone Core",
+    "Identifier": "anicent-mana-stone-core",
+    "MinLevel": 6,
+    "Description": "Obtain 10{0} magic stones every 5 waves.",
+    "LevelIncrease": "(+2)",
+    "Notes": "Each point in this results in 32/44 more stones per 80/110 waves. At level 10, you'll gain 30 stones every 5 levels."
+  },
+  {
+    "RuneId": 6,
+    "Name": "Energy Burst",
+    "Identifier": "energy-burst",
+    "MinLevel": 11,
+    "Description": "When life decreases, a laser is fired forward, dealing damage equal to 10{0}% of the enemy's current HP and stunning them for 0.1{1} seconds.",
+    "LevelIncrease": "(+2);(+0.1)",
+    "Notes": "Probably shouldn't invest in this. Can only use this 9 times in Normal and 4 in Hard. Don't upgrade this at all unless nothing is left to upgrade!"
+  },
+  {
+    "RuneId": 5,
+    "Name": "Fear",
+    "Identifier": "fear",
+    "MinLevel": 9,
+    "Description": "Reduces the movement speed of all enemies by 1{0}%.",
+    "LevelIncrease": "(+0.5)",
+    "Notes": "There is a little benefit to making enemies move slower, but the small increase probably won't make much difference."
+  },
+  {
+    "RuneId": 3,
+    "Name": "Monster Affinity",
+    "Identifier": "monster-affinity",
+    "MinLevel": 7,
+    "Description": "Reduces monster enhancement costs by 5{0}%.",
+    "LevelIncrease": "(+1)",
+    "Notes": "This reduces the cost of upgrading units. This really only saves on Demon God levels. Each point in this will roughly save you 30 magic stones by level 30 or 40 stones if you upgrade to level 40."
+  },
+  {
+    "RuneId": 7,
+    "Name": "Negotiation",
+    "Identifier": "negotiation",
+    "MinLevel": 13,
+    "Description": "Increases the max capacity of magic stone slimes by 1{0}.",
+    "LevelIncrease": "(+1)",
+    "Notes": "This or Ancient Gold Coins should be maxed out first. This allows you to have more slimes mining which is needed for more magic stones. Max gets you to 41 slimes. Highly important!"
+  },
+  {
+    "RuneId": 8,
+    "Name": "Potential",
+    "Identifier": "potential",
+    "MinLevel": 15,
+    "Description": "Increases the max enhancement limit of monsters by 1{0}.",
+    "LevelIncrease": "(+1)",
+    "Notes": "This allows you to upgrade your units an extra level per point. This can help somewhat in the mid to mid-late stage when damage can still do something and you have enough stones to get to level 30+. This won't help against late-stage bosses at all, though."
+  },
+  {
+    "RuneId": 4,
+    "Name": "Transcendence",
+    "Identifier": "transcendence",
+    "MinLevel": 8,
+    "Description": "Reduces demon transcendence costs by 7{0}%.",
+    "LevelIncrease": "(+1)",
+    "Notes": "This reduces the cost to go from Demon God to Supreme Demon God. Every 2 points in this you'd save around 16 magic stones per game."
+  }
+]

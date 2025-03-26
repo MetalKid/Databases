@@ -1,0 +1,110 @@
+[
+  {
+    "MissionId": 3,
+    "Name": "Collect Orcs I",
+    "Gold": 38,
+    "MagicStones": 0
+  },
+  {
+    "MissionId": 7,
+    "Name": "Collect Orcs II",
+    "Gold": 38,
+    "MagicStones": 13
+  },
+  {
+    "MissionId": 10,
+    "Name": "Collect Orcs III",
+    "Gold": 63,
+    "MagicStones": 19
+  },
+  {
+    "MissionId": 1,
+    "Name": "Collect Rocks I",
+    "Gold": 38,
+    "MagicStones": 0
+  },
+  {
+    "MissionId": 5,
+    "Name": "Collect Rocks II",
+    "Gold": 38,
+    "MagicStones": 13
+  },
+  {
+    "MissionId": 8,
+    "Name": "Collect Rocks III",
+    "Gold": 63,
+    "MagicStones": 19
+  },
+  {
+    "MissionId": 2,
+    "Name": "Collect Skeletons I",
+    "Gold": 38,
+    "MagicStones": 0
+  },
+  {
+    "MissionId": 6,
+    "Name": "Collect Skeletons II",
+    "Gold": 38,
+    "MagicStones": 13
+  },
+  {
+    "MissionId": 9,
+    "Name": "Collect Skeletons III",
+    "Gold": 63,
+    "MagicStones": 19
+  },
+  {
+    "MissionId": 4,
+    "Name": "Goo goo ga ga!",
+    "Gold": 51,
+    "MagicStones": 0
+  },
+  {
+    "MissionId": 15,
+    "Name": "Hidden Mission Caboodle I",
+    "Gold": 126,
+    "MagicStones": 19
+  },
+  {
+    "MissionId": 16,
+    "Name": "Hidden Mission Caboodle II",
+    "Gold": 252,
+    "MagicStones": 38
+  },
+  {
+    "MissionId": 17,
+    "Name": "Hidden Mission Super Caboodle I",
+    "Gold": 378,
+    "MagicStones": 57
+  },
+  {
+    "MissionId": 18,
+    "Name": "Hidden Mission Super Caboodle II",
+    "Gold": 504,
+    "MagicStones": 76
+  },
+  {
+    "MissionId": 12,
+    "Name": "Like a Dragon",
+    "Gold": 126,
+    "MagicStones": 63
+  },
+  {
+    "MissionId": 11,
+    "Name": "Trigon",
+    "Gold": 95,
+    "MagicStones": 22
+  },
+  {
+    "MissionId": 13,
+    "Name": "Trinity I",
+    "Gold": 126,
+    "MagicStones": 63
+  },
+  {
+    "MissionId": 14,
+    "Name": "Trinity II",
+    "Gold": 126,
+    "MagicStones": 63
+  }
+]

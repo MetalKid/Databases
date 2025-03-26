@@ -1,0 +1,38 @@
+[
+  {
+    "RelicUpgradeCostId": 1,
+    "ToLevel": 2,
+    "SilverCost": 100,
+    "UnitCount": 2
+  },
+  {
+    "RelicUpgradeCostId": 2,
+    "ToLevel": 3,
+    "SilverCost": 200,
+    "UnitCount": 3
+  },
+  {
+    "RelicUpgradeCostId": 3,
+    "ToLevel": 4,
+    "SilverCost": 400,
+    "UnitCount": 6
+  },
+  {
+    "RelicUpgradeCostId": 4,
+    "ToLevel": 5,
+    "SilverCost": 600,
+    "UnitCount": 10
+  },
+  {
+    "RelicUpgradeCostId": 5,
+    "ToLevel": 6,
+    "SilverCost": 1000,
+    "UnitCount": 15
+  },
+  {
+    "RelicUpgradeCostId": 6,
+    "ToLevel": 7,
+    "SilverCost": 1400,
+    "UnitCount": 20
+  }
+]

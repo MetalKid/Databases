@@ -1,0 +1,560 @@
+.relic {
+    background-image: url('../../images/CoopTD/relics-sprite.png');
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.relic-ancient-heart-fragment {
+    width: 80px;
+    height: 80px;
+    background-position: 0 0;
+}
+
+.relic-auxillary-propeller {
+    width: 80px;
+    height: 80px;
+    background-position: -80px 0;
+}
+
+.relic-axe-of-onslaught {
+    width: 80px;
+    height: 80px;
+    background-position: -160px 0;
+}
+
+.relic-banana {
+    width: 80px;
+    height: 80px;
+    background-position: -240px 0;
+}
+
+.relic-blue-nutrient-injection {
+    width: 80px;
+    height: 80px;
+    background-position: -320px 0;
+}
+
+.relic-cintamani-stone {
+    width: 80px;
+    height: 80px;
+    background-position: -400px 0;
+}
+
+.relic-crystal-blade {
+    width: 80px;
+    height: 80px;
+    background-position: 0 -80px;
+}
+
+.relic-demon-core {
+    width: 80px;
+    height: 80px;
+    background-position: -80px -80px;
+}
+
+.relic-dragon-heart {
+    width: 80px;
+    height: 80px;
+    background-position: -160px -80px;
+}
+
+.relic-executioners-goggles {
+    width: 80px;
+    height: 80px;
+    background-position: -240px -80px;
+}
+
+.relic-eye-of-the-evil-eye {
+    width: 80px;
+    height: 80px;
+    background-position: -320px -80px;
+}
+
+.relic-goblin-bank-contract {
+    width: 80px;
+    height: 80px;
+    background-position: -400px -80px;
+}
+
+.relic-gold-bat {
+    width: 80px;
+    height: 80px;
+    background-position: 0 -160px;
+}
+
+.relic-gold-coin {
+    width: 80px;
+    height: 80px;
+    background-position: -80px -160px;
+}
+
+.relic-golden-arrowhead {
+    width: 80px;
+    height: 80px;
+    background-position: -160px -160px;
+}
+
+.relic-golden-hat {
+    width: 80px;
+    height: 80px;
+    background-position: -240px -160px;
+}
+
+.relic-hidden-golden-key {
+    width: 80px;
+    height: 80px;
+    background-position: -320px -160px;
+}
+
+.relic-ice-necklace {
+    width: 80px;
+    height: 80px;
+    background-position: -400px -160px;
+}
+
+.relic-lucky-dice {
+    width: 80px;
+    height: 80px;
+    background-position: 0 -240px;
+}
+
+.relic-magic-stone-elemental {
+    width: 80px;
+    height: 80px;
+    background-position: -80px -240px;
+}
+
+.relic-monks-necklace {
+    width: 80px;
+    height: 80px;
+    background-position: -160px -240px;
+}
+
+.relic-mysterious-boulder {
+    width: 80px;
+    height: 80px;
+    background-position: -240px -240px;
+}
+
+.relic-oni-brazier {
+    width: 80px;
+    height: 80px;
+    background-position: -320px -240px;
+}
+
+.relic-pearl-of-blood {
+    width: 80px;
+    height: 80px;
+    background-position: -400px -240px;
+}
+
+.relic-rabbit-bomb {
+    width: 80px;
+    height: 80px;
+    background-position: 0 -320px;
+}
+
+.relic-shadowe-contract {
+    width: 80px;
+    height: 80px;
+    background-position: -80px -320px;
+}
+
+.relic-sharp-claw {
+    width: 80px;
+    height: 80px;
+    background-position: -160px -320px;
+}
+
+.relic-slime-negotiation-form {
+    width: 80px;
+    height: 80px;
+    background-position: -240px -320px;
+}
+
+.relic-slime-pickaxe {
+    width: 80px;
+    height: 80px;
+    background-position: -320px -320px;
+}
+
+.relic-slush-fund {
+    width: 80px;
+    height: 80px;
+    background-position: -400px -320px;
+}
+
+.relic-soul-orb {
+    width: 80px;
+    height: 80px;
+    background-position: 0 -400px;
+}
+
+.relic-special-warrior-badge {
+    width: 80px;
+    height: 80px;
+    background-position: -80px -400px;
+}
+
+.relic-super-fusion-machine {
+    width: 80px;
+    height: 80px;
+    background-position: -160px -400px;
+}
+
+.relic-thorn-tombstone {
+    width: 80px;
+    height: 80px;
+    background-position: -240px -400px;
+}
+
+.relic-till-death-do-us-part {
+    width: 80px;
+    height: 80px;
+    background-position: -320px -400px;
+}
+
+.relic-totem-of-worship {
+    width: 80px;
+    height: 80px;
+    background-position: -400px -400px;
+}
+
+.relic-wind-feather {
+    width: 80px;
+    height: 80px;
+    background-position: -480px 0;
+}
+
+.relic-winds-blessing {
+    width: 80px;
+    height: 80px;
+    background-position: -480px -80px;
+}
+
+.relic-zephyros-feather {
+    width: 80px;
+    height: 80px;
+    background-position: -480px -160px;
+}
+
+
+
+
+.unit {
+    background-image: url('../../images/CoopTD/units-sprite.png');
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.unit-ancient-blue-dragon {
+    width: 80px;
+    height: 80px;
+    background-position: 0 0;
+}
+
+.unit-asura {
+    width: 80px;
+    height: 80px;
+    background-position: -80px 0;
+}
+
+.unit-basilisk {
+    width: 80px;
+    height: 80px;
+    background-position: -160px 0;
+}
+
+.unit-big-hand {
+    width: 80px;
+    height: 80px;
+    background-position: -240px 0;
+}
+
+.unit-clara {
+    width: 80px;
+    height: 80px;
+    background-position: -320px 0;
+}
+
+.unit-coin-man {
+    width: 80px;
+    height: 80px;
+    background-position: -400px 0;
+}
+
+.unit-copper {
+    width: 80px;
+    height: 80px;
+    background-position: -480px 0;
+}
+
+.unit-crossbower {
+    width: 80px;
+    height: 80px;
+    background-position: 0 -80px;
+}
+
+.unit-destroyer {
+    width: 80px;
+    height: 80px;
+    background-position: -80px -80px;
+}
+
+.unit-destroyer-orc {
+    width: 80px;
+    height: 80px;
+    background-position: -160px -80px;
+}
+
+.unit-drake {
+    width: 80px;
+    height: 80px;
+    background-position: -240px -80px;
+}
+
+.unit-draxar {
+    width: 80px;
+    height: 80px;
+    background-position: -320px -80px;
+}
+
+.unit-egg {
+    width: 80px;
+    height: 80px;
+    background-position: -400px -80px;
+}
+
+.unit-flower-golem {
+    width: 80px;
+    height: 80px;
+    background-position: -480px -80px;
+}
+
+.unit-goblin-biker {
+    width: 80px;
+    height: 80px;
+    background-position: 0 -160px;
+}
+
+.unit-gold-crow {
+    width: 80px;
+    height: 80px;
+    background-position: -80px -160px;
+}
+
+.unit-gold-rock {
+    width: 80px;
+    height: 80px;
+    background-position: -160px -160px;
+}
+
+.unit-gonkid {
+    width: 80px;
+    height: 80px;
+    background-position: -240px -160px;
+}
+
+.unit-great-shaman-orc {
+    width: 80px;
+    height: 80px;
+    background-position: -320px -160px;
+}
+
+.unit-greenstone {
+    width: 80px;
+    height: 80px;
+    background-position: -400px -160px;
+}
+
+.unit-high-orc {
+    width: 80px;
+    height: 80px;
+    background-position: -480px -160px;
+}
+
+.unit-ice-knight {
+    width: 80px;
+    height: 80px;
+    background-position: 0 -240px;
+}
+
+.unit-latest-helicopter-machine {
+    width: 80px;
+    height: 80px;
+    background-position: -80px -240px;
+}
+
+.unit-lil-archer {
+    width: 80px;
+    height: 80px;
+    background-position: -160px -240px;
+}
+
+.unit-lil-boulder {
+    width: 80px;
+    height: 80px;
+    background-position: -240px -240px;
+}
+
+.unit-lil-shaman-orc {
+    width: 80px;
+    height: 80px;
+    background-position: -320px -240px;
+}
+
+.unit-lil-warrior-orc {
+    width: 80px;
+    height: 80px;
+    background-position: -400px -240px;
+}
+
+.unit-maniac {
+    width: 80px;
+    height: 80px;
+    background-position: -480px -240px;
+}
+
+.unit-master-cat {
+    width: 80px;
+    height: 80px;
+    background-position: 0 -320px;
+}
+
+.unit-mimic {
+    width: 80px;
+    height: 80px;
+    background-position: -80px -320px;
+}
+
+.unit-moonstone {
+    width: 80px;
+    height: 80px;
+    background-position: -160px -320px;
+}
+
+.unit-natures-guardian {
+    width: 80px;
+    height: 80px;
+    background-position: -240px -320px;
+}
+
+.unit-omen {
+    width: 80px;
+    height: 80px;
+    background-position: -320px -320px;
+}
+
+.unit-oni {
+    width: 80px;
+    height: 80px;
+    background-position: -400px -320px;
+}
+
+.unit-ore-golem {
+    width: 80px;
+    height: 80px;
+    background-position: -480px -320px;
+}
+
+.unit-outlaw {
+    width: 80px;
+    height: 80px;
+    background-position: 0 -400px;
+}
+
+.unit-phantom-slime {
+    width: 80px;
+    height: 80px;
+    background-position: -80px -400px;
+}
+
+.unit-pirate {
+    width: 80px;
+    height: 80px;
+    background-position: -160px -400px;
+}
+
+.unit-regik {
+    width: 80px;
+    height: 80px;
+    background-position: -240px -400px;
+}
+
+.unit-sage-orc {
+    width: 80px;
+    height: 80px;
+    background-position: -320px -400px;
+}
+
+.unit-scalluck {
+    width: 80px;
+    height: 80px;
+    background-position: -400px -400px;
+}
+
+.unit-skelesoul {
+    width: 80px;
+    height: 80px;
+    background-position: -480px -400px;
+}
+
+.unit-skilled-hunter {
+    width: 80px;
+    height: 80px;
+    background-position: 0 -480px;
+}
+
+.unit-skull {
+    width: 80px;
+    height: 80px;
+    background-position: -80px -480px;
+}
+
+.unit-soul-reaper {
+    width: 80px;
+    height: 80px;
+    background-position: -160px -480px;
+}
+
+.unit-space-solider {
+    width: 80px;
+    height: 80px;
+    background-position: -240px -480px;
+}
+
+.unit-sprout-rock {
+    width: 80px;
+    height: 80px;
+    background-position: -320px -480px;
+}
+
+.unit-surprise-mouse {
+    width: 80px;
+    height: 80px;
+    background-position: -400px -480px;
+}
+
+.unit-trainee-shaman-orc {
+    width: 80px;
+    height: 80px;
+    background-position: -480px -480px;
+}
+
+.unit-vigorous-warrior-orc {
+    width: 80px;
+    height: 80px;
+    background-position: -560px 0;
+}
+
+.unit-witch-doctor {
+    width: 80px;
+    height: 80px;
+    background-position: -560px -80px;
+}
+
+.unit-wyvern {
+    width: 80px;
+    height: 80px;
+    background-position: -560px -160px;
+}

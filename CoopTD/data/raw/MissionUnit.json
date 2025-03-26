@@ -1,0 +1,337 @@
+[
+  {
+    "MissinUnitId": 1,
+    "MissionId": 1,
+    "UnitId": 1
+  },
+  {
+    "MissinUnitId": 2,
+    "MissionId": 1,
+    "UnitId": 1
+  },
+  {
+    "MissinUnitId": 3,
+    "MissionId": 1,
+    "UnitId": 2
+  },
+  {
+    "MissinUnitId": 4,
+    "MissionId": 2,
+    "UnitId": 3
+  },
+  {
+    "MissinUnitId": 5,
+    "MissionId": 2,
+    "UnitId": 3
+  },
+  {
+    "MissinUnitId": 6,
+    "MissionId": 2,
+    "UnitId": 4
+  },
+  {
+    "MissinUnitId": 7,
+    "MissionId": 3,
+    "UnitId": 5
+  },
+  {
+    "MissinUnitId": 8,
+    "MissionId": 3,
+    "UnitId": 5
+  },
+  {
+    "MissinUnitId": 9,
+    "MissionId": 3,
+    "UnitId": 6
+  },
+  {
+    "MissinUnitId": 10,
+    "MissionId": 4,
+    "UnitId": 7
+  },
+  {
+    "MissinUnitId": 11,
+    "MissionId": 4,
+    "UnitId": 7
+  },
+  {
+    "MissinUnitId": 12,
+    "MissionId": 4,
+    "UnitId": 7
+  },
+  {
+    "MissinUnitId": 13,
+    "MissionId": 5,
+    "UnitId": 2
+  },
+  {
+    "MissinUnitId": 14,
+    "MissionId": 5,
+    "UnitId": 8
+  },
+  {
+    "MissinUnitId": 15,
+    "MissionId": 5,
+    "UnitId": 9
+  },
+  {
+    "MissinUnitId": 16,
+    "MissionId": 6,
+    "UnitId": 4
+  },
+  {
+    "MissinUnitId": 17,
+    "MissionId": 6,
+    "UnitId": 10
+  },
+  {
+    "MissinUnitId": 18,
+    "MissionId": 6,
+    "UnitId": 11
+  },
+  {
+    "MissinUnitId": 19,
+    "MissionId": 7,
+    "UnitId": 6
+  },
+  {
+    "MissinUnitId": 20,
+    "MissionId": 7,
+    "UnitId": 12
+  },
+  {
+    "MissinUnitId": 21,
+    "MissionId": 7,
+    "UnitId": 13
+  },
+  {
+    "MissinUnitId": 22,
+    "MissionId": 8,
+    "UnitId": 15
+  },
+  {
+    "MissinUnitId": 23,
+    "MissionId": 8,
+    "UnitId": 16
+  },
+  {
+    "MissinUnitId": 24,
+    "MissionId": 9,
+    "UnitId": 17
+  },
+  {
+    "MissinUnitId": 25,
+    "MissionId": 9,
+    "UnitId": 18
+  },
+  {
+    "MissinUnitId": 26,
+    "MissionId": 10,
+    "UnitId": 19
+  },
+  {
+    "MissinUnitId": 27,
+    "MissionId": 10,
+    "UnitId": 20
+  },
+  {
+    "MissinUnitId": 28,
+    "MissionId": 11,
+    "UnitId": 7
+  },
+  {
+    "MissinUnitId": 29,
+    "MissionId": 11,
+    "UnitId": 21
+  },
+  {
+    "MissinUnitId": 30,
+    "MissionId": 11,
+    "UnitId": 35
+  },
+  {
+    "MissinUnitId": 31,
+    "MissionId": 12,
+    "UnitId": 35
+  },
+  {
+    "MissinUnitId": 32,
+    "MissionId": 12,
+    "UnitId": 35
+  },
+  {
+    "MissinUnitId": 33,
+    "MissionId": 12,
+    "UnitId": 35
+  },
+  {
+    "MissinUnitId": 34,
+    "MissionId": 13,
+    "UnitId": 29
+  },
+  {
+    "MissinUnitId": 35,
+    "MissionId": 13,
+    "UnitId": 31
+  },
+  {
+    "MissinUnitId": 36,
+    "MissionId": 13,
+    "UnitId": 33
+  },
+  {
+    "MissinUnitId": 37,
+    "MissionId": 14,
+    "UnitId": 30
+  },
+  {
+    "MissinUnitId": 38,
+    "MissionId": 14,
+    "UnitId": 32
+  },
+  {
+    "MissinUnitId": 39,
+    "MissionId": 14,
+    "UnitId": 34
+  },
+  {
+    "MissinUnitId": 40,
+    "MissionId": 15,
+    "UnitId": 1
+  },
+  {
+    "MissinUnitId": 41,
+    "MissionId": 15,
+    "UnitId": 2
+  },
+  {
+    "MissinUnitId": 42,
+    "MissionId": 15,
+    "UnitId": 3
+  },
+  {
+    "MissinUnitId": 43,
+    "MissionId": 15,
+    "UnitId": 4
+  },
+  {
+    "MissinUnitId": 44,
+    "MissionId": 15,
+    "UnitId": 5
+  },
+  {
+    "MissinUnitId": 45,
+    "MissionId": 15,
+    "UnitId": 6
+  },
+  {
+    "MissinUnitId": 46,
+    "MissionId": 15,
+    "UnitId": 7
+  },
+  {
+    "MissinUnitId": 47,
+    "MissionId": 16,
+    "UnitId": 8
+  },
+  {
+    "MissinUnitId": 48,
+    "MissionId": 16,
+    "UnitId": 9
+  },
+  {
+    "MissinUnitId": 49,
+    "MissionId": 16,
+    "UnitId": 10
+  },
+  {
+    "MissinUnitId": 50,
+    "MissionId": 16,
+    "UnitId": 11
+  },
+  {
+    "MissinUnitId": 51,
+    "MissionId": 16,
+    "UnitId": 12
+  },
+  {
+    "MissinUnitId": 52,
+    "MissionId": 16,
+    "UnitId": 13
+  },
+  {
+    "MissinUnitId": 53,
+    "MissionId": 16,
+    "UnitId": 14
+  },
+  {
+    "MissinUnitId": 54,
+    "MissionId": 17,
+    "UnitId": 15
+  },
+  {
+    "MissinUnitId": 55,
+    "MissionId": 17,
+    "UnitId": 16
+  },
+  {
+    "MissinUnitId": 56,
+    "MissionId": 17,
+    "UnitId": 17
+  },
+  {
+    "MissinUnitId": 57,
+    "MissionId": 17,
+    "UnitId": 18
+  },
+  {
+    "MissinUnitId": 58,
+    "MissionId": 17,
+    "UnitId": 19
+  },
+  {
+    "MissinUnitId": 59,
+    "MissionId": 17,
+    "UnitId": 20
+  },
+  {
+    "MissinUnitId": 60,
+    "MissionId": 17,
+    "UnitId": 21
+  },
+  {
+    "MissinUnitId": 61,
+    "MissionId": 18,
+    "UnitId": 22
+  },
+  {
+    "MissinUnitId": 62,
+    "MissionId": 18,
+    "UnitId": 23
+  },
+  {
+    "MissinUnitId": 63,
+    "MissionId": 18,
+    "UnitId": 24
+  },
+  {
+    "MissinUnitId": 64,
+    "MissionId": 18,
+    "UnitId": 25
+  },
+  {
+    "MissinUnitId": 65,
+    "MissionId": 18,
+    "UnitId": 26
+  },
+  {
+    "MissinUnitId": 66,
+    "MissionId": 18,
+    "UnitId": 27
+  },
+  {
+    "MissinUnitId": 67,
+    "MissionId": 18,
+    "UnitId": 28
+  }
+]

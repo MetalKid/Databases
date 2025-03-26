@@ -1,0 +1,22 @@
+[
+  {
+    "UnitTypeId": 4,
+    "Name": "Dragon",
+    "Identifier": "dragon"
+  },
+  {
+    "UnitTypeId": 1,
+    "Name": "Golem",
+    "Identifier": "golem"
+  },
+  {
+    "UnitTypeId": 3,
+    "Name": "Orc",
+    "Identifier": "orc"
+  },
+  {
+    "UnitTypeId": 2,
+    "Name": "Skeleton",
+    "Identifier": "skeleton"
+  }
+]
