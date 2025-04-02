@@ -13,7 +13,7 @@
     "LevelUpAttack": 640,
     "LevelUpAttackSpeed": 0.0600,
     "LevelUpBossDamage": 0,
-    "Notes": "These are ultimately pretty useless. This only boosts units' base attack, which won't really help in late stages of the game. The relic isn't great since late stages need % HP damage as raw damage won't do enough."
+    "Notes": "This only boosts units' base attack, which won't really help in late stages of the game - unless you have really high level units (15+) where this + relic crit damage scales high enough to be useful."
   },
   {
     "UnitId": 52,
@@ -29,7 +29,7 @@
     "LevelUpAttack": 2000,
     "LevelUpAttackSpeed": 0.0500,
     "LevelUpBossDamage": 250,
-    "Notes": "Asura takes a ton of resources to get out onto the field. With the relic, you might want to pair this with Regik to maybe get enough stun/% HP damage to make it work... But you can only have one, so honestly I think this unit is extremely risky, economy wise, and doesn't do enough damage in the late rounds to be useful. I wouldn't use it."
+    "Notes": "To get Asura out, you have to have at least 1 of each of 4 different parts to combine. More parts will increase stats further.  Asura takes a ton of resources to get out onto the field. With the relic, you might want to pair this with Regik to maybe get enough stun/% HP damage to make it work... But you can only have one, so honestly I think this unit is extremely risky, economy wise, and doesn't do enough damage in the late rounds to be useful. I wouldn't use it."
   },
   {
     "UnitId": 35,

@@ -1,0 +1,62 @@
+[
+  {
+    "RuneUpgradeCostId": 1,
+    "ToLevel": 2,
+    "SilverCost": 10000,
+    "UnitCount": 1
+  },
+  {
+    "RuneUpgradeCostId": 2,
+    "ToLevel": 3,
+    "SilverCost": 20000,
+    "UnitCount": 2
+  },
+  {
+    "RuneUpgradeCostId": 3,
+    "ToLevel": 4,
+    "SilverCost": 30000,
+    "UnitCount": 3
+  },
+  {
+    "RuneUpgradeCostId": 4,
+    "ToLevel": 5,
+    "SilverCost": 40000,
+    "UnitCount": 4
+  },
+  {
+    "RuneUpgradeCostId": 5,
+    "ToLevel": 6,
+    "SilverCost": 50000,
+    "UnitCount": 5
+  },
+  {
+    "RuneUpgradeCostId": 6,
+    "ToLevel": 7,
+    "SilverCost": 60000,
+    "UnitCount": 6
+  },
+  {
+    "RuneUpgradeCostId": 7,
+    "ToLevel": 8,
+    "SilverCost": 70000,
+    "UnitCount": 7
+  },
+  {
+    "RuneUpgradeCostId": 8,
+    "ToLevel": 9,
+    "SilverCost": 80000,
+    "UnitCount": 8
+  },
+  {
+    "RuneUpgradeCostId": 9,
+    "ToLevel": 10,
+    "SilverCost": 90000,
+    "UnitCount": 9
+  },
+  {
+    "RuneUpgradeCostId": 10,
+    "ToLevel": 11,
+    "SilverCost": 100000,
+    "UnitCount": 10
+  }
+]
