@@ -4,350 +4,659 @@
     "Level": 1,
     "Silver": 11000,
     "Gems": 300,
-    "Relic": null,
-    "GodStone": null,
-    "Tickets": null
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 2,
     "Level": 2,
     "Silver": 12000,
     "Gems": 300,
-    "Relic": null,
-    "GodStone": null,
-    "Tickets": 10
+    "GodStones": null,
+    "Tickets": 10,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 3,
     "Level": 3,
     "Silver": 13000,
     "Gems": 300,
-    "Relic": null,
-    "GodStone": null,
-    "Tickets": null
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 4,
     "Level": 4,
     "Silver": 14000,
     "Gems": 300,
-    "Relic": null,
-    "GodStone": 30,
-    "Tickets": null
+    "GodStones": 30,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 5,
     "Level": 5,
     "Silver": 15000,
     "Gems": 300,
-    "Relic": null,
-    "GodStone": null,
-    "Tickets": null
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 6,
     "Level": 6,
     "Silver": 16000,
     "Gems": 300,
-    "Relic": "1 Common",
-    "GodStone": null,
-    "Tickets": null
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": 1,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 7,
     "Level": 7,
     "Silver": 17000,
     "Gems": 300,
-    "Relic": null,
-    "GodStone": null,
-    "Tickets": null
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 8,
     "Level": 8,
     "Silver": 18000,
     "Gems": 300,
-    "Relic": "1 Demon God",
-    "GodStone": null,
-    "Tickets": null
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": 1,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 9,
     "Level": 9,
     "Silver": 19000,
     "Gems": 300,
-    "Relic": null,
-    "GodStone": null,
-    "Tickets": null
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 10,
     "Level": 10,
     "Silver": 20000,
     "Gems": 300,
-    "Relic": "1 Supreme Demon God",
-    "GodStone": null,
-    "Tickets": null
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": 1
   },
   {
     "TowerOfHumanityRewardId": 11,
     "Level": 11,
     "Silver": 21000,
     "Gems": 300,
-    "Relic": null,
-    "GodStone": null,
-    "Tickets": null
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 12,
     "Level": 12,
     "Silver": 22000,
     "Gems": 300,
-    "Relic": null,
-    "GodStone": null,
-    "Tickets": 15
+    "GodStones": null,
+    "Tickets": 15,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 13,
     "Level": 13,
     "Silver": 23000,
     "Gems": 300,
-    "Relic": null,
-    "GodStone": null,
-    "Tickets": null
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 14,
     "Level": 14,
     "Silver": 24000,
     "Gems": 300,
-    "Relic": null,
-    "GodStone": 45,
-    "Tickets": null
+    "GodStones": 45,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 15,
     "Level": 15,
     "Silver": 25000,
     "Gems": 300,
-    "Relic": null,
-    "GodStone": null,
-    "Tickets": null
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 16,
     "Level": 16,
     "Silver": 26000,
     "Gems": 300,
-    "Relic": "1 Common",
-    "GodStone": null,
-    "Tickets": null
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": 1,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 17,
     "Level": 17,
     "Silver": 27000,
     "Gems": 300,
-    "Relic": null,
-    "GodStone": null,
-    "Tickets": null
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 18,
     "Level": 18,
     "Silver": 28000,
     "Gems": 300,
-    "Relic": "1 Demon God",
-    "GodStone": null,
-    "Tickets": null
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": 1,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 19,
     "Level": 19,
     "Silver": 29000,
     "Gems": 300,
-    "Relic": null,
-    "GodStone": null,
-    "Tickets": null
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 20,
     "Level": 20,
     "Silver": 30000,
     "Gems": 300,
-    "Relic": "1 Supreme Demon God",
-    "GodStone": null,
-    "Tickets": null
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": 1
   },
   {
     "TowerOfHumanityRewardId": 21,
     "Level": 21,
     "Silver": 31000,
     "Gems": 500,
-    "Relic": null,
-    "GodStone": null,
-    "Tickets": null
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 22,
     "Level": 22,
     "Silver": 32000,
     "Gems": 500,
-    "Relic": null,
-    "GodStone": null,
-    "Tickets": 20
+    "GodStones": null,
+    "Tickets": 20,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 23,
     "Level": 23,
     "Silver": 33000,
     "Gems": 500,
-    "Relic": null,
-    "GodStone": null,
-    "Tickets": null
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 24,
     "Level": 24,
     "Silver": 34000,
     "Gems": 500,
-    "Relic": null,
-    "GodStone": 60,
-    "Tickets": null
+    "GodStones": 60,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 25,
     "Level": 25,
     "Silver": 35000,
     "Gems": 500,
-    "Relic": null,
-    "GodStone": null,
-    "Tickets": null
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 26,
     "Level": 26,
     "Silver": 36000,
     "Gems": 500,
-    "Relic": "1 Common",
-    "GodStone": null,
-    "Tickets": null
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": 1,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 27,
     "Level": 27,
     "Silver": 37000,
     "Gems": 500,
-    "Relic": null,
-    "GodStone": null,
-    "Tickets": null
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 28,
     "Level": 28,
     "Silver": 38000,
     "Gems": 500,
-    "Relic": "1 Demon God",
-    "GodStone": null,
-    "Tickets": null
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": 1,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 29,
     "Level": 29,
     "Silver": 39000,
     "Gems": 500,
-    "Relic": null,
-    "GodStone": null,
-    "Tickets": null
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 30,
     "Level": 30,
     "Silver": 40000,
     "Gems": 500,
-    "Relic": "1 Supreme Demon God",
-    "GodStone": null,
-    "Tickets": null
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": 1
   },
   {
     "TowerOfHumanityRewardId": 31,
     "Level": 31,
     "Silver": 41000,
     "Gems": 500,
-    "Relic": null,
-    "GodStone": null,
-    "Tickets": null
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 32,
     "Level": 32,
     "Silver": 42000,
     "Gems": 500,
-    "Relic": null,
-    "GodStone": null,
-    "Tickets": 25
+    "GodStones": null,
+    "Tickets": 25,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 33,
     "Level": 33,
     "Silver": 43000,
     "Gems": 500,
-    "Relic": null,
-    "GodStone": null,
-    "Tickets": null
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 34,
     "Level": 34,
     "Silver": 44000,
     "Gems": 500,
-    "Relic": null,
-    "GodStone": 75,
-    "Tickets": null
+    "GodStones": 75,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 35,
     "Level": 35,
     "Silver": 45000,
     "Gems": 500,
-    "Relic": null,
-    "GodStone": null,
-    "Tickets": null
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 36,
     "Level": 36,
     "Silver": 46000,
     "Gems": 500,
-    "Relic": "1 Common",
-    "GodStone": null,
-    "Tickets": null
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": 1,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 37,
     "Level": 37,
     "Silver": 47000,
     "Gems": 500,
-    "Relic": null,
-    "GodStone": null,
-    "Tickets": null
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 38,
     "Level": 38,
     "Silver": 48000,
     "Gems": 500,
-    "Relic": "1 Demon God",
-    "GodStone": null,
-    "Tickets": null
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": 1,
+    "SupremeDemonGodRelics": null
   },
   {
     "TowerOfHumanityRewardId": 39,
     "Level": 39,
     "Silver": 49000,
     "Gems": 500,
-    "Relic": null,
-    "GodStone": null,
-    "Tickets": null
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
+  },
+  {
+    "TowerOfHumanityRewardId": 40,
+    "Level": 40,
+    "Silver": 50000,
+    "Gems": 500,
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": 1
+  },
+  {
+    "TowerOfHumanityRewardId": 41,
+    "Level": 41,
+    "Silver": 51000,
+    "Gems": 700,
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
+  },
+  {
+    "TowerOfHumanityRewardId": 42,
+    "Level": 42,
+    "Silver": 52000,
+    "Gems": 700,
+    "GodStones": null,
+    "Tickets": 30,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
+  },
+  {
+    "TowerOfHumanityRewardId": 43,
+    "Level": 43,
+    "Silver": 53000,
+    "Gems": 700,
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
+  },
+  {
+    "TowerOfHumanityRewardId": 44,
+    "Level": 44,
+    "Silver": 54000,
+    "Gems": 700,
+    "GodStones": 90,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
+  },
+  {
+    "TowerOfHumanityRewardId": 45,
+    "Level": 45,
+    "Silver": 55000,
+    "Gems": 700,
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
+  },
+  {
+    "TowerOfHumanityRewardId": 46,
+    "Level": 46,
+    "Silver": 56000,
+    "Gems": 700,
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": 1,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
+  },
+  {
+    "TowerOfHumanityRewardId": 47,
+    "Level": 47,
+    "Silver": 57000,
+    "Gems": 700,
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
+  },
+  {
+    "TowerOfHumanityRewardId": 48,
+    "Level": 48,
+    "Silver": 58000,
+    "Gems": 700,
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": 1,
+    "SupremeDemonGodRelics": null
+  },
+  {
+    "TowerOfHumanityRewardId": 49,
+    "Level": 49,
+    "Silver": 59000,
+    "Gems": 700,
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
+  },
+  {
+    "TowerOfHumanityRewardId": 50,
+    "Level": 50,
+    "Silver": 60000,
+    "Gems": 700,
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": 1
+  },
+  {
+    "TowerOfHumanityRewardId": 51,
+    "Level": 51,
+    "Silver": 61000,
+    "Gems": 700,
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
+  },
+  {
+    "TowerOfHumanityRewardId": 52,
+    "Level": 52,
+    "Silver": 62000,
+    "Gems": 700,
+    "GodStones": null,
+    "Tickets": 35,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
+  },
+  {
+    "TowerOfHumanityRewardId": 53,
+    "Level": 53,
+    "Silver": 63000,
+    "Gems": 700,
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
+  },
+  {
+    "TowerOfHumanityRewardId": 54,
+    "Level": 54,
+    "Silver": 64000,
+    "Gems": 700,
+    "GodStones": 105,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
+  },
+  {
+    "TowerOfHumanityRewardId": 55,
+    "Level": 55,
+    "Silver": 65000,
+    "Gems": 700,
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
+  },
+  {
+    "TowerOfHumanityRewardId": 56,
+    "Level": 56,
+    "Silver": 66000,
+    "Gems": 700,
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": 1,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
+  },
+  {
+    "TowerOfHumanityRewardId": 57,
+    "Level": 57,
+    "Silver": 67000,
+    "Gems": 700,
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
+  },
+  {
+    "TowerOfHumanityRewardId": 58,
+    "Level": 58,
+    "Silver": 68000,
+    "Gems": 700,
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": 1,
+    "SupremeDemonGodRelics": null
+  },
+  {
+    "TowerOfHumanityRewardId": 59,
+    "Level": 59,
+    "Silver": 69000,
+    "Gems": 700,
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": null
+  },
+  {
+    "TowerOfHumanityRewardId": 60,
+    "Level": 60,
+    "Silver": 70000,
+    "Gems": 700,
+    "GodStones": null,
+    "Tickets": null,
+    "CommonRelics": null,
+    "DemonGodRelics": null,
+    "SupremeDemonGodRelics": 1
   }
 ]

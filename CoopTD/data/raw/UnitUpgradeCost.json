@@ -635,5 +635,47 @@
     "ToLevel": 12,
     "SilverCost": 5200,
     "UnitCount": 80
+  },
+  {
+    "UnitUpgradeCostId": 92,
+    "UnitRarityId": 1,
+    "ToLevel": 16,
+    "SilverCost": 5000,
+    "UnitCount": 510
+  },
+  {
+    "UnitUpgradeCostId": 93,
+    "UnitRarityId": 2,
+    "ToLevel": 18,
+    "SilverCost": 17000,
+    "UnitCount": 380
+  },
+  {
+    "UnitUpgradeCostId": 94,
+    "UnitRarityId": 3,
+    "ToLevel": 20,
+    "SilverCost": 18000,
+    "UnitCount": 370
+  },
+  {
+    "UnitUpgradeCostId": 95,
+    "UnitRarityId": 1,
+    "ToLevel": 20,
+    "SilverCost": 17000,
+    "UnitCount": 930
+  },
+  {
+    "UnitUpgradeCostId": 96,
+    "UnitRarityId": 1,
+    "ToLevel": 18,
+    "SilverCost": 10000,
+    "UnitCount": 700
+  },
+  {
+    "UnitUpgradeCostId": 97,
+    "UnitRarityId": 2,
+    "ToLevel": 20,
+    "SilverCost": 28000,
+    "UnitCount": 470
   }
 ]
