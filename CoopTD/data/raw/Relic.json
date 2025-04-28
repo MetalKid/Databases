@@ -225,8 +225,18 @@
     "Identifier": "oni-brazier",
     "FlavorText": "Oni fires are hard to put out",
     "UnitId": 37,
-    "Description": "Ignites the enemy for 5 sec when attacking, dealing damage equal to 1{0}% of their current HP every second.",
-    "LevelIncrease": "(+0.2)",
+    "Description": "Ignites the enemy for 5{0} sec when attacking, dealing damage equal to 1{1}% of their current HP every second.",
+    "LevelIncrease": "(+0.1);(+0.2)",
+    "Notes": null
+  },
+  {
+    "RelicId": 40,
+    "Name": "Overburst Engine",
+    "Identifier": "overburst-engine",
+    "FlavorText": "Great power starts with a great engine.",
+    "UnitId": 53,
+    "Description": "While not in Fortress Mode, Piercing Rounds deal additional damage equal to 2% of the enemy's max HP. At the start of a boss wave, ATK SPD becomes 4 for 10 seconds and when in Fortress Mode, Piercing Rounds deal additional damage equal to 2% of the enemy's max shield, fixing nearby allies to their current tiles.",
+    "LevelIncrease": null,
     "Notes": null
   },
   {

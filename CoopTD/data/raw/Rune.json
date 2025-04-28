@@ -67,7 +67,7 @@
     "Name": "Transcendence",
     "Identifier": "transcendence",
     "MinLevel": 8,
-    "Description": "Reduces demon transcendence costs by 7{0}%.",
+    "Description": "Reduces demon transcendence costs by 5{0}%.",
     "LevelIncrease": "(+1)",
     "Notes": "This reduces the cost to go from Demon God to Supreme Demon God. Every 2 points in this you'd save around 16 magic stones per game."
   }

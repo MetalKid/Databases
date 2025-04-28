@@ -544,5 +544,23 @@
     "UnitId": 52,
     "SkillId": 45,
     "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 92,
+    "UnitId": 53,
+    "SkillId": 46,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 93,
+    "UnitId": 53,
+    "SkillId": 47,
+    "DescriptionOverride": null
+  },
+  {
+    "UnitSkillId": 94,
+    "UnitId": 53,
+    "SkillId": 48,
+    "DescriptionOverride": null
   }
 ]

@@ -64,6 +64,22 @@
     "Notes": "Eventually, you might get bored with using Destroyers. Depending on the strategy, this can take their place. However, you need a LOT of witches so they can stun fast enough to make a difference."
   },
   {
+    "UnitId": 53,
+    "Name": "Cannon",
+    "Identifier": "cannon",
+    "UnitRarityId": 6,
+    "UnitTypeId": null,
+    "RelicId": 40,
+    "Attack": 40000,
+    "AttackSpeed": 2.0000,
+    "AttackRange": 2.0000,
+    "BossDamage": 5000,
+    "LevelUpAttack": 4000,
+    "LevelUpAttackSpeed": 0.0000,
+    "LevelUpBossDamage": 250,
+    "Notes": null
+  },
+  {
     "UnitId": 50,
     "Name": "Clara",
     "Identifier": "clara",
@@ -589,7 +605,7 @@
     "LevelUpAttack": 1400,
     "LevelUpAttackSpeed": 0.0600,
     "LevelUpBossDamage": 0,
-    "Notes": "Early on, this will help you do a lot of damage to mobs if placed correctly. With the relic, you can get a decent boost to your magic stone production that can help you in certain situations."
+    "Notes": "Early on, this will help you do a lot of damage to mobs if placed correctly. With the relic, you can get a decent boost to your magic stone production that can help you in certain situations. However, only kills that it does itself count."
   },
   {
     "UnitId": 18,
