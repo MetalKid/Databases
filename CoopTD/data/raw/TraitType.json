@@ -1,0 +1,14 @@
+[
+  {
+    "TraitTypeId": 3,
+    "Name": "All"
+  },
+  {
+    "TraitTypeId": 2,
+    "Name": "Challenge"
+  },
+  {
+    "TraitTypeId": 1,
+    "Name": "Co-op"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "TraitStatId": 8,
+    "Name": "All Enemy DEF",
+    "Change": " -{0}~{1}%"
+  },
+  {
+    "TraitStatId": 1,
+    "Name": "ATK",
+    "Change": " +{0}~{1}%"
+  },
+  {
+    "TraitStatId": 3,
+    "Name": "CRIT DMG",
+    "Change": " +{0}~{1}%"
+  },
+  {
+    "TraitStatId": 2,
+    "Name": "CRIT RATE",
+    "Change": " +{0}~{1}%"
+  },
+  {
+    "TraitStatId": 4,
+    "Name": "EXP Reward",
+    "Change": " +{0}~{1}%"
+  },
+  {
+    "TraitStatId": 9,
+    "Name": "Max Stamina",
+    "Change": " +{0}"
+  },
+  {
+    "TraitStatId": 13,
+    "Name": "Mining Slime Cost",
+    "Change": " -{0}~{1}%"
+  },
+  {
+    "TraitStatId": 11,
+    "Name": "Monster Summon Cost",
+    "Change": " -{0}~{1}"
+  },
+  {
+    "TraitStatId": 12,
+    "Name": "Monster Switch Cost",
+    "Change": " -{0}"
+  },
+  {
+    "TraitStatId": 10,
+    "Name": "Secret Drawing Board Chance Up",
+    "Change": ""
+  },
+  {
+    "TraitStatId": 5,
+    "Name": "Silver Reward",
+    "Change": " +{0}~{1}%"
+  },
+  {
+    "TraitStatId": 6,
+    "Name": "Starting Gold",
+    "Change": " +{0}~{1}"
+  },
+  {
+    "TraitStatId": 7,
+    "Name": "Starting Magic Stone",
+    "Change": " +{0}~{1}%"
+  }
+]

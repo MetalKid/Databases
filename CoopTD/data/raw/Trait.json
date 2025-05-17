@@ -1,0 +1,632 @@
+[
+  {
+    "TraitId": 1,
+    "TraitTypeId": 1,
+    "TraitRankId": 1,
+    "TraitStatId": 1,
+    "TraitStatValues": "10;20",
+    "ChanceStandard": 4.5455,
+    "ChanceAdvanced": null,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 2,
+    "TraitTypeId": 2,
+    "TraitRankId": 1,
+    "TraitStatId": 1,
+    "TraitStatValues": "10;20",
+    "ChanceStandard": 4.5455,
+    "ChanceAdvanced": null,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 3,
+    "TraitTypeId": 1,
+    "TraitRankId": 1,
+    "TraitStatId": 2,
+    "TraitStatValues": "1;5",
+    "ChanceStandard": 4.5455,
+    "ChanceAdvanced": null,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 4,
+    "TraitTypeId": 2,
+    "TraitRankId": 1,
+    "TraitStatId": 2,
+    "TraitStatValues": "1;5",
+    "ChanceStandard": 4.5455,
+    "ChanceAdvanced": null,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 5,
+    "TraitTypeId": 1,
+    "TraitRankId": 1,
+    "TraitStatId": 3,
+    "TraitStatValues": "5;25",
+    "ChanceStandard": 4.5455,
+    "ChanceAdvanced": null,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 6,
+    "TraitTypeId": 2,
+    "TraitRankId": 1,
+    "TraitStatId": 3,
+    "TraitStatValues": "5;25",
+    "ChanceStandard": 4.5455,
+    "ChanceAdvanced": null,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 7,
+    "TraitTypeId": 1,
+    "TraitRankId": 1,
+    "TraitStatId": 4,
+    "TraitStatValues": "1;5",
+    "ChanceStandard": 4.5455,
+    "ChanceAdvanced": null,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 8,
+    "TraitTypeId": 1,
+    "TraitRankId": 1,
+    "TraitStatId": 5,
+    "TraitStatValues": "1;5",
+    "ChanceStandard": 4.5455,
+    "ChanceAdvanced": null,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 9,
+    "TraitTypeId": 3,
+    "TraitRankId": 1,
+    "TraitStatId": 6,
+    "TraitStatValues": "1;5",
+    "ChanceStandard": 4.5455,
+    "ChanceAdvanced": null,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 10,
+    "TraitTypeId": 3,
+    "TraitRankId": 1,
+    "TraitStatId": 7,
+    "TraitStatValues": "1;5",
+    "ChanceStandard": 4.5455,
+    "ChanceAdvanced": null,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 11,
+    "TraitTypeId": 3,
+    "TraitRankId": 1,
+    "TraitStatId": 8,
+    "TraitStatValues": "1;5",
+    "ChanceStandard": 4.5455,
+    "ChanceAdvanced": null,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 12,
+    "TraitTypeId": 1,
+    "TraitRankId": 2,
+    "TraitStatId": 1,
+    "TraitStatValues": "21;40",
+    "ChanceStandard": 2.7273,
+    "ChanceAdvanced": null,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 13,
+    "TraitTypeId": 2,
+    "TraitRankId": 2,
+    "TraitStatId": 1,
+    "TraitStatValues": "21;40",
+    "ChanceStandard": 2.7273,
+    "ChanceAdvanced": null,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 14,
+    "TraitTypeId": 1,
+    "TraitRankId": 2,
+    "TraitStatId": 2,
+    "TraitStatValues": "6;10",
+    "ChanceStandard": 2.7273,
+    "ChanceAdvanced": null,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 15,
+    "TraitTypeId": 2,
+    "TraitRankId": 2,
+    "TraitStatId": 2,
+    "TraitStatValues": "6;10",
+    "ChanceStandard": 2.7273,
+    "ChanceAdvanced": null,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 16,
+    "TraitTypeId": 1,
+    "TraitRankId": 2,
+    "TraitStatId": 3,
+    "TraitStatValues": "6;25",
+    "ChanceStandard": 2.7273,
+    "ChanceAdvanced": null,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 17,
+    "TraitTypeId": 2,
+    "TraitRankId": 2,
+    "TraitStatId": 3,
+    "TraitStatValues": "16;25",
+    "ChanceStandard": 2.7273,
+    "ChanceAdvanced": null,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 18,
+    "TraitTypeId": 1,
+    "TraitRankId": 2,
+    "TraitStatId": 4,
+    "TraitStatValues": "6;9",
+    "ChanceStandard": 2.7273,
+    "ChanceAdvanced": null,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 19,
+    "TraitTypeId": 1,
+    "TraitRankId": 2,
+    "TraitStatId": 5,
+    "TraitStatValues": "6;9",
+    "ChanceStandard": 2.7273,
+    "ChanceAdvanced": null,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 20,
+    "TraitTypeId": 3,
+    "TraitRankId": 2,
+    "TraitStatId": 6,
+    "TraitStatValues": "6;20",
+    "ChanceStandard": 2.7273,
+    "ChanceAdvanced": null,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 21,
+    "TraitTypeId": 3,
+    "TraitRankId": 2,
+    "TraitStatId": 7,
+    "TraitStatValues": "6;20",
+    "ChanceStandard": 2.7273,
+    "ChanceAdvanced": null,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 22,
+    "TraitTypeId": 3,
+    "TraitRankId": 2,
+    "TraitStatId": 8,
+    "TraitStatValues": "6;9",
+    "ChanceStandard": 2.7273,
+    "ChanceAdvanced": null,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 23,
+    "TraitTypeId": 1,
+    "TraitRankId": 3,
+    "TraitStatId": 1,
+    "TraitStatValues": "41;60",
+    "ChanceStandard": 1.3636,
+    "ChanceAdvanced": null,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 24,
+    "TraitTypeId": 2,
+    "TraitRankId": 3,
+    "TraitStatId": 1,
+    "TraitStatValues": "41;60",
+    "ChanceStandard": 1.3636,
+    "ChanceAdvanced": null,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 25,
+    "TraitTypeId": 1,
+    "TraitRankId": 3,
+    "TraitStatId": 2,
+    "TraitStatValues": "11;13",
+    "ChanceStandard": 1.3636,
+    "ChanceAdvanced": null,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 26,
+    "TraitTypeId": 2,
+    "TraitRankId": 3,
+    "TraitStatId": 2,
+    "TraitStatValues": "11;13",
+    "ChanceStandard": 1.3636,
+    "ChanceAdvanced": null,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 27,
+    "TraitTypeId": 1,
+    "TraitRankId": 3,
+    "TraitStatId": 3,
+    "TraitStatValues": "26;35",
+    "ChanceStandard": 1.3636,
+    "ChanceAdvanced": null,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 28,
+    "TraitTypeId": 2,
+    "TraitRankId": 3,
+    "TraitStatId": 3,
+    "TraitStatValues": "26;35",
+    "ChanceStandard": 1.3636,
+    "ChanceAdvanced": null,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 29,
+    "TraitTypeId": 1,
+    "TraitRankId": 3,
+    "TraitStatId": 4,
+    "TraitStatValues": "10;14",
+    "ChanceStandard": 1.3636,
+    "ChanceAdvanced": null,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 30,
+    "TraitTypeId": 1,
+    "TraitRankId": 3,
+    "TraitStatId": 5,
+    "TraitStatValues": "10;14",
+    "ChanceStandard": 1.3636,
+    "ChanceAdvanced": null,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 31,
+    "TraitTypeId": 3,
+    "TraitRankId": 3,
+    "TraitStatId": 6,
+    "TraitStatValues": "11;13",
+    "ChanceStandard": 1.3636,
+    "ChanceAdvanced": null,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 32,
+    "TraitTypeId": 3,
+    "TraitRankId": 3,
+    "TraitStatId": 7,
+    "TraitStatValues": "11;13",
+    "ChanceStandard": 1.3636,
+    "ChanceAdvanced": null,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 33,
+    "TraitTypeId": 3,
+    "TraitRankId": 3,
+    "TraitStatId": 8,
+    "TraitStatValues": "10;14",
+    "ChanceStandard": 1.3636,
+    "ChanceAdvanced": null,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 34,
+    "TraitTypeId": 1,
+    "TraitRankId": 4,
+    "TraitStatId": 1,
+    "TraitStatValues": "71;90",
+    "ChanceStandard": 0.3636,
+    "ChanceAdvanced": 8.1818,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 35,
+    "TraitTypeId": 2,
+    "TraitRankId": 4,
+    "TraitStatId": 1,
+    "TraitStatValues": "71;90",
+    "ChanceStandard": 0.3636,
+    "ChanceAdvanced": 8.1818,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 36,
+    "TraitTypeId": 1,
+    "TraitRankId": 4,
+    "TraitStatId": 2,
+    "TraitStatValues": "14;17",
+    "ChanceStandard": 0.3636,
+    "ChanceAdvanced": 8.1818,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 37,
+    "TraitTypeId": 2,
+    "TraitRankId": 4,
+    "TraitStatId": 2,
+    "TraitStatValues": "14;17",
+    "ChanceStandard": 0.3636,
+    "ChanceAdvanced": 8.1818,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 38,
+    "TraitTypeId": 1,
+    "TraitRankId": 4,
+    "TraitStatId": 3,
+    "TraitStatValues": "36;45",
+    "ChanceStandard": 0.3636,
+    "ChanceAdvanced": 8.1818,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 39,
+    "TraitTypeId": 2,
+    "TraitRankId": 4,
+    "TraitStatId": 3,
+    "TraitStatValues": "36;45",
+    "ChanceStandard": 0.3636,
+    "ChanceAdvanced": 8.1818,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 40,
+    "TraitTypeId": 1,
+    "TraitRankId": 4,
+    "TraitStatId": 4,
+    "TraitStatValues": "15;17",
+    "ChanceStandard": 0.3636,
+    "ChanceAdvanced": 8.1818,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 41,
+    "TraitTypeId": 1,
+    "TraitRankId": 4,
+    "TraitStatId": 5,
+    "TraitStatValues": "15;17",
+    "ChanceStandard": 0.3636,
+    "ChanceAdvanced": 8.1818,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 42,
+    "TraitTypeId": 3,
+    "TraitRankId": 4,
+    "TraitStatId": 6,
+    "TraitStatValues": "14;17",
+    "ChanceStandard": 0.3636,
+    "ChanceAdvanced": 8.1818,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 43,
+    "TraitTypeId": 3,
+    "TraitRankId": 4,
+    "TraitStatId": 7,
+    "TraitStatValues": "14;17",
+    "ChanceStandard": 0.3636,
+    "ChanceAdvanced": 8.1818,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 44,
+    "TraitTypeId": 3,
+    "TraitRankId": 4,
+    "TraitStatId": 8,
+    "TraitStatValues": "15;17",
+    "ChanceStandard": 0.3636,
+    "ChanceAdvanced": 8.1818,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 45,
+    "TraitTypeId": 1,
+    "TraitRankId": 5,
+    "TraitStatId": 1,
+    "TraitStatValues": "91;100",
+    "ChanceStandard": 0.0526,
+    "ChanceAdvanced": 0.5263,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 46,
+    "TraitTypeId": 2,
+    "TraitRankId": 5,
+    "TraitStatId": 1,
+    "TraitStatValues": "91;100",
+    "ChanceStandard": 0.0526,
+    "ChanceAdvanced": 0.5263,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 47,
+    "TraitTypeId": 1,
+    "TraitRankId": 5,
+    "TraitStatId": 2,
+    "TraitStatValues": "18;20",
+    "ChanceStandard": 0.0526,
+    "ChanceAdvanced": 0.5263,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 48,
+    "TraitTypeId": 2,
+    "TraitRankId": 5,
+    "TraitStatId": 2,
+    "TraitStatValues": "18;20",
+    "ChanceStandard": 0.0526,
+    "ChanceAdvanced": 0.5263,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 49,
+    "TraitTypeId": 1,
+    "TraitRankId": 5,
+    "TraitStatId": 3,
+    "TraitStatValues": "46;50",
+    "ChanceStandard": 0.0526,
+    "ChanceAdvanced": 0.5263,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 50,
+    "TraitTypeId": 2,
+    "TraitRankId": 5,
+    "TraitStatId": 3,
+    "TraitStatValues": "46;50",
+    "ChanceStandard": 0.0526,
+    "ChanceAdvanced": 0.5263,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 51,
+    "TraitTypeId": 1,
+    "TraitRankId": 5,
+    "TraitStatId": 4,
+    "TraitStatValues": "18;20",
+    "ChanceStandard": 0.0526,
+    "ChanceAdvanced": 0.5263,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 52,
+    "TraitTypeId": 1,
+    "TraitRankId": 5,
+    "TraitStatId": 5,
+    "TraitStatValues": "18;20",
+    "ChanceStandard": 0.0526,
+    "ChanceAdvanced": 0.5263,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 53,
+    "TraitTypeId": 3,
+    "TraitRankId": 5,
+    "TraitStatId": 6,
+    "TraitStatValues": "18;20",
+    "ChanceStandard": 0.0526,
+    "ChanceAdvanced": 0.5263,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 54,
+    "TraitTypeId": 3,
+    "TraitRankId": 5,
+    "TraitStatId": 7,
+    "TraitStatValues": "18;20",
+    "ChanceStandard": 0.0526,
+    "ChanceAdvanced": 0.5263,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 55,
+    "TraitTypeId": 3,
+    "TraitRankId": 5,
+    "TraitStatId": 8,
+    "TraitStatValues": "18;20",
+    "ChanceStandard": 0.0526,
+    "ChanceAdvanced": 0.5263,
+    "IsUnique": false
+  },
+  {
+    "TraitId": 56,
+    "TraitTypeId": 3,
+    "TraitRankId": 5,
+    "TraitStatId": 9,
+    "TraitStatValues": "5",
+    "ChanceStandard": 0.0526,
+    "ChanceAdvanced": 0.5263,
+    "IsUnique": true
+  },
+  {
+    "TraitId": 57,
+    "TraitTypeId": 3,
+    "TraitRankId": 5,
+    "TraitStatId": 10,
+    "TraitStatValues": "",
+    "ChanceStandard": 0.0526,
+    "ChanceAdvanced": 0.5263,
+    "IsUnique": true
+  },
+  {
+    "TraitId": 58,
+    "TraitTypeId": 1,
+    "TraitRankId": 5,
+    "TraitStatId": 11,
+    "TraitStatValues": "1;5",
+    "ChanceStandard": 0.0526,
+    "ChanceAdvanced": 0.5263,
+    "IsUnique": true
+  },
+  {
+    "TraitId": 59,
+    "TraitTypeId": 2,
+    "TraitRankId": 5,
+    "TraitStatId": 11,
+    "TraitStatValues": "1;5",
+    "ChanceStandard": 0.0526,
+    "ChanceAdvanced": 0.5263,
+    "IsUnique": true
+  },
+  {
+    "TraitId": 60,
+    "TraitTypeId": 1,
+    "TraitRankId": 5,
+    "TraitStatId": 12,
+    "TraitStatValues": "3",
+    "ChanceStandard": 0.0526,
+    "ChanceAdvanced": 0.5263,
+    "IsUnique": true
+  },
+  {
+    "TraitId": 61,
+    "TraitTypeId": 2,
+    "TraitRankId": 5,
+    "TraitStatId": 12,
+    "TraitStatValues": "3",
+    "ChanceStandard": 0.0526,
+    "ChanceAdvanced": 0.5263,
+    "IsUnique": true
+  },
+  {
+    "TraitId": 62,
+    "TraitTypeId": 1,
+    "TraitRankId": 5,
+    "TraitStatId": 13,
+    "TraitStatValues": "6;10",
+    "ChanceStandard": 0.0526,
+    "ChanceAdvanced": 0.5263,
+    "IsUnique": true
+  },
+  {
+    "TraitId": 63,
+    "TraitTypeId": 2,
+    "TraitRankId": 5,
+    "TraitStatId": 13,
+    "TraitStatValues": "6;10",
+    "ChanceStandard": 0.0526,
+    "ChanceAdvanced": 0.5263,
+    "IsUnique": true
+  }
+]
