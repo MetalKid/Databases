@@ -4,1727 +4,1518 @@
     "FromDigimonId": 2,
     "ToDigimonId": 43,
     "DPMin": 0,
-    "DPMax": 2,
-    "Timestamp": "AAAAAAAAV0Q="
+    "DPMax": 2
   },
   {
     "DigimonEvolutionId": 2,
     "FromDigimonId": 2,
     "ToDigimonId": 42,
     "DPMin": 3,
-    "DPMax": 5,
-    "Timestamp": "AAAAAAAAV0U="
+    "DPMax": 5
   },
   {
     "DigimonEvolutionId": 3,
     "FromDigimonId": 2,
     "ToDigimonId": 95,
     "DPMin": 6,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV0Y="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 4,
     "FromDigimonId": 7,
     "ToDigimonId": 60,
     "DPMin": 0,
-    "DPMax": 3,
-    "Timestamp": "AAAAAAAAV0c="
+    "DPMax": 3
   },
   {
     "DigimonEvolutionId": 5,
     "FromDigimonId": 7,
     "ToDigimonId": 46,
     "DPMin": 4,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV0g="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 6,
     "FromDigimonId": 8,
     "ToDigimonId": 51,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV0k="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 7,
     "FromDigimonId": 12,
     "ToDigimonId": 74,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV0o="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 8,
     "FromDigimonId": 13,
     "ToDigimonId": 41,
     "DPMin": 0,
-    "DPMax": 2,
-    "Timestamp": "AAAAAAAAV0s="
+    "DPMax": 2
   },
   {
     "DigimonEvolutionId": 9,
     "FromDigimonId": 13,
     "ToDigimonId": 44,
     "DPMin": 3,
-    "DPMax": 5,
-    "Timestamp": "AAAAAAAAV0w="
+    "DPMax": 5
   },
   {
     "DigimonEvolutionId": 10,
     "FromDigimonId": 13,
     "ToDigimonId": 45,
     "DPMin": 6,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV00="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 11,
     "FromDigimonId": 14,
     "ToDigimonId": 79,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV04="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 12,
     "FromDigimonId": 17,
     "ToDigimonId": 77,
     "DPMin": 0,
-    "DPMax": 0,
-    "Timestamp": "AAAAAAAAV08="
+    "DPMax": 0
   },
   {
     "DigimonEvolutionId": 13,
     "FromDigimonId": 17,
     "ToDigimonId": 91,
     "DPMin": 1,
-    "DPMax": 1,
-    "Timestamp": "AAAAAAAAV1A="
+    "DPMax": 1
   },
   {
     "DigimonEvolutionId": 14,
     "FromDigimonId": 17,
     "ToDigimonId": 80,
     "DPMin": 2,
-    "DPMax": 3,
-    "Timestamp": "AAAAAAAAV1E="
+    "DPMax": 3
   },
   {
     "DigimonEvolutionId": 15,
     "FromDigimonId": 17,
     "ToDigimonId": 82,
     "DPMin": 4,
-    "DPMax": 5,
-    "Timestamp": "AAAAAAAAV1I="
+    "DPMax": 5
   },
   {
     "DigimonEvolutionId": 16,
     "FromDigimonId": 17,
     "ToDigimonId": 57,
     "DPMin": 6,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV1M="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 17,
     "FromDigimonId": 18,
     "ToDigimonId": 67,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV1Q="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 18,
     "FromDigimonId": 19,
     "ToDigimonId": 99,
     "DPMin": 0,
-    "DPMax": 0,
-    "Timestamp": "AAAAAAAAV1U="
+    "DPMax": 0
   },
   {
     "DigimonEvolutionId": 19,
     "FromDigimonId": 19,
     "ToDigimonId": 83,
     "DPMin": 1,
-    "DPMax": 3,
-    "Timestamp": "AAAAAAAAV1Y="
+    "DPMax": 3
   },
   {
     "DigimonEvolutionId": 20,
     "FromDigimonId": 19,
     "ToDigimonId": 101,
     "DPMin": 4,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV1c="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 21,
     "FromDigimonId": 20,
     "ToDigimonId": 55,
     "DPMin": 0,
-    "DPMax": 2,
-    "Timestamp": "AAAAAAAAV1g="
+    "DPMax": 2
   },
   {
     "DigimonEvolutionId": 22,
     "FromDigimonId": 20,
     "ToDigimonId": 78,
     "DPMin": 3,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV1k="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 23,
     "FromDigimonId": 25,
     "ToDigimonId": 59,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV1o="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 24,
     "FromDigimonId": 26,
     "ToDigimonId": 78,
     "DPMin": 0,
-    "DPMax": 2,
-    "Timestamp": "AAAAAAAAV1s="
+    "DPMax": 2
   },
   {
     "DigimonEvolutionId": 25,
     "FromDigimonId": 26,
     "ToDigimonId": 56,
     "DPMin": 3,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV1w="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 26,
     "FromDigimonId": 30,
     "ToDigimonId": 36,
     "DPMin": 0,
-    "DPMax": 2,
-    "Timestamp": "AAAAAAAAV10="
+    "DPMax": 2
   },
   {
     "DigimonEvolutionId": 27,
     "FromDigimonId": 30,
     "ToDigimonId": 89,
     "DPMin": 3,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV14="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 28,
     "FromDigimonId": 36,
     "ToDigimonId": 136,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV18="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 29,
     "FromDigimonId": 41,
     "ToDigimonId": 125,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV2A="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 30,
     "FromDigimonId": 42,
     "ToDigimonId": 114,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV2E="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 31,
     "FromDigimonId": 43,
     "ToDigimonId": 114,
     "DPMin": 0,
-    "DPMax": 5,
-    "Timestamp": "AAAAAAAAV2I="
+    "DPMax": 5
   },
   {
     "DigimonEvolutionId": 32,
     "FromDigimonId": 43,
     "ToDigimonId": 130,
     "DPMin": 6,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV2M="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 33,
     "FromDigimonId": 44,
     "ToDigimonId": 125,
     "DPMin": 0,
-    "DPMax": 5,
-    "Timestamp": "AAAAAAAAV2Q="
+    "DPMax": 5
   },
   {
     "DigimonEvolutionId": 34,
     "FromDigimonId": 44,
     "ToDigimonId": 117,
     "DPMin": 6,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV2U="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 35,
     "FromDigimonId": 45,
     "ToDigimonId": 117,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV2Y="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 36,
     "FromDigimonId": 46,
     "ToDigimonId": 133,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV2c="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 37,
     "FromDigimonId": 51,
     "ToDigimonId": 134,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV2g="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 38,
     "FromDigimonId": 55,
     "ToDigimonId": 141,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV2k="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 39,
     "FromDigimonId": 56,
     "ToDigimonId": 123,
     "DPMin": 0,
-    "DPMax": 5,
-    "Timestamp": "AAAAAAAAV2o="
+    "DPMax": 5
   },
   {
     "DigimonEvolutionId": 40,
     "FromDigimonId": 56,
     "ToDigimonId": 150,
     "DPMin": 6,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV2s="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 41,
     "FromDigimonId": 57,
     "ToDigimonId": 147,
     "DPMin": 0,
-    "DPMax": 5,
-    "Timestamp": "AAAAAAAAV2w="
+    "DPMax": 5
   },
   {
     "DigimonEvolutionId": 42,
     "FromDigimonId": 57,
     "ToDigimonId": 115,
     "DPMin": 6,
-    "DPMax": 8,
-    "Timestamp": "AAAAAAAAV20="
+    "DPMax": 8
   },
   {
     "DigimonEvolutionId": 43,
     "FromDigimonId": 57,
     "ToDigimonId": 109,
     "DPMin": 9,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV24="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 44,
     "FromDigimonId": 59,
     "ToDigimonId": 149,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV28="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 45,
     "FromDigimonId": 60,
     "ToDigimonId": 133,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV3A="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 46,
     "FromDigimonId": 67,
     "ToDigimonId": 134,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV3E="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 47,
     "FromDigimonId": 74,
     "ToDigimonId": 144,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV3I="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 48,
     "FromDigimonId": 78,
     "ToDigimonId": 112,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV3M="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 49,
     "FromDigimonId": 79,
     "ToDigimonId": 113,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV3Q="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 50,
     "FromDigimonId": 80,
     "ToDigimonId": 147,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV3U="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 51,
     "FromDigimonId": 82,
     "ToDigimonId": 147,
     "DPMin": 0,
-    "DPMax": 4,
-    "Timestamp": "AAAAAAAAV3Y="
+    "DPMax": 4
   },
   {
     "DigimonEvolutionId": 52,
     "FromDigimonId": 82,
     "ToDigimonId": 115,
     "DPMin": 5,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV3c="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 53,
     "FromDigimonId": 83,
     "ToDigimonId": 108,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV3g="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 54,
     "FromDigimonId": 89,
     "ToDigimonId": 136,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV3k="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 55,
     "FromDigimonId": 95,
     "ToDigimonId": 130,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV3o="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 56,
     "FromDigimonId": 99,
     "ToDigimonId": 108,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV3s="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 57,
     "FromDigimonId": 101,
     "ToDigimonId": 108,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV3w="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 58,
     "FromDigimonId": 108,
     "ToDigimonId": 174,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV30="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 59,
     "FromDigimonId": 112,
     "ToDigimonId": 173,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV34="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 60,
     "FromDigimonId": 113,
     "ToDigimonId": 165,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV38="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 61,
     "FromDigimonId": 123,
     "ToDigimonId": 173,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV4A="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 62,
     "FromDigimonId": 133,
     "ToDigimonId": 179,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV4E="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 63,
     "FromDigimonId": 134,
     "ToDigimonId": 157,
     "DPMin": 0,
-    "DPMax": 19,
-    "Timestamp": "AAAAAAAAV4I="
+    "DPMax": 19
   },
   {
     "DigimonEvolutionId": 64,
     "FromDigimonId": 134,
     "ToDigimonId": 156,
     "DPMin": 20,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV4M="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 65,
     "FromDigimonId": 136,
     "ToDigimonId": 170,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV4Q="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 66,
     "FromDigimonId": 141,
     "ToDigimonId": 173,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV4U="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 67,
     "FromDigimonId": 142,
     "ToDigimonId": 162,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV4Y="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 68,
     "FromDigimonId": 144,
     "ToDigimonId": 170,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV4c="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 69,
     "FromDigimonId": 149,
     "ToDigimonId": 165,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV4g="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 70,
     "FromDigimonId": 150,
     "ToDigimonId": 173,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV4k="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 71,
     "FromDigimonId": 4,
     "ToDigimonId": 92,
     "DPMin": 0,
-    "DPMax": 2,
-    "Timestamp": "AAAAAAAAV4o="
+    "DPMax": 2
   },
   {
     "DigimonEvolutionId": 72,
     "FromDigimonId": 4,
     "ToDigimonId": 69,
     "DPMin": 3,
-    "DPMax": 5,
-    "Timestamp": "AAAAAAAAV4s="
+    "DPMax": 5
   },
   {
     "DigimonEvolutionId": 73,
     "FromDigimonId": 4,
     "ToDigimonId": 39,
     "DPMin": 6,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV4w="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 74,
     "FromDigimonId": 6,
     "ToDigimonId": 40,
     "DPMin": 0,
-    "DPMax": 2,
-    "Timestamp": "AAAAAAAAV40="
+    "DPMax": 2
   },
   {
     "DigimonEvolutionId": 75,
     "FromDigimonId": 6,
     "ToDigimonId": 71,
     "DPMin": 3,
-    "DPMax": 5,
-    "Timestamp": "AAAAAAAAV44="
+    "DPMax": 5
   },
   {
     "DigimonEvolutionId": 76,
     "FromDigimonId": 6,
     "ToDigimonId": 87,
     "DPMin": 6,
-    "DPMax": 7,
-    "Timestamp": "AAAAAAAAV48="
+    "DPMax": 7
   },
   {
     "DigimonEvolutionId": 77,
     "FromDigimonId": 6,
     "ToDigimonId": 86,
     "DPMin": 8,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV5A="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 78,
     "FromDigimonId": 9,
     "ToDigimonId": 96,
     "DPMin": 0,
-    "DPMax": 2,
-    "Timestamp": "AAAAAAAAV5E="
+    "DPMax": 2
   },
   {
     "DigimonEvolutionId": 79,
     "FromDigimonId": 9,
     "ToDigimonId": 50,
     "DPMin": 3,
-    "DPMax": 5,
-    "Timestamp": "AAAAAAAAV5I="
+    "DPMax": 5
   },
   {
     "DigimonEvolutionId": 80,
     "FromDigimonId": 9,
     "ToDigimonId": 70,
     "DPMin": 6,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV5M="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 81,
     "FromDigimonId": 10,
     "ToDigimonId": 65,
     "DPMin": 0,
-    "DPMax": 2,
-    "Timestamp": "AAAAAAAAV5Q="
+    "DPMax": 2
   },
   {
     "DigimonEvolutionId": 82,
     "FromDigimonId": 10,
     "ToDigimonId": 66,
     "DPMin": 3,
-    "DPMax": 5,
-    "Timestamp": "AAAAAAAAV5U="
+    "DPMax": 5
   },
   {
     "DigimonEvolutionId": 83,
     "FromDigimonId": 10,
     "ToDigimonId": 33,
     "DPMin": 6,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV5Y="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 84,
     "FromDigimonId": 11,
     "ToDigimonId": 38,
     "DPMin": 0,
-    "DPMax": 2,
-    "Timestamp": "AAAAAAAAV5c="
+    "DPMax": 2
   },
   {
     "DigimonEvolutionId": 85,
     "FromDigimonId": 11,
     "ToDigimonId": 48,
     "DPMin": 3,
-    "DPMax": 5,
-    "Timestamp": "AAAAAAAAV5g="
+    "DPMax": 5
   },
   {
     "DigimonEvolutionId": 86,
     "FromDigimonId": 11,
     "ToDigimonId": 76,
     "DPMin": 6,
-    "DPMax": 7,
-    "Timestamp": "AAAAAAAAV5k="
+    "DPMax": 7
   },
   {
     "DigimonEvolutionId": 87,
     "FromDigimonId": 11,
     "ToDigimonId": 53,
     "DPMin": 8,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV5o="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 88,
     "FromDigimonId": 16,
     "ToDigimonId": 61,
     "DPMin": 0,
-    "DPMax": 2,
-    "Timestamp": "AAAAAAAAV5s="
+    "DPMax": 2
   },
   {
     "DigimonEvolutionId": 89,
     "FromDigimonId": 16,
     "ToDigimonId": 72,
     "DPMin": 3,
-    "DPMax": 5,
-    "Timestamp": "AAAAAAAAV5w="
+    "DPMax": 5
   },
   {
     "DigimonEvolutionId": 90,
     "FromDigimonId": 16,
     "ToDigimonId": 63,
     "DPMin": 6,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV50="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 91,
     "FromDigimonId": 21,
     "ToDigimonId": 93,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV54="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 92,
     "FromDigimonId": 22,
     "ToDigimonId": 75,
     "DPMin": 0,
-    "DPMax": 2,
-    "Timestamp": "AAAAAAAAV58="
+    "DPMax": 2
   },
   {
     "DigimonEvolutionId": 93,
     "FromDigimonId": 22,
     "ToDigimonId": 90,
     "DPMin": 3,
-    "DPMax": 5,
-    "Timestamp": "AAAAAAAAV6A="
+    "DPMax": 5
   },
   {
     "DigimonEvolutionId": 94,
     "FromDigimonId": 22,
     "ToDigimonId": 100,
     "DPMin": 6,
-    "DPMax": 7,
-    "Timestamp": "AAAAAAAAV6E="
+    "DPMax": 7
   },
   {
     "DigimonEvolutionId": 95,
     "FromDigimonId": 22,
     "ToDigimonId": 34,
     "DPMin": 8,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV6I="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 96,
     "FromDigimonId": 33,
     "ToDigimonId": 137,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV6M="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 97,
     "FromDigimonId": 38,
     "ToDigimonId": 131,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV6Q="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 98,
     "FromDigimonId": 39,
     "ToDigimonId": 145,
     "DPMin": 0,
-    "DPMax": 7,
-    "Timestamp": "AAAAAAAAV6U="
+    "DPMax": 7
   },
   {
     "DigimonEvolutionId": 99,
     "FromDigimonId": 39,
     "ToDigimonId": 143,
     "DPMin": 8,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV6Y="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 100,
     "FromDigimonId": 40,
     "ToDigimonId": 127,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV6c="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 101,
     "FromDigimonId": 48,
     "ToDigimonId": 131,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV6g="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 102,
     "FromDigimonId": 50,
     "ToDigimonId": 146,
     "DPMin": 0,
-    "DPMax": 5,
-    "Timestamp": "AAAAAAAAV6k="
+    "DPMax": 5
   },
   {
     "DigimonEvolutionId": 103,
     "FromDigimonId": 50,
     "ToDigimonId": 148,
     "DPMin": 6,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV6o="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 104,
     "FromDigimonId": 61,
     "ToDigimonId": 131,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV6s="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 105,
     "FromDigimonId": 63,
     "ToDigimonId": 131,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV6w="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 106,
     "FromDigimonId": 65,
     "ToDigimonId": 110,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV60="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 107,
     "FromDigimonId": 66,
     "ToDigimonId": 110,
     "DPMin": 0,
-    "DPMax": 5,
-    "Timestamp": "AAAAAAAAV64="
+    "DPMax": 5
   },
   {
     "DigimonEvolutionId": 108,
     "FromDigimonId": 66,
     "ToDigimonId": 137,
     "DPMin": 6,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV68="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 109,
     "FromDigimonId": 69,
     "ToDigimonId": 107,
     "DPMin": 0,
-    "DPMax": 5,
-    "Timestamp": "AAAAAAAAV7A="
+    "DPMax": 5
   },
   {
     "DigimonEvolutionId": 110,
     "FromDigimonId": 69,
     "ToDigimonId": 143,
     "DPMin": 6,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV7E="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 111,
     "FromDigimonId": 70,
     "ToDigimonId": 148,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV7I="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 112,
     "FromDigimonId": 71,
     "ToDigimonId": 140,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV7M="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 113,
     "FromDigimonId": 72,
     "ToDigimonId": 131,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV7Q="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 114,
     "FromDigimonId": 75,
     "ToDigimonId": 121,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV7U="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 115,
     "FromDigimonId": 76,
     "ToDigimonId": 131,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV7Y="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 116,
     "FromDigimonId": 86,
     "ToDigimonId": 127,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV7c="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 117,
     "FromDigimonId": 87,
     "ToDigimonId": 140,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV7g="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 118,
     "FromDigimonId": 90,
     "ToDigimonId": 121,
     "DPMin": 0,
-    "DPMax": 5,
-    "Timestamp": "AAAAAAAAV7k="
+    "DPMax": 5
   },
   {
     "DigimonEvolutionId": 119,
     "FromDigimonId": 90,
     "ToDigimonId": 129,
     "DPMin": 6,
-    "DPMax": 7,
-    "Timestamp": "AAAAAAAAV7o="
+    "DPMax": 7
   },
   {
     "DigimonEvolutionId": 120,
     "FromDigimonId": 90,
     "ToDigimonId": 111,
     "DPMin": 8,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV7s="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 121,
     "FromDigimonId": 92,
     "ToDigimonId": 145,
     "DPMin": 0,
-    "DPMax": 5,
-    "Timestamp": "AAAAAAAAV7w="
+    "DPMax": 5
   },
   {
     "DigimonEvolutionId": 122,
     "FromDigimonId": 92,
     "ToDigimonId": 143,
     "DPMin": 6,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV70="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 123,
     "FromDigimonId": 93,
     "ToDigimonId": 138,
     "DPMin": 0,
-    "DPMax": 5,
-    "Timestamp": "AAAAAAAAV74="
+    "DPMax": 5
   },
   {
     "DigimonEvolutionId": 124,
     "FromDigimonId": 93,
     "ToDigimonId": 106,
     "DPMin": 6,
-    "DPMax": 7,
-    "Timestamp": "AAAAAAAAV78="
+    "DPMax": 7
   },
   {
     "DigimonEvolutionId": 125,
     "FromDigimonId": 93,
     "ToDigimonId": 119,
     "DPMin": 8,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV8A="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 126,
     "FromDigimonId": 96,
     "ToDigimonId": 146,
     "DPMin": 0,
-    "DPMax": 7,
-    "Timestamp": "AAAAAAAAV8E="
+    "DPMax": 7
   },
   {
     "DigimonEvolutionId": 127,
     "FromDigimonId": 96,
     "ToDigimonId": 124,
     "DPMin": 8,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV8I="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 128,
     "FromDigimonId": 100,
     "ToDigimonId": 111,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV8M="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 129,
     "FromDigimonId": 102,
     "ToDigimonId": 138,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV8Q="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 130,
     "FromDigimonId": 106,
     "ToDigimonId": 175,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV8U="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 131,
     "FromDigimonId": 107,
     "ToDigimonId": 155,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV8Y="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 132,
     "FromDigimonId": 110,
     "ToDigimonId": 158,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV8c="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 133,
     "FromDigimonId": 111,
     "ToDigimonId": 176,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV8g="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 134,
     "FromDigimonId": 119,
     "ToDigimonId": 175,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV8k="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 135,
     "FromDigimonId": 121,
     "ToDigimonId": 172,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV8o="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 136,
     "FromDigimonId": 127,
     "ToDigimonId": 167,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV8s="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 137,
     "FromDigimonId": 129,
     "ToDigimonId": 172,
     "DPMin": 0,
-    "DPMax": 8,
-    "Timestamp": "AAAAAAAAV8w="
+    "DPMax": 8
   },
   {
     "DigimonEvolutionId": 138,
     "FromDigimonId": 129,
     "ToDigimonId": 176,
     "DPMin": 9,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV80="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 139,
     "FromDigimonId": 131,
     "ToDigimonId": 166,
     "DPMin": 0,
-    "DPMax": 19,
-    "Timestamp": "AAAAAAAAV84="
+    "DPMax": 19
   },
   {
     "DigimonEvolutionId": 140,
     "FromDigimonId": 131,
     "ToDigimonId": 154,
     "DPMin": 20,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV88="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 141,
     "FromDigimonId": 137,
     "ToDigimonId": 158,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV9A="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 142,
     "FromDigimonId": 138,
     "ToDigimonId": 175,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV9E="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 143,
     "FromDigimonId": 140,
     "ToDigimonId": 171,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV9I="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 144,
     "FromDigimonId": 143,
     "ToDigimonId": 155,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV9M="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 145,
     "FromDigimonId": 145,
     "ToDigimonId": 155,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV9Q="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 146,
     "FromDigimonId": 1,
     "ToDigimonId": 182,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV9U="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 147,
     "FromDigimonId": 3,
     "ToDigimonId": 32,
     "DPMin": 0,
-    "DPMax": 2,
-    "Timestamp": "AAAAAAAAV9Y="
+    "DPMax": 2
   },
   {
     "DigimonEvolutionId": 148,
     "FromDigimonId": 3,
     "ToDigimonId": 98,
     "DPMin": 3,
-    "DPMax": 5,
-    "Timestamp": "AAAAAAAAV9c="
+    "DPMax": 5
   },
   {
     "DigimonEvolutionId": 149,
     "FromDigimonId": 3,
     "ToDigimonId": 84,
     "DPMin": 6,
-    "DPMax": 7,
-    "Timestamp": "AAAAAAAAV9g="
+    "DPMax": 7
   },
   {
     "DigimonEvolutionId": 150,
     "FromDigimonId": 3,
     "ToDigimonId": 37,
     "DPMin": 8,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV9k="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 151,
     "FromDigimonId": 5,
     "ToDigimonId": 34,
     "DPMin": 0,
-    "DPMax": 2,
-    "Timestamp": "AAAAAAAAV9o="
+    "DPMax": 2
   },
   {
     "DigimonEvolutionId": 152,
     "FromDigimonId": 5,
     "ToDigimonId": 81,
     "DPMin": 3,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV9s="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 153,
     "FromDigimonId": 15,
     "ToDigimonId": 94,
     "DPMin": 0,
-    "DPMax": 2,
-    "Timestamp": "AAAAAAAAV9w="
+    "DPMax": 2
   },
   {
     "DigimonEvolutionId": 154,
     "FromDigimonId": 15,
     "ToDigimonId": 62,
     "DPMin": 3,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV90="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 155,
     "FromDigimonId": 23,
     "ToDigimonId": 62,
     "DPMin": 0,
-    "DPMax": 2,
-    "Timestamp": "AAAAAAAAV94="
+    "DPMax": 2
   },
   {
     "DigimonEvolutionId": 156,
     "FromDigimonId": 23,
     "ToDigimonId": 47,
     "DPMin": 3,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV98="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 157,
     "FromDigimonId": 24,
     "ToDigimonId": 52,
     "DPMin": 0,
-    "DPMax": 2,
-    "Timestamp": "AAAAAAAAV+A="
+    "DPMax": 2
   },
   {
     "DigimonEvolutionId": 158,
     "FromDigimonId": 24,
     "ToDigimonId": 73,
     "DPMin": 3,
-    "DPMax": 5,
-    "Timestamp": "AAAAAAAAV+E="
+    "DPMax": 5
   },
   {
     "DigimonEvolutionId": 159,
     "FromDigimonId": 24,
     "ToDigimonId": 58,
     "DPMin": 6,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV+I="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 160,
     "FromDigimonId": 27,
     "ToDigimonId": 97,
     "DPMin": 0,
-    "DPMax": 2,
-    "Timestamp": "AAAAAAAAV+M="
+    "DPMax": 2
   },
   {
     "DigimonEvolutionId": 161,
     "FromDigimonId": 27,
     "ToDigimonId": 88,
     "DPMin": 3,
-    "DPMax": 5,
-    "Timestamp": "AAAAAAAAV+Q="
+    "DPMax": 5
   },
   {
     "DigimonEvolutionId": 162,
     "FromDigimonId": 27,
     "ToDigimonId": 53,
     "DPMin": 6,
-    "DPMax": 7,
-    "Timestamp": "AAAAAAAAV+U="
+    "DPMax": 7
   },
   {
     "DigimonEvolutionId": 163,
     "FromDigimonId": 27,
     "ToDigimonId": 35,
     "DPMin": 8,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV+Y="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 164,
     "FromDigimonId": 28,
     "ToDigimonId": 64,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV+c="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 165,
     "FromDigimonId": 29,
     "ToDigimonId": 68,
     "DPMin": 0,
-    "DPMax": 2,
-    "Timestamp": "AAAAAAAAV+g="
+    "DPMax": 2
   },
   {
     "DigimonEvolutionId": 166,
     "FromDigimonId": 29,
     "ToDigimonId": 54,
     "DPMin": 3,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV+k="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 167,
     "FromDigimonId": 31,
     "ToDigimonId": 98,
     "DPMin": 0,
-    "DPMax": 3,
-    "Timestamp": "AAAAAAAAV+o="
+    "DPMax": 3
   },
   {
     "DigimonEvolutionId": 168,
     "FromDigimonId": 31,
     "ToDigimonId": 49,
     "DPMin": 4,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV+s="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 169,
     "FromDigimonId": 32,
     "ToDigimonId": 103,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV+w="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 170,
     "FromDigimonId": 34,
     "ToDigimonId": 104,
     "DPMin": 0,
-    "DPMax": 5,
-    "Timestamp": "AAAAAAAAV+0="
+    "DPMax": 5
   },
   {
     "DigimonEvolutionId": 171,
     "FromDigimonId": 34,
     "ToDigimonId": 120,
     "DPMin": 6,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV+4="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 172,
     "FromDigimonId": 35,
     "ToDigimonId": 122,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV+8="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 173,
     "FromDigimonId": 37,
     "ToDigimonId": 116,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV/A="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 174,
     "FromDigimonId": 47,
     "ToDigimonId": 152,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV/E="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 175,
     "FromDigimonId": 49,
     "ToDigimonId": 103,
     "DPMin": 0,
-    "DPMax": 5,
-    "Timestamp": "AAAAAAAAV/I="
+    "DPMax": 5
   },
   {
     "DigimonEvolutionId": 176,
     "FromDigimonId": 49,
     "ToDigimonId": 139,
     "DPMin": 6,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV/M="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 177,
     "FromDigimonId": 52,
     "ToDigimonId": 132,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV/Q="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 178,
     "FromDigimonId": 53,
     "ToDigimonId": 151,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV/U="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 179,
     "FromDigimonId": 54,
     "ToDigimonId": 105,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV/Y="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 180,
     "FromDigimonId": 182,
     "ToDigimonId": 128,
     "DPMin": 0,
-    "DPMax": 5,
-    "Timestamp": "AAAAAAAAV/c="
+    "DPMax": 5
   },
   {
     "DigimonEvolutionId": 181,
     "FromDigimonId": 182,
     "ToDigimonId": 124,
     "DPMin": 6,
-    "DPMax": 8,
-    "Timestamp": "AAAAAAAAV/g="
+    "DPMax": 8
   },
   {
     "DigimonEvolutionId": 182,
     "FromDigimonId": 182,
     "ToDigimonId": 142,
     "DPMin": 9,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV/k="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 183,
     "FromDigimonId": 58,
     "ToDigimonId": 151,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV/o="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 184,
     "FromDigimonId": 62,
     "ToDigimonId": 152,
     "DPMin": 0,
-    "DPMax": 5,
-    "Timestamp": "AAAAAAAAV/s="
+    "DPMax": 5
   },
   {
     "DigimonEvolutionId": 185,
     "FromDigimonId": 62,
     "ToDigimonId": 153,
     "DPMin": 6,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV/w="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 186,
     "FromDigimonId": 64,
     "ToDigimonId": 126,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV/0="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 187,
     "FromDigimonId": 68,
     "ToDigimonId": 135,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV/4="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 188,
     "FromDigimonId": 73,
     "ToDigimonId": 132,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAV/8="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 189,
     "FromDigimonId": 81,
     "ToDigimonId": 120,
     "DPMin": 0,
-    "DPMax": 6,
-    "Timestamp": "AAAAAAAAWAE="
+    "DPMax": 6
   },
   {
     "DigimonEvolutionId": 190,
     "FromDigimonId": 81,
     "ToDigimonId": 118,
     "DPMin": 6,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAWAI="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 191,
     "FromDigimonId": 84,
     "ToDigimonId": 116,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAWAM="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 192,
     "FromDigimonId": 88,
     "ToDigimonId": 122,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAWAQ="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 193,
     "FromDigimonId": 94,
     "ToDigimonId": 153,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAWAU="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 194,
     "FromDigimonId": 97,
     "ToDigimonId": 122,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAWAY="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 195,
     "FromDigimonId": 98,
     "ToDigimonId": 103,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAWAc="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 196,
     "FromDigimonId": 103,
     "ToDigimonId": 169,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAWAg="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 197,
     "FromDigimonId": 104,
     "ToDigimonId": 177,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAWAk="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 198,
     "FromDigimonId": 105,
     "ToDigimonId": 163,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAWAo="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 199,
     "FromDigimonId": 116,
     "ToDigimonId": 169,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAWAs="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 200,
     "FromDigimonId": 118,
     "ToDigimonId": 177,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAWAw="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 201,
     "FromDigimonId": 120,
     "ToDigimonId": 177,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAWA0="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 202,
     "FromDigimonId": 122,
     "ToDigimonId": 178,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAWA4="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 203,
     "FromDigimonId": 124,
     "ToDigimonId": 180,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAWA8="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 204,
     "FromDigimonId": 126,
     "ToDigimonId": 159,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAWBA="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 205,
     "FromDigimonId": 128,
     "ToDigimonId": 180,
     "DPMin": 0,
-    "DPMax": 19,
-    "Timestamp": "AAAAAAAAWBE="
+    "DPMax": 19
   },
   {
     "DigimonEvolutionId": 206,
     "FromDigimonId": 128,
     "ToDigimonId": 168,
     "DPMin": 20,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAWBI="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 207,
     "FromDigimonId": 132,
     "ToDigimonId": 161,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAWBM="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 208,
     "FromDigimonId": 135,
     "ToDigimonId": 176,
     "DPMin": 0,
-    "DPMax": 8,
-    "Timestamp": "AAAAAAAAWBQ="
+    "DPMax": 8
   },
   {
     "DigimonEvolutionId": 209,
     "FromDigimonId": 135,
     "ToDigimonId": 163,
     "DPMin": 9,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAWBU="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 210,
     "FromDigimonId": 139,
     "ToDigimonId": 169,
     "DPMin": 0,
-    "DPMax": 7,
-    "Timestamp": "AAAAAAAAWBY="
+    "DPMax": 7
   },
   {
     "DigimonEvolutionId": 211,
     "FromDigimonId": 139,
     "ToDigimonId": 160,
     "DPMin": 8,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAWBc="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 212,
     "FromDigimonId": 151,
     "ToDigimonId": 178,
     "DPMin": 0,
-    "DPMax": 7,
-    "Timestamp": "AAAAAAAAWBg="
+    "DPMax": 7
   },
   {
     "DigimonEvolutionId": 213,
     "FromDigimonId": 151,
     "ToDigimonId": 166,
     "DPMin": 8,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAWBk="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 214,
     "FromDigimonId": 152,
     "ToDigimonId": 164,
     "DPMin": 0,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAWBo="
+    "DPMax": null
   },
   {
     "DigimonEvolutionId": 215,
     "FromDigimonId": 153,
     "ToDigimonId": 171,
     "DPMin": 0,
-    "DPMax": 8,
-    "Timestamp": "AAAAAAAAWBs="
+    "DPMax": 8
   },
   {
     "DigimonEvolutionId": 216,
     "FromDigimonId": 153,
     "ToDigimonId": 164,
     "DPMin": 9,
-    "DPMax": null,
-    "Timestamp": "AAAAAAAAWBw="
+    "DPMax": null
+  },
+  {
+    "DigimonEvolutionId": 219,
+    "FromDigimonId": 196,
+    "ToDigimonId": 102,
+    "DPMin": 0,
+    "DPMax": null
   }
 ]

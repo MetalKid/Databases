@@ -4,71 +4,62 @@
     "GiveDigimonId": 29,
     "GetDigimonId": 24,
     "DuringMissions": "Video, Disk, and BIOS",
-    "GetDigimonLevel": 3,
-    "Timestamp": "AAAAAAAAWB0="
+    "GetDigimonLevel": 3
   },
   {
     "DigimonExchangeId": 3,
     "GiveDigimonId": 6,
     "GetDigimonId": 100,
     "DuringMissions": "Drive, Web, and Modem",
-    "GetDigimonLevel": 11,
-    "Timestamp": "AAAAAAAAWB4="
+    "GetDigimonLevel": 11
   },
   {
     "DigimonExchangeId": 4,
     "GiveDigimonId": 77,
     "GetDigimonId": 125,
     "DuringMissions": "Blood Knight (Phase I) and Wild Code",
-    "GetDigimonLevel": 21,
-    "Timestamp": "AAAAAAAAWB8="
+    "GetDigimonLevel": 21
   },
   {
     "DigimonExchangeId": 5,
     "GiveDigimonId": 53,
     "GetDigimonId": 120,
     "DuringMissions": "Blood Knight (Phase II), Modem, and Code",
-    "GetDigimonLevel": 21,
-    "Timestamp": "AAAAAAAAWCA="
+    "GetDigimonLevel": 21
   },
   {
     "DigimonExchangeId": 6,
     "GiveDigimonId": 76,
     "GetDigimonId": 129,
-    "DuringMissions": "Laser, Power, and Jijimon\u0027s Rescue",
-    "GetDigimonLevel": 21,
-    "Timestamp": "AAAAAAAAWCE="
+    "DuringMissions": "Laser, Power, and Jijimon's Rescue",
+    "GetDigimonLevel": 21
   },
   {
     "DigimonExchangeId": 7,
     "GiveDigimonId": 43,
     "GetDigimonId": 133,
     "DuringMissions": "Chaos Generals and Soft",
-    "GetDigimonLevel": 21,
-    "Timestamp": "AAAAAAAAWCI="
+    "GetDigimonLevel": 21
   },
   {
     "DigimonExchangeId": 8,
     "GiveDigimonId": 105,
     "GetDigimonId": 163,
     "DuringMissions": "Bug, RAM, and ROM",
-    "GetDigimonLevel": 31,
-    "Timestamp": "AAAAAAAAWCM="
+    "GetDigimonLevel": 31
   },
   {
     "DigimonExchangeId": 9,
     "GiveDigimonId": 127,
     "GetDigimonId": 166,
     "DuringMissions": "Core and Chaos TOwers",
-    "GetDigimonLevel": 31,
-    "Timestamp": "AAAAAAAAWCQ="
+    "GetDigimonLevel": 31
   },
   {
     "DigimonExchangeId": 10,
     "GiveDigimonId": 142,
     "GetDigimonId": 162,
     "DuringMissions": "Tera",
-    "GetDigimonLevel": 31,
-    "Timestamp": "AAAAAAAAWCU="
+    "GetDigimonLevel": 31
   }
 ]

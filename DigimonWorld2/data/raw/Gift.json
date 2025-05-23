@@ -1,27 +1,22 @@
 [
   {
     "GiftId": 1,
-    "Name": "A",
-    "Timestamp": "AAAAAAAAbGA="
+    "Name": "A"
   },
   {
     "GiftId": 2,
-    "Name": "B",
-    "Timestamp": "AAAAAAAAbGE="
+    "Name": "B"
   },
   {
     "GiftId": 3,
-    "Name": "C",
-    "Timestamp": "AAAAAAAAbGI="
+    "Name": "C"
   },
   {
     "GiftId": 4,
-    "Name": "D",
-    "Timestamp": "AAAAAAAAbGM="
+    "Name": "D"
   },
   {
     "GiftId": 5,
-    "Name": "E",
-    "Timestamp": "AAAAAAAAbGQ="
+    "Name": "E"
   }
 ]

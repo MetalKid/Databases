@@ -1,27 +1,22 @@
 [
   {
-    "RankId": 1,
-    "Name": "Rookie",
-    "Timestamp": "AAAAAAAAJxE="
-  },
-  {
     "RankId": 2,
-    "Name": "Champion",
-    "Timestamp": "AAAAAAAAJxI="
-  },
-  {
-    "RankId": 3,
-    "Name": "Ultimate",
-    "Timestamp": "AAAAAAAAJxM="
+    "Name": "Champion"
   },
   {
     "RankId": 4,
-    "Name": "Mega",
-    "Timestamp": "AAAAAAAAJxQ="
+    "Name": "Mega"
   },
   {
     "RankId": 5,
-    "Name": "N/A",
-    "Timestamp": "AAAAAAAAJxU="
+    "Name": "N/A"
+  },
+  {
+    "RankId": 1,
+    "Name": "Rookie"
+  },
+  {
+    "RankId": 3,
+    "Name": "Ultimate"
   }
 ]

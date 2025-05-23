@@ -6,8 +6,7 @@
     "ExperiencePoints": 39,
     "Bits": 280,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWDg="
+    "Note": null
   },
   {
     "DigimonGroupId": 2,
@@ -16,8 +15,7 @@
     "ExperiencePoints": 186,
     "Bits": 530,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWDk="
+    "Note": null
   },
   {
     "DigimonGroupId": 3,
@@ -26,8 +24,7 @@
     "ExperiencePoints": 3,
     "Bits": 30,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWDo="
+    "Note": null
   },
   {
     "DigimonGroupId": 4,
@@ -36,8 +33,7 @@
     "ExperiencePoints": 3,
     "Bits": 60,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWDs="
+    "Note": null
   },
   {
     "DigimonGroupId": 5,
@@ -46,8 +42,7 @@
     "ExperiencePoints": 3,
     "Bits": 50,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWDw="
+    "Note": null
   },
   {
     "DigimonGroupId": 6,
@@ -56,8 +51,7 @@
     "ExperiencePoints": 4,
     "Bits": 40,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWD0="
+    "Note": null
   },
   {
     "DigimonGroupId": 7,
@@ -66,8 +60,7 @@
     "ExperiencePoints": 4,
     "Bits": 40,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWD4="
+    "Note": null
   },
   {
     "DigimonGroupId": 8,
@@ -76,8 +69,7 @@
     "ExperiencePoints": 4,
     "Bits": 50,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWD8="
+    "Note": null
   },
   {
     "DigimonGroupId": 9,
@@ -86,8 +78,7 @@
     "ExperiencePoints": 18,
     "Bits": 210,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWEA="
+    "Note": null
   },
   {
     "DigimonGroupId": 10,
@@ -96,8 +87,7 @@
     "ExperiencePoints": 21,
     "Bits": 210,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWEE="
+    "Note": null
   },
   {
     "DigimonGroupId": 11,
@@ -106,8 +96,7 @@
     "ExperiencePoints": 22,
     "Bits": 360,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWEI="
+    "Note": null
   },
   {
     "DigimonGroupId": 12,
@@ -116,8 +105,7 @@
     "ExperiencePoints": 27,
     "Bits": 390,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWEM="
+    "Note": null
   },
   {
     "DigimonGroupId": 13,
@@ -126,8 +114,7 @@
     "ExperiencePoints": 22,
     "Bits": 240,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWEQ="
+    "Note": null
   },
   {
     "DigimonGroupId": 14,
@@ -136,8 +123,7 @@
     "ExperiencePoints": 23,
     "Bits": 240,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWEU="
+    "Note": null
   },
   {
     "DigimonGroupId": 15,
@@ -146,8 +132,7 @@
     "ExperiencePoints": 25,
     "Bits": 330,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWEY="
+    "Note": null
   },
   {
     "DigimonGroupId": 16,
@@ -156,8 +141,7 @@
     "ExperiencePoints": 58,
     "Bits": 560,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWEc="
+    "Note": null
   },
   {
     "DigimonGroupId": 17,
@@ -166,8 +150,7 @@
     "ExperiencePoints": 58,
     "Bits": 520,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWEg="
+    "Note": null
   },
   {
     "DigimonGroupId": 18,
@@ -176,8 +159,7 @@
     "ExperiencePoints": 59,
     "Bits": 520,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWEk="
+    "Note": null
   },
   {
     "DigimonGroupId": 19,
@@ -186,8 +168,7 @@
     "ExperiencePoints": 55,
     "Bits": 320,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWEo="
+    "Note": null
   },
   {
     "DigimonGroupId": 20,
@@ -196,8 +177,7 @@
     "ExperiencePoints": 52,
     "Bits": 480,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWEs="
+    "Note": null
   },
   {
     "DigimonGroupId": 21,
@@ -206,8 +186,7 @@
     "ExperiencePoints": 53,
     "Bits": 240,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWEw="
+    "Note": null
   },
   {
     "DigimonGroupId": 22,
@@ -216,8 +195,7 @@
     "ExperiencePoints": 65,
     "Bits": 500,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWE0="
+    "Note": null
   },
   {
     "DigimonGroupId": 23,
@@ -226,8 +204,7 @@
     "ExperiencePoints": 66,
     "Bits": 300,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWE4="
+    "Note": null
   },
   {
     "DigimonGroupId": 24,
@@ -236,8 +213,7 @@
     "ExperiencePoints": 104,
     "Bits": 900,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWE8="
+    "Note": null
   },
   {
     "DigimonGroupId": 25,
@@ -246,8 +222,7 @@
     "ExperiencePoints": 289,
     "Bits": 2100,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWFA="
+    "Note": null
   },
   {
     "DigimonGroupId": 26,
@@ -256,8 +231,7 @@
     "ExperiencePoints": 3,
     "Bits": 30,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWFE="
+    "Note": null
   },
   {
     "DigimonGroupId": 27,
@@ -266,8 +240,7 @@
     "ExperiencePoints": 3,
     "Bits": 60,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWFI="
+    "Note": null
   },
   {
     "DigimonGroupId": 28,
@@ -276,8 +249,7 @@
     "ExperiencePoints": 7,
     "Bits": 100,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWFM="
+    "Note": null
   },
   {
     "DigimonGroupId": 29,
@@ -286,8 +258,7 @@
     "ExperiencePoints": 12,
     "Bits": 180,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWFQ="
+    "Note": null
   },
   {
     "DigimonGroupId": 30,
@@ -296,8 +267,7 @@
     "ExperiencePoints": 31,
     "Bits": 180,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWFU="
+    "Note": null
   },
   {
     "DigimonGroupId": 31,
@@ -306,8 +276,7 @@
     "ExperiencePoints": 22,
     "Bits": 240,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWFY="
+    "Note": null
   },
   {
     "DigimonGroupId": 32,
@@ -316,8 +285,7 @@
     "ExperiencePoints": 58,
     "Bits": 560,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWFc="
+    "Note": null
   },
   {
     "DigimonGroupId": 33,
@@ -326,8 +294,7 @@
     "ExperiencePoints": 55,
     "Bits": 320,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWFg="
+    "Note": null
   },
   {
     "DigimonGroupId": 34,
@@ -336,8 +303,7 @@
     "ExperiencePoints": 65,
     "Bits": 500,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWFk="
+    "Note": null
   },
   {
     "DigimonGroupId": 35,
@@ -346,8 +312,7 @@
     "ExperiencePoints": 78,
     "Bits": 500,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWFo="
+    "Note": null
   },
   {
     "DigimonGroupId": 36,
@@ -356,8 +321,7 @@
     "ExperiencePoints": 143,
     "Bits": 840,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWFs="
+    "Note": null
   },
   {
     "DigimonGroupId": 37,
@@ -366,8 +330,7 @@
     "ExperiencePoints": 142,
     "Bits": 900,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWFw="
+    "Note": null
   },
   {
     "DigimonGroupId": 38,
@@ -376,8 +339,7 @@
     "ExperiencePoints": 102,
     "Bits": 750,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWF0="
+    "Note": null
   },
   {
     "DigimonGroupId": 39,
@@ -386,8 +348,7 @@
     "ExperiencePoints": 289,
     "Bits": 2100,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWF4="
+    "Note": null
   },
   {
     "DigimonGroupId": 40,
@@ -396,8 +357,7 @@
     "ExperiencePoints": 3,
     "Bits": 50,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWF8="
+    "Note": null
   },
   {
     "DigimonGroupId": 41,
@@ -406,8 +366,7 @@
     "ExperiencePoints": 4,
     "Bits": 40,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWGA="
+    "Note": null
   },
   {
     "DigimonGroupId": 42,
@@ -416,8 +375,7 @@
     "ExperiencePoints": 12,
     "Bits": 180,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWGE="
+    "Note": null
   },
   {
     "DigimonGroupId": 43,
@@ -426,8 +384,7 @@
     "ExperiencePoints": 11,
     "Bits": 200,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWGI="
+    "Note": null
   },
   {
     "DigimonGroupId": 44,
@@ -436,8 +393,7 @@
     "ExperiencePoints": 51,
     "Bits": 840,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWGM="
+    "Note": null
   },
   {
     "DigimonGroupId": 45,
@@ -446,8 +402,7 @@
     "ExperiencePoints": 25,
     "Bits": 330,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWGQ="
+    "Note": null
   },
   {
     "DigimonGroupId": 46,
@@ -456,8 +411,7 @@
     "ExperiencePoints": 59,
     "Bits": 520,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWGU="
+    "Note": null
   },
   {
     "DigimonGroupId": 47,
@@ -466,8 +420,7 @@
     "ExperiencePoints": 53,
     "Bits": 240,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWGY="
+    "Note": null
   },
   {
     "DigimonGroupId": 48,
@@ -476,8 +429,7 @@
     "ExperiencePoints": 104,
     "Bits": 900,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWGc="
+    "Note": null
   },
   {
     "DigimonGroupId": 49,
@@ -486,8 +438,7 @@
     "ExperiencePoints": 102,
     "Bits": 750,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWGg="
+    "Note": null
   },
   {
     "DigimonGroupId": 50,
@@ -496,8 +447,7 @@
     "ExperiencePoints": 139,
     "Bits": 780,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWGk="
+    "Note": null
   },
   {
     "DigimonGroupId": 51,
@@ -506,8 +456,7 @@
     "ExperiencePoints": 148,
     "Bits": 960,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWGo="
+    "Note": null
   },
   {
     "DigimonGroupId": 52,
@@ -516,8 +465,7 @@
     "ExperiencePoints": 306,
     "Bits": 1560,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWGs="
+    "Note": null
   },
   {
     "DigimonGroupId": 53,
@@ -526,8 +474,7 @@
     "ExperiencePoints": 433,
     "Bits": 2520,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWGw="
+    "Note": null
   },
   {
     "DigimonGroupId": 54,
@@ -536,8 +483,7 @@
     "ExperiencePoints": 4,
     "Bits": 40,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWG0="
+    "Note": null
   },
   {
     "DigimonGroupId": 55,
@@ -546,8 +492,7 @@
     "ExperiencePoints": 7,
     "Bits": 100,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWG4="
+    "Note": null
   },
   {
     "DigimonGroupId": 56,
@@ -556,8 +501,7 @@
     "ExperiencePoints": 10,
     "Bits": 160,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWG8="
+    "Note": null
   },
   {
     "DigimonGroupId": 57,
@@ -566,8 +510,7 @@
     "ExperiencePoints": 22,
     "Bits": 360,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWHA="
+    "Note": null
   },
   {
     "DigimonGroupId": 58,
@@ -576,8 +519,7 @@
     "ExperiencePoints": 23,
     "Bits": 240,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWHE="
+    "Note": null
   },
   {
     "DigimonGroupId": 59,
@@ -586,8 +528,7 @@
     "ExperiencePoints": 54,
     "Bits": 630,
     "IsBoss": false,
-    "Note": "MetalGreymon can only be caught until the boss digimon is defeated.",
-    "Timestamp": "AAAAAAAAWHI="
+    "Note": "MetalGreymon can only be caught until the boss digimon is defeated."
   },
   {
     "DigimonGroupId": 60,
@@ -596,8 +537,7 @@
     "ExperiencePoints": 102,
     "Bits": 1050,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWHM="
+    "Note": null
   },
   {
     "DigimonGroupId": 61,
@@ -606,8 +546,7 @@
     "ExperiencePoints": 23,
     "Bits": 240,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWHQ="
+    "Note": null
   },
   {
     "DigimonGroupId": 62,
@@ -616,8 +555,7 @@
     "ExperiencePoints": 58,
     "Bits": 520,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWHU="
+    "Note": null
   },
   {
     "DigimonGroupId": 63,
@@ -626,8 +564,7 @@
     "ExperiencePoints": 52,
     "Bits": 480,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWHY="
+    "Note": null
   },
   {
     "DigimonGroupId": 64,
@@ -636,8 +573,7 @@
     "ExperiencePoints": 66,
     "Bits": 300,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWHc="
+    "Note": null
   },
   {
     "DigimonGroupId": 65,
@@ -646,8 +582,7 @@
     "ExperiencePoints": 77,
     "Bits": 300,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWHg="
+    "Note": null
   },
   {
     "DigimonGroupId": 66,
@@ -656,8 +591,7 @@
     "ExperiencePoints": 143,
     "Bits": 540,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWHk="
+    "Note": null
   },
   {
     "DigimonGroupId": 67,
@@ -666,8 +600,7 @@
     "ExperiencePoints": 145,
     "Bits": 660,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWHo="
+    "Note": null
   },
   {
     "DigimonGroupId": 68,
@@ -676,8 +609,7 @@
     "ExperiencePoints": 189,
     "Bits": 1260,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWHs="
+    "Note": null
   },
   {
     "DigimonGroupId": 69,
@@ -686,8 +618,7 @@
     "ExperiencePoints": 425,
     "Bits": 2940,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWHw="
+    "Note": null
   },
   {
     "DigimonGroupId": 70,
@@ -696,8 +627,7 @@
     "ExperiencePoints": 7,
     "Bits": 100,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWH0="
+    "Note": null
   },
   {
     "DigimonGroupId": 71,
@@ -706,8 +636,7 @@
     "ExperiencePoints": 12,
     "Bits": 180,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWH4="
+    "Note": null
   },
   {
     "DigimonGroupId": 72,
@@ -716,8 +645,7 @@
     "ExperiencePoints": 21,
     "Bits": 210,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWH8="
+    "Note": null
   },
   {
     "DigimonGroupId": 73,
@@ -726,8 +654,7 @@
     "ExperiencePoints": 22,
     "Bits": 240,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWIA="
+    "Note": null
   },
   {
     "DigimonGroupId": 74,
@@ -736,8 +663,7 @@
     "ExperiencePoints": 58,
     "Bits": 560,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWIE="
+    "Note": null
   },
   {
     "DigimonGroupId": 75,
@@ -746,8 +672,7 @@
     "ExperiencePoints": 55,
     "Bits": 320,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWII="
+    "Note": null
   },
   {
     "DigimonGroupId": 76,
@@ -756,8 +681,7 @@
     "ExperiencePoints": 153,
     "Bits": 1400,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWIM="
+    "Note": null
   },
   {
     "DigimonGroupId": 77,
@@ -766,8 +690,7 @@
     "ExperiencePoints": 55,
     "Bits": 320,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWIQ="
+    "Note": null
   },
   {
     "DigimonGroupId": 78,
@@ -776,8 +699,7 @@
     "ExperiencePoints": 65,
     "Bits": 500,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWIU="
+    "Note": null
   },
   {
     "DigimonGroupId": 79,
@@ -786,8 +708,7 @@
     "ExperiencePoints": 78,
     "Bits": 500,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWIY="
+    "Note": null
   },
   {
     "DigimonGroupId": 80,
@@ -796,8 +717,7 @@
     "ExperiencePoints": 143,
     "Bits": 840,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWIc="
+    "Note": null
   },
   {
     "DigimonGroupId": 81,
@@ -806,8 +726,7 @@
     "ExperiencePoints": 142,
     "Bits": 900,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWIg="
+    "Note": null
   },
   {
     "DigimonGroupId": 82,
@@ -816,8 +735,7 @@
     "ExperiencePoints": 193,
     "Bits": 910,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWIk="
+    "Note": null
   },
   {
     "DigimonGroupId": 83,
@@ -826,8 +744,7 @@
     "ExperiencePoints": 195,
     "Bits": 980,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWIo="
+    "Note": null
   },
   {
     "DigimonGroupId": 84,
@@ -836,8 +753,7 @@
     "ExperiencePoints": 244,
     "Bits": 960,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWIs="
+    "Note": null
   },
   {
     "DigimonGroupId": 85,
@@ -846,8 +762,7 @@
     "ExperiencePoints": 237,
     "Bits": 1200,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWIw="
+    "Note": null
   },
   {
     "DigimonGroupId": 86,
@@ -856,8 +771,7 @@
     "ExperiencePoints": 680,
     "Bits": 2000,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWI0="
+    "Note": null
   },
   {
     "DigimonGroupId": 87,
@@ -866,8 +780,7 @@
     "ExperiencePoints": 11,
     "Bits": 200,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWI4="
+    "Note": null
   },
   {
     "DigimonGroupId": 88,
@@ -876,8 +789,7 @@
     "ExperiencePoints": 12,
     "Bits": 180,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWI8="
+    "Note": null
   },
   {
     "DigimonGroupId": 89,
@@ -886,8 +798,7 @@
     "ExperiencePoints": 27,
     "Bits": 390,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWJA="
+    "Note": null
   },
   {
     "DigimonGroupId": 90,
@@ -896,8 +807,7 @@
     "ExperiencePoints": 25,
     "Bits": 330,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWJE="
+    "Note": null
   },
   {
     "DigimonGroupId": 91,
@@ -906,8 +816,7 @@
     "ExperiencePoints": 59,
     "Bits": 520,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWJI="
+    "Note": null
   },
   {
     "DigimonGroupId": 92,
@@ -916,8 +825,7 @@
     "ExperiencePoints": 53,
     "Bits": 240,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWJM="
+    "Note": null
   },
   {
     "DigimonGroupId": 93,
@@ -926,8 +834,7 @@
     "ExperiencePoints": 195,
     "Bits": 1000,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWJQ="
+    "Note": null
   },
   {
     "DigimonGroupId": 94,
@@ -936,8 +843,7 @@
     "ExperiencePoints": 53,
     "Bits": 240,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWJU="
+    "Note": null
   },
   {
     "DigimonGroupId": 95,
@@ -946,8 +852,7 @@
     "ExperiencePoints": 104,
     "Bits": 900,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWJY="
+    "Note": null
   },
   {
     "DigimonGroupId": 96,
@@ -956,8 +861,7 @@
     "ExperiencePoints": 102,
     "Bits": 750,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWJc="
+    "Note": null
   },
   {
     "DigimonGroupId": 97,
@@ -966,8 +870,7 @@
     "ExperiencePoints": 139,
     "Bits": 780,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWJg="
+    "Note": null
   },
   {
     "DigimonGroupId": 98,
@@ -976,8 +879,7 @@
     "ExperiencePoints": 148,
     "Bits": 960,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWJk="
+    "Note": null
   },
   {
     "DigimonGroupId": 99,
@@ -986,8 +888,7 @@
     "ExperiencePoints": 193,
     "Bits": 910,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWJo="
+    "Note": null
   },
   {
     "DigimonGroupId": 100,
@@ -996,8 +897,7 @@
     "ExperiencePoints": 191,
     "Bits": 1120,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWJs="
+    "Note": null
   },
   {
     "DigimonGroupId": 101,
@@ -1006,8 +906,7 @@
     "ExperiencePoints": 231,
     "Bits": 1120,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWJw="
+    "Note": null
   },
   {
     "DigimonGroupId": 102,
@@ -1016,8 +915,7 @@
     "ExperiencePoints": 75,
     "Bits": 480,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWJ0="
+    "Note": null
   },
   {
     "DigimonGroupId": 103,
@@ -1026,8 +924,7 @@
     "ExperiencePoints": 237,
     "Bits": 1520,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWJ4="
+    "Note": null
   },
   {
     "DigimonGroupId": 104,
@@ -1036,8 +933,7 @@
     "ExperiencePoints": 646,
     "Bits": 3360,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWJ8="
+    "Note": null
   },
   {
     "DigimonGroupId": 105,
@@ -1046,8 +942,7 @@
     "ExperiencePoints": 7,
     "Bits": 100,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWKA="
+    "Note": null
   },
   {
     "DigimonGroupId": 106,
@@ -1056,8 +951,7 @@
     "ExperiencePoints": 10,
     "Bits": 160,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWKE="
+    "Note": null
   },
   {
     "DigimonGroupId": 107,
@@ -1066,8 +960,7 @@
     "ExperiencePoints": 22,
     "Bits": 360,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWKI="
+    "Note": null
   },
   {
     "DigimonGroupId": 108,
@@ -1076,8 +969,7 @@
     "ExperiencePoints": 23,
     "Bits": 240,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWKM="
+    "Note": null
   },
   {
     "DigimonGroupId": 109,
@@ -1086,8 +978,7 @@
     "ExperiencePoints": 58,
     "Bits": 520,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWKQ="
+    "Note": null
   },
   {
     "DigimonGroupId": 110,
@@ -1096,8 +987,7 @@
     "ExperiencePoints": 52,
     "Bits": 480,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWKU="
+    "Note": null
   },
   {
     "DigimonGroupId": 111,
@@ -1106,8 +996,7 @@
     "ExperiencePoints": 162,
     "Bits": 1400,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWKY="
+    "Note": null
   },
   {
     "DigimonGroupId": 112,
@@ -1116,8 +1005,7 @@
     "ExperiencePoints": 120,
     "Bits": 1040,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWKc="
+    "Note": null
   },
   {
     "DigimonGroupId": 113,
@@ -1126,8 +1014,7 @@
     "ExperiencePoints": 66,
     "Bits": 300,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWKg="
+    "Note": null
   },
   {
     "DigimonGroupId": 114,
@@ -1136,8 +1023,7 @@
     "ExperiencePoints": 77,
     "Bits": 300,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWKk="
+    "Note": null
   },
   {
     "DigimonGroupId": 115,
@@ -1146,8 +1032,7 @@
     "ExperiencePoints": 143,
     "Bits": 540,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWKo="
+    "Note": null
   },
   {
     "DigimonGroupId": 116,
@@ -1156,8 +1041,7 @@
     "ExperiencePoints": 145,
     "Bits": 660,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWKs="
+    "Note": null
   },
   {
     "DigimonGroupId": 117,
@@ -1166,8 +1050,7 @@
     "ExperiencePoints": 189,
     "Bits": 1260,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWKw="
+    "Note": null
   },
   {
     "DigimonGroupId": 118,
@@ -1176,8 +1059,7 @@
     "ExperiencePoints": 199,
     "Bits": 910,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWK0="
+    "Note": null
   },
   {
     "DigimonGroupId": 119,
@@ -1186,8 +1068,7 @@
     "ExperiencePoints": 230,
     "Bits": 1120,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWK4="
+    "Note": null
   },
   {
     "DigimonGroupId": 120,
@@ -1196,8 +1077,7 @@
     "ExperiencePoints": 237,
     "Bits": 1520,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWK8="
+    "Note": null
   },
   {
     "DigimonGroupId": 121,
@@ -1206,8 +1086,7 @@
     "ExperiencePoints": 708,
     "Bits": 2600,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWLA="
+    "Note": null
   },
   {
     "DigimonGroupId": 122,
@@ -1216,8 +1095,7 @@
     "ExperiencePoints": 708,
     "Bits": 2400,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWLE="
+    "Note": null
   },
   {
     "DigimonGroupId": 123,
@@ -1226,8 +1104,7 @@
     "ExperiencePoints": 722,
     "Bits": 3920,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWLI="
+    "Note": null
   },
   {
     "DigimonGroupId": 124,
@@ -1236,8 +1113,7 @@
     "ExperiencePoints": 722,
     "Bits": 3280,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWLM="
+    "Note": null
   },
   {
     "DigimonGroupId": 125,
@@ -1246,8 +1122,7 @@
     "ExperiencePoints": 65,
     "Bits": 500,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWLQ="
+    "Note": null
   },
   {
     "DigimonGroupId": 126,
@@ -1256,8 +1131,7 @@
     "ExperiencePoints": 66,
     "Bits": 300,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWLU="
+    "Note": null
   },
   {
     "DigimonGroupId": 127,
@@ -1266,8 +1140,7 @@
     "ExperiencePoints": 104,
     "Bits": 900,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWLY="
+    "Note": null
   },
   {
     "DigimonGroupId": 128,
@@ -1276,8 +1149,7 @@
     "ExperiencePoints": 78,
     "Bits": 500,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWLc="
+    "Note": null
   },
   {
     "DigimonGroupId": 129,
@@ -1286,8 +1158,7 @@
     "ExperiencePoints": 77,
     "Bits": 300,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWLg="
+    "Note": null
   },
   {
     "DigimonGroupId": 130,
@@ -1296,8 +1167,7 @@
     "ExperiencePoints": 102,
     "Bits": 750,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWLk="
+    "Note": null
   },
   {
     "DigimonGroupId": 131,
@@ -1306,8 +1176,7 @@
     "ExperiencePoints": 143,
     "Bits": 840,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWLo="
+    "Note": null
   },
   {
     "DigimonGroupId": 132,
@@ -1316,8 +1185,7 @@
     "ExperiencePoints": 143,
     "Bits": 540,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWLs="
+    "Note": null
   },
   {
     "DigimonGroupId": 133,
@@ -1326,8 +1194,7 @@
     "ExperiencePoints": 139,
     "Bits": 780,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWLw="
+    "Note": null
   },
   {
     "DigimonGroupId": 134,
@@ -1336,8 +1203,7 @@
     "ExperiencePoints": 142,
     "Bits": 900,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWL0="
+    "Note": null
   },
   {
     "DigimonGroupId": 135,
@@ -1346,8 +1212,7 @@
     "ExperiencePoints": 145,
     "Bits": 660,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWL4="
+    "Note": null
   },
   {
     "DigimonGroupId": 136,
@@ -1356,8 +1221,7 @@
     "ExperiencePoints": 148,
     "Bits": 960,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWL8="
+    "Note": null
   },
   {
     "DigimonGroupId": 137,
@@ -1366,8 +1230,7 @@
     "ExperiencePoints": 193,
     "Bits": 910,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWMA="
+    "Note": null
   },
   {
     "DigimonGroupId": 138,
@@ -1376,8 +1239,7 @@
     "ExperiencePoints": 189,
     "Bits": 1260,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWME="
+    "Note": null
   },
   {
     "DigimonGroupId": 139,
@@ -1386,8 +1248,7 @@
     "ExperiencePoints": 193,
     "Bits": 910,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWMI="
+    "Note": null
   },
   {
     "DigimonGroupId": 140,
@@ -1396,8 +1257,7 @@
     "ExperiencePoints": 195,
     "Bits": 980,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWMM="
+    "Note": null
   },
   {
     "DigimonGroupId": 141,
@@ -1406,8 +1266,7 @@
     "ExperiencePoints": 199,
     "Bits": 910,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWMQ="
+    "Note": null
   },
   {
     "DigimonGroupId": 142,
@@ -1416,8 +1275,7 @@
     "ExperiencePoints": 191,
     "Bits": 1120,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWMU="
+    "Note": null
   },
   {
     "DigimonGroupId": 143,
@@ -1426,8 +1284,7 @@
     "ExperiencePoints": 237,
     "Bits": 1200,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWMY="
+    "Note": null
   },
   {
     "DigimonGroupId": 144,
@@ -1436,8 +1293,7 @@
     "ExperiencePoints": 237,
     "Bits": 1520,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWMc="
+    "Note": null
   },
   {
     "DigimonGroupId": 145,
@@ -1446,8 +1302,7 @@
     "ExperiencePoints": 75,
     "Bits": 480,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWMg="
+    "Note": null
   },
   {
     "DigimonGroupId": 146,
@@ -1456,8 +1311,7 @@
     "ExperiencePoints": 299,
     "Bits": 1260,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWMk="
+    "Note": null
   },
   {
     "DigimonGroupId": 147,
@@ -1466,8 +1320,7 @@
     "ExperiencePoints": 291,
     "Bits": 1170,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWMo="
+    "Note": null
   },
   {
     "DigimonGroupId": 148,
@@ -1476,8 +1329,7 @@
     "ExperiencePoints": 299,
     "Bits": 1530,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWMs="
+    "Note": null
   },
   {
     "DigimonGroupId": 149,
@@ -1486,8 +1338,7 @@
     "ExperiencePoints": 296,
     "Bits": 1530,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWMw="
+    "Note": null
   },
   {
     "DigimonGroupId": 150,
@@ -1496,8 +1347,7 @@
     "ExperiencePoints": 303,
     "Bits": 1080,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWM0="
+    "Note": null
   },
   {
     "DigimonGroupId": 151,
@@ -1506,8 +1356,7 @@
     "ExperiencePoints": 290,
     "Bits": 1170,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWM4="
+    "Note": null
   },
   {
     "DigimonGroupId": 152,
@@ -1516,8 +1365,7 @@
     "ExperiencePoints": 977,
     "Bits": 2610,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWM8="
+    "Note": null
   },
   {
     "DigimonGroupId": 153,
@@ -1526,8 +1374,7 @@
     "ExperiencePoints": 65,
     "Bits": 500,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWNA="
+    "Note": null
   },
   {
     "DigimonGroupId": 154,
@@ -1536,8 +1383,7 @@
     "ExperiencePoints": 78,
     "Bits": 500,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWNE="
+    "Note": null
   },
   {
     "DigimonGroupId": 155,
@@ -1546,8 +1392,7 @@
     "ExperiencePoints": 143,
     "Bits": 840,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWNI="
+    "Note": null
   },
   {
     "DigimonGroupId": 156,
@@ -1556,8 +1401,7 @@
     "ExperiencePoints": 104,
     "Bits": 900,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWNM="
+    "Note": null
   },
   {
     "DigimonGroupId": 157,
@@ -1566,8 +1410,7 @@
     "ExperiencePoints": 102,
     "Bits": 750,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWNQ="
+    "Note": null
   },
   {
     "DigimonGroupId": 158,
@@ -1576,8 +1419,7 @@
     "ExperiencePoints": 139,
     "Bits": 780,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWNU="
+    "Note": null
   },
   {
     "DigimonGroupId": 159,
@@ -1586,8 +1428,7 @@
     "ExperiencePoints": 66,
     "Bits": 300,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWNY="
+    "Note": null
   },
   {
     "DigimonGroupId": 160,
@@ -1596,8 +1437,7 @@
     "ExperiencePoints": 77,
     "Bits": 300,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWNc="
+    "Note": null
   },
   {
     "DigimonGroupId": 161,
@@ -1606,8 +1446,7 @@
     "ExperiencePoints": 143,
     "Bits": 540,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWNg="
+    "Note": null
   },
   {
     "DigimonGroupId": 162,
@@ -1616,8 +1455,7 @@
     "ExperiencePoints": 142,
     "Bits": 900,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWNk="
+    "Note": null
   },
   {
     "DigimonGroupId": 163,
@@ -1626,8 +1464,7 @@
     "ExperiencePoints": 193,
     "Bits": 910,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWNo="
+    "Note": null
   },
   {
     "DigimonGroupId": 164,
@@ -1636,8 +1473,7 @@
     "ExperiencePoints": 195,
     "Bits": 980,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWNs="
+    "Note": null
   },
   {
     "DigimonGroupId": 165,
@@ -1646,8 +1482,7 @@
     "ExperiencePoints": 148,
     "Bits": 960,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWNw="
+    "Note": null
   },
   {
     "DigimonGroupId": 166,
@@ -1656,8 +1491,7 @@
     "ExperiencePoints": 193,
     "Bits": 910,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWN0="
+    "Note": null
   },
   {
     "DigimonGroupId": 167,
@@ -1666,8 +1500,7 @@
     "ExperiencePoints": 191,
     "Bits": 1120,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWN4="
+    "Note": null
   },
   {
     "DigimonGroupId": 168,
@@ -1676,8 +1509,7 @@
     "ExperiencePoints": 145,
     "Bits": 660,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWN8="
+    "Note": null
   },
   {
     "DigimonGroupId": 169,
@@ -1686,8 +1518,7 @@
     "ExperiencePoints": 189,
     "Bits": 1260,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWOA="
+    "Note": null
   },
   {
     "DigimonGroupId": 170,
@@ -1696,8 +1527,7 @@
     "ExperiencePoints": 199,
     "Bits": 910,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWOE="
+    "Note": null
   },
   {
     "DigimonGroupId": 171,
@@ -1706,8 +1536,7 @@
     "ExperiencePoints": 231,
     "Bits": 1120,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWOI="
+    "Note": null
   },
   {
     "DigimonGroupId": 172,
@@ -1716,8 +1545,7 @@
     "ExperiencePoints": 75,
     "Bits": 480,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWOM="
+    "Note": null
   },
   {
     "DigimonGroupId": 173,
@@ -1726,8 +1554,7 @@
     "ExperiencePoints": 299,
     "Bits": 1530,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWOQ="
+    "Note": null
   },
   {
     "DigimonGroupId": 174,
@@ -1736,8 +1563,7 @@
     "ExperiencePoints": 230,
     "Bits": 1120,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWOU="
+    "Note": null
   },
   {
     "DigimonGroupId": 175,
@@ -1746,8 +1572,7 @@
     "ExperiencePoints": 237,
     "Bits": 1520,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWOY="
+    "Note": null
   },
   {
     "DigimonGroupId": 176,
@@ -1756,8 +1581,7 @@
     "ExperiencePoints": 291,
     "Bits": 1170,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWOc="
+    "Note": null
   },
   {
     "DigimonGroupId": 177,
@@ -1766,8 +1590,7 @@
     "ExperiencePoints": 296,
     "Bits": 1530,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWOg="
+    "Note": null
   },
   {
     "DigimonGroupId": 178,
@@ -1776,8 +1599,7 @@
     "ExperiencePoints": 303,
     "Bits": 1080,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWOk="
+    "Note": null
   },
   {
     "DigimonGroupId": 179,
@@ -1786,8 +1608,7 @@
     "ExperiencePoints": 290,
     "Bits": 1170,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWOo="
+    "Note": null
   },
   {
     "DigimonGroupId": 180,
@@ -1796,8 +1617,7 @@
     "ExperiencePoints": 714,
     "Bits": 1620,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWOs="
+    "Note": null
   },
   {
     "DigimonGroupId": 181,
@@ -1806,8 +1626,7 @@
     "ExperiencePoints": 1011,
     "Bits": 3780,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWOw="
+    "Note": null
   },
   {
     "DigimonGroupId": 182,
@@ -1816,8 +1635,7 @@
     "ExperiencePoints": 714,
     "Bits": 2700,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWO0="
+    "Note": null
   },
   {
     "DigimonGroupId": 183,
@@ -1826,8 +1644,7 @@
     "ExperiencePoints": 360,
     "Bits": 1500,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWO4="
+    "Note": null
   },
   {
     "DigimonGroupId": 184,
@@ -1836,8 +1653,7 @@
     "ExperiencePoints": 369,
     "Bits": 1700,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWO8="
+    "Note": null
   },
   {
     "DigimonGroupId": 185,
@@ -1846,8 +1662,7 @@
     "ExperiencePoints": 469,
     "Bits": 1650,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWPA="
+    "Note": null
   },
   {
     "DigimonGroupId": 186,
@@ -1856,8 +1671,7 @@
     "ExperiencePoints": 482,
     "Bits": 1430,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWPE="
+    "Note": null
   },
   {
     "DigimonGroupId": 187,
@@ -1866,8 +1680,7 @@
     "ExperiencePoints": 453,
     "Bits": 960,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWPI="
+    "Note": null
   },
   {
     "DigimonGroupId": 188,
@@ -1876,8 +1689,7 @@
     "ExperiencePoints": 1326,
     "Bits": 2880,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWPM="
+    "Note": null
   },
   {
     "DigimonGroupId": 189,
@@ -1886,8 +1698,7 @@
     "ExperiencePoints": 570,
     "Bits": 1560,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWPQ="
+    "Note": null
   },
   {
     "DigimonGroupId": 190,
@@ -1896,8 +1707,7 @@
     "ExperiencePoints": 495,
     "Bits": 1560,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWPU="
+    "Note": null
   },
   {
     "DigimonGroupId": 191,
@@ -1906,8 +1716,7 @@
     "ExperiencePoints": 1422,
     "Bits": 3900,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWPY="
+    "Note": null
   },
   {
     "DigimonGroupId": 192,
@@ -1916,8 +1725,7 @@
     "ExperiencePoints": 702,
     "Bits": 1950,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWPc="
+    "Note": null
   },
   {
     "DigimonGroupId": 193,
@@ -1926,8 +1734,7 @@
     "ExperiencePoints": 550,
     "Bits": 1300,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWPg="
+    "Note": null
   },
   {
     "DigimonGroupId": 194,
@@ -1936,8 +1743,7 @@
     "ExperiencePoints": 560,
     "Bits": 1400,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWPk="
+    "Note": null
   },
   {
     "DigimonGroupId": 195,
@@ -1946,8 +1752,7 @@
     "ExperiencePoints": 723,
     "Bits": 1820,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWPo="
+    "Note": null
   },
   {
     "DigimonGroupId": 196,
@@ -1956,8 +1761,7 @@
     "ExperiencePoints": 1572,
     "Bits": 3510,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWPs="
+    "Note": null
   },
   {
     "DigimonGroupId": 197,
@@ -1966,8 +1770,7 @@
     "ExperiencePoints": 2227,
     "Bits": 4290,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWPw="
+    "Note": null
   },
   {
     "DigimonGroupId": 198,
@@ -1976,8 +1779,7 @@
     "ExperiencePoints": 290,
     "Bits": 1170,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWP0="
+    "Note": null
   },
   {
     "DigimonGroupId": 199,
@@ -1986,8 +1788,7 @@
     "ExperiencePoints": 365,
     "Bits": 1800,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWP4="
+    "Note": null
   },
   {
     "DigimonGroupId": 200,
@@ -1996,8 +1797,7 @@
     "ExperiencePoints": 377,
     "Bits": 1900,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWP8="
+    "Note": null
   },
   {
     "DigimonGroupId": 201,
@@ -2006,8 +1806,7 @@
     "ExperiencePoints": 485,
     "Bits": 1980,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWQE="
+    "Note": null
   },
   {
     "DigimonGroupId": 202,
@@ -2016,8 +1815,7 @@
     "ExperiencePoints": 484,
     "Bits": 1540,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWQI="
+    "Note": null
   },
   {
     "DigimonGroupId": 203,
@@ -2026,8 +1824,7 @@
     "ExperiencePoints": 585,
     "Bits": 2040,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWQM="
+    "Note": null
   },
   {
     "DigimonGroupId": 204,
@@ -2036,8 +1833,7 @@
     "ExperiencePoints": 613,
     "Bits": 1800,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWQQ="
+    "Note": null
   },
   {
     "DigimonGroupId": 205,
@@ -2046,8 +1842,7 @@
     "ExperiencePoints": 723,
     "Bits": 1820,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWQU="
+    "Note": null
   },
   {
     "DigimonGroupId": 206,
@@ -2056,8 +1851,7 @@
     "ExperiencePoints": 516,
     "Bits": 1300,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWQY="
+    "Note": null
   },
   {
     "DigimonGroupId": 207,
@@ -2066,8 +1860,7 @@
     "ExperiencePoints": 495,
     "Bits": 1560,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWQc="
+    "Note": null
   },
   {
     "DigimonGroupId": 208,
@@ -2076,8 +1869,7 @@
     "ExperiencePoints": 622,
     "Bits": 980,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWQg="
+    "Note": null
   },
   {
     "DigimonGroupId": 209,
@@ -2086,8 +1878,7 @@
     "ExperiencePoints": 601,
     "Bits": 2641,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWQk="
+    "Note": null
   },
   {
     "DigimonGroupId": 210,
@@ -2096,8 +1887,7 @@
     "ExperiencePoints": 1572,
     "Bits": 5460,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWQo="
+    "Note": null
   },
   {
     "DigimonGroupId": 211,
@@ -2106,8 +1896,7 @@
     "ExperiencePoints": 2456,
     "Bits": 5460,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWQs="
+    "Note": null
   },
   {
     "DigimonGroupId": 212,
@@ -2116,8 +1905,7 @@
     "ExperiencePoints": 303,
     "Bits": 1080,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWQw="
+    "Note": null
   },
   {
     "DigimonGroupId": 213,
@@ -2126,8 +1914,7 @@
     "ExperiencePoints": 348,
     "Bits": 1600,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWQ0="
+    "Note": null
   },
   {
     "DigimonGroupId": 214,
@@ -2136,8 +1923,7 @@
     "ExperiencePoints": 373,
     "Bits": 1900,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWQ4="
+    "Note": null
   },
   {
     "DigimonGroupId": 215,
@@ -2146,8 +1932,7 @@
     "ExperiencePoints": 452,
     "Bits": 2310,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWQ8="
+    "Note": null
   },
   {
     "DigimonGroupId": 216,
@@ -2156,8 +1941,7 @@
     "ExperiencePoints": 476,
     "Bits": 1430,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWRA="
+    "Note": null
   },
   {
     "DigimonGroupId": 217,
@@ -2166,8 +1950,7 @@
     "ExperiencePoints": 586,
     "Bits": 1560,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWRE="
+    "Note": null
   },
   {
     "DigimonGroupId": 218,
@@ -2176,8 +1959,7 @@
     "ExperiencePoints": 613,
     "Bits": 1800,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWRI="
+    "Note": null
   },
   {
     "DigimonGroupId": 219,
@@ -2186,8 +1968,7 @@
     "ExperiencePoints": 514,
     "Bits": 1430,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWRM="
+    "Note": null
   },
   {
     "DigimonGroupId": 220,
@@ -2196,8 +1977,7 @@
     "ExperiencePoints": 495,
     "Bits": 1560,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWRQ="
+    "Note": null
   },
   {
     "DigimonGroupId": 221,
@@ -2206,8 +1986,7 @@
     "ExperiencePoints": 595,
     "Bits": 1960,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWRU="
+    "Note": null
   },
   {
     "DigimonGroupId": 222,
@@ -2216,8 +1995,7 @@
     "ExperiencePoints": 1440,
     "Bits": 2520,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWRY="
+    "Note": null
   },
   {
     "DigimonGroupId": 223,
@@ -2226,8 +2004,7 @@
     "ExperiencePoints": 702,
     "Bits": 1950,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWRc="
+    "Note": null
   },
   {
     "DigimonGroupId": 224,
@@ -2236,8 +2013,7 @@
     "ExperiencePoints": 550,
     "Bits": 1300,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWRg="
+    "Note": null
   },
   {
     "DigimonGroupId": 225,
@@ -2246,8 +2022,7 @@
     "ExperiencePoints": 723,
     "Bits": 1820,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWRk="
+    "Note": null
   },
   {
     "DigimonGroupId": 226,
@@ -2256,8 +2031,7 @@
     "ExperiencePoints": 516,
     "Bits": 1300,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWRo="
+    "Note": null
   },
   {
     "DigimonGroupId": 227,
@@ -2266,8 +2040,7 @@
     "ExperiencePoints": 495,
     "Bits": 1560,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWRs="
+    "Note": null
   },
   {
     "DigimonGroupId": 228,
@@ -2276,8 +2049,7 @@
     "ExperiencePoints": 514,
     "Bits": 1430,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWRw="
+    "Note": null
   },
   {
     "DigimonGroupId": 229,
@@ -2286,8 +2058,7 @@
     "ExperiencePoints": 560,
     "Bits": 1400,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWR0="
+    "Note": null
   },
   {
     "DigimonGroupId": 230,
@@ -2296,8 +2067,7 @@
     "ExperiencePoints": 622,
     "Bits": 980,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWR4="
+    "Note": null
   },
   {
     "DigimonGroupId": 231,
@@ -2306,8 +2076,7 @@
     "ExperiencePoints": 595,
     "Bits": 1960,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWR8="
+    "Note": null
   },
   {
     "DigimonGroupId": 232,
@@ -2316,8 +2085,7 @@
     "ExperiencePoints": 754,
     "Bits": 1350,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWSA="
+    "Note": null
   },
   {
     "DigimonGroupId": 233,
@@ -2326,8 +2094,7 @@
     "ExperiencePoints": 1051,
     "Bits": 1950,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWSE="
+    "Note": null
   },
   {
     "DigimonGroupId": 234,
@@ -2336,8 +2103,7 @@
     "ExperiencePoints": 726,
     "Bits": 1650,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWSI="
+    "Note": null
   },
   {
     "DigimonGroupId": 235,
@@ -2346,8 +2112,7 @@
     "ExperiencePoints": 1190,
     "Bits": 2080,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWSM="
+    "Note": null
   },
   {
     "DigimonGroupId": 236,
@@ -2356,8 +2121,7 @@
     "ExperiencePoints": 1164,
     "Bits": 2400,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWSQ="
+    "Note": null
   },
   {
     "DigimonGroupId": 237,
@@ -2366,8 +2130,7 @@
     "ExperiencePoints": 1211,
     "Bits": 2720,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWSU="
+    "Note": null
   },
   {
     "DigimonGroupId": 238,
@@ -2376,8 +2139,7 @@
     "ExperiencePoints": 1491,
     "Bits": 2380,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWSY="
+    "Note": null
   },
   {
     "DigimonGroupId": 239,
@@ -2386,8 +2148,7 @@
     "ExperiencePoints": 1530,
     "Bits": 3060,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWSc="
+    "Note": null
   },
   {
     "DigimonGroupId": 240,
@@ -2396,8 +2157,7 @@
     "ExperiencePoints": 1544,
     "Bits": 3740,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWSg="
+    "Note": null
   },
   {
     "DigimonGroupId": 241,
@@ -2406,8 +2166,7 @@
     "ExperiencePoints": 617,
     "Bits": 1400,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWSk="
+    "Note": null
   },
   {
     "DigimonGroupId": 242,
@@ -2416,8 +2175,7 @@
     "ExperiencePoints": 588,
     "Bits": 1400,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWSo="
+    "Note": null
   },
   {
     "DigimonGroupId": 243,
@@ -2426,8 +2184,7 @@
     "ExperiencePoints": 627,
     "Bits": 1580,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWSs="
+    "Note": null
   },
   {
     "DigimonGroupId": 244,
@@ -2436,8 +2193,7 @@
     "ExperiencePoints": 193,
     "Bits": 910,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWSw="
+    "Note": null
   },
   {
     "DigimonGroupId": 245,
@@ -2446,8 +2202,7 @@
     "ExperiencePoints": 199,
     "Bits": 910,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWS0="
+    "Note": null
   },
   {
     "DigimonGroupId": 246,
@@ -2456,8 +2211,7 @@
     "ExperiencePoints": 476,
     "Bits": 900,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWS4="
+    "Note": null
   },
   {
     "DigimonGroupId": 247,
@@ -2466,8 +2220,7 @@
     "ExperiencePoints": 145,
     "Bits": 660,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWS8="
+    "Note": null
   },
   {
     "DigimonGroupId": 248,
@@ -2476,8 +2229,7 @@
     "ExperiencePoints": 189,
     "Bits": 1260,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWTA="
+    "Note": null
   },
   {
     "DigimonGroupId": 249,
@@ -2486,8 +2238,7 @@
     "ExperiencePoints": 199,
     "Bits": 910,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWTE="
+    "Note": null
   },
   {
     "DigimonGroupId": 250,
@@ -2496,8 +2247,7 @@
     "ExperiencePoints": 230,
     "Bits": 1120,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWTI="
+    "Note": null
   },
   {
     "DigimonGroupId": 251,
@@ -2506,8 +2256,7 @@
     "ExperiencePoints": 237,
     "Bits": 1520,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWTM="
+    "Note": null
   },
   {
     "DigimonGroupId": 252,
@@ -2516,8 +2265,7 @@
     "ExperiencePoints": 291,
     "Bits": 1170,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWTQ="
+    "Note": null
   },
   {
     "DigimonGroupId": 253,
@@ -2526,8 +2274,7 @@
     "ExperiencePoints": 303,
     "Bits": 1080,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWTU="
+    "Note": null
   },
   {
     "DigimonGroupId": 254,
@@ -2536,8 +2283,7 @@
     "ExperiencePoints": 348,
     "Bits": 1600,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWTY="
+    "Note": null
   },
   {
     "DigimonGroupId": 255,
@@ -2546,8 +2292,7 @@
     "ExperiencePoints": 373,
     "Bits": 1900,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWTc="
+    "Note": null
   },
   {
     "DigimonGroupId": 256,
@@ -2556,8 +2301,7 @@
     "ExperiencePoints": 1011,
     "Bits": 3500,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWTg="
+    "Note": null
   },
   {
     "DigimonGroupId": 257,
@@ -2566,8 +2310,7 @@
     "ExperiencePoints": 195,
     "Bits": 980,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWTk="
+    "Note": null
   },
   {
     "DigimonGroupId": 258,
@@ -2576,8 +2319,7 @@
     "ExperiencePoints": 142,
     "Bits": 900,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWTo="
+    "Note": null
   },
   {
     "DigimonGroupId": 259,
@@ -2586,8 +2328,7 @@
     "ExperiencePoints": 193,
     "Bits": 910,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWTs="
+    "Note": null
   },
   {
     "DigimonGroupId": 260,
@@ -2596,8 +2337,7 @@
     "ExperiencePoints": 244,
     "Bits": 960,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWTw="
+    "Note": null
   },
   {
     "DigimonGroupId": 261,
@@ -2606,8 +2346,7 @@
     "ExperiencePoints": 237,
     "Bits": 1200,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWT0="
+    "Note": null
   },
   {
     "DigimonGroupId": 262,
@@ -2616,8 +2355,7 @@
     "ExperiencePoints": 299,
     "Bits": 1260,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWT4="
+    "Note": null
   },
   {
     "DigimonGroupId": 263,
@@ -2626,8 +2364,7 @@
     "ExperiencePoints": 296,
     "Bits": 1530,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWT8="
+    "Note": null
   },
   {
     "DigimonGroupId": 264,
@@ -2636,8 +2373,7 @@
     "ExperiencePoints": 360,
     "Bits": 1500,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWUA="
+    "Note": null
   },
   {
     "DigimonGroupId": 265,
@@ -2646,8 +2382,7 @@
     "ExperiencePoints": 369,
     "Bits": 1700,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWUE="
+    "Note": null
   },
   {
     "DigimonGroupId": 266,
@@ -2656,8 +2391,7 @@
     "ExperiencePoints": 1003,
     "Bits": 2800,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWUI="
+    "Note": null
   },
   {
     "DigimonGroupId": 267,
@@ -2666,8 +2400,7 @@
     "ExperiencePoints": 148,
     "Bits": 960,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWUM="
+    "Note": null
   },
   {
     "DigimonGroupId": 268,
@@ -2676,8 +2409,7 @@
     "ExperiencePoints": 193,
     "Bits": 910,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWUQ="
+    "Note": null
   },
   {
     "DigimonGroupId": 269,
@@ -2686,8 +2418,7 @@
     "ExperiencePoints": 191,
     "Bits": 1120,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWUU="
+    "Note": null
   },
   {
     "DigimonGroupId": 270,
@@ -2696,8 +2427,7 @@
     "ExperiencePoints": 231,
     "Bits": 1120,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWUY="
+    "Note": null
   },
   {
     "DigimonGroupId": 271,
@@ -2706,8 +2436,7 @@
     "ExperiencePoints": 75,
     "Bits": 480,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWUc="
+    "Note": null
   },
   {
     "DigimonGroupId": 272,
@@ -2716,8 +2445,7 @@
     "ExperiencePoints": 299,
     "Bits": 1530,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWUg="
+    "Note": null
   },
   {
     "DigimonGroupId": 273,
@@ -2726,8 +2454,7 @@
     "ExperiencePoints": 290,
     "Bits": 1170,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWUk="
+    "Note": null
   },
   {
     "DigimonGroupId": 274,
@@ -2736,8 +2463,7 @@
     "ExperiencePoints": 365,
     "Bits": 1800,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWUo="
+    "Note": null
   },
   {
     "DigimonGroupId": 275,
@@ -2746,8 +2472,7 @@
     "ExperiencePoints": 377,
     "Bits": 1900,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWUs="
+    "Note": null
   },
   {
     "DigimonGroupId": 276,
@@ -2756,8 +2481,7 @@
     "ExperiencePoints": 1147,
     "Bits": 4200,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWUw="
+    "Note": null
   },
   {
     "DigimonGroupId": 277,
@@ -2766,8 +2490,7 @@
     "ExperiencePoints": 193,
     "Bits": 910,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWU0="
+    "Note": null
   },
   {
     "DigimonGroupId": 278,
@@ -2776,8 +2499,7 @@
     "ExperiencePoints": 193,
     "Bits": 910,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWU4="
+    "Note": null
   },
   {
     "DigimonGroupId": 279,
@@ -2786,8 +2508,7 @@
     "ExperiencePoints": 189,
     "Bits": 1260,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWU8="
+    "Note": null
   },
   {
     "DigimonGroupId": 280,
@@ -2796,8 +2517,7 @@
     "ExperiencePoints": 195,
     "Bits": 980,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWVA="
+    "Note": null
   },
   {
     "DigimonGroupId": 281,
@@ -2806,8 +2526,7 @@
     "ExperiencePoints": 191,
     "Bits": 1120,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWVE="
+    "Note": null
   },
   {
     "DigimonGroupId": 282,
@@ -2816,8 +2535,7 @@
     "ExperiencePoints": 199,
     "Bits": 910,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWVI="
+    "Note": null
   },
   {
     "DigimonGroupId": 283,
@@ -2826,8 +2544,7 @@
     "ExperiencePoints": 244,
     "Bits": 960,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWVM="
+    "Note": null
   },
   {
     "DigimonGroupId": 284,
@@ -2836,8 +2553,7 @@
     "ExperiencePoints": 231,
     "Bits": 1120,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWVQ="
+    "Note": null
   },
   {
     "DigimonGroupId": 285,
@@ -2846,8 +2562,7 @@
     "ExperiencePoints": 230,
     "Bits": 1120,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWVU="
+    "Note": null
   },
   {
     "DigimonGroupId": 286,
@@ -2856,8 +2571,7 @@
     "ExperiencePoints": 237,
     "Bits": 1200,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWVY="
+    "Note": null
   },
   {
     "DigimonGroupId": 287,
@@ -2866,8 +2580,7 @@
     "ExperiencePoints": 75,
     "Bits": 480,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWVc="
+    "Note": null
   },
   {
     "DigimonGroupId": 288,
@@ -2876,8 +2589,7 @@
     "ExperiencePoints": 237,
     "Bits": 1520,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWVg="
+    "Note": null
   },
   {
     "DigimonGroupId": 289,
@@ -2886,8 +2598,7 @@
     "ExperiencePoints": 299,
     "Bits": 1260,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWVk="
+    "Note": null
   },
   {
     "DigimonGroupId": 290,
@@ -2896,8 +2607,7 @@
     "ExperiencePoints": 299,
     "Bits": 1530,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWVo="
+    "Note": null
   },
   {
     "DigimonGroupId": 291,
@@ -2906,8 +2616,7 @@
     "ExperiencePoints": 291,
     "Bits": 1170,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWVs="
+    "Note": null
   },
   {
     "DigimonGroupId": 292,
@@ -2916,8 +2625,7 @@
     "ExperiencePoints": 296,
     "Bits": 1530,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWVw="
+    "Note": null
   },
   {
     "DigimonGroupId": 293,
@@ -2926,8 +2634,7 @@
     "ExperiencePoints": 303,
     "Bits": 1080,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWV0="
+    "Note": null
   },
   {
     "DigimonGroupId": 294,
@@ -2936,8 +2643,7 @@
     "ExperiencePoints": 290,
     "Bits": 1170,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWV4="
+    "Note": null
   },
   {
     "DigimonGroupId": 295,
@@ -2946,8 +2652,7 @@
     "ExperiencePoints": 360,
     "Bits": 1500,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWV8="
+    "Note": null
   },
   {
     "DigimonGroupId": 296,
@@ -2956,8 +2661,7 @@
     "ExperiencePoints": 365,
     "Bits": 1800,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWWA="
+    "Note": null
   },
   {
     "DigimonGroupId": 297,
@@ -2966,8 +2670,7 @@
     "ExperiencePoints": 348,
     "Bits": 1600,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWWE="
+    "Note": null
   },
   {
     "DigimonGroupId": 298,
@@ -2976,8 +2679,7 @@
     "ExperiencePoints": 369,
     "Bits": 1700,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWWI="
+    "Note": null
   },
   {
     "DigimonGroupId": 299,
@@ -2986,8 +2688,7 @@
     "ExperiencePoints": 377,
     "Bits": 1900,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWWM="
+    "Note": null
   },
   {
     "DigimonGroupId": 300,
@@ -2996,8 +2697,7 @@
     "ExperiencePoints": 373,
     "Bits": 1900,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWWQ="
+    "Note": null
   },
   {
     "DigimonGroupId": 301,
@@ -3006,8 +2706,7 @@
     "ExperiencePoints": 469,
     "Bits": 1650,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWWU="
+    "Note": null
   },
   {
     "DigimonGroupId": 302,
@@ -3016,8 +2715,7 @@
     "ExperiencePoints": 485,
     "Bits": 1980,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWWY="
+    "Note": null
   },
   {
     "DigimonGroupId": 303,
@@ -3026,8 +2724,7 @@
     "ExperiencePoints": 452,
     "Bits": 2310,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWWc="
+    "Note": null
   },
   {
     "DigimonGroupId": 304,
@@ -3036,8 +2733,7 @@
     "ExperiencePoints": 482,
     "Bits": 1430,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWWg="
+    "Note": null
   },
   {
     "DigimonGroupId": 305,
@@ -3046,8 +2742,7 @@
     "ExperiencePoints": 484,
     "Bits": 1540,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWWk="
+    "Note": null
   },
   {
     "DigimonGroupId": 306,
@@ -3056,8 +2751,7 @@
     "ExperiencePoints": 476,
     "Bits": 1430,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWWo="
+    "Note": null
   },
   {
     "DigimonGroupId": 307,
@@ -3066,8 +2760,7 @@
     "ExperiencePoints": 1368,
     "Bits": 3300,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWWs="
+    "Note": null
   },
   {
     "DigimonGroupId": 308,
@@ -3076,8 +2769,7 @@
     "ExperiencePoints": 191,
     "Bits": 1120,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWWw="
+    "Note": null
   },
   {
     "DigimonGroupId": 309,
@@ -3086,8 +2778,7 @@
     "ExperiencePoints": 231,
     "Bits": 1120,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWW0="
+    "Note": null
   },
   {
     "DigimonGroupId": 310,
@@ -3096,8 +2787,7 @@
     "ExperiencePoints": 75,
     "Bits": 480,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWW4="
+    "Note": null
   },
   {
     "DigimonGroupId": 311,
@@ -3106,8 +2796,7 @@
     "ExperiencePoints": 299,
     "Bits": 1530,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWW8="
+    "Note": null
   },
   {
     "DigimonGroupId": 312,
@@ -3116,8 +2805,7 @@
     "ExperiencePoints": 290,
     "Bits": 1170,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWXA="
+    "Note": null
   },
   {
     "DigimonGroupId": 313,
@@ -3126,8 +2814,7 @@
     "ExperiencePoints": 365,
     "Bits": 1800,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWXE="
+    "Note": null
   },
   {
     "DigimonGroupId": 314,
@@ -3136,8 +2823,7 @@
     "ExperiencePoints": 377,
     "Bits": 1900,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWXI="
+    "Note": null
   },
   {
     "DigimonGroupId": 315,
@@ -3146,8 +2832,7 @@
     "ExperiencePoints": 485,
     "Bits": 1980,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWXM="
+    "Note": null
   },
   {
     "DigimonGroupId": 316,
@@ -3156,8 +2841,7 @@
     "ExperiencePoints": 484,
     "Bits": 1540,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWXQ="
+    "Note": null
   },
   {
     "DigimonGroupId": 317,
@@ -3166,8 +2850,7 @@
     "ExperiencePoints": 585,
     "Bits": 2040,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWXU="
+    "Note": null
   },
   {
     "DigimonGroupId": 318,
@@ -3176,8 +2859,7 @@
     "ExperiencePoints": 1674,
     "Bits": 3960,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWXY="
+    "Note": null
   },
   {
     "DigimonGroupId": 319,
@@ -3186,8 +2868,7 @@
     "ExperiencePoints": 199,
     "Bits": 910,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWXc="
+    "Note": null
   },
   {
     "DigimonGroupId": 320,
@@ -3196,8 +2877,7 @@
     "ExperiencePoints": 230,
     "Bits": 1120,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWXg="
+    "Note": null
   },
   {
     "DigimonGroupId": 321,
@@ -3206,8 +2886,7 @@
     "ExperiencePoints": 237,
     "Bits": 1520,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWXk="
+    "Note": null
   },
   {
     "DigimonGroupId": 322,
@@ -3216,8 +2895,7 @@
     "ExperiencePoints": 291,
     "Bits": 1170,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWXo="
+    "Note": null
   },
   {
     "DigimonGroupId": 323,
@@ -3226,8 +2904,7 @@
     "ExperiencePoints": 303,
     "Bits": 1080,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWXs="
+    "Note": null
   },
   {
     "DigimonGroupId": 324,
@@ -3236,8 +2913,7 @@
     "ExperiencePoints": 348,
     "Bits": 1600,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWXw="
+    "Note": null
   },
   {
     "DigimonGroupId": 325,
@@ -3246,8 +2922,7 @@
     "ExperiencePoints": 373,
     "Bits": 1900,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWX0="
+    "Note": null
   },
   {
     "DigimonGroupId": 326,
@@ -3256,8 +2931,7 @@
     "ExperiencePoints": 452,
     "Bits": 2310,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWX4="
+    "Note": null
   },
   {
     "DigimonGroupId": 327,
@@ -3266,8 +2940,7 @@
     "ExperiencePoints": 476,
     "Bits": 1430,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWX8="
+    "Note": null
   },
   {
     "DigimonGroupId": 328,
@@ -3276,8 +2949,7 @@
     "ExperiencePoints": 586,
     "Bits": 1560,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWYA="
+    "Note": null
   },
   {
     "DigimonGroupId": 329,
@@ -3286,8 +2958,7 @@
     "ExperiencePoints": 613,
     "Bits": 1800,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWYE="
+    "Note": null
   },
   {
     "DigimonGroupId": 330,
@@ -3296,8 +2967,7 @@
     "ExperiencePoints": 1657,
     "Bits": 4800,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWYI="
+    "Note": null
   },
   {
     "DigimonGroupId": 331,
@@ -3306,8 +2976,7 @@
     "ExperiencePoints": 195,
     "Bits": 980,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWYM="
+    "Note": null
   },
   {
     "DigimonGroupId": 332,
@@ -3316,8 +2985,7 @@
     "ExperiencePoints": 244,
     "Bits": 960,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWYQ="
+    "Note": null
   },
   {
     "DigimonGroupId": 333,
@@ -3326,8 +2994,7 @@
     "ExperiencePoints": 237,
     "Bits": 1200,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWYU="
+    "Note": null
   },
   {
     "DigimonGroupId": 334,
@@ -3336,8 +3003,7 @@
     "ExperiencePoints": 299,
     "Bits": 1260,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWYY="
+    "Note": null
   },
   {
     "DigimonGroupId": 335,
@@ -3346,8 +3012,7 @@
     "ExperiencePoints": 296,
     "Bits": 1530,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWYc="
+    "Note": null
   },
   {
     "DigimonGroupId": 336,
@@ -3356,8 +3021,7 @@
     "ExperiencePoints": 360,
     "Bits": 1500,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWYg="
+    "Note": null
   },
   {
     "DigimonGroupId": 337,
@@ -3366,8 +3030,7 @@
     "ExperiencePoints": 369,
     "Bits": 1700,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWYk="
+    "Note": null
   },
   {
     "DigimonGroupId": 338,
@@ -3376,8 +3039,7 @@
     "ExperiencePoints": 469,
     "Bits": 1650,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWYo="
+    "Note": null
   },
   {
     "DigimonGroupId": 339,
@@ -3386,8 +3048,7 @@
     "ExperiencePoints": 482,
     "Bits": 1430,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWYs="
+    "Note": null
   },
   {
     "DigimonGroupId": 340,
@@ -3396,8 +3057,7 @@
     "ExperiencePoints": 570,
     "Bits": 1560,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWYw="
+    "Note": null
   },
   {
     "DigimonGroupId": 341,
@@ -3406,8 +3066,7 @@
     "ExperiencePoints": 453,
     "Bits": 960,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWY0="
+    "Note": null
   },
   {
     "DigimonGroupId": 342,
@@ -3416,8 +3075,7 @@
     "ExperiencePoints": 708,
     "Bits": 2400,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWY4="
+    "Note": null
   },
   {
     "DigimonGroupId": 343,
@@ -3426,8 +3084,7 @@
     "ExperiencePoints": 708,
     "Bits": 2600,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWY8="
+    "Note": null
   },
   {
     "DigimonGroupId": 344,
@@ -3436,8 +3093,7 @@
     "ExperiencePoints": 966,
     "Bits": 2860,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWZA="
+    "Note": null
   },
   {
     "DigimonGroupId": 345,
@@ -3446,8 +3102,7 @@
     "ExperiencePoints": 966,
     "Bits": 2420,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWZE="
+    "Note": null
   },
   {
     "DigimonGroupId": 346,
@@ -3456,8 +3111,7 @@
     "ExperiencePoints": 966,
     "Bits": 3740,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWZI="
+    "Note": null
   },
   {
     "DigimonGroupId": 347,
@@ -3466,8 +3120,7 @@
     "ExperiencePoints": 248,
     "Bits": 2400,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWZM="
+    "Note": null
   },
   {
     "DigimonGroupId": 348,
@@ -3476,8 +3129,7 @@
     "ExperiencePoints": 1878,
     "Bits": 5520,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWZQ="
+    "Note": null
   },
   {
     "DigimonGroupId": 349,
@@ -3486,8 +3138,7 @@
     "ExperiencePoints": 296,
     "Bits": 1530,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWZU="
+    "Note": null
   },
   {
     "DigimonGroupId": 350,
@@ -3496,8 +3147,7 @@
     "ExperiencePoints": 291,
     "Bits": 1170,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWZY="
+    "Note": null
   },
   {
     "DigimonGroupId": 351,
@@ -3506,8 +3156,7 @@
     "ExperiencePoints": 290,
     "Bits": 1170,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWZc="
+    "Note": null
   },
   {
     "DigimonGroupId": 352,
@@ -3516,8 +3165,7 @@
     "ExperiencePoints": 299,
     "Bits": 1260,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWZg="
+    "Note": null
   },
   {
     "DigimonGroupId": 353,
@@ -3526,8 +3174,7 @@
     "ExperiencePoints": 303,
     "Bits": 1080,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWZk="
+    "Note": null
   },
   {
     "DigimonGroupId": 354,
@@ -3536,8 +3183,7 @@
     "ExperiencePoints": 299,
     "Bits": 1530,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWZo="
+    "Note": null
   },
   {
     "DigimonGroupId": 355,
@@ -3546,8 +3192,7 @@
     "ExperiencePoints": 369,
     "Bits": 1700,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWZs="
+    "Note": null
   },
   {
     "DigimonGroupId": 356,
@@ -3556,8 +3201,7 @@
     "ExperiencePoints": 348,
     "Bits": 1600,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWZw="
+    "Note": null
   },
   {
     "DigimonGroupId": 357,
@@ -3566,8 +3210,7 @@
     "ExperiencePoints": 377,
     "Bits": 1900,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWZ0="
+    "Note": null
   },
   {
     "DigimonGroupId": 358,
@@ -3576,8 +3219,7 @@
     "ExperiencePoints": 360,
     "Bits": 1500,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWZ4="
+    "Note": null
   },
   {
     "DigimonGroupId": 359,
@@ -3586,8 +3228,7 @@
     "ExperiencePoints": 373,
     "Bits": 1900,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWZ8="
+    "Note": null
   },
   {
     "DigimonGroupId": 360,
@@ -3596,8 +3237,7 @@
     "ExperiencePoints": 365,
     "Bits": 1800,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWaA="
+    "Note": null
   },
   {
     "DigimonGroupId": 361,
@@ -3606,8 +3246,7 @@
     "ExperiencePoints": 469,
     "Bits": 1650,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWaE="
+    "Note": null
   },
   {
     "DigimonGroupId": 362,
@@ -3616,8 +3255,7 @@
     "ExperiencePoints": 452,
     "Bits": 2310,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWaI="
+    "Note": null
   },
   {
     "DigimonGroupId": 363,
@@ -3626,8 +3264,7 @@
     "ExperiencePoints": 485,
     "Bits": 1980,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWaM="
+    "Note": null
   },
   {
     "DigimonGroupId": 364,
@@ -3636,8 +3273,7 @@
     "ExperiencePoints": 482,
     "Bits": 1430,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWaQ="
+    "Note": null
   },
   {
     "DigimonGroupId": 365,
@@ -3646,8 +3282,7 @@
     "ExperiencePoints": 476,
     "Bits": 1430,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWaU="
+    "Note": null
   },
   {
     "DigimonGroupId": 366,
@@ -3656,8 +3291,7 @@
     "ExperiencePoints": 484,
     "Bits": 1540,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWaY="
+    "Note": null
   },
   {
     "DigimonGroupId": 367,
@@ -3666,8 +3300,7 @@
     "ExperiencePoints": 570,
     "Bits": 1560,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWac="
+    "Note": null
   },
   {
     "DigimonGroupId": 368,
@@ -3676,8 +3309,7 @@
     "ExperiencePoints": 586,
     "Bits": 1560,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWag="
+    "Note": null
   },
   {
     "DigimonGroupId": 369,
@@ -3686,8 +3318,7 @@
     "ExperiencePoints": 585,
     "Bits": 2040,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWak="
+    "Note": null
   },
   {
     "DigimonGroupId": 370,
@@ -3696,8 +3327,7 @@
     "ExperiencePoints": 453,
     "Bits": 960,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWao="
+    "Note": null
   },
   {
     "DigimonGroupId": 371,
@@ -3706,8 +3336,7 @@
     "ExperiencePoints": 613,
     "Bits": 1800,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWas="
+    "Note": null
   },
   {
     "DigimonGroupId": 372,
@@ -3716,8 +3345,7 @@
     "ExperiencePoints": 613,
     "Bits": 1800,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWaw="
+    "Note": null
   },
   {
     "DigimonGroupId": 373,
@@ -3726,8 +3354,7 @@
     "ExperiencePoints": 702,
     "Bits": 1950,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWa0="
+    "Note": null
   },
   {
     "DigimonGroupId": 374,
@@ -3736,8 +3363,7 @@
     "ExperiencePoints": 495,
     "Bits": 1560,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWa4="
+    "Note": null
   },
   {
     "DigimonGroupId": 375,
@@ -3746,8 +3372,7 @@
     "ExperiencePoints": 723,
     "Bits": 1820,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWa8="
+    "Note": null
   },
   {
     "DigimonGroupId": 376,
@@ -3756,8 +3381,7 @@
     "ExperiencePoints": 550,
     "Bits": 1300,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWbA="
+    "Note": null
   },
   {
     "DigimonGroupId": 377,
@@ -3766,8 +3390,7 @@
     "ExperiencePoints": 514,
     "Bits": 1430,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWbE="
+    "Note": null
   },
   {
     "DigimonGroupId": 378,
@@ -3776,8 +3399,7 @@
     "ExperiencePoints": 516,
     "Bits": 1300,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWbI="
+    "Note": null
   },
   {
     "DigimonGroupId": 379,
@@ -3786,8 +3408,7 @@
     "ExperiencePoints": 1572,
     "Bits": 4680,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWbM="
+    "Note": null
   },
   {
     "DigimonGroupId": 380,
@@ -3796,8 +3417,7 @@
     "ExperiencePoints": 1179,
     "Bits": 2340,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWbQ="
+    "Note": null
   },
   {
     "DigimonGroupId": 381,
@@ -3806,8 +3426,7 @@
     "ExperiencePoints": 3,
     "Bits": 30,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWbU="
+    "Note": null
   },
   {
     "DigimonGroupId": 382,
@@ -3816,8 +3435,7 @@
     "ExperiencePoints": 3,
     "Bits": 50,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWbY="
+    "Note": null
   },
   {
     "DigimonGroupId": 383,
@@ -3826,8 +3444,7 @@
     "ExperiencePoints": 4,
     "Bits": 40,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWbc="
+    "Note": null
   },
   {
     "DigimonGroupId": 384,
@@ -3836,8 +3453,7 @@
     "ExperiencePoints": 12,
     "Bits": 180,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWbg="
+    "Note": null
   },
   {
     "DigimonGroupId": 385,
@@ -3846,8 +3462,7 @@
     "ExperiencePoints": 11,
     "Bits": 200,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWbk="
+    "Note": null
   },
   {
     "DigimonGroupId": 386,
@@ -3856,8 +3471,7 @@
     "ExperiencePoints": 7,
     "Bits": 100,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWbo="
+    "Note": null
   },
   {
     "DigimonGroupId": 387,
@@ -3866,8 +3480,7 @@
     "ExperiencePoints": 21,
     "Bits": 210,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWbs="
+    "Note": null
   },
   {
     "DigimonGroupId": 388,
@@ -3876,8 +3489,7 @@
     "ExperiencePoints": 27,
     "Bits": 390,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWbw="
+    "Note": null
   },
   {
     "DigimonGroupId": 389,
@@ -3886,8 +3498,7 @@
     "ExperiencePoints": 22,
     "Bits": 360,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWb0="
+    "Note": null
   },
   {
     "DigimonGroupId": 390,
@@ -3896,8 +3507,7 @@
     "ExperiencePoints": 55,
     "Bits": 320,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWb4="
+    "Note": null
   },
   {
     "DigimonGroupId": 391,
@@ -3906,8 +3516,7 @@
     "ExperiencePoints": 53,
     "Bits": 240,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWb8="
+    "Note": null
   },
   {
     "DigimonGroupId": 392,
@@ -3916,8 +3525,7 @@
     "ExperiencePoints": 58,
     "Bits": 520,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWcA="
+    "Note": null
   },
   {
     "DigimonGroupId": 393,
@@ -3926,8 +3534,7 @@
     "ExperiencePoints": 78,
     "Bits": 500,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWcE="
+    "Note": null
   },
   {
     "DigimonGroupId": 394,
@@ -3936,8 +3543,7 @@
     "ExperiencePoints": 104,
     "Bits": 900,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWcI="
+    "Note": null
   },
   {
     "DigimonGroupId": 395,
@@ -3946,8 +3552,7 @@
     "ExperiencePoints": 66,
     "Bits": 300,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWcM="
+    "Note": null
   },
   {
     "DigimonGroupId": 396,
@@ -3956,8 +3561,7 @@
     "ExperiencePoints": 142,
     "Bits": 900,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWcQ="
+    "Note": null
   },
   {
     "DigimonGroupId": 397,
@@ -3966,8 +3570,7 @@
     "ExperiencePoints": 139,
     "Bits": 780,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWcU="
+    "Note": null
   },
   {
     "DigimonGroupId": 398,
@@ -3976,8 +3579,7 @@
     "ExperiencePoints": 143,
     "Bits": 540,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWcY="
+    "Note": null
   },
   {
     "DigimonGroupId": 399,
@@ -3986,8 +3588,7 @@
     "ExperiencePoints": 195,
     "Bits": 980,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWcc="
+    "Note": null
   },
   {
     "DigimonGroupId": 400,
@@ -3996,8 +3597,7 @@
     "ExperiencePoints": 193,
     "Bits": 910,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWcg="
+    "Note": null
   },
   {
     "DigimonGroupId": 401,
@@ -4006,8 +3606,7 @@
     "ExperiencePoints": 189,
     "Bits": 1260,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWck="
+    "Note": null
   },
   {
     "DigimonGroupId": 402,
@@ -4016,8 +3615,7 @@
     "ExperiencePoints": 237,
     "Bits": 1200,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWco="
+    "Note": null
   },
   {
     "DigimonGroupId": 403,
@@ -4026,8 +3624,7 @@
     "ExperiencePoints": 231,
     "Bits": 1120,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWcs="
+    "Note": null
   },
   {
     "DigimonGroupId": 404,
@@ -4036,8 +3633,7 @@
     "ExperiencePoints": 230,
     "Bits": 1120,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWcw="
+    "Note": null
   },
   {
     "DigimonGroupId": 405,
@@ -4046,8 +3642,7 @@
     "ExperiencePoints": 299,
     "Bits": 1260,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWc0="
+    "Note": null
   },
   {
     "DigimonGroupId": 406,
@@ -4056,8 +3651,7 @@
     "ExperiencePoints": 291,
     "Bits": 1170,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWc4="
+    "Note": null
   },
   {
     "DigimonGroupId": 407,
@@ -4066,8 +3660,7 @@
     "ExperiencePoints": 299,
     "Bits": 1530,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWc8="
+    "Note": null
   },
   {
     "DigimonGroupId": 408,
@@ -4076,8 +3669,7 @@
     "ExperiencePoints": 369,
     "Bits": 1700,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWdA="
+    "Note": null
   },
   {
     "DigimonGroupId": 409,
@@ -4086,8 +3678,7 @@
     "ExperiencePoints": 365,
     "Bits": 1800,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWdE="
+    "Note": null
   },
   {
     "DigimonGroupId": 410,
@@ -4096,8 +3687,7 @@
     "ExperiencePoints": 348,
     "Bits": 1600,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWdI="
+    "Note": null
   },
   {
     "DigimonGroupId": 411,
@@ -4106,8 +3696,7 @@
     "ExperiencePoints": 360,
     "Bits": 1500,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWdM="
+    "Note": null
   },
   {
     "DigimonGroupId": 412,
@@ -4116,8 +3705,7 @@
     "ExperiencePoints": 377,
     "Bits": 1900,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWdQ="
+    "Note": null
   },
   {
     "DigimonGroupId": 413,
@@ -4126,8 +3714,7 @@
     "ExperiencePoints": 373,
     "Bits": 1900,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWdU="
+    "Note": null
   },
   {
     "DigimonGroupId": 414,
@@ -4136,8 +3723,7 @@
     "ExperiencePoints": 469,
     "Bits": 1650,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWdY="
+    "Note": null
   },
   {
     "DigimonGroupId": 415,
@@ -4146,8 +3732,7 @@
     "ExperiencePoints": 485,
     "Bits": 1980,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWdc="
+    "Note": null
   },
   {
     "DigimonGroupId": 416,
@@ -4156,8 +3741,7 @@
     "ExperiencePoints": 452,
     "Bits": 2310,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWdg="
+    "Note": null
   },
   {
     "DigimonGroupId": 417,
@@ -4166,8 +3750,7 @@
     "ExperiencePoints": 482,
     "Bits": 1430,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWdk="
+    "Note": null
   },
   {
     "DigimonGroupId": 418,
@@ -4176,8 +3759,7 @@
     "ExperiencePoints": 484,
     "Bits": 1540,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWdo="
+    "Note": null
   },
   {
     "DigimonGroupId": 419,
@@ -4186,8 +3768,7 @@
     "ExperiencePoints": 476,
     "Bits": 1430,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWds="
+    "Note": null
   },
   {
     "DigimonGroupId": 420,
@@ -4196,8 +3777,7 @@
     "ExperiencePoints": 570,
     "Bits": 1560,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWdw="
+    "Note": null
   },
   {
     "DigimonGroupId": 421,
@@ -4206,8 +3786,7 @@
     "ExperiencePoints": 585,
     "Bits": 2040,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWd0="
+    "Note": null
   },
   {
     "DigimonGroupId": 422,
@@ -4216,8 +3795,7 @@
     "ExperiencePoints": 586,
     "Bits": 1560,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWd4="
+    "Note": null
   },
   {
     "DigimonGroupId": 423,
@@ -4226,8 +3804,7 @@
     "ExperiencePoints": 453,
     "Bits": 960,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWd8="
+    "Note": null
   },
   {
     "DigimonGroupId": 424,
@@ -4236,8 +3813,7 @@
     "ExperiencePoints": 613,
     "Bits": 1800,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWeA="
+    "Note": null
   },
   {
     "DigimonGroupId": 425,
@@ -4246,8 +3822,7 @@
     "ExperiencePoints": 613,
     "Bits": 1800,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWeE="
+    "Note": null
   },
   {
     "DigimonGroupId": 426,
@@ -4256,8 +3831,7 @@
     "ExperiencePoints": 702,
     "Bits": 1950,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWeI="
+    "Note": null
   },
   {
     "DigimonGroupId": 427,
@@ -4266,8 +3840,7 @@
     "ExperiencePoints": 723,
     "Bits": 1820,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWeM="
+    "Note": null
   },
   {
     "DigimonGroupId": 428,
@@ -4276,8 +3849,7 @@
     "ExperiencePoints": 495,
     "Bits": 1560,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWeQ="
+    "Note": null
   },
   {
     "DigimonGroupId": 429,
@@ -4286,8 +3858,7 @@
     "ExperiencePoints": 550,
     "Bits": 1300,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWeU="
+    "Note": null
   },
   {
     "DigimonGroupId": 430,
@@ -4296,8 +3867,7 @@
     "ExperiencePoints": 516,
     "Bits": 1300,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWeY="
+    "Note": null
   },
   {
     "DigimonGroupId": 431,
@@ -4306,8 +3876,7 @@
     "ExperiencePoints": 514,
     "Bits": 1430,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWec="
+    "Note": null
   },
   {
     "DigimonGroupId": 432,
@@ -4316,8 +3885,7 @@
     "ExperiencePoints": 560,
     "Bits": 1400,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWeg="
+    "Note": null
   },
   {
     "DigimonGroupId": 433,
@@ -4326,8 +3894,7 @@
     "ExperiencePoints": 622,
     "Bits": 980,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWek="
+    "Note": null
   },
   {
     "DigimonGroupId": 434,
@@ -4336,8 +3903,7 @@
     "ExperiencePoints": 595,
     "Bits": 1960,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWeo="
+    "Note": null
   },
   {
     "DigimonGroupId": 435,
@@ -4346,8 +3912,7 @@
     "ExperiencePoints": 754,
     "Bits": 1350,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWes="
+    "Note": null
   },
   {
     "DigimonGroupId": 436,
@@ -4356,8 +3921,7 @@
     "ExperiencePoints": 1051,
     "Bits": 1950,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWew="
+    "Note": null
   },
   {
     "DigimonGroupId": 437,
@@ -4366,8 +3930,7 @@
     "ExperiencePoints": 726,
     "Bits": 1650,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWe0="
+    "Note": null
   },
   {
     "DigimonGroupId": 438,
@@ -4376,8 +3939,7 @@
     "ExperiencePoints": 1795,
     "Bits": 2250,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWe4="
+    "Note": null
   },
   {
     "DigimonGroupId": 439,
@@ -4386,8 +3948,7 @@
     "ExperiencePoints": 360,
     "Bits": 1500,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWe8="
+    "Note": null
   },
   {
     "DigimonGroupId": 440,
@@ -4396,8 +3957,7 @@
     "ExperiencePoints": 369,
     "Bits": 1700,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWfA="
+    "Note": null
   },
   {
     "DigimonGroupId": 441,
@@ -4406,8 +3966,7 @@
     "ExperiencePoints": 469,
     "Bits": 1650,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWfE="
+    "Note": null
   },
   {
     "DigimonGroupId": 442,
@@ -4416,8 +3975,7 @@
     "ExperiencePoints": 365,
     "Bits": 1800,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWfI="
+    "Note": null
   },
   {
     "DigimonGroupId": 443,
@@ -4426,8 +3984,7 @@
     "ExperiencePoints": 377,
     "Bits": 1900,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWfM="
+    "Note": null
   },
   {
     "DigimonGroupId": 444,
@@ -4436,8 +3993,7 @@
     "ExperiencePoints": 484,
     "Bits": 1540,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWfQ="
+    "Note": null
   },
   {
     "DigimonGroupId": 445,
@@ -4446,8 +4002,7 @@
     "ExperiencePoints": 348,
     "Bits": 1600,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWfU="
+    "Note": null
   },
   {
     "DigimonGroupId": 446,
@@ -4456,8 +4011,7 @@
     "ExperiencePoints": 373,
     "Bits": 1900,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWfY="
+    "Note": null
   },
   {
     "DigimonGroupId": 447,
@@ -4466,8 +4020,7 @@
     "ExperiencePoints": 452,
     "Bits": 2310,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWfc="
+    "Note": null
   },
   {
     "DigimonGroupId": 448,
@@ -4476,8 +4029,7 @@
     "ExperiencePoints": 482,
     "Bits": 1430,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWfg="
+    "Note": null
   },
   {
     "DigimonGroupId": 449,
@@ -4486,8 +4038,7 @@
     "ExperiencePoints": 570,
     "Bits": 1560,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWfk="
+    "Note": null
   },
   {
     "DigimonGroupId": 450,
@@ -4496,8 +4047,7 @@
     "ExperiencePoints": 485,
     "Bits": 1980,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWfo="
+    "Note": null
   },
   {
     "DigimonGroupId": 451,
@@ -4506,8 +4056,7 @@
     "ExperiencePoints": 585,
     "Bits": 2040,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWfs="
+    "Note": null
   },
   {
     "DigimonGroupId": 452,
@@ -4516,8 +4065,7 @@
     "ExperiencePoints": 476,
     "Bits": 1430,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWfw="
+    "Note": null
   },
   {
     "DigimonGroupId": 453,
@@ -4526,8 +4074,7 @@
     "ExperiencePoints": 586,
     "Bits": 1560,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWf0="
+    "Note": null
   },
   {
     "DigimonGroupId": 454,
@@ -4536,8 +4083,7 @@
     "ExperiencePoints": 453,
     "Bits": 960,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWf4="
+    "Note": null
   },
   {
     "DigimonGroupId": 455,
@@ -4546,8 +4092,7 @@
     "ExperiencePoints": 702,
     "Bits": 1950,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWf8="
+    "Note": null
   },
   {
     "DigimonGroupId": 456,
@@ -4556,8 +4101,7 @@
     "ExperiencePoints": 613,
     "Bits": 1800,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWgE="
+    "Note": null
   },
   {
     "DigimonGroupId": 457,
@@ -4566,8 +4110,7 @@
     "ExperiencePoints": 613,
     "Bits": 1800,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWgI="
+    "Note": null
   },
   {
     "DigimonGroupId": 458,
@@ -4576,8 +4119,7 @@
     "ExperiencePoints": 514,
     "Bits": 1430,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWgM="
+    "Note": null
   },
   {
     "DigimonGroupId": 459,
@@ -4586,8 +4128,7 @@
     "ExperiencePoints": 550,
     "Bits": 1300,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWgQ="
+    "Note": null
   },
   {
     "DigimonGroupId": 460,
@@ -4596,8 +4137,7 @@
     "ExperiencePoints": 560,
     "Bits": 1400,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWgU="
+    "Note": null
   },
   {
     "DigimonGroupId": 461,
@@ -4606,8 +4146,7 @@
     "ExperiencePoints": 723,
     "Bits": 1820,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWgY="
+    "Note": null
   },
   {
     "DigimonGroupId": 462,
@@ -4616,8 +4155,7 @@
     "ExperiencePoints": 516,
     "Bits": 1300,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWgc="
+    "Note": null
   },
   {
     "DigimonGroupId": 463,
@@ -4626,8 +4164,7 @@
     "ExperiencePoints": 622,
     "Bits": 980,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWgg="
+    "Note": null
   },
   {
     "DigimonGroupId": 464,
@@ -4636,8 +4173,7 @@
     "ExperiencePoints": 495,
     "Bits": 1560,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWgk="
+    "Note": null
   },
   {
     "DigimonGroupId": 465,
@@ -4646,8 +4182,7 @@
     "ExperiencePoints": 595,
     "Bits": 1960,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWgo="
+    "Note": null
   },
   {
     "DigimonGroupId": 466,
@@ -4656,8 +4191,7 @@
     "ExperiencePoints": 754,
     "Bits": 1350,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWgs="
+    "Note": null
   },
   {
     "DigimonGroupId": 467,
@@ -4666,8 +4200,7 @@
     "ExperiencePoints": 1051,
     "Bits": 1950,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWgw="
+    "Note": null
   },
   {
     "DigimonGroupId": 468,
@@ -4676,8 +4209,7 @@
     "ExperiencePoints": 726,
     "Bits": 1650,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWg0="
+    "Note": null
   },
   {
     "DigimonGroupId": 469,
@@ -4686,8 +4218,7 @@
     "ExperiencePoints": 1190,
     "Bits": 2080,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWg4="
+    "Note": null
   },
   {
     "DigimonGroupId": 470,
@@ -4696,8 +4227,7 @@
     "ExperiencePoints": 1164,
     "Bits": 2400,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWg8="
+    "Note": null
   },
   {
     "DigimonGroupId": 471,
@@ -4706,8 +4236,7 @@
     "ExperiencePoints": 1211,
     "Bits": 2720,
     "IsBoss": false,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWhA="
+    "Note": null
   },
   {
     "DigimonGroupId": 472,
@@ -4716,8 +4245,7 @@
     "ExperiencePoints": 848,
     "Bits": 1600,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWhE="
+    "Note": null
   },
   {
     "DigimonGroupId": 473,
@@ -4726,7 +4254,6 @@
     "ExperiencePoints": 4468,
     "Bits": 5600,
     "IsBoss": true,
-    "Note": null,
-    "Timestamp": "AAAAAAAAWhI="
+    "Note": null
   }
 ]

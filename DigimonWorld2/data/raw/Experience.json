@@ -3,385 +3,594 @@
     "ExperienceId": 1,
     "Level": 1,
     "LevelXP": 0,
-    "TotalXP": 0,
-    "Timestamp": "AAAAAAAAbCk="
+    "TotalXP": 0
   },
   {
     "ExperienceId": 2,
     "Level": 2,
     "LevelXP": 6,
-    "TotalXP": 6,
-    "Timestamp": "AAAAAAAAbCo="
+    "TotalXP": 6
   },
   {
     "ExperienceId": 3,
     "Level": 3,
     "LevelXP": 10,
-    "TotalXP": 16,
-    "Timestamp": "AAAAAAAAbCs="
+    "TotalXP": 16
   },
   {
     "ExperienceId": 4,
     "Level": 4,
     "LevelXP": 17,
-    "TotalXP": 33,
-    "Timestamp": "AAAAAAAAbCw="
+    "TotalXP": 33
   },
   {
     "ExperienceId": 5,
     "Level": 5,
     "LevelXP": 24,
-    "TotalXP": 57,
-    "Timestamp": "AAAAAAAAbC0="
+    "TotalXP": 57
   },
   {
     "ExperienceId": 6,
     "Level": 6,
     "LevelXP": 34,
-    "TotalXP": 91,
-    "Timestamp": "AAAAAAAAbC4="
+    "TotalXP": 91
   },
   {
     "ExperienceId": 7,
     "Level": 7,
     "LevelXP": 47,
-    "TotalXP": 138,
-    "Timestamp": "AAAAAAAAbC8="
+    "TotalXP": 138
   },
   {
     "ExperienceId": 8,
     "Level": 8,
     "LevelXP": 60,
-    "TotalXP": 198,
-    "Timestamp": "AAAAAAAAbDA="
+    "TotalXP": 198
   },
   {
     "ExperienceId": 9,
     "Level": 9,
     "LevelXP": 76,
-    "TotalXP": 274,
-    "Timestamp": "AAAAAAAAbDE="
+    "TotalXP": 274
   },
   {
     "ExperienceId": 10,
     "Level": 10,
     "LevelXP": 95,
-    "TotalXP": 369,
-    "Timestamp": "AAAAAAAAbDI="
+    "TotalXP": 369
   },
   {
     "ExperienceId": 11,
     "Level": 11,
     "LevelXP": 114,
-    "TotalXP": 483,
-    "Timestamp": "AAAAAAAAbDM="
+    "TotalXP": 483
   },
   {
     "ExperienceId": 12,
     "Level": 12,
     "LevelXP": 117,
-    "TotalXP": 600,
-    "Timestamp": "AAAAAAAAbDQ="
+    "TotalXP": 600
   },
   {
     "ExperienceId": 13,
     "Level": 13,
     "LevelXP": 160,
-    "TotalXP": 760,
-    "Timestamp": "AAAAAAAAbDU="
+    "TotalXP": 760
   },
   {
     "ExperienceId": 14,
     "Level": 14,
     "LevelXP": 221,
-    "TotalXP": 981,
-    "Timestamp": "AAAAAAAAbDY="
+    "TotalXP": 981
   },
   {
     "ExperienceId": 15,
     "Level": 15,
     "LevelXP": 300,
-    "TotalXP": 1281,
-    "Timestamp": "AAAAAAAAbDc="
+    "TotalXP": 1281
   },
   {
     "ExperienceId": 16,
     "Level": 16,
     "LevelXP": 400,
-    "TotalXP": 1681,
-    "Timestamp": "AAAAAAAAbDg="
+    "TotalXP": 1681
   },
   {
     "ExperienceId": 17,
     "Level": 17,
     "LevelXP": 521,
-    "TotalXP": 2202,
-    "Timestamp": "AAAAAAAAbDk="
+    "TotalXP": 2202
   },
   {
     "ExperienceId": 18,
     "Level": 18,
     "LevelXP": 660,
-    "TotalXP": 2862,
-    "Timestamp": "AAAAAAAAbDo="
+    "TotalXP": 2862
   },
   {
     "ExperienceId": 19,
     "Level": 19,
     "LevelXP": 820,
-    "TotalXP": 3682,
-    "Timestamp": "AAAAAAAAbDs="
+    "TotalXP": 3682
   },
   {
     "ExperienceId": 20,
     "Level": 20,
     "LevelXP": 1001,
-    "TotalXP": 4683,
-    "Timestamp": "AAAAAAAAbDw="
+    "TotalXP": 4683
   },
   {
     "ExperienceId": 21,
     "Level": 21,
     "LevelXP": 1200,
-    "TotalXP": 5883,
-    "Timestamp": "AAAAAAAAbD0="
+    "TotalXP": 5883
   },
   {
     "ExperienceId": 22,
     "Level": 22,
     "LevelXP": 1257,
-    "TotalXP": 7140,
-    "Timestamp": "AAAAAAAAbD4="
+    "TotalXP": 7140
   },
   {
     "ExperienceId": 23,
     "Level": 23,
     "LevelXP": 1380,
-    "TotalXP": 8520,
-    "Timestamp": "AAAAAAAAbD8="
+    "TotalXP": 8520
   },
   {
     "ExperienceId": 24,
     "Level": 24,
     "LevelXP": 1560,
-    "TotalXP": 10080,
-    "Timestamp": "AAAAAAAAbEA="
+    "TotalXP": 10080
   },
   {
     "ExperienceId": 25,
     "Level": 25,
     "LevelXP": 1800,
-    "TotalXP": 11880,
-    "Timestamp": "AAAAAAAAbEE="
+    "TotalXP": 11880
   },
   {
     "ExperienceId": 26,
     "Level": 26,
     "LevelXP": 2100,
-    "TotalXP": 13980,
-    "Timestamp": "AAAAAAAAbEI="
+    "TotalXP": 13980
   },
   {
     "ExperienceId": 27,
     "Level": 27,
     "LevelXP": 2460,
-    "TotalXP": 16440,
-    "Timestamp": "AAAAAAAAbEM="
+    "TotalXP": 16440
   },
   {
     "ExperienceId": 28,
     "Level": 28,
     "LevelXP": 2880,
-    "TotalXP": 19320,
-    "Timestamp": "AAAAAAAAbEQ="
+    "TotalXP": 19320
   },
   {
     "ExperienceId": 29,
     "Level": 29,
     "LevelXP": 3360,
-    "TotalXP": 22680,
-    "Timestamp": "AAAAAAAAbEU="
+    "TotalXP": 22680
   },
   {
     "ExperienceId": 30,
     "Level": 30,
     "LevelXP": 3900,
-    "TotalXP": 26580,
-    "Timestamp": "AAAAAAAAbEY="
+    "TotalXP": 26580
   },
   {
     "ExperienceId": 31,
     "Level": 31,
     "LevelXP": 4500,
-    "TotalXP": 31080,
-    "Timestamp": "AAAAAAAAbEc="
+    "TotalXP": 31080
   },
   {
     "ExperienceId": 32,
     "Level": 32,
     "LevelXP": 4660,
-    "TotalXP": 35740,
-    "Timestamp": "AAAAAAAAbEg="
+    "TotalXP": 35740
   },
   {
     "ExperienceId": 33,
     "Level": 33,
     "LevelXP": 4900,
-    "TotalXP": 40640,
-    "Timestamp": "AAAAAAAAbEk="
+    "TotalXP": 40640
   },
   {
     "ExperienceId": 34,
     "Level": 34,
     "LevelXP": 5260,
-    "TotalXP": 45900,
-    "Timestamp": "AAAAAAAAbEo="
+    "TotalXP": 45900
   },
   {
     "ExperienceId": 35,
     "Level": 35,
     "LevelXP": 5740,
-    "TotalXP": 51640,
-    "Timestamp": "AAAAAAAAbEs="
+    "TotalXP": 51640
   },
   {
     "ExperienceId": 36,
     "Level": 36,
     "LevelXP": 6340,
-    "TotalXP": 57980,
-    "Timestamp": "AAAAAAAAbEw="
+    "TotalXP": 57980
   },
   {
     "ExperienceId": 37,
     "Level": 37,
     "LevelXP": 7060,
-    "TotalXP": 65040,
-    "Timestamp": "AAAAAAAAbE0="
+    "TotalXP": 65040
   },
   {
     "ExperienceId": 38,
     "Level": 38,
     "LevelXP": 7900,
-    "TotalXP": 72940,
-    "Timestamp": "AAAAAAAAbE4="
+    "TotalXP": 72940
   },
   {
     "ExperienceId": 39,
     "Level": 39,
     "LevelXP": 8860,
-    "TotalXP": 81800,
-    "Timestamp": "AAAAAAAAbE8="
+    "TotalXP": 81800
   },
   {
     "ExperienceId": 40,
     "Level": 40,
     "LevelXP": 9940,
-    "TotalXP": 91740,
-    "Timestamp": "AAAAAAAAbFA="
+    "TotalXP": 91740
   },
   {
     "ExperienceId": 41,
     "Level": 41,
     "LevelXP": 11140,
-    "TotalXP": 102880,
-    "Timestamp": "AAAAAAAAbFE="
+    "TotalXP": 102880
   },
   {
     "ExperienceId": 42,
     "Level": 42,
     "LevelXP": 12460,
-    "TotalXP": 115340,
-    "Timestamp": "AAAAAAAAbFI="
+    "TotalXP": 115340
   },
   {
     "ExperienceId": 43,
     "Level": 43,
     "LevelXP": 13900,
-    "TotalXP": 129240,
-    "Timestamp": "AAAAAAAAbFM="
+    "TotalXP": 129240
   },
   {
     "ExperienceId": 44,
     "Level": 44,
     "LevelXP": 15460,
-    "TotalXP": 144700,
-    "Timestamp": "AAAAAAAAbFQ="
+    "TotalXP": 144700
   },
   {
     "ExperienceId": 45,
     "Level": 45,
     "LevelXP": 17140,
-    "TotalXP": 161840,
-    "Timestamp": "AAAAAAAAbFU="
+    "TotalXP": 161840
   },
   {
     "ExperienceId": 46,
     "Level": 46,
     "LevelXP": 18940,
-    "TotalXP": 180780,
-    "Timestamp": "AAAAAAAAbFY="
+    "TotalXP": 180780
   },
   {
     "ExperienceId": 47,
     "Level": 47,
     "LevelXP": 20860,
-    "TotalXP": 201640,
-    "Timestamp": "AAAAAAAAbFc="
+    "TotalXP": 201640
   },
   {
     "ExperienceId": 48,
     "Level": 48,
     "LevelXP": 22900,
-    "TotalXP": 224540,
-    "Timestamp": "AAAAAAAAbFg="
+    "TotalXP": 224540
   },
   {
     "ExperienceId": 49,
     "Level": 49,
     "LevelXP": 25060,
-    "TotalXP": 249600,
-    "Timestamp": "AAAAAAAAbFk="
+    "TotalXP": 249600
   },
   {
     "ExperienceId": 50,
     "Level": 50,
     "LevelXP": 27440,
-    "TotalXP": 277040,
-    "Timestamp": "AAAAAAAAbFo="
+    "TotalXP": 277040
   },
   {
     "ExperienceId": 51,
     "Level": 51,
     "LevelXP": 29940,
-    "TotalXP": 306980,
-    "Timestamp": "AAAAAAAAbFs="
+    "TotalXP": 306980
   },
   {
     "ExperienceId": 52,
     "Level": 52,
     "LevelXP": 31960,
-    "TotalXP": 338940,
-    "Timestamp": "AAAAAAAAbFw="
+    "TotalXP": 338940
   },
   {
     "ExperienceId": 53,
     "Level": 53,
     "LevelXP": 34900,
-    "TotalXP": 373840,
-    "Timestamp": "AAAAAAAAbF0="
+    "TotalXP": 373840
   },
   {
     "ExperienceId": 54,
     "Level": 54,
     "LevelXP": 37660,
-    "TotalXP": 411500,
-    "Timestamp": "AAAAAAACOlE="
+    "TotalXP": 411500
   },
   {
     "ExperienceId": 55,
     "Level": 55,
     "LevelXP": 40540,
-    "TotalXP": 452040,
-    "Timestamp": "AAAAAAACOlI="
+    "TotalXP": 452040
+  },
+  {
+    "ExperienceId": 56,
+    "Level": 56,
+    "LevelXP": 43540,
+    "TotalXP": 495580
+  },
+  {
+    "ExperienceId": 57,
+    "Level": 57,
+    "LevelXP": 46660,
+    "TotalXP": 542240
+  },
+  {
+    "ExperienceId": 60,
+    "Level": 59,
+    "LevelXP": 53260,
+    "TotalXP": 645400
+  },
+  {
+    "ExperienceId": 61,
+    "Level": 60,
+    "LevelXP": 56740,
+    "TotalXP": 702140
+  },
+  {
+    "ExperienceId": 62,
+    "Level": 61,
+    "LevelXP": 60340,
+    "TotalXP": 762480
+  },
+  {
+    "ExperienceId": 63,
+    "Level": 62,
+    "LevelXP": 64060,
+    "TotalXP": 826540
+  },
+  {
+    "ExperienceId": 64,
+    "Level": 63,
+    "LevelXP": 65535,
+    "TotalXP": 892075
+  },
+  {
+    "ExperienceId": 65,
+    "Level": 64,
+    "LevelXP": 65535,
+    "TotalXP": 957610
+  },
+  {
+    "ExperienceId": 66,
+    "Level": 65,
+    "LevelXP": 65535,
+    "TotalXP": 1023145
+  },
+  {
+    "ExperienceId": 67,
+    "Level": 66,
+    "LevelXP": 65535,
+    "TotalXP": 1088680
+  },
+  {
+    "ExperienceId": 68,
+    "Level": 67,
+    "LevelXP": 65535,
+    "TotalXP": 1154215
+  },
+  {
+    "ExperienceId": 69,
+    "Level": 68,
+    "LevelXP": 65535,
+    "TotalXP": 1219750
+  },
+  {
+    "ExperienceId": 70,
+    "Level": 69,
+    "LevelXP": 65535,
+    "TotalXP": 1285285
+  },
+  {
+    "ExperienceId": 71,
+    "Level": 70,
+    "LevelXP": 65535,
+    "TotalXP": 1350820
+  },
+  {
+    "ExperienceId": 72,
+    "Level": 71,
+    "LevelXP": 65535,
+    "TotalXP": 1416355
+  },
+  {
+    "ExperienceId": 73,
+    "Level": 72,
+    "LevelXP": 65535,
+    "TotalXP": 1481890
+  },
+  {
+    "ExperienceId": 74,
+    "Level": 73,
+    "LevelXP": 65535,
+    "TotalXP": 1547425
+  },
+  {
+    "ExperienceId": 75,
+    "Level": 74,
+    "LevelXP": 65535,
+    "TotalXP": 1612960
+  },
+  {
+    "ExperienceId": 76,
+    "Level": 75,
+    "LevelXP": 65535,
+    "TotalXP": 1678495
+  },
+  {
+    "ExperienceId": 77,
+    "Level": 76,
+    "LevelXP": 65535,
+    "TotalXP": 1744030
+  },
+  {
+    "ExperienceId": 78,
+    "Level": 77,
+    "LevelXP": 65535,
+    "TotalXP": 1809565
+  },
+  {
+    "ExperienceId": 79,
+    "Level": 78,
+    "LevelXP": 65535,
+    "TotalXP": 1875100
+  },
+  {
+    "ExperienceId": 80,
+    "Level": 79,
+    "LevelXP": 65535,
+    "TotalXP": 1940635
+  },
+  {
+    "ExperienceId": 81,
+    "Level": 80,
+    "LevelXP": 65535,
+    "TotalXP": 2006170
+  },
+  {
+    "ExperienceId": 82,
+    "Level": 81,
+    "LevelXP": 65535,
+    "TotalXP": 2071705
+  },
+  {
+    "ExperienceId": 83,
+    "Level": 82,
+    "LevelXP": 65535,
+    "TotalXP": 2137240
+  },
+  {
+    "ExperienceId": 84,
+    "Level": 83,
+    "LevelXP": 65535,
+    "TotalXP": 2202775
+  },
+  {
+    "ExperienceId": 85,
+    "Level": 84,
+    "LevelXP": 65535,
+    "TotalXP": 2268310
+  },
+  {
+    "ExperienceId": 86,
+    "Level": 85,
+    "LevelXP": 65535,
+    "TotalXP": 2333845
+  },
+  {
+    "ExperienceId": 87,
+    "Level": 86,
+    "LevelXP": 65535,
+    "TotalXP": 2399380
+  },
+  {
+    "ExperienceId": 88,
+    "Level": 87,
+    "LevelXP": 65535,
+    "TotalXP": 2464915
+  },
+  {
+    "ExperienceId": 89,
+    "Level": 88,
+    "LevelXP": 65535,
+    "TotalXP": 2530450
+  },
+  {
+    "ExperienceId": 90,
+    "Level": 89,
+    "LevelXP": 65535,
+    "TotalXP": 2595985
+  },
+  {
+    "ExperienceId": 91,
+    "Level": 90,
+    "LevelXP": 65535,
+    "TotalXP": 2661520
+  },
+  {
+    "ExperienceId": 92,
+    "Level": 91,
+    "LevelXP": 65535,
+    "TotalXP": 2727055
+  },
+  {
+    "ExperienceId": 93,
+    "Level": 92,
+    "LevelXP": 65535,
+    "TotalXP": 2792590
+  },
+  {
+    "ExperienceId": 94,
+    "Level": 93,
+    "LevelXP": 65535,
+    "TotalXP": 2858125
+  },
+  {
+    "ExperienceId": 95,
+    "Level": 94,
+    "LevelXP": 65535,
+    "TotalXP": 2923660
+  },
+  {
+    "ExperienceId": 96,
+    "Level": 95,
+    "LevelXP": 65535,
+    "TotalXP": 2989195
+  },
+  {
+    "ExperienceId": 97,
+    "Level": 96,
+    "LevelXP": 65535,
+    "TotalXP": 3054730
+  },
+  {
+    "ExperienceId": 98,
+    "Level": 97,
+    "LevelXP": 65535,
+    "TotalXP": 3120265
+  },
+  {
+    "ExperienceId": 99,
+    "Level": 98,
+    "LevelXP": 65535,
+    "TotalXP": 3185800
+  },
+  {
+    "ExperienceId": 100,
+    "Level": 99,
+    "LevelXP": 65535,
+    "TotalXP": 3251335
+  },
+  {
+    "ExperienceId": 101,
+    "Level": 58,
+    "LevelXP": 49900,
+    "TotalXP": 592140
   }
 ]

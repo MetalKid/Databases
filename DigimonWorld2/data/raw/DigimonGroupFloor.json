@@ -2,5527 +2,4606 @@
   {
     "DigimonGroupFloorId": 1,
     "DigimonGroupId": 1,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZVE="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 2,
     "DigimonGroupId": 2,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZVI="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 3,
     "DigimonGroupId": 3,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZVM="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 4,
     "DigimonGroupId": 4,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZVQ="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 5,
     "DigimonGroupId": 6,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZVU="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 6,
     "DigimonGroupId": 7,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZVY="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 7,
     "DigimonGroupId": 8,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZVc="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 8,
     "DigimonGroupId": 5,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZVg="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 9,
     "DigimonGroupId": 9,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZVk="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 10,
     "DigimonGroupId": 10,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZVo="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 11,
     "DigimonGroupId": 11,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZVs="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 12,
     "DigimonGroupId": 12,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZVw="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 13,
     "DigimonGroupId": 13,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZV0="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 14,
     "DigimonGroupId": 23,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZV4="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 15,
     "DigimonGroupId": 18,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZV8="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 16,
     "DigimonGroupId": 24,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZWA="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 17,
     "DigimonGroupId": 24,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZWE="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 18,
     "DigimonGroupId": 21,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZWI="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 19,
     "DigimonGroupId": 16,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZWM="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 20,
     "DigimonGroupId": 22,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZWQ="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 21,
     "DigimonGroupId": 17,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZWU="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 22,
     "DigimonGroupId": 14,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZWY="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 23,
     "DigimonGroupId": 15,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZWc="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 24,
     "DigimonGroupId": 19,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZWg="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 25,
     "DigimonGroupId": 20,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZWk="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 26,
     "DigimonGroupId": 25,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZWo="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 27,
     "DigimonGroupId": 26,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZWs="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 28,
     "DigimonGroupId": 29,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZWw="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 29,
     "DigimonGroupId": 29,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZW0="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 30,
     "DigimonGroupId": 28,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZW4="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 31,
     "DigimonGroupId": 28,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZW8="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 32,
     "DigimonGroupId": 27,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZXA="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 33,
     "DigimonGroupId": 30,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZXE="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 34,
     "DigimonGroupId": 31,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZXI="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 35,
     "DigimonGroupId": 34,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZXM="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 36,
     "DigimonGroupId": 34,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZXQ="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 37,
     "DigimonGroupId": 34,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZXU="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 38,
     "DigimonGroupId": 33,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZXY="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 39,
     "DigimonGroupId": 33,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZXc="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 40,
     "DigimonGroupId": 33,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZXg="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 41,
     "DigimonGroupId": 36,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZXk="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 42,
     "DigimonGroupId": 36,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZXo="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 43,
     "DigimonGroupId": 35,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZXs="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 44,
     "DigimonGroupId": 35,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZXw="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 45,
     "DigimonGroupId": 35,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZX0="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 46,
     "DigimonGroupId": 37,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZX4="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 47,
     "DigimonGroupId": 37,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZX8="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 48,
     "DigimonGroupId": 38,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZYA="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 49,
     "DigimonGroupId": 32,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZYE="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 50,
     "DigimonGroupId": 32,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZYI="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 51,
     "DigimonGroupId": 39,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZYM="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 52,
     "DigimonGroupId": 40,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZYQ="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 53,
     "DigimonGroupId": 41,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZYU="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 54,
     "DigimonGroupId": 42,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZYY="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 55,
     "DigimonGroupId": 42,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZYc="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 56,
     "DigimonGroupId": 43,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZYg="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 57,
     "DigimonGroupId": 43,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZYk="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 58,
     "DigimonGroupId": 43,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZYo="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 59,
     "DigimonGroupId": 44,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZYs="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 60,
     "DigimonGroupId": 45,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZYw="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 61,
     "DigimonGroupId": 46,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZY0="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 62,
     "DigimonGroupId": 46,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZY4="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 63,
     "DigimonGroupId": 48,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZY8="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 64,
     "DigimonGroupId": 48,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZZA="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 65,
     "DigimonGroupId": 48,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZZE="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 66,
     "DigimonGroupId": 49,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZZI="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 67,
     "DigimonGroupId": 49,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZZM="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 68,
     "DigimonGroupId": 49,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZZQ="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 69,
     "DigimonGroupId": 50,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZZU="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 70,
     "DigimonGroupId": 50,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZZY="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 71,
     "DigimonGroupId": 47,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZZc="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 72,
     "DigimonGroupId": 47,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZZg="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 73,
     "DigimonGroupId": 47,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZZk="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 74,
     "DigimonGroupId": 51,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZZo="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 75,
     "DigimonGroupId": 51,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZZs="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 76,
     "DigimonGroupId": 51,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZZw="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 77,
     "DigimonGroupId": 52,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZZ0="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 78,
     "DigimonGroupId": 53,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZZ4="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 79,
     "DigimonGroupId": 56,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZZ8="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 80,
     "DigimonGroupId": 54,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZaA="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 81,
     "DigimonGroupId": 59,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZaE="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 82,
     "DigimonGroupId": 55,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZaI="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 83,
     "DigimonGroupId": 57,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZaM="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 84,
     "DigimonGroupId": 57,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZaQ="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 85,
     "DigimonGroupId": 58,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZaU="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 86,
     "DigimonGroupId": 58,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZaY="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 87,
     "DigimonGroupId": 60,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZac="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 88,
     "DigimonGroupId": 64,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZag="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 89,
     "DigimonGroupId": 64,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZak="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 90,
     "DigimonGroupId": 64,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZao="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 91,
     "DigimonGroupId": 63,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZas="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 92,
     "DigimonGroupId": 63,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZaw="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 93,
     "DigimonGroupId": 63,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZa0="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 94,
     "DigimonGroupId": 68,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAZa4="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 95,
     "DigimonGroupId": 67,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZa8="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 96,
     "DigimonGroupId": 67,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZbA="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 97,
     "DigimonGroupId": 67,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZbE="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 98,
     "DigimonGroupId": 66,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZbI="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 99,
     "DigimonGroupId": 66,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZbM="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 100,
     "DigimonGroupId": 66,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZbQ="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 101,
     "DigimonGroupId": 66,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZbU="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 102,
     "DigimonGroupId": 65,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZbY="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 103,
     "DigimonGroupId": 65,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZbc="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 104,
     "DigimonGroupId": 65,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZbg="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 105,
     "DigimonGroupId": 62,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZbk="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 106,
     "DigimonGroupId": 62,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZbo="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 107,
     "DigimonGroupId": 61,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZbs="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 108,
     "DigimonGroupId": 69,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAZbw="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 109,
     "DigimonGroupId": 74,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZb0="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 110,
     "DigimonGroupId": 74,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZb4="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 111,
     "DigimonGroupId": 74,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZb8="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 112,
     "DigimonGroupId": 70,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZcA="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 113,
     "DigimonGroupId": 70,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZcE="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 114,
     "DigimonGroupId": 75,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZcI="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 115,
     "DigimonGroupId": 75,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZcM="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 116,
     "DigimonGroupId": 75,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZcQ="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 117,
     "DigimonGroupId": 71,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZcU="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 118,
     "DigimonGroupId": 71,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZcY="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 119,
     "DigimonGroupId": 72,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZcc="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 120,
     "DigimonGroupId": 72,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZcg="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 121,
     "DigimonGroupId": 73,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZck="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 122,
     "DigimonGroupId": 73,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZco="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 123,
     "DigimonGroupId": 76,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZcs="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 124,
     "DigimonGroupId": 81,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZcw="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 125,
     "DigimonGroupId": 81,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZc0="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 126,
     "DigimonGroupId": 81,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZc4="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 127,
     "DigimonGroupId": 78,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZc8="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 128,
     "DigimonGroupId": 78,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZdA="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 129,
     "DigimonGroupId": 80,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZdE="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 130,
     "DigimonGroupId": 80,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZdI="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 131,
     "DigimonGroupId": 80,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZdM="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 132,
     "DigimonGroupId": 79,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZdQ="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 133,
     "DigimonGroupId": 79,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZdU="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 134,
     "DigimonGroupId": 79,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZdY="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 135,
     "DigimonGroupId": 82,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZdc="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 136,
     "DigimonGroupId": 82,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZdg="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 137,
     "DigimonGroupId": 82,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZdk="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 138,
     "DigimonGroupId": 84,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZdo="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 139,
     "DigimonGroupId": 84,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZds="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 140,
     "DigimonGroupId": 83,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZdw="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 141,
     "DigimonGroupId": 83,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZd0="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 142,
     "DigimonGroupId": 83,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZd4="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 143,
     "DigimonGroupId": 85,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZd8="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 144,
     "DigimonGroupId": 85,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAZeA="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 145,
     "DigimonGroupId": 85,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAZeE="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 146,
     "DigimonGroupId": 77,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZeI="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 147,
     "DigimonGroupId": 86,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAZeM="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 148,
     "DigimonGroupId": 90,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZeQ="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 149,
     "DigimonGroupId": 87,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZeU="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 150,
     "DigimonGroupId": 87,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZeY="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 151,
     "DigimonGroupId": 88,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZec="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 152,
     "DigimonGroupId": 89,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZeg="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 153,
     "DigimonGroupId": 91,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZek="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 154,
     "DigimonGroupId": 91,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZeo="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 155,
     "DigimonGroupId": 92,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZes="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 156,
     "DigimonGroupId": 92,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZew="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 157,
     "DigimonGroupId": 92,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZe0="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 158,
     "DigimonGroupId": 93,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZe4="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 159,
     "DigimonGroupId": 95,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZe8="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 160,
     "DigimonGroupId": 95,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZfA="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 161,
     "DigimonGroupId": 96,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZfE="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 162,
     "DigimonGroupId": 96,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZfI="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 163,
     "DigimonGroupId": 96,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZfM="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 164,
     "DigimonGroupId": 97,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZfQ="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 165,
     "DigimonGroupId": 97,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZfU="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 166,
     "DigimonGroupId": 97,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZfY="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 167,
     "DigimonGroupId": 99,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZfc="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 168,
     "DigimonGroupId": 99,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZfg="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 169,
     "DigimonGroupId": 98,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZfk="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 170,
     "DigimonGroupId": 98,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZfo="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 171,
     "DigimonGroupId": 98,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZfs="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 172,
     "DigimonGroupId": 101,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZfw="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 173,
     "DigimonGroupId": 101,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZf0="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 174,
     "DigimonGroupId": 101,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAZf4="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 175,
     "DigimonGroupId": 100,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZf8="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 176,
     "DigimonGroupId": 100,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZgE="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 177,
     "DigimonGroupId": 102,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZgI="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 178,
     "DigimonGroupId": 102,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAZgM="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 179,
     "DigimonGroupId": 103,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAZgQ="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 180,
     "DigimonGroupId": 94,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZgU="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 181,
     "DigimonGroupId": 104,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAZgY="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 182,
     "DigimonGroupId": 105,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZgc="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 183,
     "DigimonGroupId": 107,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZgg="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 184,
     "DigimonGroupId": 107,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZgk="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 185,
     "DigimonGroupId": 109,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZgo="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 186,
     "DigimonGroupId": 108,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZgs="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 187,
     "DigimonGroupId": 108,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZgw="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 188,
     "DigimonGroupId": 110,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZg0="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 189,
     "DigimonGroupId": 110,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZg4="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 190,
     "DigimonGroupId": 110,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAZg8="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 191,
     "DigimonGroupId": 106,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZhA="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 192,
     "DigimonGroupId": 106,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZhE="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 193,
     "DigimonGroupId": 106,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZhI="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 194,
     "DigimonGroupId": 111,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAZhM="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 195,
     "DigimonGroupId": 112,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAZhQ="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 196,
     "DigimonGroupId": 113,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZhU="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 197,
     "DigimonGroupId": 117,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZhY="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 198,
     "DigimonGroupId": 117,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZhc="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 199,
     "DigimonGroupId": 117,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZhg="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 200,
     "DigimonGroupId": 119,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZhk="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 201,
     "DigimonGroupId": 119,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZho="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 202,
     "DigimonGroupId": 119,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAZhs="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 203,
     "DigimonGroupId": 119,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAZhw="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 204,
     "DigimonGroupId": 115,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZh0="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 205,
     "DigimonGroupId": 115,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZh4="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 206,
     "DigimonGroupId": 118,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZh8="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 207,
     "DigimonGroupId": 118,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZiA="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 208,
     "DigimonGroupId": 118,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAZiE="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 209,
     "DigimonGroupId": 120,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAZiI="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 210,
     "DigimonGroupId": 120,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAZiM="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 211,
     "DigimonGroupId": 116,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZiQ="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 212,
     "DigimonGroupId": 116,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZiU="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 213,
     "DigimonGroupId": 116,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZiY="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 214,
     "DigimonGroupId": 114,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZic="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 215,
     "DigimonGroupId": 123,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAZig="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 216,
     "DigimonGroupId": 121,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAZik="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 217,
     "DigimonGroupId": 122,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAZio="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 218,
     "DigimonGroupId": 124,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZis="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 219,
     "DigimonGroupId": 140,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZiw="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 220,
     "DigimonGroupId": 130,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZi0="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 221,
     "DigimonGroupId": 126,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZi4="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 222,
     "DigimonGroupId": 150,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAZi8="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 223,
     "DigimonGroupId": 131,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZjA="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 224,
     "DigimonGroupId": 138,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZjE="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 225,
     "DigimonGroupId": 137,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZjI="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 226,
     "DigimonGroupId": 134,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZjM="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 227,
     "DigimonGroupId": 135,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZjQ="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 228,
     "DigimonGroupId": 129,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZjU="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 229,
     "DigimonGroupId": 132,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZjY="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 230,
     "DigimonGroupId": 141,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZjc="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 231,
     "DigimonGroupId": 147,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAZjg="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 232,
     "DigimonGroupId": 128,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZjk="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 233,
     "DigimonGroupId": 146,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAZjo="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 234,
     "DigimonGroupId": 133,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZjs="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 235,
     "DigimonGroupId": 142,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZjw="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 236,
     "DigimonGroupId": 139,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZj0="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 237,
     "DigimonGroupId": 136,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZj4="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 238,
     "DigimonGroupId": 148,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAZj8="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 239,
     "DigimonGroupId": 151,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAZkA="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 240,
     "DigimonGroupId": 151,
-    "Floor": 11,
-    "Timestamp": "AAAAAAAAZkE="
+    "Floor": 11
   },
   {
     "DigimonGroupFloorId": 241,
     "DigimonGroupId": 127,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZkI="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 242,
     "DigimonGroupId": 149,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAZkM="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 243,
     "DigimonGroupId": 143,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAZkQ="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 244,
     "DigimonGroupId": 144,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAZkU="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 245,
     "DigimonGroupId": 145,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAZkY="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 246,
     "DigimonGroupId": 125,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZkc="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 247,
     "DigimonGroupId": 152,
-    "Floor": 11,
-    "Timestamp": "AAAAAAAAZkg="
+    "Floor": 11
   },
   {
     "DigimonGroupFloorId": 248,
     "DigimonGroupId": 153,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZkk="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 249,
     "DigimonGroupId": 156,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZko="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 250,
     "DigimonGroupId": 158,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZks="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 251,
     "DigimonGroupId": 169,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZkw="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 252,
     "DigimonGroupId": 174,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAZk0="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 253,
     "DigimonGroupId": 155,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZk4="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 254,
     "DigimonGroupId": 176,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAZk8="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 255,
     "DigimonGroupId": 170,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZlA="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 256,
     "DigimonGroupId": 161,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZlE="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 257,
     "DigimonGroupId": 160,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZlI="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 258,
     "DigimonGroupId": 168,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZlM="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 259,
     "DigimonGroupId": 162,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZlQ="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 260,
     "DigimonGroupId": 163,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZlU="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 261,
     "DigimonGroupId": 164,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZlY="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 262,
     "DigimonGroupId": 166,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZlc="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 263,
     "DigimonGroupId": 173,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAZlg="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 264,
     "DigimonGroupId": 165,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZlk="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 265,
     "DigimonGroupId": 172,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAZlo="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 266,
     "DigimonGroupId": 175,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAZls="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 267,
     "DigimonGroupId": 157,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZlw="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 268,
     "DigimonGroupId": 167,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZl0="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 269,
     "DigimonGroupId": 171,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAZl4="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 270,
     "DigimonGroupId": 178,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAZl8="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 271,
     "DigimonGroupId": 178,
-    "Floor": 11,
-    "Timestamp": "AAAAAAAAZmA="
+    "Floor": 11
   },
   {
     "DigimonGroupFloorId": 272,
     "DigimonGroupId": 154,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZmE="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 273,
     "DigimonGroupId": 159,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZmI="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 274,
     "DigimonGroupId": 179,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAZmM="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 275,
     "DigimonGroupId": 177,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAZmQ="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 276,
     "DigimonGroupId": 180,
-    "Floor": 11,
-    "Timestamp": "AAAAAAAAZmU="
+    "Floor": 11
   },
   {
     "DigimonGroupFloorId": 277,
     "DigimonGroupId": 181,
-    "Floor": 12,
-    "Timestamp": "AAAAAAAAZmY="
+    "Floor": 12
   },
   {
     "DigimonGroupFloorId": 278,
     "DigimonGroupId": 182,
-    "Floor": 12,
-    "Timestamp": "AAAAAAAAZmc="
+    "Floor": 12
   },
   {
     "DigimonGroupFloorId": 279,
     "DigimonGroupId": 186,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZmg="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 280,
     "DigimonGroupId": 186,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZmk="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 281,
     "DigimonGroupId": 186,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZmo="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 282,
     "DigimonGroupId": 185,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZms="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 283,
     "DigimonGroupId": 185,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZmw="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 284,
     "DigimonGroupId": 185,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZm0="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 285,
     "DigimonGroupId": 185,
-    "Floor": 17,
-    "Timestamp": "AAAAAAAAZm4="
+    "Floor": 17
   },
   {
     "DigimonGroupFloorId": 286,
     "DigimonGroupId": 184,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZm8="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 287,
     "DigimonGroupId": 184,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZnA="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 288,
     "DigimonGroupId": 184,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZnE="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 289,
     "DigimonGroupId": 183,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZnI="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 290,
     "DigimonGroupId": 183,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZnM="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 291,
     "DigimonGroupId": 187,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZnQ="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 292,
     "DigimonGroupId": 187,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZnU="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 293,
     "DigimonGroupId": 187,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAZnY="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 294,
     "DigimonGroupId": 187,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAZnc="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 295,
     "DigimonGroupId": 187,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAZng="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 296,
     "DigimonGroupId": 187,
-    "Floor": 12,
-    "Timestamp": "AAAAAAAAZnk="
+    "Floor": 12
   },
   {
     "DigimonGroupFloorId": 297,
     "DigimonGroupId": 188,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZno="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 298,
     "DigimonGroupId": 189,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAZns="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 299,
     "DigimonGroupId": 189,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAZnw="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 300,
     "DigimonGroupId": 189,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAZn0="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 301,
     "DigimonGroupId": 190,
-    "Floor": 11,
-    "Timestamp": "AAAAAAAAZn4="
+    "Floor": 11
   },
   {
     "DigimonGroupFloorId": 302,
     "DigimonGroupId": 191,
-    "Floor": 11,
-    "Timestamp": "AAAAAAAAZn8="
+    "Floor": 11
   },
   {
     "DigimonGroupFloorId": 303,
     "DigimonGroupId": 192,
-    "Floor": 12,
-    "Timestamp": "AAAAAAAAZoA="
+    "Floor": 12
   },
   {
     "DigimonGroupFloorId": 304,
     "DigimonGroupId": 192,
-    "Floor": 13,
-    "Timestamp": "AAAAAAAAZoE="
+    "Floor": 13
   },
   {
     "DigimonGroupFloorId": 305,
     "DigimonGroupId": 192,
-    "Floor": 14,
-    "Timestamp": "AAAAAAAAZoI="
+    "Floor": 14
   },
   {
     "DigimonGroupFloorId": 306,
     "DigimonGroupId": 193,
-    "Floor": 12,
-    "Timestamp": "AAAAAAAAZoM="
+    "Floor": 12
   },
   {
     "DigimonGroupFloorId": 307,
     "DigimonGroupId": 193,
-    "Floor": 13,
-    "Timestamp": "AAAAAAAAZoQ="
+    "Floor": 13
   },
   {
     "DigimonGroupFloorId": 308,
     "DigimonGroupId": 193,
-    "Floor": 14,
-    "Timestamp": "AAAAAAAAZoU="
+    "Floor": 14
   },
   {
     "DigimonGroupFloorId": 309,
     "DigimonGroupId": 194,
-    "Floor": 14,
-    "Timestamp": "AAAAAAAAZoY="
+    "Floor": 14
   },
   {
     "DigimonGroupFloorId": 310,
     "DigimonGroupId": 195,
-    "Floor": 15,
-    "Timestamp": "AAAAAAAAZoc="
+    "Floor": 15
   },
   {
     "DigimonGroupFloorId": 311,
     "DigimonGroupId": 196,
-    "Floor": 15,
-    "Timestamp": "AAAAAAAAZog="
+    "Floor": 15
   },
   {
     "DigimonGroupFloorId": 312,
     "DigimonGroupId": 197,
-    "Floor": 17,
-    "Timestamp": "AAAAAAAAZok="
+    "Floor": 17
   },
   {
     "DigimonGroupFloorId": 313,
     "DigimonGroupId": 198,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZoo="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 314,
     "DigimonGroupId": 202,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZos="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 315,
     "DigimonGroupId": 202,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZow="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 316,
     "DigimonGroupId": 202,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZo0="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 317,
     "DigimonGroupId": 202,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAZo4="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 318,
     "DigimonGroupId": 203,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZo8="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 319,
     "DigimonGroupId": 203,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAZpA="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 320,
     "DigimonGroupId": 203,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAZpE="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 321,
     "DigimonGroupId": 205,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAZpI="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 322,
     "DigimonGroupId": 205,
-    "Floor": 11,
-    "Timestamp": "AAAAAAAAZpM="
+    "Floor": 11
   },
   {
     "DigimonGroupFloorId": 323,
     "DigimonGroupId": 205,
-    "Floor": 13,
-    "Timestamp": "AAAAAAAAZpQ="
+    "Floor": 13
   },
   {
     "DigimonGroupFloorId": 324,
     "DigimonGroupId": 205,
-    "Floor": 14,
-    "Timestamp": "AAAAAAAAZpU="
+    "Floor": 14
   },
   {
     "DigimonGroupFloorId": 325,
     "DigimonGroupId": 205,
-    "Floor": 15,
-    "Timestamp": "AAAAAAAAZpY="
+    "Floor": 15
   },
   {
     "DigimonGroupFloorId": 326,
     "DigimonGroupId": 201,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZpc="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 327,
     "DigimonGroupId": 201,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZpg="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 328,
     "DigimonGroupId": 201,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZpk="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 329,
     "DigimonGroupId": 201,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZpo="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 330,
     "DigimonGroupId": 201,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZps="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 331,
     "DigimonGroupId": 200,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZpw="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 332,
     "DigimonGroupId": 200,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZp0="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 333,
     "DigimonGroupId": 200,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZp4="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 334,
     "DigimonGroupId": 199,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZp8="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 335,
     "DigimonGroupId": 199,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZqA="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 336,
     "DigimonGroupId": 204,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAZqE="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 337,
     "DigimonGroupId": 204,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAZqI="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 338,
     "DigimonGroupId": 204,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAZqM="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 339,
     "DigimonGroupId": 204,
-    "Floor": 11,
-    "Timestamp": "AAAAAAAAZqQ="
+    "Floor": 11
   },
   {
     "DigimonGroupFloorId": 340,
     "DigimonGroupId": 204,
-    "Floor": 13,
-    "Timestamp": "AAAAAAAAZqU="
+    "Floor": 13
   },
   {
     "DigimonGroupFloorId": 341,
     "DigimonGroupId": 208,
-    "Floor": 14,
-    "Timestamp": "AAAAAAAAZqY="
+    "Floor": 14
   },
   {
     "DigimonGroupFloorId": 342,
     "DigimonGroupId": 208,
-    "Floor": 15,
-    "Timestamp": "AAAAAAAAZqc="
+    "Floor": 15
   },
   {
     "DigimonGroupFloorId": 343,
     "DigimonGroupId": 206,
-    "Floor": 11,
-    "Timestamp": "AAAAAAAAZqg="
+    "Floor": 11
   },
   {
     "DigimonGroupFloorId": 344,
     "DigimonGroupId": 206,
-    "Floor": 14,
-    "Timestamp": "AAAAAAAAZqk="
+    "Floor": 14
   },
   {
     "DigimonGroupFloorId": 345,
     "DigimonGroupId": 207,
-    "Floor": 12,
-    "Timestamp": "AAAAAAAAZqo="
+    "Floor": 12
   },
   {
     "DigimonGroupFloorId": 346,
     "DigimonGroupId": 209,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZqs="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 347,
     "DigimonGroupId": 210,
-    "Floor": 12,
-    "Timestamp": "AAAAAAAAZqw="
+    "Floor": 12
   },
   {
     "DigimonGroupFloorId": 348,
     "DigimonGroupId": 211,
-    "Floor": 17,
-    "Timestamp": "AAAAAAAAZq0="
+    "Floor": 17
   },
   {
     "DigimonGroupFloorId": 349,
     "DigimonGroupId": 213,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZq4="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 350,
     "DigimonGroupId": 213,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZq8="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 351,
     "DigimonGroupId": 215,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZrA="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 352,
     "DigimonGroupId": 215,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZrE="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 353,
     "DigimonGroupId": 215,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZrI="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 354,
     "DigimonGroupId": 221,
-    "Floor": 14,
-    "Timestamp": "AAAAAAAAZrM="
+    "Floor": 14
   },
   {
     "DigimonGroupFloorId": 355,
     "DigimonGroupId": 221,
-    "Floor": 15,
-    "Timestamp": "AAAAAAAAZrQ="
+    "Floor": 15
   },
   {
     "DigimonGroupFloorId": 356,
     "DigimonGroupId": 217,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZrU="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 357,
     "DigimonGroupId": 217,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZrY="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 358,
     "DigimonGroupId": 217,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAZrc="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 359,
     "DigimonGroupId": 217,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAZrg="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 360,
     "DigimonGroupId": 220,
-    "Floor": 13,
-    "Timestamp": "AAAAAAAAZrk="
+    "Floor": 13
   },
   {
     "DigimonGroupFloorId": 361,
     "DigimonGroupId": 220,
-    "Floor": 14,
-    "Timestamp": "AAAAAAAAZro="
+    "Floor": 14
   },
   {
     "DigimonGroupFloorId": 362,
     "DigimonGroupId": 216,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZrs="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 363,
     "DigimonGroupId": 216,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZrw="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 364,
     "DigimonGroupId": 216,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZr0="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 365,
     "DigimonGroupId": 216,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAZr4="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 366,
     "DigimonGroupId": 214,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZr8="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 367,
     "DigimonGroupId": 214,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZsA="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 368,
     "DigimonGroupId": 214,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZsE="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 369,
     "DigimonGroupId": 212,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZsI="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 370,
     "DigimonGroupId": 219,
-    "Floor": 12,
-    "Timestamp": "AAAAAAAAZsM="
+    "Floor": 12
   },
   {
     "DigimonGroupFloorId": 371,
     "DigimonGroupId": 219,
-    "Floor": 13,
-    "Timestamp": "AAAAAAAAZsQ="
+    "Floor": 13
   },
   {
     "DigimonGroupFloorId": 372,
     "DigimonGroupId": 218,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZsU="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 373,
     "DigimonGroupId": 218,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAZsY="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 374,
     "DigimonGroupId": 218,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAZsc="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 375,
     "DigimonGroupId": 222,
-    "Floor": 17,
-    "Timestamp": "AAAAAAAAZsg="
+    "Floor": 17
   },
   {
     "DigimonGroupFloorId": 376,
     "DigimonGroupId": 223,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZsk="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 377,
     "DigimonGroupId": 223,
-    "Floor": 15,
-    "Timestamp": "AAAAAAAAZso="
+    "Floor": 15
   },
   {
     "DigimonGroupFloorId": 378,
     "DigimonGroupId": 223,
-    "Floor": 29,
-    "Timestamp": "AAAAAAAAZss="
+    "Floor": 29
   },
   {
     "DigimonGroupFloorId": 379,
     "DigimonGroupId": 223,
-    "Floor": 43,
-    "Timestamp": "AAAAAAAAZsw="
+    "Floor": 43
   },
   {
     "DigimonGroupFloorId": 380,
     "DigimonGroupId": 223,
-    "Floor": 57,
-    "Timestamp": "AAAAAAAAZs0="
+    "Floor": 57
   },
   {
     "DigimonGroupFloorId": 381,
     "DigimonGroupId": 223,
-    "Floor": 71,
-    "Timestamp": "AAAAAAAAZs4="
+    "Floor": 71
   },
   {
     "DigimonGroupFloorId": 382,
     "DigimonGroupId": 223,
-    "Floor": 85,
-    "Timestamp": "AAAAAAAAZs8="
+    "Floor": 85
   },
   {
     "DigimonGroupFloorId": 383,
     "DigimonGroupId": 238,
-    "Floor": 13,
-    "Timestamp": "AAAAAAAAZtA="
+    "Floor": 13
   },
   {
     "DigimonGroupFloorId": 384,
     "DigimonGroupId": 238,
-    "Floor": 14,
-    "Timestamp": "AAAAAAAAZtE="
+    "Floor": 14
   },
   {
     "DigimonGroupFloorId": 385,
     "DigimonGroupId": 238,
-    "Floor": 27,
-    "Timestamp": "AAAAAAAAZtI="
+    "Floor": 27
   },
   {
     "DigimonGroupFloorId": 386,
     "DigimonGroupId": 238,
-    "Floor": 28,
-    "Timestamp": "AAAAAAAAZtM="
+    "Floor": 28
   },
   {
     "DigimonGroupFloorId": 387,
     "DigimonGroupId": 238,
-    "Floor": 41,
-    "Timestamp": "AAAAAAAAZtQ="
+    "Floor": 41
   },
   {
     "DigimonGroupFloorId": 388,
     "DigimonGroupId": 238,
-    "Floor": 42,
-    "Timestamp": "AAAAAAAAZtU="
+    "Floor": 42
   },
   {
     "DigimonGroupFloorId": 389,
     "DigimonGroupId": 238,
-    "Floor": 55,
-    "Timestamp": "AAAAAAAAZtY="
+    "Floor": 55
   },
   {
     "DigimonGroupFloorId": 390,
     "DigimonGroupId": 238,
-    "Floor": 56,
-    "Timestamp": "AAAAAAAAZtc="
+    "Floor": 56
   },
   {
     "DigimonGroupFloorId": 391,
     "DigimonGroupId": 238,
-    "Floor": 69,
-    "Timestamp": "AAAAAAAAZtg="
+    "Floor": 69
   },
   {
     "DigimonGroupFloorId": 392,
     "DigimonGroupId": 238,
-    "Floor": 70,
-    "Timestamp": "AAAAAAAAZtk="
+    "Floor": 70
   },
   {
     "DigimonGroupFloorId": 393,
     "DigimonGroupId": 238,
-    "Floor": 83,
-    "Timestamp": "AAAAAAAAZto="
+    "Floor": 83
   },
   {
     "DigimonGroupFloorId": 394,
     "DigimonGroupId": 238,
-    "Floor": 84,
-    "Timestamp": "AAAAAAAAZts="
+    "Floor": 84
   },
   {
     "DigimonGroupFloorId": 395,
     "DigimonGroupId": 238,
-    "Floor": 97,
-    "Timestamp": "AAAAAAAAZtw="
+    "Floor": 97
   },
   {
     "DigimonGroupFloorId": 396,
     "DigimonGroupId": 229,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZt0="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 397,
     "DigimonGroupId": 229,
-    "Floor": 18,
-    "Timestamp": "AAAAAAAAZt4="
+    "Floor": 18
   },
   {
     "DigimonGroupFloorId": 398,
     "DigimonGroupId": 229,
-    "Floor": 32,
-    "Timestamp": "AAAAAAAAZt8="
+    "Floor": 32
   },
   {
     "DigimonGroupFloorId": 399,
     "DigimonGroupId": 229,
-    "Floor": 46,
-    "Timestamp": "AAAAAAAAZuA="
+    "Floor": 46
   },
   {
     "DigimonGroupFloorId": 400,
     "DigimonGroupId": 229,
-    "Floor": 60,
-    "Timestamp": "AAAAAAAAZuE="
+    "Floor": 60
   },
   {
     "DigimonGroupFloorId": 401,
     "DigimonGroupId": 229,
-    "Floor": 74,
-    "Timestamp": "AAAAAAAAZuI="
+    "Floor": 74
   },
   {
     "DigimonGroupFloorId": 402,
     "DigimonGroupId": 229,
-    "Floor": 88,
-    "Timestamp": "AAAAAAAAZuM="
+    "Floor": 88
   },
   {
     "DigimonGroupFloorId": 403,
     "DigimonGroupId": 226,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZuQ="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 404,
     "DigimonGroupId": 226,
-    "Floor": 16,
-    "Timestamp": "AAAAAAAAZuU="
+    "Floor": 16
   },
   {
     "DigimonGroupFloorId": 405,
     "DigimonGroupId": 226,
-    "Floor": 30,
-    "Timestamp": "AAAAAAAAZuY="
+    "Floor": 30
   },
   {
     "DigimonGroupFloorId": 406,
     "DigimonGroupId": 226,
-    "Floor": 44,
-    "Timestamp": "AAAAAAAAZuc="
+    "Floor": 44
   },
   {
     "DigimonGroupFloorId": 407,
     "DigimonGroupId": 226,
-    "Floor": 58,
-    "Timestamp": "AAAAAAAAZug="
+    "Floor": 58
   },
   {
     "DigimonGroupFloorId": 408,
     "DigimonGroupId": 226,
-    "Floor": 72,
-    "Timestamp": "AAAAAAAAZuk="
+    "Floor": 72
   },
   {
     "DigimonGroupFloorId": 409,
     "DigimonGroupId": 226,
-    "Floor": 86,
-    "Timestamp": "AAAAAAAAZuo="
+    "Floor": 86
   },
   {
     "DigimonGroupFloorId": 410,
     "DigimonGroupId": 239,
-    "Floor": 13,
-    "Timestamp": "AAAAAAAAZus="
+    "Floor": 13
   },
   {
     "DigimonGroupFloorId": 411,
     "DigimonGroupId": 239,
-    "Floor": 14,
-    "Timestamp": "AAAAAAAAZuw="
+    "Floor": 14
   },
   {
     "DigimonGroupFloorId": 412,
     "DigimonGroupId": 239,
-    "Floor": 27,
-    "Timestamp": "AAAAAAAAZu0="
+    "Floor": 27
   },
   {
     "DigimonGroupFloorId": 413,
     "DigimonGroupId": 239,
-    "Floor": 28,
-    "Timestamp": "AAAAAAAAZu4="
+    "Floor": 28
   },
   {
     "DigimonGroupFloorId": 414,
     "DigimonGroupId": 239,
-    "Floor": 41,
-    "Timestamp": "AAAAAAAAZu8="
+    "Floor": 41
   },
   {
     "DigimonGroupFloorId": 415,
     "DigimonGroupId": 239,
-    "Floor": 42,
-    "Timestamp": "AAAAAAAAZvA="
+    "Floor": 42
   },
   {
     "DigimonGroupFloorId": 416,
     "DigimonGroupId": 239,
-    "Floor": 55,
-    "Timestamp": "AAAAAAAAZvE="
+    "Floor": 55
   },
   {
     "DigimonGroupFloorId": 417,
     "DigimonGroupId": 239,
-    "Floor": 56,
-    "Timestamp": "AAAAAAAAZvI="
+    "Floor": 56
   },
   {
     "DigimonGroupFloorId": 418,
     "DigimonGroupId": 239,
-    "Floor": 69,
-    "Timestamp": "AAAAAAAAZvM="
+    "Floor": 69
   },
   {
     "DigimonGroupFloorId": 419,
     "DigimonGroupId": 239,
-    "Floor": 70,
-    "Timestamp": "AAAAAAAAZvQ="
+    "Floor": 70
   },
   {
     "DigimonGroupFloorId": 420,
     "DigimonGroupId": 239,
-    "Floor": 83,
-    "Timestamp": "AAAAAAAAZvU="
+    "Floor": 83
   },
   {
     "DigimonGroupFloorId": 421,
     "DigimonGroupId": 239,
-    "Floor": 84,
-    "Timestamp": "AAAAAAAAZvY="
+    "Floor": 84
   },
   {
     "DigimonGroupFloorId": 422,
     "DigimonGroupId": 239,
-    "Floor": 97,
-    "Timestamp": "AAAAAAAAZvc="
+    "Floor": 97
   },
   {
     "DigimonGroupFloorId": 423,
     "DigimonGroupId": 236,
-    "Floor": 11,
-    "Timestamp": "AAAAAAAAZvg="
+    "Floor": 11
   },
   {
     "DigimonGroupFloorId": 424,
     "DigimonGroupId": 236,
-    "Floor": 25,
-    "Timestamp": "AAAAAAAAZvk="
+    "Floor": 25
   },
   {
     "DigimonGroupFloorId": 425,
     "DigimonGroupId": 236,
-    "Floor": 39,
-    "Timestamp": "AAAAAAAAZvo="
+    "Floor": 39
   },
   {
     "DigimonGroupFloorId": 426,
     "DigimonGroupId": 236,
-    "Floor": 53,
-    "Timestamp": "AAAAAAAAZvs="
+    "Floor": 53
   },
   {
     "DigimonGroupFloorId": 427,
     "DigimonGroupId": 236,
-    "Floor": 67,
-    "Timestamp": "AAAAAAAAZvw="
+    "Floor": 67
   },
   {
     "DigimonGroupFloorId": 428,
     "DigimonGroupId": 236,
-    "Floor": 81,
-    "Timestamp": "AAAAAAAAZv0="
+    "Floor": 81
   },
   {
     "DigimonGroupFloorId": 429,
     "DigimonGroupId": 236,
-    "Floor": 95,
-    "Timestamp": "AAAAAAAAZv4="
+    "Floor": 95
   },
   {
     "DigimonGroupFloorId": 430,
     "DigimonGroupId": 232,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZv8="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 431,
     "DigimonGroupId": 232,
-    "Floor": 21,
-    "Timestamp": "AAAAAAAAZwE="
+    "Floor": 21
   },
   {
     "DigimonGroupFloorId": 432,
     "DigimonGroupId": 232,
-    "Floor": 35,
-    "Timestamp": "AAAAAAAAZwI="
+    "Floor": 35
   },
   {
     "DigimonGroupFloorId": 433,
     "DigimonGroupId": 232,
-    "Floor": 49,
-    "Timestamp": "AAAAAAAAZwM="
+    "Floor": 49
   },
   {
     "DigimonGroupFloorId": 434,
     "DigimonGroupId": 232,
-    "Floor": 63,
-    "Timestamp": "AAAAAAAAZwQ="
+    "Floor": 63
   },
   {
     "DigimonGroupFloorId": 435,
     "DigimonGroupId": 232,
-    "Floor": 77,
-    "Timestamp": "AAAAAAAAZwU="
+    "Floor": 77
   },
   {
     "DigimonGroupFloorId": 436,
     "DigimonGroupId": 232,
-    "Floor": 91,
-    "Timestamp": "AAAAAAAAZwY="
+    "Floor": 91
   },
   {
     "DigimonGroupFloorId": 437,
     "DigimonGroupId": 227,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZwc="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 438,
     "DigimonGroupId": 227,
-    "Floor": 17,
-    "Timestamp": "AAAAAAAAZwg="
+    "Floor": 17
   },
   {
     "DigimonGroupFloorId": 439,
     "DigimonGroupId": 227,
-    "Floor": 31,
-    "Timestamp": "AAAAAAAAZwk="
+    "Floor": 31
   },
   {
     "DigimonGroupFloorId": 440,
     "DigimonGroupId": 227,
-    "Floor": 45,
-    "Timestamp": "AAAAAAAAZwo="
+    "Floor": 45
   },
   {
     "DigimonGroupFloorId": 441,
     "DigimonGroupId": 227,
-    "Floor": 59,
-    "Timestamp": "AAAAAAAAZws="
+    "Floor": 59
   },
   {
     "DigimonGroupFloorId": 442,
     "DigimonGroupId": 227,
-    "Floor": 73,
-    "Timestamp": "AAAAAAAAZww="
+    "Floor": 73
   },
   {
     "DigimonGroupFloorId": 443,
     "DigimonGroupId": 227,
-    "Floor": 87,
-    "Timestamp": "AAAAAAAAZw0="
+    "Floor": 87
   },
   {
     "DigimonGroupFloorId": 444,
     "DigimonGroupId": 231,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZw4="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 445,
     "DigimonGroupId": 231,
-    "Floor": 20,
-    "Timestamp": "AAAAAAAAZw8="
+    "Floor": 20
   },
   {
     "DigimonGroupFloorId": 446,
     "DigimonGroupId": 231,
-    "Floor": 34,
-    "Timestamp": "AAAAAAAAZxA="
+    "Floor": 34
   },
   {
     "DigimonGroupFloorId": 447,
     "DigimonGroupId": 231,
-    "Floor": 48,
-    "Timestamp": "AAAAAAAAZxE="
+    "Floor": 48
   },
   {
     "DigimonGroupFloorId": 448,
     "DigimonGroupId": 231,
-    "Floor": 62,
-    "Timestamp": "AAAAAAAAZxI="
+    "Floor": 62
   },
   {
     "DigimonGroupFloorId": 449,
     "DigimonGroupId": 231,
-    "Floor": 76,
-    "Timestamp": "AAAAAAAAZxM="
+    "Floor": 76
   },
   {
     "DigimonGroupFloorId": 450,
     "DigimonGroupId": 231,
-    "Floor": 90,
-    "Timestamp": "AAAAAAAAZxQ="
+    "Floor": 90
   },
   {
     "DigimonGroupFloorId": 451,
     "DigimonGroupId": 237,
-    "Floor": 12,
-    "Timestamp": "AAAAAAAAZxU="
+    "Floor": 12
   },
   {
     "DigimonGroupFloorId": 452,
     "DigimonGroupId": 237,
-    "Floor": 26,
-    "Timestamp": "AAAAAAAAZxY="
+    "Floor": 26
   },
   {
     "DigimonGroupFloorId": 453,
     "DigimonGroupId": 237,
-    "Floor": 40,
-    "Timestamp": "AAAAAAAAZxc="
+    "Floor": 40
   },
   {
     "DigimonGroupFloorId": 454,
     "DigimonGroupId": 237,
-    "Floor": 54,
-    "Timestamp": "AAAAAAAAZxg="
+    "Floor": 54
   },
   {
     "DigimonGroupFloorId": 455,
     "DigimonGroupId": 237,
-    "Floor": 68,
-    "Timestamp": "AAAAAAAAZxk="
+    "Floor": 68
   },
   {
     "DigimonGroupFloorId": 456,
     "DigimonGroupId": 237,
-    "Floor": 82,
-    "Timestamp": "AAAAAAAAZxo="
+    "Floor": 82
   },
   {
     "DigimonGroupFloorId": 457,
     "DigimonGroupId": 237,
-    "Floor": 96,
-    "Timestamp": "AAAAAAAAZxs="
+    "Floor": 96
   },
   {
     "DigimonGroupFloorId": 458,
     "DigimonGroupId": 233,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAZxw="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 459,
     "DigimonGroupId": 233,
-    "Floor": 22,
-    "Timestamp": "AAAAAAAAZx0="
+    "Floor": 22
   },
   {
     "DigimonGroupFloorId": 460,
     "DigimonGroupId": 233,
-    "Floor": 36,
-    "Timestamp": "AAAAAAAAZx4="
+    "Floor": 36
   },
   {
     "DigimonGroupFloorId": 461,
     "DigimonGroupId": 233,
-    "Floor": 50,
-    "Timestamp": "AAAAAAAAZx8="
+    "Floor": 50
   },
   {
     "DigimonGroupFloorId": 462,
     "DigimonGroupId": 233,
-    "Floor": 64,
-    "Timestamp": "AAAAAAAAZyA="
+    "Floor": 64
   },
   {
     "DigimonGroupFloorId": 463,
     "DigimonGroupId": 233,
-    "Floor": 78,
-    "Timestamp": "AAAAAAAAZyE="
+    "Floor": 78
   },
   {
     "DigimonGroupFloorId": 464,
     "DigimonGroupId": 233,
-    "Floor": 92,
-    "Timestamp": "AAAAAAAAZyI="
+    "Floor": 92
   },
   {
     "DigimonGroupFloorId": 465,
     "DigimonGroupId": 230,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZyM="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 466,
     "DigimonGroupId": 230,
-    "Floor": 19,
-    "Timestamp": "AAAAAAAAZyQ="
+    "Floor": 19
   },
   {
     "DigimonGroupFloorId": 467,
     "DigimonGroupId": 230,
-    "Floor": 33,
-    "Timestamp": "AAAAAAAAZyU="
+    "Floor": 33
   },
   {
     "DigimonGroupFloorId": 468,
     "DigimonGroupId": 230,
-    "Floor": 47,
-    "Timestamp": "AAAAAAAAZyY="
+    "Floor": 47
   },
   {
     "DigimonGroupFloorId": 469,
     "DigimonGroupId": 230,
-    "Floor": 61,
-    "Timestamp": "AAAAAAAAZyc="
+    "Floor": 61
   },
   {
     "DigimonGroupFloorId": 470,
     "DigimonGroupId": 230,
-    "Floor": 75,
-    "Timestamp": "AAAAAAAAZyg="
+    "Floor": 75
   },
   {
     "DigimonGroupFloorId": 471,
     "DigimonGroupId": 230,
-    "Floor": 89,
-    "Timestamp": "AAAAAAAAZyk="
+    "Floor": 89
   },
   {
     "DigimonGroupFloorId": 472,
     "DigimonGroupId": 235,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAZyo="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 473,
     "DigimonGroupId": 235,
-    "Floor": 24,
-    "Timestamp": "AAAAAAAAZys="
+    "Floor": 24
   },
   {
     "DigimonGroupFloorId": 474,
     "DigimonGroupId": 235,
-    "Floor": 38,
-    "Timestamp": "AAAAAAAAZyw="
+    "Floor": 38
   },
   {
     "DigimonGroupFloorId": 475,
     "DigimonGroupId": 235,
-    "Floor": 52,
-    "Timestamp": "AAAAAAAAZy0="
+    "Floor": 52
   },
   {
     "DigimonGroupFloorId": 476,
     "DigimonGroupId": 235,
-    "Floor": 66,
-    "Timestamp": "AAAAAAAAZy4="
+    "Floor": 66
   },
   {
     "DigimonGroupFloorId": 477,
     "DigimonGroupId": 235,
-    "Floor": 80,
-    "Timestamp": "AAAAAAAAZy8="
+    "Floor": 80
   },
   {
     "DigimonGroupFloorId": 478,
     "DigimonGroupId": 235,
-    "Floor": 94,
-    "Timestamp": "AAAAAAAAZzA="
+    "Floor": 94
   },
   {
     "DigimonGroupFloorId": 479,
     "DigimonGroupId": 240,
-    "Floor": 13,
-    "Timestamp": "AAAAAAAAZzE="
+    "Floor": 13
   },
   {
     "DigimonGroupFloorId": 480,
     "DigimonGroupId": 240,
-    "Floor": 14,
-    "Timestamp": "AAAAAAAAZzI="
+    "Floor": 14
   },
   {
     "DigimonGroupFloorId": 481,
     "DigimonGroupId": 240,
-    "Floor": 27,
-    "Timestamp": "AAAAAAAAZzM="
+    "Floor": 27
   },
   {
     "DigimonGroupFloorId": 482,
     "DigimonGroupId": 240,
-    "Floor": 28,
-    "Timestamp": "AAAAAAAAZzQ="
+    "Floor": 28
   },
   {
     "DigimonGroupFloorId": 483,
     "DigimonGroupId": 240,
-    "Floor": 41,
-    "Timestamp": "AAAAAAAAZzU="
+    "Floor": 41
   },
   {
     "DigimonGroupFloorId": 484,
     "DigimonGroupId": 240,
-    "Floor": 42,
-    "Timestamp": "AAAAAAAAZzY="
+    "Floor": 42
   },
   {
     "DigimonGroupFloorId": 485,
     "DigimonGroupId": 240,
-    "Floor": 55,
-    "Timestamp": "AAAAAAAAZzc="
+    "Floor": 55
   },
   {
     "DigimonGroupFloorId": 486,
     "DigimonGroupId": 240,
-    "Floor": 56,
-    "Timestamp": "AAAAAAAAZzg="
+    "Floor": 56
   },
   {
     "DigimonGroupFloorId": 487,
     "DigimonGroupId": 240,
-    "Floor": 69,
-    "Timestamp": "AAAAAAAAZzk="
+    "Floor": 69
   },
   {
     "DigimonGroupFloorId": 488,
     "DigimonGroupId": 240,
-    "Floor": 70,
-    "Timestamp": "AAAAAAAAZzo="
+    "Floor": 70
   },
   {
     "DigimonGroupFloorId": 489,
     "DigimonGroupId": 240,
-    "Floor": 83,
-    "Timestamp": "AAAAAAAAZzs="
+    "Floor": 83
   },
   {
     "DigimonGroupFloorId": 490,
     "DigimonGroupId": 240,
-    "Floor": 84,
-    "Timestamp": "AAAAAAAAZzw="
+    "Floor": 84
   },
   {
     "DigimonGroupFloorId": 491,
     "DigimonGroupId": 240,
-    "Floor": 97,
-    "Timestamp": "AAAAAAAAZz0="
+    "Floor": 97
   },
   {
     "DigimonGroupFloorId": 492,
     "DigimonGroupId": 224,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZz4="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 493,
     "DigimonGroupId": 224,
-    "Floor": 15,
-    "Timestamp": "AAAAAAAAZz8="
+    "Floor": 15
   },
   {
     "DigimonGroupFloorId": 494,
     "DigimonGroupId": 224,
-    "Floor": 29,
-    "Timestamp": "AAAAAAAAZ0A="
+    "Floor": 29
   },
   {
     "DigimonGroupFloorId": 495,
     "DigimonGroupId": 224,
-    "Floor": 43,
-    "Timestamp": "AAAAAAAAZ0E="
+    "Floor": 43
   },
   {
     "DigimonGroupFloorId": 496,
     "DigimonGroupId": 224,
-    "Floor": 57,
-    "Timestamp": "AAAAAAAAZ0I="
+    "Floor": 57
   },
   {
     "DigimonGroupFloorId": 497,
     "DigimonGroupId": 224,
-    "Floor": 71,
-    "Timestamp": "AAAAAAAAZ0M="
+    "Floor": 71
   },
   {
     "DigimonGroupFloorId": 498,
     "DigimonGroupId": 224,
-    "Floor": 85,
-    "Timestamp": "AAAAAAAAZ0Q="
+    "Floor": 85
   },
   {
     "DigimonGroupFloorId": 499,
     "DigimonGroupId": 225,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZ0U="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 500,
     "DigimonGroupId": 225,
-    "Floor": 16,
-    "Timestamp": "AAAAAAAAZ0Y="
+    "Floor": 16
   },
   {
     "DigimonGroupFloorId": 501,
     "DigimonGroupId": 225,
-    "Floor": 30,
-    "Timestamp": "AAAAAAAAZ0c="
+    "Floor": 30
   },
   {
     "DigimonGroupFloorId": 502,
     "DigimonGroupId": 225,
-    "Floor": 44,
-    "Timestamp": "AAAAAAAAZ0g="
+    "Floor": 44
   },
   {
     "DigimonGroupFloorId": 503,
     "DigimonGroupId": 225,
-    "Floor": 58,
-    "Timestamp": "AAAAAAAAZ0k="
+    "Floor": 58
   },
   {
     "DigimonGroupFloorId": 504,
     "DigimonGroupId": 225,
-    "Floor": 72,
-    "Timestamp": "AAAAAAAAZ0o="
+    "Floor": 72
   },
   {
     "DigimonGroupFloorId": 505,
     "DigimonGroupId": 225,
-    "Floor": 86,
-    "Timestamp": "AAAAAAAAZ0s="
+    "Floor": 86
   },
   {
     "DigimonGroupFloorId": 506,
     "DigimonGroupId": 234,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAZ0w="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 507,
     "DigimonGroupId": 234,
-    "Floor": 23,
-    "Timestamp": "AAAAAAAAZ00="
+    "Floor": 23
   },
   {
     "DigimonGroupFloorId": 508,
     "DigimonGroupId": 234,
-    "Floor": 37,
-    "Timestamp": "AAAAAAAAZ04="
+    "Floor": 37
   },
   {
     "DigimonGroupFloorId": 509,
     "DigimonGroupId": 234,
-    "Floor": 51,
-    "Timestamp": "AAAAAAAAZ08="
+    "Floor": 51
   },
   {
     "DigimonGroupFloorId": 510,
     "DigimonGroupId": 234,
-    "Floor": 65,
-    "Timestamp": "AAAAAAAAZ1A="
+    "Floor": 65
   },
   {
     "DigimonGroupFloorId": 511,
     "DigimonGroupId": 234,
-    "Floor": 79,
-    "Timestamp": "AAAAAAAAZ1E="
+    "Floor": 79
   },
   {
     "DigimonGroupFloorId": 512,
     "DigimonGroupId": 234,
-    "Floor": 93,
-    "Timestamp": "AAAAAAAAZ1I="
+    "Floor": 93
   },
   {
     "DigimonGroupFloorId": 513,
     "DigimonGroupId": 228,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZ1M="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 514,
     "DigimonGroupId": 228,
-    "Floor": 17,
-    "Timestamp": "AAAAAAAAZ1Q="
+    "Floor": 17
   },
   {
     "DigimonGroupFloorId": 515,
     "DigimonGroupId": 228,
-    "Floor": 31,
-    "Timestamp": "AAAAAAAAZ1U="
+    "Floor": 31
   },
   {
     "DigimonGroupFloorId": 516,
     "DigimonGroupId": 228,
-    "Floor": 45,
-    "Timestamp": "AAAAAAAAZ1Y="
+    "Floor": 45
   },
   {
     "DigimonGroupFloorId": 517,
     "DigimonGroupId": 228,
-    "Floor": 59,
-    "Timestamp": "AAAAAAAAZ1c="
+    "Floor": 59
   },
   {
     "DigimonGroupFloorId": 518,
     "DigimonGroupId": 228,
-    "Floor": 73,
-    "Timestamp": "AAAAAAAAZ1g="
+    "Floor": 73
   },
   {
     "DigimonGroupFloorId": 519,
     "DigimonGroupId": 228,
-    "Floor": 87,
-    "Timestamp": "AAAAAAAAZ1k="
+    "Floor": 87
   },
   {
     "DigimonGroupFloorId": 520,
     "DigimonGroupId": 241,
-    "Floor": 14,
-    "Timestamp": "AAAAAAAAZ1o="
+    "Floor": 14
   },
   {
     "DigimonGroupFloorId": 521,
     "DigimonGroupId": 241,
-    "Floor": 56,
-    "Timestamp": "AAAAAAAAZ1s="
+    "Floor": 56
   },
   {
     "DigimonGroupFloorId": 522,
     "DigimonGroupId": 243,
-    "Floor": 42,
-    "Timestamp": "AAAAAAAAZ1w="
+    "Floor": 42
   },
   {
     "DigimonGroupFloorId": 523,
     "DigimonGroupId": 243,
-    "Floor": 84,
-    "Timestamp": "AAAAAAAAZ10="
+    "Floor": 84
   },
   {
     "DigimonGroupFloorId": 524,
     "DigimonGroupId": 242,
-    "Floor": 28,
-    "Timestamp": "AAAAAAAAZ14="
+    "Floor": 28
   },
   {
     "DigimonGroupFloorId": 525,
     "DigimonGroupId": 242,
-    "Floor": 70,
-    "Timestamp": "AAAAAAAAZ18="
+    "Floor": 70
   },
   {
     "DigimonGroupFloorId": 526,
     "DigimonGroupId": 244,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZ2A="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 527,
     "DigimonGroupId": 245,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZ2E="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 528,
     "DigimonGroupId": 246,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZ2I="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 529,
     "DigimonGroupId": 248,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZ2M="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 530,
     "DigimonGroupId": 248,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZ2Q="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 531,
     "DigimonGroupId": 250,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZ2U="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 532,
     "DigimonGroupId": 250,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZ2Y="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 533,
     "DigimonGroupId": 250,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZ2c="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 534,
     "DigimonGroupId": 250,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZ2g="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 535,
     "DigimonGroupId": 250,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZ2k="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 536,
     "DigimonGroupId": 252,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZ2o="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 537,
     "DigimonGroupId": 252,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZ2s="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 538,
     "DigimonGroupId": 252,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAZ2w="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 539,
     "DigimonGroupId": 252,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAZ20="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 540,
     "DigimonGroupId": 252,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAZ24="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 541,
     "DigimonGroupId": 249,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZ28="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 542,
     "DigimonGroupId": 249,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZ3A="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 543,
     "DigimonGroupId": 249,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZ3E="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 544,
     "DigimonGroupId": 251,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZ3I="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 545,
     "DigimonGroupId": 251,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZ3M="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 546,
     "DigimonGroupId": 251,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZ3Q="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 547,
     "DigimonGroupId": 251,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZ3U="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 548,
     "DigimonGroupId": 255,
-    "Floor": 11,
-    "Timestamp": "AAAAAAAAZ3Y="
+    "Floor": 11
   },
   {
     "DigimonGroupFloorId": 549,
     "DigimonGroupId": 255,
-    "Floor": 12,
-    "Timestamp": "AAAAAAAAZ3c="
+    "Floor": 12
   },
   {
     "DigimonGroupFloorId": 550,
     "DigimonGroupId": 255,
-    "Floor": 13,
-    "Timestamp": "AAAAAAAAZ3g="
+    "Floor": 13
   },
   {
     "DigimonGroupFloorId": 551,
     "DigimonGroupId": 253,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZ3k="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 552,
     "DigimonGroupId": 253,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAZ3o="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 553,
     "DigimonGroupId": 253,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAZ3s="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 554,
     "DigimonGroupId": 253,
-    "Floor": 11,
-    "Timestamp": "AAAAAAAAZ3w="
+    "Floor": 11
   },
   {
     "DigimonGroupFloorId": 555,
     "DigimonGroupId": 254,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAZ30="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 556,
     "DigimonGroupId": 254,
-    "Floor": 11,
-    "Timestamp": "AAAAAAAAZ34="
+    "Floor": 11
   },
   {
     "DigimonGroupFloorId": 557,
     "DigimonGroupId": 254,
-    "Floor": 12,
-    "Timestamp": "AAAAAAAAZ38="
+    "Floor": 12
   },
   {
     "DigimonGroupFloorId": 558,
     "DigimonGroupId": 247,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZ4A="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 559,
     "DigimonGroupId": 256,
-    "Floor": 13,
-    "Timestamp": "AAAAAAAAZ4E="
+    "Floor": 13
   },
   {
     "DigimonGroupFloorId": 560,
     "DigimonGroupId": 260,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZ4I="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 561,
     "DigimonGroupId": 260,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZ4M="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 562,
     "DigimonGroupId": 260,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZ4Q="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 563,
     "DigimonGroupId": 260,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZ4U="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 564,
     "DigimonGroupId": 258,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZ4Y="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 565,
     "DigimonGroupId": 264,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAZ4c="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 566,
     "DigimonGroupId": 264,
-    "Floor": 11,
-    "Timestamp": "AAAAAAAAZ4g="
+    "Floor": 11
   },
   {
     "DigimonGroupFloorId": 567,
     "DigimonGroupId": 264,
-    "Floor": 12,
-    "Timestamp": "AAAAAAAAZ4k="
+    "Floor": 12
   },
   {
     "DigimonGroupFloorId": 568,
     "DigimonGroupId": 261,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZ4o="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 569,
     "DigimonGroupId": 261,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZ4s="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 570,
     "DigimonGroupId": 261,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZ4w="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 571,
     "DigimonGroupId": 261,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZ40="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 572,
     "DigimonGroupId": 261,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZ44="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 573,
     "DigimonGroupId": 263,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZ48="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 574,
     "DigimonGroupId": 263,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAZ5A="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 575,
     "DigimonGroupId": 263,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAZ5E="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 576,
     "DigimonGroupId": 263,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAZ5I="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 577,
     "DigimonGroupId": 263,
-    "Floor": 11,
-    "Timestamp": "AAAAAAAAZ5M="
+    "Floor": 11
   },
   {
     "DigimonGroupFloorId": 578,
     "DigimonGroupId": 265,
-    "Floor": 11,
-    "Timestamp": "AAAAAAAAZ5Q="
+    "Floor": 11
   },
   {
     "DigimonGroupFloorId": 579,
     "DigimonGroupId": 265,
-    "Floor": 12,
-    "Timestamp": "AAAAAAAAZ5U="
+    "Floor": 12
   },
   {
     "DigimonGroupFloorId": 580,
     "DigimonGroupId": 259,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZ5Y="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 581,
     "DigimonGroupId": 262,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZ5c="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 582,
     "DigimonGroupId": 262,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZ5g="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 583,
     "DigimonGroupId": 262,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAZ5k="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 584,
     "DigimonGroupId": 262,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAZ5o="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 585,
     "DigimonGroupId": 257,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZ5s="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 586,
     "DigimonGroupId": 257,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZ5w="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 587,
     "DigimonGroupId": 257,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZ50="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 588,
     "DigimonGroupId": 266,
-    "Floor": 13,
-    "Timestamp": "AAAAAAAAZ54="
+    "Floor": 13
   },
   {
     "DigimonGroupFloorId": 589,
     "DigimonGroupId": 274,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAZ58="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 590,
     "DigimonGroupId": 274,
-    "Floor": 11,
-    "Timestamp": "AAAAAAAAZ6A="
+    "Floor": 11
   },
   {
     "DigimonGroupFloorId": 591,
     "DigimonGroupId": 274,
-    "Floor": 12,
-    "Timestamp": "AAAAAAAAZ6E="
+    "Floor": 12
   },
   {
     "DigimonGroupFloorId": 592,
     "DigimonGroupId": 270,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZ6I="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 593,
     "DigimonGroupId": 270,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZ6M="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 594,
     "DigimonGroupId": 270,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZ6Q="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 595,
     "DigimonGroupId": 270,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZ6U="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 596,
     "DigimonGroupId": 270,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZ6Y="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 597,
     "DigimonGroupId": 269,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZ6c="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 598,
     "DigimonGroupId": 269,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZ6g="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 599,
     "DigimonGroupId": 269,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZ6k="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 600,
     "DigimonGroupId": 271,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZ6o="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 601,
     "DigimonGroupId": 271,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZ6s="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 602,
     "DigimonGroupId": 271,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZ6w="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 603,
     "DigimonGroupId": 271,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZ60="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 604,
     "DigimonGroupId": 271,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZ64="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 605,
     "DigimonGroupId": 272,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZ68="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 606,
     "DigimonGroupId": 272,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZ7A="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 607,
     "DigimonGroupId": 272,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAZ7E="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 608,
     "DigimonGroupId": 272,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAZ7I="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 609,
     "DigimonGroupId": 272,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAZ7M="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 610,
     "DigimonGroupId": 273,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZ7Q="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 611,
     "DigimonGroupId": 273,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAZ7U="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 612,
     "DigimonGroupId": 273,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAZ7Y="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 613,
     "DigimonGroupId": 275,
-    "Floor": 11,
-    "Timestamp": "AAAAAAAAZ7c="
+    "Floor": 11
   },
   {
     "DigimonGroupFloorId": 614,
     "DigimonGroupId": 275,
-    "Floor": 12,
-    "Timestamp": "AAAAAAAAZ7g="
+    "Floor": 12
   },
   {
     "DigimonGroupFloorId": 615,
     "DigimonGroupId": 275,
-    "Floor": 13,
-    "Timestamp": "AAAAAAAAZ7k="
+    "Floor": 13
   },
   {
     "DigimonGroupFloorId": 616,
     "DigimonGroupId": 268,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZ7o="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 617,
     "DigimonGroupId": 268,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZ7s="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 618,
     "DigimonGroupId": 267,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZ7w="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 619,
     "DigimonGroupId": 276,
-    "Floor": 13,
-    "Timestamp": "AAAAAAAAZ70="
+    "Floor": 13
   },
   {
     "DigimonGroupFloorId": 620,
     "DigimonGroupId": 295,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAZ74="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 621,
     "DigimonGroupId": 305,
-    "Floor": 13,
-    "Timestamp": "AAAAAAAAZ78="
+    "Floor": 13
   },
   {
     "DigimonGroupFloorId": 622,
     "DigimonGroupId": 296,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAZ8A="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 623,
     "DigimonGroupId": 279,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZ8E="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 624,
     "DigimonGroupId": 283,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZ8I="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 625,
     "DigimonGroupId": 304,
-    "Floor": 13,
-    "Timestamp": "AAAAAAAAZ8M="
+    "Floor": 13
   },
   {
     "DigimonGroupFloorId": 626,
     "DigimonGroupId": 304,
-    "Floor": 14,
-    "Timestamp": "AAAAAAAAZ8Q="
+    "Floor": 14
   },
   {
     "DigimonGroupFloorId": 627,
     "DigimonGroupId": 282,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZ8U="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 628,
     "DigimonGroupId": 298,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAZ8Y="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 629,
     "DigimonGroupId": 301,
-    "Floor": 11,
-    "Timestamp": "AAAAAAAAZ8c="
+    "Floor": 11
   },
   {
     "DigimonGroupFloorId": 630,
     "DigimonGroupId": 291,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZ8g="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 631,
     "DigimonGroupId": 289,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZ8k="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 632,
     "DigimonGroupId": 290,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZ8o="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 633,
     "DigimonGroupId": 294,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZ8s="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 634,
     "DigimonGroupId": 294,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAZ8w="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 635,
     "DigimonGroupId": 302,
-    "Floor": 11,
-    "Timestamp": "AAAAAAAAZ80="
+    "Floor": 11
   },
   {
     "DigimonGroupFloorId": 636,
     "DigimonGroupId": 280,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZ84="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 637,
     "DigimonGroupId": 287,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZ88="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 638,
     "DigimonGroupId": 287,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZ9A="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 639,
     "DigimonGroupId": 288,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZ9E="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 640,
     "DigimonGroupId": 288,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZ9I="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 641,
     "DigimonGroupId": 303,
-    "Floor": 11,
-    "Timestamp": "AAAAAAAAZ9M="
+    "Floor": 11
   },
   {
     "DigimonGroupFloorId": 642,
     "DigimonGroupId": 300,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAZ9Q="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 643,
     "DigimonGroupId": 299,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAZ9U="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 644,
     "DigimonGroupId": 278,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZ9Y="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 645,
     "DigimonGroupId": 281,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZ9c="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 646,
     "DigimonGroupId": 284,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZ9g="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 647,
     "DigimonGroupId": 297,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAZ9k="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 648,
     "DigimonGroupId": 293,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZ9o="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 649,
     "DigimonGroupId": 293,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAZ9s="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 650,
     "DigimonGroupId": 285,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZ9w="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 651,
     "DigimonGroupId": 286,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZ90="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 652,
     "DigimonGroupId": 286,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZ94="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 653,
     "DigimonGroupId": 292,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZ98="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 654,
     "DigimonGroupId": 292,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAZ+A="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 655,
     "DigimonGroupId": 277,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZ+E="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 656,
     "DigimonGroupId": 306,
-    "Floor": 13,
-    "Timestamp": "AAAAAAAAZ+I="
+    "Floor": 13
   },
   {
     "DigimonGroupFloorId": 657,
     "DigimonGroupId": 307,
-    "Floor": 14,
-    "Timestamp": "AAAAAAAAZ+M="
+    "Floor": 14
   },
   {
     "DigimonGroupFloorId": 658,
     "DigimonGroupId": 309,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZ+Q="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 659,
     "DigimonGroupId": 309,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZ+U="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 660,
     "DigimonGroupId": 310,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAZ+Y="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 661,
     "DigimonGroupId": 310,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAZ+c="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 662,
     "DigimonGroupId": 310,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZ+g="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 663,
     "DigimonGroupId": 310,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZ+k="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 664,
     "DigimonGroupId": 311,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAZ+o="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 665,
     "DigimonGroupId": 311,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZ+s="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 666,
     "DigimonGroupId": 311,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZ+w="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 667,
     "DigimonGroupId": 311,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZ+0="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 668,
     "DigimonGroupId": 312,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAZ+4="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 669,
     "DigimonGroupId": 312,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAZ+8="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 670,
     "DigimonGroupId": 312,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZ/A="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 671,
     "DigimonGroupId": 316,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAZ/E="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 672,
     "DigimonGroupId": 316,
-    "Floor": 12,
-    "Timestamp": "AAAAAAAAZ/I="
+    "Floor": 12
   },
   {
     "DigimonGroupFloorId": 673,
     "DigimonGroupId": 316,
-    "Floor": 13,
-    "Timestamp": "AAAAAAAAZ/M="
+    "Floor": 13
   },
   {
     "DigimonGroupFloorId": 674,
     "DigimonGroupId": 317,
-    "Floor": 12,
-    "Timestamp": "AAAAAAAAZ/Q="
+    "Floor": 12
   },
   {
     "DigimonGroupFloorId": 675,
     "DigimonGroupId": 317,
-    "Floor": 13,
-    "Timestamp": "AAAAAAAAZ/U="
+    "Floor": 13
   },
   {
     "DigimonGroupFloorId": 676,
     "DigimonGroupId": 315,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAZ/Y="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 677,
     "DigimonGroupId": 315,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAZ/c="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 678,
     "DigimonGroupId": 315,
-    "Floor": 11,
-    "Timestamp": "AAAAAAAAZ/g="
+    "Floor": 11
   },
   {
     "DigimonGroupFloorId": 679,
     "DigimonGroupId": 314,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAZ/k="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 680,
     "DigimonGroupId": 314,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAZ/o="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 681,
     "DigimonGroupId": 314,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAZ/s="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 682,
     "DigimonGroupId": 314,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAZ/w="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 683,
     "DigimonGroupId": 314,
-    "Floor": 12,
-    "Timestamp": "AAAAAAAAZ/0="
+    "Floor": 12
   },
   {
     "DigimonGroupFloorId": 684,
     "DigimonGroupId": 314,
-    "Floor": 15,
-    "Timestamp": "AAAAAAAAZ/4="
+    "Floor": 15
   },
   {
     "DigimonGroupFloorId": 685,
     "DigimonGroupId": 313,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAZ/8="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 686,
     "DigimonGroupId": 313,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAaAE="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 687,
     "DigimonGroupId": 313,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAaAI="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 688,
     "DigimonGroupId": 313,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAaAM="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 689,
     "DigimonGroupId": 308,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAaAQ="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 690,
     "DigimonGroupId": 318,
-    "Floor": 15,
-    "Timestamp": "AAAAAAAAaAU="
+    "Floor": 15
   },
   {
     "DigimonGroupFloorId": 691,
     "DigimonGroupId": 327,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAaAY="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 692,
     "DigimonGroupId": 327,
-    "Floor": 12,
-    "Timestamp": "AAAAAAAAaAc="
+    "Floor": 12
   },
   {
     "DigimonGroupFloorId": 693,
     "DigimonGroupId": 327,
-    "Floor": 13,
-    "Timestamp": "AAAAAAAAaAg="
+    "Floor": 13
   },
   {
     "DigimonGroupFloorId": 694,
     "DigimonGroupId": 323,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAaAk="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 695,
     "DigimonGroupId": 323,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAaAo="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 696,
     "DigimonGroupId": 323,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAaAs="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 697,
     "DigimonGroupId": 323,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAaAw="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 698,
     "DigimonGroupId": 324,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAaA0="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 699,
     "DigimonGroupId": 324,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAaA4="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 700,
     "DigimonGroupId": 324,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAaA8="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 701,
     "DigimonGroupId": 324,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAaBA="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 702,
     "DigimonGroupId": 326,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAaBE="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 703,
     "DigimonGroupId": 326,
-    "Floor": 12,
-    "Timestamp": "AAAAAAAAaBI="
+    "Floor": 12
   },
   {
     "DigimonGroupFloorId": 704,
     "DigimonGroupId": 320,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAaBM="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 705,
     "DigimonGroupId": 320,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAaBQ="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 706,
     "DigimonGroupId": 320,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAaBU="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 707,
     "DigimonGroupId": 321,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAaBY="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 708,
     "DigimonGroupId": 321,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAaBc="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 709,
     "DigimonGroupId": 321,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAaBg="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 710,
     "DigimonGroupId": 321,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAaBk="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 711,
     "DigimonGroupId": 322,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAaBo="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 712,
     "DigimonGroupId": 322,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAaBs="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 713,
     "DigimonGroupId": 322,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAaBw="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 714,
     "DigimonGroupId": 325,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAaB0="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 715,
     "DigimonGroupId": 325,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAaB4="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 716,
     "DigimonGroupId": 325,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAaB8="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 717,
     "DigimonGroupId": 325,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAaCA="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 718,
     "DigimonGroupId": 328,
-    "Floor": 12,
-    "Timestamp": "AAAAAAAAaCE="
+    "Floor": 12
   },
   {
     "DigimonGroupFloorId": 719,
     "DigimonGroupId": 328,
-    "Floor": 14,
-    "Timestamp": "AAAAAAAAaCI="
+    "Floor": 14
   },
   {
     "DigimonGroupFloorId": 720,
     "DigimonGroupId": 319,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAaCM="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 721,
     "DigimonGroupId": 329,
-    "Floor": 13,
-    "Timestamp": "AAAAAAAAaCQ="
+    "Floor": 13
   },
   {
     "DigimonGroupFloorId": 722,
     "DigimonGroupId": 329,
-    "Floor": 14,
-    "Timestamp": "AAAAAAAAaCU="
+    "Floor": 14
   },
   {
     "DigimonGroupFloorId": 723,
     "DigimonGroupId": 329,
-    "Floor": 15,
-    "Timestamp": "AAAAAAAAaCY="
+    "Floor": 15
   },
   {
     "DigimonGroupFloorId": 724,
     "DigimonGroupId": 330,
-    "Floor": 15,
-    "Timestamp": "AAAAAAAAaCc="
+    "Floor": 15
   },
   {
     "DigimonGroupFloorId": 725,
     "DigimonGroupId": 332,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAaCg="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 726,
     "DigimonGroupId": 332,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAaCk="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 727,
     "DigimonGroupId": 332,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAaCo="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 728,
     "DigimonGroupId": 339,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAaCs="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 729,
     "DigimonGroupId": 339,
-    "Floor": 12,
-    "Timestamp": "AAAAAAAAaCw="
+    "Floor": 12
   },
   {
     "DigimonGroupFloorId": 730,
     "DigimonGroupId": 339,
-    "Floor": 13,
-    "Timestamp": "AAAAAAAAaC0="
+    "Floor": 13
   },
   {
     "DigimonGroupFloorId": 731,
     "DigimonGroupId": 335,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAaC4="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 732,
     "DigimonGroupId": 335,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAaC8="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 733,
     "DigimonGroupId": 335,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAaDA="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 734,
     "DigimonGroupId": 335,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAaDE="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 735,
     "DigimonGroupId": 336,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAaDI="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 736,
     "DigimonGroupId": 336,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAaDM="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 737,
     "DigimonGroupId": 338,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAaDQ="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 738,
     "DigimonGroupId": 338,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAaDU="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 739,
     "DigimonGroupId": 338,
-    "Floor": 12,
-    "Timestamp": "AAAAAAAAaDY="
+    "Floor": 12
   },
   {
     "DigimonGroupFloorId": 740,
     "DigimonGroupId": 337,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAaDc="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 741,
     "DigimonGroupId": 337,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAaDg="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 742,
     "DigimonGroupId": 337,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAaDk="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 743,
     "DigimonGroupId": 340,
-    "Floor": 12,
-    "Timestamp": "AAAAAAAAaDo="
+    "Floor": 12
   },
   {
     "DigimonGroupFloorId": 744,
     "DigimonGroupId": 340,
-    "Floor": 13,
-    "Timestamp": "AAAAAAAAaDs="
+    "Floor": 13
   },
   {
     "DigimonGroupFloorId": 745,
     "DigimonGroupId": 333,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAaDw="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 746,
     "DigimonGroupId": 333,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAaD0="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 747,
     "DigimonGroupId": 333,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAaD4="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 748,
     "DigimonGroupId": 333,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAaD8="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 749,
     "DigimonGroupId": 341,
-    "Floor": 13,
-    "Timestamp": "AAAAAAAAaEA="
+    "Floor": 13
   },
   {
     "DigimonGroupFloorId": 750,
     "DigimonGroupId": 341,
-    "Floor": 14,
-    "Timestamp": "AAAAAAAAaEE="
+    "Floor": 14
   },
   {
     "DigimonGroupFloorId": 751,
     "DigimonGroupId": 334,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAaEI="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 752,
     "DigimonGroupId": 334,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAaEM="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 753,
     "DigimonGroupId": 334,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAaEQ="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 754,
     "DigimonGroupId": 334,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAaEU="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 755,
     "DigimonGroupId": 331,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAaEY="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 756,
     "DigimonGroupId": 342,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAaEc="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 757,
     "DigimonGroupId": 343,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAaEg="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 758,
     "DigimonGroupId": 344,
-    "Floor": 11,
-    "Timestamp": "AAAAAAAAaEk="
+    "Floor": 11
   },
   {
     "DigimonGroupFloorId": 759,
     "DigimonGroupId": 345,
-    "Floor": 11,
-    "Timestamp": "AAAAAAAAaEo="
+    "Floor": 11
   },
   {
     "DigimonGroupFloorId": 760,
     "DigimonGroupId": 346,
-    "Floor": 11,
-    "Timestamp": "AAAAAAAAaEs="
+    "Floor": 11
   },
   {
     "DigimonGroupFloorId": 761,
     "DigimonGroupId": 347,
-    "Floor": 14,
-    "Timestamp": "AAAAAAAAaEw="
+    "Floor": 14
   },
   {
     "DigimonGroupFloorId": 762,
     "DigimonGroupId": 348,
-    "Floor": 15,
-    "Timestamp": "AAAAAAAAaE0="
+    "Floor": 15
   },
   {
     "DigimonGroupFloorId": 763,
     "DigimonGroupId": 349,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAaE4="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 764,
     "DigimonGroupId": 349,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAaE8="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 765,
     "DigimonGroupId": 373,
-    "Floor": 13,
-    "Timestamp": "AAAAAAAAaFA="
+    "Floor": 13
   },
   {
     "DigimonGroupFloorId": 766,
     "DigimonGroupId": 373,
-    "Floor": 14,
-    "Timestamp": "AAAAAAAAaFE="
+    "Floor": 14
   },
   {
     "DigimonGroupFloorId": 767,
     "DigimonGroupId": 352,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAaFI="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 768,
     "DigimonGroupId": 378,
-    "Floor": 15,
-    "Timestamp": "AAAAAAAAaFM="
+    "Floor": 15
   },
   {
     "DigimonGroupFloorId": 769,
     "DigimonGroupId": 354,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAaFQ="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 770,
     "DigimonGroupId": 351,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAaFU="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 771,
     "DigimonGroupId": 351,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAaFY="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 772,
     "DigimonGroupId": 353,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAaFc="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 773,
     "DigimonGroupId": 353,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAaFg="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 774,
     "DigimonGroupId": 367,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAaFk="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 775,
     "DigimonGroupId": 358,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAaFo="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 776,
     "DigimonGroupId": 364,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAaFs="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 777,
     "DigimonGroupId": 361,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAaFw="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 778,
     "DigimonGroupId": 361,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAaF0="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 779,
     "DigimonGroupId": 355,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAaF4="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 780,
     "DigimonGroupId": 355,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAaF8="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 781,
     "DigimonGroupId": 375,
-    "Floor": 13,
-    "Timestamp": "AAAAAAAAaGA="
+    "Floor": 13
   },
   {
     "DigimonGroupFloorId": 782,
     "DigimonGroupId": 375,
-    "Floor": 14,
-    "Timestamp": "AAAAAAAAaGE="
+    "Floor": 14
   },
   {
     "DigimonGroupFloorId": 783,
     "DigimonGroupId": 363,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAaGI="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 784,
     "DigimonGroupId": 363,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAaGM="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 785,
     "DigimonGroupId": 357,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAaGQ="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 786,
     "DigimonGroupId": 357,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAaGU="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 787,
     "DigimonGroupId": 360,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAaGY="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 788,
     "DigimonGroupId": 369,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAaGc="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 789,
     "DigimonGroupId": 366,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAaGg="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 790,
     "DigimonGroupId": 376,
-    "Floor": 15,
-    "Timestamp": "AAAAAAAAaGk="
+    "Floor": 15
   },
   {
     "DigimonGroupFloorId": 791,
     "DigimonGroupId": 370,
-    "Floor": 11,
-    "Timestamp": "AAAAAAAAaGo="
+    "Floor": 11
   },
   {
     "DigimonGroupFloorId": 792,
     "DigimonGroupId": 370,
-    "Floor": 12,
-    "Timestamp": "AAAAAAAAaGs="
+    "Floor": 12
   },
   {
     "DigimonGroupFloorId": 793,
     "DigimonGroupId": 356,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAaGw="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 794,
     "DigimonGroupId": 374,
-    "Floor": 13,
-    "Timestamp": "AAAAAAAAaG0="
+    "Floor": 13
   },
   {
     "DigimonGroupFloorId": 795,
     "DigimonGroupId": 374,
-    "Floor": 14,
-    "Timestamp": "AAAAAAAAaG4="
+    "Floor": 14
   },
   {
     "DigimonGroupFloorId": 796,
     "DigimonGroupId": 368,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAaG8="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 797,
     "DigimonGroupId": 365,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAaHA="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 798,
     "DigimonGroupId": 362,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAaHE="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 799,
     "DigimonGroupId": 362,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAaHI="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 800,
     "DigimonGroupId": 359,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAaHM="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 801,
     "DigimonGroupId": 359,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAaHQ="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 802,
     "DigimonGroupId": 377,
-    "Floor": 15,
-    "Timestamp": "AAAAAAAAaHU="
+    "Floor": 15
   },
   {
     "DigimonGroupFloorId": 803,
     "DigimonGroupId": 371,
-    "Floor": 11,
-    "Timestamp": "AAAAAAAAaHY="
+    "Floor": 11
   },
   {
     "DigimonGroupFloorId": 804,
     "DigimonGroupId": 371,
-    "Floor": 12,
-    "Timestamp": "AAAAAAAAaHc="
+    "Floor": 12
   },
   {
     "DigimonGroupFloorId": 805,
     "DigimonGroupId": 372,
-    "Floor": 11,
-    "Timestamp": "AAAAAAAAaHg="
+    "Floor": 11
   },
   {
     "DigimonGroupFloorId": 806,
     "DigimonGroupId": 372,
-    "Floor": 12,
-    "Timestamp": "AAAAAAAAaHk="
+    "Floor": 12
   },
   {
     "DigimonGroupFloorId": 807,
     "DigimonGroupId": 350,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAaHo="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 808,
     "DigimonGroupId": 379,
-    "Floor": 16,
-    "Timestamp": "AAAAAAAAaHs="
+    "Floor": 16
   },
   {
     "DigimonGroupFloorId": 809,
     "DigimonGroupId": 380,
-    "Floor": 16,
-    "Timestamp": "AAAAAAAAaHw="
+    "Floor": 16
   },
   {
     "DigimonGroupFloorId": 810,
     "DigimonGroupId": 387,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAaH0="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 811,
     "DigimonGroupId": 382,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAaH4="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 812,
     "DigimonGroupId": 401,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAaH8="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 813,
     "DigimonGroupId": 391,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAaIA="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 814,
     "DigimonGroupId": 386,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAaIE="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 815,
     "DigimonGroupId": 394,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAaII="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 816,
     "DigimonGroupId": 432,
-    "Floor": 19,
-    "Timestamp": "AAAAAAAAaIM="
+    "Floor": 19
   },
   {
     "DigimonGroupFloorId": 817,
     "DigimonGroupId": 421,
-    "Floor": 14,
-    "Timestamp": "AAAAAAAAaIQ="
+    "Floor": 14
   },
   {
     "DigimonGroupFloorId": 818,
     "DigimonGroupId": 398,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAaIU="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 819,
     "DigimonGroupId": 402,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAaIY="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 820,
     "DigimonGroupId": 404,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAaIc="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 821,
     "DigimonGroupId": 407,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAaIg="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 822,
     "DigimonGroupId": 430,
-    "Floor": 17,
-    "Timestamp": "AAAAAAAAaIk="
+    "Floor": 17
   },
   {
     "DigimonGroupFloorId": 823,
     "DigimonGroupId": 430,
-    "Floor": 18,
-    "Timestamp": "AAAAAAAAaIo="
+    "Floor": 18
   },
   {
     "DigimonGroupFloorId": 824,
     "DigimonGroupId": 433,
-    "Floor": 20,
-    "Timestamp": "AAAAAAAAaIs="
+    "Floor": 20
   },
   {
     "DigimonGroupFloorId": 825,
     "DigimonGroupId": 436,
-    "Floor": 22,
-    "Timestamp": "AAAAAAAAaIw="
+    "Floor": 22
   },
   {
     "DigimonGroupFloorId": 826,
     "DigimonGroupId": 418,
-    "Floor": 13,
-    "Timestamp": "AAAAAAAAaI0="
+    "Floor": 13
   },
   {
     "DigimonGroupFloorId": 827,
     "DigimonGroupId": 423,
-    "Floor": 15,
-    "Timestamp": "AAAAAAAAaI4="
+    "Floor": 15
   },
   {
     "DigimonGroupFloorId": 828,
     "DigimonGroupId": 399,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAaI8="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 829,
     "DigimonGroupId": 405,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAaJA="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 830,
     "DigimonGroupId": 426,
-    "Floor": 16,
-    "Timestamp": "AAAAAAAAaJE="
+    "Floor": 16
   },
   {
     "DigimonGroupFloorId": 831,
     "DigimonGroupId": 408,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAaJI="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 832,
     "DigimonGroupId": 410,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAaJM="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 833,
     "DigimonGroupId": 416,
-    "Floor": 12,
-    "Timestamp": "AAAAAAAAaJQ="
+    "Floor": 12
   },
   {
     "DigimonGroupFloorId": 834,
     "DigimonGroupId": 413,
-    "Floor": 11,
-    "Timestamp": "AAAAAAAAaJU="
+    "Floor": 11
   },
   {
     "DigimonGroupFloorId": 835,
     "DigimonGroupId": 415,
-    "Floor": 12,
-    "Timestamp": "AAAAAAAAaJY="
+    "Floor": 12
   },
   {
     "DigimonGroupFloorId": 836,
     "DigimonGroupId": 434,
-    "Floor": 21,
-    "Timestamp": "AAAAAAAAaJc="
+    "Floor": 21
   },
   {
     "DigimonGroupFloorId": 837,
     "DigimonGroupId": 428,
-    "Floor": 16,
-    "Timestamp": "AAAAAAAAaJg="
+    "Floor": 16
   },
   {
     "DigimonGroupFloorId": 838,
     "DigimonGroupId": 422,
-    "Floor": 14,
-    "Timestamp": "AAAAAAAAaJk="
+    "Floor": 14
   },
   {
     "DigimonGroupFloorId": 839,
     "DigimonGroupId": 419,
-    "Floor": 13,
-    "Timestamp": "AAAAAAAAaJo="
+    "Floor": 13
   },
   {
     "DigimonGroupFloorId": 840,
     "DigimonGroupId": 427,
-    "Floor": 16,
-    "Timestamp": "AAAAAAAAaJs="
+    "Floor": 16
   },
   {
     "DigimonGroupFloorId": 841,
     "DigimonGroupId": 437,
-    "Floor": 22,
-    "Timestamp": "AAAAAAAAaJw="
+    "Floor": 22
   },
   {
     "DigimonGroupFloorId": 842,
     "DigimonGroupId": 424,
-    "Floor": 15,
-    "Timestamp": "AAAAAAAAaJ0="
+    "Floor": 15
   },
   {
     "DigimonGroupFloorId": 843,
     "DigimonGroupId": 392,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAaJ4="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 844,
     "DigimonGroupId": 395,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAaJ8="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 845,
     "DigimonGroupId": 425,
-    "Floor": 15,
-    "Timestamp": "AAAAAAAAaKA="
+    "Floor": 15
   },
   {
     "DigimonGroupFloorId": 846,
     "DigimonGroupId": 431,
-    "Floor": 17,
-    "Timestamp": "AAAAAAAAaKE="
+    "Floor": 17
   },
   {
     "DigimonGroupFloorId": 847,
     "DigimonGroupId": 431,
-    "Floor": 18,
-    "Timestamp": "AAAAAAAAaKI="
+    "Floor": 18
   },
   {
     "DigimonGroupFloorId": 848,
     "DigimonGroupId": 420,
-    "Floor": 14,
-    "Timestamp": "AAAAAAAAaKM="
+    "Floor": 14
   },
   {
     "DigimonGroupFloorId": 849,
     "DigimonGroupId": 417,
-    "Floor": 13,
-    "Timestamp": "AAAAAAAAaKQ="
+    "Floor": 13
   },
   {
     "DigimonGroupFloorId": 850,
     "DigimonGroupId": 409,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAaKU="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 851,
     "DigimonGroupId": 412,
-    "Floor": 11,
-    "Timestamp": "AAAAAAAAaKY="
+    "Floor": 11
   },
   {
     "DigimonGroupFloorId": 852,
     "DigimonGroupId": 400,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAaKc="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 853,
     "DigimonGroupId": 397,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAaKg="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 854,
     "DigimonGroupId": 396,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAaKk="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 855,
     "DigimonGroupId": 411,
-    "Floor": 11,
-    "Timestamp": "AAAAAAAAaKo="
+    "Floor": 11
   },
   {
     "DigimonGroupFloorId": 856,
     "DigimonGroupId": 435,
-    "Floor": 22,
-    "Timestamp": "AAAAAAAAaKs="
+    "Floor": 22
   },
   {
     "DigimonGroupFloorId": 857,
     "DigimonGroupId": 429,
-    "Floor": 17,
-    "Timestamp": "AAAAAAAAaKw="
+    "Floor": 17
   },
   {
     "DigimonGroupFloorId": 858,
     "DigimonGroupId": 429,
-    "Floor": 18,
-    "Timestamp": "AAAAAAAAaK0="
+    "Floor": 18
   },
   {
     "DigimonGroupFloorId": 859,
     "DigimonGroupId": 406,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAaK4="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 860,
     "DigimonGroupId": 403,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAaK8="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 861,
     "DigimonGroupId": 393,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAaLA="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 862,
     "DigimonGroupId": 414,
-    "Floor": 12,
-    "Timestamp": "AAAAAAAAaLE="
+    "Floor": 12
   },
   {
     "DigimonGroupFloorId": 863,
     "DigimonGroupId": 390,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAaLI="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 864,
     "DigimonGroupId": 384,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAaLM="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 865,
     "DigimonGroupId": 385,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAaLQ="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 866,
     "DigimonGroupId": 388,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAaLU="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 867,
     "DigimonGroupId": 389,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAaLY="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 868,
     "DigimonGroupId": 381,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAaLc="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 869,
     "DigimonGroupId": 383,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAaLg="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 870,
     "DigimonGroupId": 438,
-    "Floor": 17,
-    "Timestamp": "AAAAAAAAaLk="
+    "Floor": 17
   },
   {
     "DigimonGroupFloorId": 871,
     "DigimonGroupId": 462,
-    "Floor": 11,
-    "Timestamp": "AAAAAAAAaLo="
+    "Floor": 11
   },
   {
     "DigimonGroupFloorId": 872,
     "DigimonGroupId": 463,
-    "Floor": 11,
-    "Timestamp": "AAAAAAAAaLs="
+    "Floor": 11
   },
   {
     "DigimonGroupFloorId": 873,
     "DigimonGroupId": 463,
-    "Floor": 14,
-    "Timestamp": "AAAAAAAAaLw="
+    "Floor": 14
   },
   {
     "DigimonGroupFloorId": 874,
     "DigimonGroupId": 466,
-    "Floor": 13,
-    "Timestamp": "AAAAAAAAaL0="
+    "Floor": 13
   },
   {
     "DigimonGroupFloorId": 875,
     "DigimonGroupId": 466,
-    "Floor": 16,
-    "Timestamp": "AAAAAAAAaL4="
+    "Floor": 16
   },
   {
     "DigimonGroupFloorId": 876,
     "DigimonGroupId": 441,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAaL8="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 877,
     "DigimonGroupId": 441,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAaMA="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 878,
     "DigimonGroupId": 461,
-    "Floor": 11,
-    "Timestamp": "AAAAAAAAaME="
+    "Floor": 11
   },
   {
     "DigimonGroupFloorId": 879,
     "DigimonGroupId": 445,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAaMI="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 880,
     "DigimonGroupId": 471,
-    "Floor": 18,
-    "Timestamp": "AAAAAAAAaMM="
+    "Floor": 18
   },
   {
     "DigimonGroupFloorId": 881,
     "DigimonGroupId": 471,
-    "Floor": 19,
-    "Timestamp": "AAAAAAAAaMQ="
+    "Floor": 19
   },
   {
     "DigimonGroupFloorId": 882,
     "DigimonGroupId": 465,
-    "Floor": 12,
-    "Timestamp": "AAAAAAAAaMU="
+    "Floor": 12
   },
   {
     "DigimonGroupFloorId": 883,
     "DigimonGroupId": 465,
-    "Floor": 15,
-    "Timestamp": "AAAAAAAAaMY="
+    "Floor": 15
   },
   {
     "DigimonGroupFloorId": 884,
     "DigimonGroupId": 464,
-    "Floor": 12,
-    "Timestamp": "AAAAAAAAaMc="
+    "Floor": 12
   },
   {
     "DigimonGroupFloorId": 885,
     "DigimonGroupId": 453,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAaMg="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 886,
     "DigimonGroupId": 453,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAaMk="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 887,
     "DigimonGroupId": 452,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAaMo="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 888,
     "DigimonGroupId": 468,
-    "Floor": 15,
-    "Timestamp": "AAAAAAAAaMs="
+    "Floor": 15
   },
   {
     "DigimonGroupFloorId": 889,
     "DigimonGroupId": 468,
-    "Floor": 18,
-    "Timestamp": "AAAAAAAAaMw="
+    "Floor": 18
   },
   {
     "DigimonGroupFloorId": 890,
     "DigimonGroupId": 458,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAaM0="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 891,
     "DigimonGroupId": 457,
-    "Floor": 9,
-    "Timestamp": "AAAAAAAAaM4="
+    "Floor": 9
   },
   {
     "DigimonGroupFloorId": 892,
     "DigimonGroupId": 456,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAaM8="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 893,
     "DigimonGroupId": 450,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAaNA="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 894,
     "DigimonGroupId": 443,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAaNE="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 895,
     "DigimonGroupId": 442,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAaNI="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 896,
     "DigimonGroupId": 447,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAaNM="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 897,
     "DigimonGroupId": 447,
-    "Floor": 6,
-    "Timestamp": "AAAAAAAAaNQ="
+    "Floor": 6
   },
   {
     "DigimonGroupFloorId": 898,
     "DigimonGroupId": 446,
-    "Floor": 3,
-    "Timestamp": "AAAAAAAAaNU="
+    "Floor": 3
   },
   {
     "DigimonGroupFloorId": 899,
     "DigimonGroupId": 440,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAaNY="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 900,
     "DigimonGroupId": 459,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAaNc="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 901,
     "DigimonGroupId": 454,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAaNg="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 902,
     "DigimonGroupId": 455,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAaNk="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 903,
     "DigimonGroupId": 455,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAaNo="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 904,
     "DigimonGroupId": 470,
-    "Floor": 17,
-    "Timestamp": "AAAAAAAAaNs="
+    "Floor": 17
   },
   {
     "DigimonGroupFloorId": 905,
     "DigimonGroupId": 470,
-    "Floor": 19,
-    "Timestamp": "AAAAAAAAaNw="
+    "Floor": 19
   },
   {
     "DigimonGroupFloorId": 906,
     "DigimonGroupId": 467,
-    "Floor": 14,
-    "Timestamp": "AAAAAAAAaN0="
+    "Floor": 14
   },
   {
     "DigimonGroupFloorId": 907,
     "DigimonGroupId": 467,
-    "Floor": 17,
-    "Timestamp": "AAAAAAAAaN4="
+    "Floor": 17
   },
   {
     "DigimonGroupFloorId": 908,
     "DigimonGroupId": 444,
-    "Floor": 2,
-    "Timestamp": "AAAAAAAAaN8="
+    "Floor": 2
   },
   {
     "DigimonGroupFloorId": 909,
     "DigimonGroupId": 444,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAaOA="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 910,
     "DigimonGroupId": 451,
-    "Floor": 5,
-    "Timestamp": "AAAAAAAAaOE="
+    "Floor": 5
   },
   {
     "DigimonGroupFloorId": 911,
     "DigimonGroupId": 451,
-    "Floor": 8,
-    "Timestamp": "AAAAAAAAaOI="
+    "Floor": 8
   },
   {
     "DigimonGroupFloorId": 912,
     "DigimonGroupId": 448,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAaOM="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 913,
     "DigimonGroupId": 469,
-    "Floor": 16,
-    "Timestamp": "AAAAAAAAaOQ="
+    "Floor": 16
   },
   {
     "DigimonGroupFloorId": 914,
     "DigimonGroupId": 469,
-    "Floor": 19,
-    "Timestamp": "AAAAAAAAaOU="
+    "Floor": 19
   },
   {
     "DigimonGroupFloorId": 915,
     "DigimonGroupId": 460,
-    "Floor": 10,
-    "Timestamp": "AAAAAAAAaOY="
+    "Floor": 10
   },
   {
     "DigimonGroupFloorId": 916,
     "DigimonGroupId": 460,
-    "Floor": 13,
-    "Timestamp": "AAAAAAAAaOc="
+    "Floor": 13
   },
   {
     "DigimonGroupFloorId": 917,
     "DigimonGroupId": 449,
-    "Floor": 4,
-    "Timestamp": "AAAAAAAAaOg="
+    "Floor": 4
   },
   {
     "DigimonGroupFloorId": 918,
     "DigimonGroupId": 449,
-    "Floor": 7,
-    "Timestamp": "AAAAAAAAaOk="
+    "Floor": 7
   },
   {
     "DigimonGroupFloorId": 919,
     "DigimonGroupId": 439,
-    "Floor": 1,
-    "Timestamp": "AAAAAAAAaOo="
+    "Floor": 1
   },
   {
     "DigimonGroupFloorId": 920,
     "DigimonGroupId": 472,
-    "Floor": 20,
-    "Timestamp": "AAAAAAAAaOs="
+    "Floor": 20
   },
   {
     "DigimonGroupFloorId": 921,
     "DigimonGroupId": 473,
-    "Floor": 20,
-    "Timestamp": "AAAAAAAAaOw="
+    "Floor": 20
   }
 ]
