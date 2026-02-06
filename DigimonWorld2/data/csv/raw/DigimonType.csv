@@ -1,0 +1,4 @@
+DigimonTypeId,Name,Data,Vaccine,Virus
+2,Data,1.0,1.2,0.8
+1,Vaccine,0.8,1.0,1.2
+3,Virus,1.2,0.8,1.0

@@ -1,0 +1,209 @@
+SkillId,RankId,SpecialtyId,SkillTypeId,SkillTargetId,Name,Description,MP,Power,Notes,IsVerified,Code
+122,2,4,1,1,Air Attack,Shoots an Air Burst,8,20.0,,True,29
+321,4,6,4,6,Alias Fake,Make clone to avoid attack,26,0.0,Enemy has a higher chance of missing you,True,EA
+123,3,3,1,1,Alien Ray,Fires a Ray Beam,20,37.5,,True,48
+264,2,6,4,4,Anti-Confusion,Cures Confusion,12,0.0,,True,
+263,2,6,4,4,Anti-Dote,Cures Poison,10,0.0,,True,
+265,2,6,4,4,Anti-Freeze,Cures Paralysis,12,0.0,,True,
+324,4,6,4,6,Armor Aid,Strengthens your Armor,20,0.0,Boosts your defense by 20%,True,EF
+266,2,6,4,4,Armor Coating,Boost Digimon attack power,10,0.0,Boosts one ally Digimon attack by 20%,True,C1
+267,4,6,4,2,Banana Slip,Trips all resting enemies,60,0.0,Causes all countering digimon to lose turn,True,BB
+243,2,6,3,1,Beast King Fist,Damage return on Counter,12,15.0,"Counter returns damage dealt 1.5x, floored (rounded down)",True,8B
+124,3,3,1,2,Big Bang Boom,Throws Grenades at all foe,40,30.0,,True,37
+125,1,6,1,1,BlackPearl Shot,Attacks with no defense,4,20.0,,True,3D
+126,2,2,1,1,Blaze Blast,Shoots a Breath of Fire,10,25.0,,True,0E
+268,2,2,4,4,Blaze Buster,Add Flame FX to attack,10,0.0,Changes all moves used by the Digimon to Fire,True,
+302,4,6,1,7,Blind Attack,Attacks friend and foe,30,60.0,"Randomly attacks one digimon, friend or enemy",True,DD
+127,1,2,1,1,Blue Blaster,Shoots a FIreball,4,10.0,,True,08
+128,1,5,1,1,Bolt Strike,Fires a Frozen Missile,6,10.0,,True,65
+129,1,4,1,1,Boom Bubble,Shoots a Boom Bubble,6,12.5,,True,03
+130,2,4,1,1,Brown Stinger,Shoots Poison Needles,12,20.0,,True,6B
+244,2,1,3,1,Buffalo Breath,Confuses foe in Counter,10,22.5,,True,8C
+303,4,3,1,3,Chaos Cannon,Allows repeated attacks,40,25.0,Allows multiple hits if the previous hit knocks out an opponent,True,DC
+254,2,3,2,1,Chrono Breaker,Delays foe's attack to end,14,20.0,,True,A5
+131,3,6,1,1,Concert Crush,Foe can't use Power Techs,18,27.5,,True,49
+132,2,5,1,1,Coral Crusher,Slows enemy down,12,20.0,Lowers speed by 20%,True,43
+133,2,1,1,1,Crimson Claw,"Confuse, Poison + Stun foe",18,35.0,"If you have one of these statuses, then the skill will transfer that status to your enemy.",True,70
+269,4,6,4,4,Crimson Flame,Full HP revival,50,0.0,"Restores one digimon to full health, even if dead",True,B7
+317,4,6,1,1,Critical Blow,Final Blow to weakened foe,26,20.0,Will only deal damage if it will defeat them (It is at least 20 AP),True,E2
+135,3,3,1,3,Dark Shot,Fires an Organic Missle,20,40.0,,True,4A
+134,1,3,1,1,Darkness Gear,Fires a Darkness Gear,8,17.5,,True,64
+270,2,1,4,4,Darkness Ray,Learn Dark Power attacks,10,0.0,Changes all moves used by the Digimon to Darkness,True,D3
+136,3,3,1,1,Darkside Attack,Foes can't recover HP,20,32.5,,True,4B
+271,2,6,4,4,Defensive Ray,Boost your Defense Power,10,0.0,Boosts one ally digimon defense by 20%,True,BD
+137,1,1,1,1,Demi Dart,Lowers enemy MP a little,8,15.0,,True,3C
+308,4,6,1,2,Destabilizer Ray,Lower Def.Power of all foe,36,0.0,Lowers defense of all enemy Digimon by 20%,True,F9
+138,3,3,1,2,Digital Bomb,Toss sm. Bombs on all foes,30,22.5,,True,71
+139,3,6,1,2,Duo ScissorClaw,Lowers all foes Def. Power,36,22.5,Lower's target digimon's defense by ~20% (before applying damage itself),True,51
+141,1,4,1,1,Electric Shock,Fires an Electric Burst,8,17.5,,True,3B
+142,1,4,1,1,Electro Thread,Shoots Electro Threads,8,17.5,,True,3F
+255,2,4,2,1,Electro-Shocker,Lower Power of foe attack,12,22.5,Lower's the attack stat of target digimon by 20%,True,A0
+245,3,3,3,1,Energetic Bomb,CounterAttack hits all foes,20,30.0,"When countering, all foes are hit instead of just one.",True,87
+143,4,3,1,2,Energy Blast,Shoot Energy Blasts at foe,60,37.5,,True,E9
+318,4,6,1,1,Energy Blast (Boss),Fires an Energy Blast,40,60.0,,True,E9
+140,1,1,1,1,E-Stun Blast,Stuns foe with a Blast,8,15.0,May paralyze,True,69
+144,2,1,1,1,Evil Charm,Fade-away Spell confusion,12,20.0,Can confuse,True,42
+145,2,1,1,1,Evil Touch,Lowers enemy's MP,12,22.5,,True,41
+146,3,5,1,2,Evil Wind,Slows enemy down,36,20.0,Reduces speed by 20%,True,4E
+306,4,2,1,2,Fantasmic Bomb,Attack wave on all enemies,84,42.5,,True,F1
+314,4,3,1,2,Fantasmic Ray,Attack wave on all enemies,90,45.0,,True,F4
+148,2,2,1,2,Fire Blast,Shoots Flame at all foes,22,17.5,,True,6F
+149,3,3,1,1,Fire Blast II,Fires an Organic Missile,20,37.5,,True,72
+150,4,6,1,2,Fire Tornado,Shoots Energy at all foes,80,45.0,,True,63
+147,2,2,1,1,Fireball,Shoots a Fire Punch,12,30.0,,True,0A
+151,2,6,1,1,Fist of Fate,Throws a Light-Speed Punch,10,27.5,,True,28
+152,1,2,1,1,Flame Bomber,Shoots a Fireball,6,15.0,,True,04
+153,2,2,1,1,Flaming Rocket,Shoots a Blazing Missile,12,30.0,,True,D9
+154,3,4,1,1,Flower Cannon,Fires Flower Energy Blast,16,35.0,,True,12
+155,2,6,1,1,Fossil Bite,Attacks with Claws,8,20.0,,True,0B
+156,4,5,1,2,Freeze Breath,Frozen Breath hits all foe,60,37.5,,True,1E
+157,1,2,1,4,Friendly Fire,Enemies attack themselves,4,17.5,Allows you to attack an ally in order to trigger various moves,True,CF
+272,4,6,4,5,Full HP Cure,Digimon full HP recovery,80,0.0,Fully recovers all ally digimon in battle,True,B8
+273,3,6,4,4,Full Recovery,Fully regain Digimon's HP,18,0.0,Restores one digimon to full HP (does not revive),True,CD
+274,1,6,4,6,Fungus Cruncher,Poisons foe during attacked,8,0.0,"Makes yourself poisonous, causing poison to any attacking digimon",True,B9
+305,4,6,3,1,GAIA Gear,Good only in CounterAttack,48,67.5,"If the counter is not triggered, the move will automatically miss",True,F2
+315,4,3,1,2,Garuru Cannon,Fires Missiles at all foes,80,45.0,"Only found on wild, high-level Omnimons in Tera Domain",True,E5
+158,3,3,1,1,Giga Blaster,Fires an Organic Missile,18,37.5,,True,30
+159,3,3,1,1,Giga Byte Wing,Foes can't regain Status,20,32.5,,True,
+160,4,3,1,3,Giga Cannon,Attacks till MP runs out,60,30.0,,True,68
+256,4,4,2,1,GigaScissorClaw,Disables enemy attack,40,30.0,,True,A3
+161,3,1,1,2,Grisly Wing,Attack fow w/ Flying Bats,40,30.0,,True,4C
+162,1,5,1,1,Hail Storm,Attacks with a Hail Storm,8,17.5,,True,5A
+163,2,3,1,1,Harpoon Torpedo,Shoots a Horn Missile,10,25.0,,True,2E
+275,3,6,4,7,Heart Break Hit,Weakens all Data Digimon,36,0.0,Reduces attack and defense by 20% of all Data digimon,True,D6
+164,3,6,1,1,Heaven's Arrow,Shoots a Light-Speed Arrow,16,35.0,,True,62
+257,3,6,2,1,Horn Buster,Lowers Off. Power greatly,20,32.5,,True,A2
+165,2,2,1,1,Howling Blaster,Shoots Blue Flame,12,27.5,,True,2A
+166,4,6,1,1,Howling Crusher,"No Counter, Claw attack",30,45.0,,True,1C
+276,3,6,4,5,HP Recovery,Recover 150 HP All,24,0.0,Heals each ally digimon in battle for 150 HP,True,B5
+316,4,6,1,1,HP Zapper,Lowers enemy HP by half,36,0.0,"Does damage equal to the amount of HP the target has remaining divided by
+2 (rounded down) (diminishing returns)",True,E1
+277,4,6,4,4,Hung on Death,Revive Zombied Digimon,20,0.0,Removes Zombie status from an ally Digimon,True,CE
+167,2,5,1,1,Hydro Blaster,Shoots High Pressure Water,10,25.0,,True,0C
+168,2,3,1,1,Hyper Cannon,Fires a Cannon,10,25.0,,True,5C
+278,3,6,4,7,Hyper Flashing,Weakens all Vaccine Digimon,36,0.0,Lowers attack and defense by 20% for all Vaccine Digimon in battle,True,B4
+169,2,2,1,1,Hyper Heat,Shoots a Super Hot Blast,10,22.5,,True,6C
+170,2,5,1,2,Ice Blast,Shoot IceBlades at all foe,18,15.0,,True,5B
+171,2,5,1,1,Icicle Shot,Shoots an Icicle at foes,10,25.0,,True,2C
+172,4,3,1,2,Inferno Missile,Fires Missiles at all foes,80,45.0,,True,
+279,3,6,4,4,Invincibility,Your Digimon is unbeatable,20,0.0,Nullifies all attacks against a single ally Digimon,True,C5
+280,1,6,4,6,Invisibility,Excludes from enemy attack,8,0.0,Enemy does not target you,True,D0
+173,2,3,1,1,Iron Drill Spin,Attacks with an Iron Drill,10,25.0,,True,10
+174,3,1,1,1,Junk Chunker,Shoots Poop at enemies,12,30.0,,True,53
+304,4,6,1,2,Karate Sweep,Karate Chops all enemies,80,45.0,,True,E8
+281,4,6,4,6,Kongou,Unbeatable during own turn,16,0.0,Voids all damage against self,True,DE
+312,4,6,1,1,Left Hand,Gives foes a Bakhand Slap,36,55.0,,True,F6
+175,4,6,1,2,Legendary Blade,Sonic attack on all foes,70,40.0,,True,1D
+258,1,6,2,1,Life Shield,Defend Digimon in attack,6,0.0,Lowers tech power,True,A7
+309,4,6,1,1,Light Gun,Shoots stored Light Energy,60,70.0,,True,F3
+176,3,6,1,2,Lightning Blade,Lightning Blade hits all foes,24,20.0,,True,32
+177,3,4,1,1,Lightning Blast,Fires an Electric Burst,20,40.0,,True,DA
+178,2,6,1,1,Lightning Paw,Attacks with Claws,10,25.0,,True,61
+179,3,4,1,1,Lightning Spear,Fires a Lightning Bolt,16,35.0,,True,17
+180,3,6,1,1,Magical Tail,Throws a Spear,18,37.5,,True,19
+181,1,5,1,1,Marching Fishes,Small Fish Storm attack,6,15.0,,True,23
+282,2,3,4,4,Mech Ray,Gives you Mech. FX powers,10,0.0,Changes all moves used by the Digimon to Machine,True,C2
+182,2,6,1,2,Mega Bone Stick,Attacks all foes w/ needles,14,12.5,,True,33
+183,4,6,1,2,Mega Fire,Energy Blasts all foes,84,42.5,,True,DB
+283,2,6,4,4,Mega Heal,Recover your Digimon's HP,12,0.0,Heals one ally Digimon for 150 HP,True,CB
+184,3,3,1,2,Metal Fireball,Shoot Hot Metal on all foe,32,25.0,,True,16
+246,2,2,3,1,Meteor Stream,Hit all foes on Counter,12,20.0,,True,83
+185,2,2,1,2,Meteor Wing,Fire Wings attack all foes,18,15.0,,True,27
+259,3,6,2,1,MP Destroyer,"Weakens foe attack, gain MP",12,0.0,Absorbs MP used by opponent and lowers tech power,True,A8
+260,3,6,2,1,MP Magic,Recovers MP used for Tech,4,0.0,Absorbs MP used by opponent,True,A6
+186,3,6,1,3,Musical Fist,Foes may recover with this,12,37.5,"Attack will heal opponent when you are Vaccine attacking Data, Data 
+attacking Virus, and Virus attacking Vaccine",True,50
+284,2,4,4,4,Nature Hit Ray,Add Nature FX on Digimon,10,0.0,Changes all moves used by the Digimon to Nature,True,C4
+285,2,6,4,3,Necro Magic,Sucks MP of Stunned Digimon,0,0.0,"Will receive a lot more MP back than simply guarding; Only works on 
+defeated Digimon; Can get MP out of the same Digimon up to 3 times",True,D2
+247,2,4,3,1,Needle Spray,Counter Attack with Poison,10,22.5,,True,82
+187,4,3,1,2,Needle Squall,Shoots Spines at all foes,80,42.5,,True,55
+188,3,4,1,2,Ninja Flower,Shoots Flower Shurikens,30,25.0,,True,14
+248,2,6,3,1,NinjaKnifeThrow,Raises CounterAttack power,10,22.5,Counter multiplies total damage by 1.5x,True,8A
+189,2,2,1,1,Nova Blast,Attacks with a Fire Blast,12,27.5,,True,24
+190,4,6,1,3,Ocean Love,Disables foe's strong techs,30,35.0,,True,3A
+286,2,6,4,4,Panic Wave,Confuses foe during attack,10,0.0,Addes confusion to an ally's attack,True,D5
+287,2,6,4,4,Parameter Patch,Recovers Digimon's Parameters,12,0.0,"Removes any ailments, except death, from one Digimon",True,BE
+191,2,1,1,1,Party Time,Boosts Power if Poisoned,10,20.0,Increases attack power by 1.5x if target is poisoned,True,40
+192,1,2,1,1,Pepper Breath,Shoots a Fireball,8,17.5,,True,1F
+193,3,4,1,2,Pit Pelter,Shoots Pits at all enemies,40,27.5,,True,52
+194,1,4,1,1,Poison Ivy,Poisons foe w/ Poison Ivy,8,15.0,Can poison target digimon,True,01
+288,3,6,4,4,Poison Wave,Gives you Poison FX powers,26,0.0,Addes poison to an ally's attack,True,D7
+299,4,2,1,1,Poison Wing,Shoots a Heat Blast,40,60.0,,True,FC
+195,3,6,1,1,Pretty Attack,Disables foe's strong techs,20,30.0,,True,73
+196,2,3,1,1,Protect Grenade,Fires a Homing Missile,12,20.0,,True,66
+197,2,6,1,1,Pulse Blast,Lowers foe's Offense Power,12,20.0,Reduces opponent's current attack stat by 20%,True,2F
+198,2,3,1,1,Pummel Peck,Sends a Mini-Kiwimon,10,25.0,,True,09
+249,2,6,3,1,Pummel Whack,Use foe's MP for Counter,20,30.0,"When countering, you lose the MP of the move that hit you",True,89
+199,4,3,1,1,Puppet Pummel,Explosive Hammer Attack,32,50.0,,True,57
+322,4,3,1,1,Rail Cannon,Pwr. Attack at end of turn,40,67.5,Attacks last,True,EE
+200,1,4,1,1,Rain of Pollen,Covers enemy with Pollen,6,15.0,,True,02
+289,3,6,4,5,Recovery Power,"Cures Mix-up, Poison, Stun",36,0.0,"Cures confusion, poison, and stun on all allied Digimon",True,C7
+311,4,6,4,1,Reduction Ray,Lowers foe's attack power,12,0.0,Lowers target's attack by 20%,True,F7
+290,3,6,4,2,Re-Format,Reset all foe's Parameters,40,0.0,"Removes all status changes on all opponents, including 
+attack power increases",True,C6
+291,2,6,4,1,Re-Initialize,Resets foes's 1st parameters,12,0.0,"Resets the status of one opponent, including increased attack power",True,D4
+319,4,6,4,6,Reset Status,Resets all Parameters,32,0.0,"Removes all status changes, including boosts",True,E3
+307,4,6,1,1,Right Hand,Gives foes a Backhand Slap,30,47.5,,True,F8
+201,1,6,1,1,Rock Fist,Shoots Rock at enemy,8,20.0,,True,06
+202,4,4,1,2,Rose Spear,Hosomi Punch all enemies,60,35.0,,True,5F
+292,2,6,4,4,RottenRainballs,Add Poison FX to attack,8,0.0,Causes one ally digimon to poison opponents when attacking,True,BA
+203,3,4,1,1,Royal Smasher,Shoots Egg at enemies,14,32.5,,True,13
+206,4,5,1,2,Sad Water Blast,Hit all foe with Sad Water,80,45.0,,True,5E
+320,4,6,4,6,Safety Sphere,Boosts Hide and Def. Powers,18,0.0,Boosts defense by 20% and less likely to be targeted by enemies,True,E7
+204,4,6,1,2,S-Bone Crusher,Spinning Bone hits all foe,70,40.0,,True,39
+207,2,6,1,1,Scissor Claw,Lowers foe's Defense Power,12,22.5,Reduces opponent's current defense stat by ~20% before damage applied,True,46
+208,1,6,1,1,Scissor Magic,A Scissors attack,6,15.0,,True,05
+209,3,1,1,1,Shadow Scythe,Re-attack if foe's stunned,20,37.5,Attacks again if the target is defeated,True,ZZ
+210,2,6,1,1,Slamming Tusk,Throws a Quick Punch,12,22.5,,True,6E
+293,1,6,4,4,Small HP Cure,Digimon small HP recovery,6,0.0,Heals 50 HP to one ally digimon,True,BC
+250,3,3,3,1,Smiley Bomb,Counter Attack hit harder,16,32.5,Counter increases multiplies damage by 1.5x and subtracts 1,True,86
+251,4,3,3,1,Smiley Warhead,Counter Attack all foes,40,40.0,"When countering, Attack Power becomes 60 and All Enemies are hit",True,88
+211,2,3,1,1,Solar Ray,Fires an Energy Burst,8,20.0,,True,11
+212,2,6,1,1,Sonic Crusher,Sonic Blow can confuse foe,12,20.0,Can confuse,True,45
+213,2,4,1,1,Spinning Needle,Hits resting enemy harder,10,22.5,Increases attack power by 1.5x against countering enemies,True,26
+214,1,6,1,1,Spiral Saw,Attacks with Back Fin,8,17.5,,True,6A
+215,1,2,1,1,Spiral Twister,Shoots a Fireball,6,12.5,,True,20
+216,2,5,1,1,Spurting Ink,Fires Black Ink Shots,10,25.0,,True,44
+205,1,4,1,3,S-Thunder Smack,Hits foe w/ Lightning Bolt,6,17.5,,True,07
+217,2,6,1,2,Strong Carapace,Shoots Horns at all foes,12,10.0,,True,2D
+218,1,5,1,1,Stun Bubble,Confuses foes with Bubbles,8,15.0,,True,3E
+219,2,2,1,1,Stun Flame Shot,Stun foe with a Flame,12,20.0,,True,0F
+323,4,6,3,1,Stun Punch,Counter Attack stuns foe,44,57.5,,True,ED
+294,2,6,4,4,Stun Ray,Adds Stun Effect to attack,10,0.0,Causes attacks to stun opponent Digimon,True,C0
+220,2,5,1,1,SubzeroIcePunch,Power-Up with repeated use,10,25.0,Each successive attack adds 2.5 AP,True,60
+221,1,4,1,3,Super Shocker,Shoot Static Elec. at foes,6,12.5,,True,21
+222,1,6,1,1,Super Slap,Slaps an enemy,6,15.0,,True,59
+252,3,6,3,1,Tail Blade,Avoid attack while resting,18,30.0,Opponents targeting you will have a higher chance of missing,True,85
+223,3,6,1,1,Tentacle Claw,Throws a 3 Point Spear,16,27.5,,True,ZZ
+224,4,6,1,1,Terra Force,Fires Powerful Energy Shots,40,60.0,,True,38
+253,2,4,3,3,Thunder Ball,Stun foe in Counter Aattack,10,22.5,,True,84
+225,2,4,1,1,Thunder Ray,Fires a Thunder Bolt,10,25.0,,True,5D
+226,3,5,1,2,Tidal Wave,Lowers all foe's Off. Power,36,20.0,20% reduction to opponent's current attack stat,True,36
+313,4,3,1,2,Titan Laser,Shoots Laser at all foes,90,47.5,Note: It appears to add 2 damage against neutral targets,True,F0
+227,4,3,1,2,Tomahawk Crunch,Throws Axes at all enemies,60,37.5,,True,1A
+228,1,6,1,1,Toy Flame,Shoots Flame Blocks,6,15.0,,True,58
+229,4,6,1,1,Transcend Sword,Powerful on resting enemy,38,50.0,"Attack Power increased to 75 against an enemy waiting to counter;
+Can paralyze",True,E4
+231,3,4,1,2,Trick or Treat,Hit all foe w/ no defense,30,30.0,User has their defense reduced to 0,True,15
+230,3,6,1,1,Tri-Horn Attack,Attacks with a Horn,16,35.0,,True,18
+232,2,1,1,2,Triple Forces,Energy Bursts at all foe,18,15.0,,True,6D
+233,4,6,1,1,Trump Sword,Unstoppable sword throw,30,45.0,,True,54
+310,4,6,3,1,Tubular Attack,CounterAttack hits all foe,56,47.5,,True,F5
+234,3,6,1,1,Tusk Crusher,Crushes all foes caught,18,32.5,,True,34
+301,2,4,1,1,Twig Tap,Drains enemy HP,12,20.0,,True,47
+237,1,6,1,1,Vee Head Butt,A Head Butt attack,8,20.0,,True,D8
+261,4,6,2,1,Venom Infusion,Stuns enemy with fear,40,0.0,Prevents enemy from attacking,True,A4
+295,3,6,4,7,Virus Attack,Weakens all Virus Digimon,36,0.0,Reduces Attack and Defense 20% of all Virus Digimon in battle,True,B6
+235,2,6,1,1,V-Nova Blast,Hit foes about to Counter,10,22.5,"Attack Power increased by 1.5x against an enemy waiting to counter
+",True,25
+238,2,2,1,1,Volcanic Strike,Shoots Fireballs,12,30.0,,True,0D
+239,3,6,1,2,Vulcan's Hammer,Hits all foe with a hammer,28,22.5,,True,35
+236,3,6,1,1,V-Wing Blade,Hits resting enemies harder,16,32.5,Increases attack power by 1.5x against countering enenmies,True,31
+240,1,1,1,1,Waking Dream,Nightmare attacks a foe,4,10.0,,True,22
+296,2,5,4,4,Water Ray,Adds Water FX to attack,10,0.0,Changes all moves used by the Digimon to Water,True,D1
+262,3,4,2,1,Wing Blade,Fires a Vaccum Blade,20,35.0,,True,A1
+241,3,6,1,1,Wolf Claw,Attacks with claws,16,35.0,,True,2B
+242,4,6,1,1,X-Scissor Claw,Attacks with a claw,40,55.0,,True,56
+297,3,6,4,5,Zen Recovery,Full Parameter recovery,40,0.0,Restores Digimon's status to normal,True,CC
+298,2,6,4,4,Zip Boom,Boosts Digimon's Speed,12,0.0,Boosts one ally Digimon speed by 20%,True,BF

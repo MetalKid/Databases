@@ -1,0 +1,7 @@
+SpecialtyId,Name,Darkness,Fire,Machine,Nature,Water
+1,Darkness,1.0,0.8,1.0,1.0,1.2
+2,Fire,1.0,1.0,0.8,1.2,1.0
+3,Machine,1.2,1.0,1.0,1.0,0.8
+4,Nature,0.8,1.0,1.2,1.0,1.0
+6,None,1.0,1.0,1.0,1.0,1.0
+5,Water,1.0,1.2,1.0,0.8,1.0

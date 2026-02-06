@@ -1,0 +1,27 @@
+DomainId,Name
+5,BIOS Domain
+1,Boot Domain
+12,Bug Domain
+26,Chaos Tower
+10,Code Domain
+25,Core Tower
+23,Data
+19,Diode
+4,Disk Domain
+6,Drive Domain
+9,DVD Domain
+18,Giga
+11,Laser Domain
+22,Mega
+8,Modem Domain
+21,Patch
+17,Port
+16,Power
+13,RAM Domain
+14,ROM Domain
+20,Scan
+2,SCSI Domain
+24,Soft
+15,Tera Domain
+3,Video Domain
+7,Web Domain

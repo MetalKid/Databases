@@ -1,0 +1,382 @@
+DigimonId,Name,RankId,DigimonTypeId,LearnedSkillId,SpecialtyId,Found,HasImage,Code,HP,MP,Att,Def,Speed,StatCurveVerified
+103,AeroVeedramon,3,1,236,6,,True,"
+B4",1,0,1,1,2,True
+1,Agumon,1,1,192,6,You get as partner when you join the Gold Hawk Guard Team,True,03,1,0,1,2,1,True
+32,Airdramon,2,1,213,6,"Scan Domain, Giga Domain",True,"
+07",1,0,1,1,2,True
+33,Akatorimon,2,2,298,4,"Laser Domain, Port Domain, BIOS Domain 2",True,"
+5F",1,1,1,0,2,True
+104,Andromon,3,1,176,3,,True,"
+28",2,1,0,1,1,True
+34,Angemon,2,1,151,6,"Drive Domain 2, Laser Domain",True,"
+14",2,1,0,1,1,True
+105,Angewomon,3,1,164,6,,True,"
+EA",2,1,0,1,1,True
+35,Apemon,2,1,182,6,"Laser Domain, Drive Domain 2",True,"
+CF",2,1,1,1,0,True
+154,Baihumon,4,2,281,6,Tera Domain,True,"
+95",1,1,1,2,0,True
+36,Bakemon,2,3,144,1,"Diode Domain, Laser Domain",True,"
+25",0,1,2,1,1,True
+2,Betamon,1,3,141,6,"SCSI Domain, Disk Domain, Web Domain",True,"
+04",0,0,2,1,1,True
+37,Birdramon,2,1,185,2,"Drive Domain 2, Laser Domain, Code Domain",True,"
+15",1,0,1,1,2,True
+3,Biyomon,1,1,215,4,"SCSI Domain, Video Domain, Drive Domain",True,"
+2D",1,0,1,1,2,True
+106,Blossomon,3,2,188,4,,True,"
+C8",0,2,1,1,1,True
+107,BlueMeramon,3,2,260,2,,True,68,1,1,2,1,0,True
+155,Boltmon,4,2,227,3,"Chaos Tower, Tera Domain",True,"
+BE",1,1,2,1,0,True
+4,Candlemon,1,2,152,2,"BIOS Domain, Modem Domain",True,"
+BC",1,1,2,1,0,True
+38,Centarumon,2,2,211,6,"Port Domain, Scan Domain, Laser Domain, Modem Domain",True,"
+24",1,1,1,2,0,True
+184,ChaosLord,4,3,,1,,True,"
+F8",1,1,1,1,1,True
+108,Cherrymon,3,3,193,4,,True,"
+79",0,2,2,1,0,True
+5,ClearAgumon,1,1,293,6,"Drive Domain, Video Domain, Drive Domain 2",True,"
+62",2,1,0,1,1,True
+39,Clockmon,2,2,254,3,"Web Domain, Modem Domain, Port Domain",True,"
+8F",1,1,2,1,0,True
+40,Coelamon,2,2,155,5,,True,"
+31",1,2,0,1,1,True
+194,C-Pierrotmon,4,3,,1,,True,"
+F4",1,1,1,1,1,True
+6,Crabmon,1,2,208,5,"SCSI Domain, BIOS Domain, Modem Domain, Core Tower",True,"
+C5",1,2,0,1,1,True
+195,C-Seadramon,4,2,,5,,True,"
+F5",1,1,1,1,1,True
+191,C-WarGreymon,4,1,,6,,True,"
+F6",1,1,1,1,1,True
+41,Cyclonemon,2,3,169,6,,True,"
+86",0,0,2,1,1,True
+42,Darkrizamon,2,3,270,1,,True,"
+65",0,0,2,1,1,True
+109,Datamon,3,3,138,3,,True,8D,0,1,2,0,1,True
+44,Deltamon,2,3,232,1,Laser Domain,True,"
+8A",0,0,2,1,1,True
+7,DemiDevimon,1,3,137,1,"You get as partner when you join the Black Sword Guard Team, Web Domain, Core Tower, SCSI Domain 2",True,"
+D9",0,1,2,1,1,True
+110,Deramon,3,2,203,4,,True,"
+C0",1,1,1,0,2,True
+45,Devidramon,2,3,133,1,"Diode Domain, Web Domain 2, Laser Domain",True,"
+87",0,0,2,1,1,True
+46,Devimon,2,3,145,1,"Diode Domain, Web Domain 2, Laser Domain",True,"
+06",0,1,2,1,1,True
+156,Diaboromon,4,3,172,1,,True,"
+97",0,1,2,0,2,True
+111,Digitamamon,3,2,278,1,,True,"
+38",2,0,1,1,1,True
+8,Dokunemmon,1,3,280,4,"Web Domain, Disk Domain 2",True,"
+4A",0,1,2,0,2,True
+47,Dolphmon,2,1,197,5,"Drive Domain 2, Laser Domain",True,"
+D2",2,1,0,1,1,True
+112,Dragomon,3,3,223,5,,True,"
+E1",0,2,2,0,1,True
+48,Drimogemon,2,2,173,3,"BIOS Domain 2, SCSI Domain 2",True,"
+26",1,1,1,2,0,True
+43,D-Tyrannomon,2,3,148,1,,True,"
+85",0,0,2,1,1,True
+9,Elecmon,1,2,205,6,"Modem Domain, BIOS Domain 2",True,"
+12",1,1,1,1,1,True
+113,Etemon,3,3,131,6,,True,"
+2A",0,1,2,1,1,True
+114,ExTyrannomon,3,3,195,1,,True,"
+8E",0,0,2,1,1,True
+49,Flamedramon,2,1,153,2,,True,"
+92",1,0,1,1,2,True
+50,Flarerizamon,2,2,268,2,,True,"
+45",1,1,1,1,1,True
+10,Floramon,1,2,200,4,"BIOS Domain, Modem Domain, Core Tower",True,"
+BF",1,1,1,0,2,True
+51,Flymon,2,3,130,4,,True,"
+89",0,1,2,0,2,True
+52,Frigimon,2,1,220,5,"Giga Domain, Laser Domain",True,"
+17",2,1,1,1,0,True
+11,Gabumon,1,2,127,6,"SCSI Domain, BIOS Domain, Core Tower, Tera Domain",True,"
+11",1,1,1,2,0,True
+115,Garbagemon,3,3,174,1,,True,"
+E3",0,1,2,0,1,True
+116,Garudamon,3,1,262,4,,True,"
+BB",1,0,1,1,2,True
+53,Garurumon,2,1,165,6,"Drive Domain 2, Giga Domain, Laser Domain",True,"
+16",2,1,1,1,0,True
+54,Gatomon,2,1,178,6,Drive Domain 2,True,"
+E9",2,1,0,1,1,True
+12,Gazimon,1,3,140,6,"Boot Domain, Disk Domain, Web Domain, Disk Domain 2, Core Tower",True,"
+83",0,1,2,1,1,True
+55,Gekomon,2,3,212,5,,True,"
+6E",0,2,2,0,1,True
+56,Gesomon,2,3,132,5,,True,"
+DC",0,2,2,0,1,True
+117,Gigadramon,3,3,159,3,,True,"
+40",0,0,2,1,1,True
+118,Giromon,3,1,124,3,,True,"
+29",2,1,0,1,1,True
+13,Gizamon,1,3,214,6,"Boot Domain, Disk Domain, Web Domain, Core Tower",True,"
+84",0,0,2,1,1,True
+14,Goburimon,1,3,258,6,"Disk Domain, Web Domain",True,"
+50",0,1,2,1,1,True
+15,Gomamon,1,1,181,5,"Drive Domain, Video Domain 2, Core Tower",True,"
+B6",2,1,0,1,1,True
+16,Gotsumon,1,2,201,3,"BIOS Domain, Modem Domain, Core Tower, SCSI Domain 2",True,"
+44",1,1,1,2,0,True
+157,GranKuwagamon,4,3,242,4,Tera Domain,True,"
+E6",0,1,2,0,2,True
+182,Greymon,2,1,189,6,,True,"
+05",1,0,1,2,1,True
+158,Gryphonmon,4,2,175,4,Tera Domain,True,C1,1,1,1,0,2,True
+193,Guardian-Data,4,2,,6,,True,"
+FA",1,1,1,1,1,True
+192,Guardian-Vaccine,4,1,,6,,True,"
+FB",1,1,1,1,1,True
+185,Guardian-Virus,4,3,,6,,True,"
+F9",1,1,1,1,1,True
+57,Guardromon,2,3,196,3,,True,"
+5C",0,1,2,0,1,True
+58,Gururumon,2,1,263,6,,True,"
+69",2,1,1,1,0,True
+17,Hagurumon,1,3,134,3,"Web Domain, Disk Domain 2, SCSI Domain 2, Core Tower",True,"
+7A",0,1,2,0,1,True
+159,H-Kabuterimon,4,1,256,4,Tera Domain,True,"
+3C",0,1,2,1,1,True
+59,Hyogamon,2,3,291,5,,True,"
+48",0,1,2,1,1,True
+60,IceDevimon,2,3,296,5,,True,"
+64",0,1,2,1,1,True
+61,Icemon,2,2,271,5,,True,"
+5E",1,1,1,2,0,True
+160,I-dramon,4,1,183,6,,True,"
+94",1,0,1,1,2,True
+62,Ikkakumon,2,1,163,5,"Video Domain 2, Drive Domain 2",True,"
+D1",2,1,0,1,1,True
+161,Jijimon,4,1,277,6,Tera Domain,True,"
+75",2,1,1,1,0,True
+63,J-Mojyamon,2,2,287,6,,True,"
+4E",1,1,1,2,0,True
+64,Kabuterimon,2,1,255,4,"Power Domain, Giga Domain",True,"
+13",0,1,2,1,1,True
+181,Kimeramon,4,2,299,1,Tera Domain 99,True,"
+ED",2,2,2,2,2,True
+65,Kiwimon,2,2,198,4,,True,"
+C6",1,1,1,0,2,True
+66,Kokatorimon,2,2,219,4,,True,"
+32",1,1,1,0,2,True
+18,Kunemon,1,3,142,4,"Web Domain, Disk Domain 2",True,"
+20",0,1,2,0,2,True
+67,Kuwagamon,2,3,207,4,,True,"
+33",0,1,2,0,2,True
+189,Left Hand,4,3,,6,,True,"
+FC",1,1,1,1,1,True
+68,Leomon,2,1,243,6,Drive Domain 2,True,"
+30",2,1,0,1,1,True
+119,Lillymon,3,2,154,4,,True,"
+BA",0,2,1,1,1,True
+162,Machinedramon,4,3,160,1,"Trade SkullGreymon for one at Digimon Center, Tera Domain",True,"
+73",0,0,2,1,1,True
+120,MagnaAngemon,3,1,276,6,"Chaos Tower, Tera Domain",True,"
+D3",2,1,0,1,1,True
+163,Magnadramon,4,1,150,6,"Trade Angewomon for one at Digimon Center, Tera Domain",True,"
+EB",2,1,0,1,1,True
+121,Mamemon,3,2,250,3,,True,"
+0D",2,0,1,1,1,True
+122,Mammothmon,3,1,234,6,"Chaos Tower, Tera Domain",True,"
+D4",2,1,1,1,0,True
+164,MarineAngemon,4,1,190,5,Tera Domain,True,"
+D8",2,1,0,1,1,True
+123,MarineDevimon,3,3,146,5,,True,"
+E0",0,2,2,0,1,True
+124,MasterTyrannomon,3,1,297,3,,True,"
+7C",1,0,1,2,1,True
+125,Megadramon,3,3,136,3,,True,"
+36",0,0,2,1,1,True
+127,MegaSeadramon,3,2,179,5,,True,"
+3D",1,2,0,1,1,True
+69,Meramon,2,2,147,2,,True,"
+09",1,1,2,1,0,True
+165,MetalEtemon,4,3,267,3,Tera Domain,True,"
+41",0,1,2,1,1,True
+128,MetalGreymon,3,1,158,3,"BIOS Domain, Giga Domain, Scan Domain",True,"
+0C",1,0,1,2,1,True
+129,MetalMamemon,3,2,245,3,,True,"
+1B",2,0,1,1,1,True
+130,MetalTyrannomon,3,3,149,3,,True,"
+8C",0,0,2,1,1,True
+131,Meteormon,3,2,279,3,,True,"
+71",1,1,1,2,0,True
+166,M-Garurumon,4,2,156,3,"Trade a MetalSeadramon at the Digimon Center, Tera Domain",True,"
+C4",1,1,1,2,0,True
+126,M-Kabuterimon,3,1,257,4,"Scan Domain, Mega Domain",True,"
+B5",0,1,2,1,1,True
+73,Mojyamon,2,1,171,6,,True,"
+34",2,1,1,1,0,True
+70,Monochromon,2,2,238,6,,True,"
+2F",1,1,1,1,1,True
+132,Monzaemon,3,1,295,6,,True,"
+0E",2,1,1,1,0,True
+71,MoriShellmon,2,2,284,4,,True,"
+5B",1,2,0,1,1,True
+167,M-Seadramon,4,2,143,3,"Chaos Tower, Tera Domain",True,"
+CC",1,2,0,1,1,True
+72,MudFrigimon,2,2,266,6,,True,"
+51",1,1,1,2,0,True
+19,Mushroomon,1,3,274,4,"Web Domain 2, Laser Domain, Disk Domain 2",True,"
+DB",0,2,2,1,0,True
+133,Myotismon,3,3,161,1,,True,"
+42",0,1,2,1,1,True
+74,Nanimon,2,3,191,6,,True,"
+35",0,1,2,1,1,True
+76,N-Drimogemon,2,2,282,3,,True,"
+4F",1,1,1,2,0,True
+183,NeoCrimson,4,3,,1,,True,"
+F7",1,1,1,1,1,True
+75,Ninjamon,2,2,248,4,,True,"
+3A",2,0,1,1,1,True
+196,No Rookie Form,1,2,,6,,False,,0,0,0,0,0,False
+77,Numemon,2,3,191,1,"SCSI Domain 2, Disk Domain 2, Video Domain 2",True,"
+0B",0,1,2,0,1,True
+78,Octomon,2,3,216,5,,True,"
+DD",0,2,2,0,1,True
+79,Ogremon,2,3,249,6,,True,"
+22",0,1,2,1,1,True
+134,Okuwamon,3,3,139,4,,True,"
+E2",0,1,2,0,2,True
+168,Omnimon,4,1,229,6,Tera Domain,True,"
+96",1,0,1,2,1,True
+20,Otamamon,1,3,218,5,"Web Domain, Disk Domain 2",True,"
+6D",0,2,2,0,1,True
+187,Overlord GAIA,4,3,,6,,True,"
+FE",1,1,1,1,1,True
+188,Overlord GAIA (2),4,3,,6,,True,"
+FF",1,1,1,1,1,True
+21,Palmon,1,2,194,4,"Modem Domain, BIOS Domain 2, Laser Domain",True,"
+2E",0,2,1,1,1,True
+135,Panjyamon,3,1,273,6,,True,"
+3F",1,0,1,1,2,True
+22,Patamon,1,2,129,6,"BIOS Domain, Modem Domain, Core Tower",True,"
+1F",2,0,1,1,1,True
+23,Penguinmon,1,1,222,5,"Drive Domain, Video Domain 2",True,39,2,1,0,1,1,True
+136,Phantomon,3,3,209,1,,True,"
+DF",0,1,2,1,1,True
+169,Phoenixmon,4,1,269,4,Tera Domain,True,"
+3B",1,0,1,2,1,True
+81,Piddomon,2,1,283,6,,True,"
+55",2,1,0,1,1,True
+170,Pierrotmon,4,3,233,1,Tera Domain,True,E4,0,1,2,1,1,True
+137,Piximon,3,2,180,6,,True,"
+37",1,1,1,0,2,True
+172,P-Mamemon,4,2,251,3,Tera domain,True,"
+C3",2,0,1,1,1,True
+171,Preciomon,4,2,206,5,"Chaos Tower, Tera Domain",True,"
+E8",1,2,0,1,1,True
+80,P-Sukamon,2,3,286,1,,True,"
+49",0,1,2,0,1,True
+173,Pukumon,4,3,187,5,"Chaos Tower, Tera Domain",True,"
+E5",0,2,2,0,1,True
+138,Pumpkinmon,3,2,231,1,,True,"
+C9",0,2,1,1,1,True
+174,Puppetmon,4,3,199,4,Tera Domain,True,"
+E7",0,2,2,1,0,True
+139,Raidramon,3,1,177,6,,True,"
+93",1,0,1,1,2,True
+82,Raremon,2,3,244,1,,True,"
+8B",0,1,2,0,1,True
+83,RedVegiemon,2,3,292,4,,True,4D,0,2,2,1,0,True
+190,Right Hand,4,3,,6,,True,"
+FD",1,1,1,1,1,True
+175,Rosemon,4,2,202,4,,True,"
+90",0,2,1,1,1,True
+84,Saberdramon,2,1,264,6,,True,6A,1,0,1,1,2,True
+176,SaberLeomon,4,2,166,6,Tera Domain,True,"
+CD",2,0,1,1,1,True
+85,SandYanmamon,2,2,294,4,,True,"
+66",1,1,2,2,2,True
+140,Scorpiomon,3,2,252,5,,True,"
+CA",1,2,0,1,1,True
+86,Seadramon,2,2,170,5,,True,"
+0A",1,2,0,1,1,True
+177,Seraphimon,4,1,272,6,Tera Domain,True,"
+D6",2,1,0,1,1,True
+87,Shellmon,2,2,167,5,,True,"
+23",1,2,0,1,1,True
+88,ShimaUnimon,2,1,265,6,,True,"
+4B",2,1,1,1,0,True
+141,ShogunGekomon,3,3,186,5,,True,"
+77",0,2,2,0,1,True
+142,SkullGreymon,3,3,135,1,,True,"
+1A",0,0,2,1,1,True
+143,SkullMeramon,3,2,184,2,,True,"
+BD",1,1,2,1,0,True
+178,S-Mammothmon,4,1,204,1,"Chaos Tower, Tera Domain",True,"
+D7",2,1,1,1,0,True
+24,SnowAgumon,1,1,162,5,"Trade ToyAgumon at Digimon Center, Drive Domain, Video Domain 2",True,"
+47",2,1,1,1,0,True
+25,SnowGoburimon,1,3,128,5,"SCSI Domain, Disk Domain, Web Domain",True,"
+67",0,1,2,1,1,True
+89,Soulmon,2,3,285,1,,True,"
+6B",0,0,2,1,1,True
+90,Starmon,2,2,246,6,,True,"
+C7",2,0,1,1,1,True
+91,Sukamon,2,3,191,1,,True,"
+27",0,1,2,0,1,True
+26,Syakomon,1,3,125,5,"Web Domain, Disk Domain 2",True,"
+DA",0,2,2,0,1,True
+92,Tankmon,2,2,168,3,,True,"
+4C",1,1,2,1,0,True
+27,Tapirmon,1,1,240,1,"SCSI Domain, Video Domain, Disk Domain, Video Domain 2",True,"
+CE",2,1,1,1,0,True
+144,Tekkamon,3,3,259,3,,True,"
+5A",0,1,2,1,1,True
+28,Tentomon,1,1,221,4,"Video Domain, Drive Domain, Video Domain 2",True,"
+6F",0,1,2,1,1,True
+145,Tinmon,3,2,289,3,,True,"
+7B",1,1,2,1,0,True
+93,Togemon,2,2,247,4,,True,"
+B8",0,2,1,1,1,True
+94,Tortomon,2,1,217,5,,True,"
+D0",2,1,0,1,1,True
+29,ToyAgumon,1,1,228,6,"Video Domain, Drive Domain, Video Domain 2, Tera Domain",True,"
+54",2,1,0,1,1,True
+146,Triceramon,3,2,230,6,,True,"
+CB",1,1,1,1,1,True
+30,Tsukaimon,1,3,157,1,"Disk Domain 2, Web Domain 2",True,"
+60",0,1,2,1,1,True
+95,Tuskmon,2,3,210,6,,True,"
+88",0,0,2,1,1,True
+96,Tyrannomon,2,2,126,6,,True,"
+08",1,1,1,1,1,True
+97,Unimon,2,1,122,6,,True,"
+21",2,1,1,1,0,True
+147,Vademon,3,3,123,6,,True,"
+1C",0,1,2,0,1,True
+98,Veedramon,2,1,235,6,,True,"
+80",1,0,1,1,2,True
+31,Veemon,1,1,237,6,,True,"
+91",1,0,1,1,2,True
+99,Vegiemon,2,3,191,4,,True,"
+19",0,2,2,1,0,True
+148,Vermilimon,3,2,290,6,,True,"
+58",1,1,1,1,1,True
+179,V-Myotismon,4,3,261,1,Tera Domain,True,"
+EC",0,1,2,1,1,True
+180,WarGreymon,4,1,224,6,"Chaos Tower, Tera Domain",True,"
+D5",1,0,1,2,1,True
+149,WaruMonzaemon,3,3,275,1,,True,"
+46",0,1,2,1,1,True
+150,WaruSeadramon,3,3,288,5,,True,"
+70",0,2,2,0,1,True
+151,WereGarurumon,3,1,241,6,,True,"
+B7",2,1,1,1,0,True
+152,Whamon,3,1,226,5,"Chaos Tower, Tera Domain",True,"
+18",2,1,0,1,1,True
+100,Wizardmon,2,2,253,1,,True,"
+C2",2,0,1,1,1,True
+101,Woodmon,2,3,301,4,,True,"
+DE",0,2,2,1,0,True
+102,Yanmamon,2,2,225,4,,True,"
+43",0,1,1,1,2,True
+153,Zudomon,3,1,239,5,,True,"
+B9",2,1,0,1,1,True
