@@ -1,0 +1,639 @@
+MonsterId,FamilyId,RankId,Number,Name,JapaneseName,FrenchName,Identifier,HP,MP,Att,Def,Agi,Wis,MaxHP,MaxMP,MaxAtt,MaxDef,MaxAgi,MaxWis,Trivia,Notes,IsVerified
+87,8,7,,??? Family (A),,,boss-a,0,,,,,,,,,,,,-,,True
+80,8,10,,??? Family (Any),,,boss-any,0,,,,,,,,,,,,-,,True
+86,8,6,,??? Family (B),,,boss-b,0,,,,,,,,,,,,-,,True
+85,8,5,,??? Family (C),,,boss-c,0,,,,,,,,,,,,-,,True
+84,8,4,,??? Family (D),,,boss-d,0,,,,,,,,,,,,-,,True
+83,8,3,,??? Family (E),,,boss-e,0,,,,,,,,,,,,-,,True
+82,8,2,,??? Family (F),,,boss-f,0,,,,,,,,,,,,-,,True
+81,8,1,,??? Family (G),,,boss-g,0,,,,,,,,,,,,-,,True
+88,8,8,,??? Family (S),,,boss-s,0,,,,,,,,,,,,-,,True
+89,8,9,,??? Family (X),,,boss-x,0,,,,,,,,,,,,-,,True
+466,5,6,345,A3G15,デュランダル,A3G15,a3g15,0,0,0,0,0,0,1290,330,580,620,530,570,-,,False
+503,6,8,426,Aamon,エビルプリースト,Aamon,aamon,0,0,0,0,0,0,1260,500,410,550,610,770,-,,False
+433,4,6,268,Abominable Showman,ベロリンマン,Abominhomme des neiges,abominable-showman,0,0,0,0,0,0,1330,300,590,490,610,390,-,,False
+443,5,4,314,Abracadabrador,サブナック,Abracadabraque,abracadabrador,0,0,0,0,0,0,1350,430,570,550,370,640,-,,False
+359,2,4,97,Abyss Diver,ヘルダイバー,Abyssaure,abyss-diver,0,0,0,0,0,0,1350,320,580,630,550,290,-,,False
+382,2,8,130,Abyssal Dragon,ドラゴンアビス,Dragon des abysses,abyssal-dragon,0,0,0,0,0,0,1370,250,590,430,500,560,-,,False
+594,5,6,342,Admirer,ジェリーマン,Viscaire,admirer,0,0,0,0,0,0,1420,460,380,330,580,510,-,,False
+107,2,1,68,Airbagon,はじけドーラ,Méthanosaure,airbagon,0,0,0,0,0,0,1410,290,590,670,390,340,-,,False
+593,5,6,341,Alarmour,サタンメイル,Alarmure,alarmour,0,0,0,0,0,0,1320,440,580,670,420,510,-,,False
+289,1,3,22,Angel Slime,エンゼルスライム,Gluangélique,angel-slime,0,0,0,0,0,0,1320,650,350,420,590,670,-,,False
+108,4,1,205,Antguzzler,アントベア,Gloutofourmilier,antguzzler,0,2,2,1,2,2,1390,450,610,380,470,450,-,,True
+488,6,6,405,Archdemon,アークデーモン,Archidémon,archdemon,0,0,0,0,0,0,1360,400,580,530,400,570,-,,False
+398,3,5,182,Armoured Scorpion,さそりアーマー,Scorpion blindé,armoured-scorpion,0,0,0,0,0,0,1350,300,620,670,450,390,-,,False
+109,2,2,73,Armoured Wartoise,アイアンタートル,Tortumastok,armoured-wartoise,2,4,1,5,1,4,1380,560,430,800,300,660,-,,True
+495,6,7,415,Atlas,アトラス,Atlas,atlas,0,0,0,0,0,0,1440,290,550,640,430,250,-,,False
+601,2,6,114,Avarith,フールフール,Avariss,avarith,0,0,0,0,0,0,1290,500,570,640,390,680,-,,False
+110,5,2,295,Avian Android,トルトリーナ,Mécapiaf,avian-android,2,3,3,2,4,1,1330,470,580,430,630,360,-,,True
+111,3,3,167,Awebergine,メランザーナ,Supergine,awebergine,0,0,0,0,0,0,1360,420,560,400,540,440,-,,False
+356,2,4,91,Axesaurus,アックスドラゴン,Eskintosaure,axesaurus,0,0,0,0,0,0,1420,330,560,620,420,310,-,,False
+656,3,2,999,Bad Apple,ガップリン,,badapple,2,2,2,2,3,2,1390,410,540,470,510,460,-,,True
+659,1,1,999,Bad Egg,タマゴロン,,badegg,2,2,1,3,2,2,1410,410,480,580,480,450,-,,True
+113,5,1,289,Bag o' Laughs,わらいぶくろ,Maransac,bag-o-laughs,0,0,0,0,0,0,1340,500,460,470,530,590,-,,False
+454,5,5,327,Bag o' Sweets,スウィートバッグ,Sacarose,bag-o-sweets,0,0,0,0,0,0,1300,460,490,430,630,570,-,,False
+301,5,4,321,Bag o' Tricks,ふくぶくろ,Sacaveine,bag-o-tricks,0,0,0,0,0,0,1330,450,590,420,510,510,-,,False
+114,3,2,155,Bagworm,ミノーン,Sacaver,bagworm,0,0,0,0,0,0,1340,480,560,590,400,550,-,,False
+407,3,6,196,Baleen Mage,ホエールマージ,Sorciétacé,baleen-mage,0,0,0,0,0,0,1420,420,480,560,350,580,-,,False
+463,5,6,339,Balhib,ゴールデンゴーレム,Phix,balhib,0,0,0,0,0,0,1350,280,590,680,460,440,-,,False
+614,6,7,423,Balzack,バルザック,Dickenz,balzack,0,0,0,0,0,0,1370,360,660,530,410,390,-,,False
+460,5,6,336,Bamboogieman,からくりだいみょう,Bambouligan,bamboogieman,0,0,0,0,0,0,1360,370,580,450,440,600,-,,False
+115,5,1,283,Bambooligan,たけやりへい,Bambougre,bambooligan,0,1,2,2,2,2,1400,310,580,500,510,410,-,,True
+116,3,1,136,Bantamweight,おおにわとり,Poids-coq,bantamweight,1,1,2,2,4,3,1280,360,540,460,690,600,-,,True
+534,8,7,498,Baramos,バラモス,Baramos,baramos,0,0,0,0,0,0,1360,570,410,370,460,780,-,,False
+383,2,8,131,Barbarus,闇竜バルボロス,Barbarus,barbarus,0,0,0,0,0,0,1350,280,590,510,460,610,-,,False
+634,6,7,425,Barbatos,ヘルバトラー,Barbatos,barbatos,0,0,0,0,0,0,1400,380,600,360,420,520,-,,False
+582,3,3,164,Barracuda,とつげきうお,Barracuda,barracuda,0,0,0,0,0,0,1400,320,610,440,500,320,-,,False
+290,3,3,165,Beanie Meanie,ビーンファイター,Combaricot,beanie-meanie,0,0,0,0,0,0,1410,400,530,330,460,550,-,,False
+47,4,7,,Beast Family (A),,,beast-a,0,,,,,,,,,,,,-,,True
+40,4,10,,Beast Family (Any),魔獣系,,beast-any,0,,,,,,,,,,,,-,,True
+46,4,6,,Beast Family (B),,,beast-b,0,,,,,,,,,,,,-,,True
+45,4,5,,Beast Family (C),,,beast-c,0,,,,,,,,,,,,-,,True
+44,4,4,,Beast Family (D),,,beast-d,0,,,,,,,,,,,,-,,True
+43,4,3,,Beast Family (E),,,beast-e,0,,,,,,,,,,,,-,,True
+42,4,2,,Beast Family (F),,,beast-f,0,,,,,,,,,,,,-,,True
+41,4,1,,Beast Family (G),,,beast-g,0,,,,,,,,,,,,-,,True
+48,4,8,,Beast Family (S),,,beast-s,0,,,,,,,,,,,,-,,True
+49,4,9,,Beast Family (X),,,beast-x,0,,,,,,,,,,,,-,,True
+274,1,3,30,Behemoth Slime,もりもりスライム,Gigluant,behemoth-slime,0,0,0,0,0,0,1380,440,580,540,460,320,-,,False
+117,6,3,382,Beleth,ベレス,Byleth,beleth,0,0,0,0,0,0,1360,390,510,380,550,570,-,,False
+502,6,7,424,Belial,ベリアル,Bélial,belial,0,0,0,0,0,0,1350,400,520,550,430,650,-,,False
+403,3,6,189,Belisha Beakon,アカイライ,Rapacepasse,belisha-beakon,0,0,0,0,0,0,1370,320,470,300,540,780,-,,False
+332,1,4,40,Beshemoth Slime,もりもりベス,Gigluante,beshemoth-slime,0,0,0,0,0,0,1460,460,590,580,250,340,-,,False
+595,6,6,411,Bilhaw,セルゲイナス,Chiron,bilhaw,0,0,0,0,0,0,1240,380,470,640,630,720,-,,False
+584,8,8,502,Bishop Ladja,ゲマ,Erebos le Fou,bishop-ladja,0,0,0,0,0,0,1350,590,470,380,390,810,-,,False
+373,2,6,115,Black Dragon,ブラックドラゴン,Dragon noir,black-dragon,0,0,0,0,0,0,1410,290,580,470,470,400,-,,False
+118,6,1,358,Blinkster,ベビーマジシャン,Fée brile,blinkster,0,0,0,0,0,0,1370,420,430,570,480,610,-,,False
+456,5,5,330,Blizzybody,ブリザードマン,Glazon,blizzybody,0,0,0,0,0,0,1370,480,510,440,500,480,-,,False
+487,6,5,404,Bloodbonnet,レッドイーター,Frappe-capuche,assassin-circle,0,0,0,0,0,0,1300,350,650,480,560,450,-,,False
+511,7,4,464,Bloody Hand,ブラッドハンド,Main sanglante,bloody-hand,0,0,0,0,0,0,1410,310,630,380,440,430,-,,False
+119,3,1,143,Bludgerigar,ピッキー,Aratétou,bludgerigar,1,4,2,1,3,2,1320,550,590,340,580,490,-,,True
+620,5,5,329,Blue Moon,なげきムーン,Mornelune,blue-moon,0,0,0,0,0,0,1340,530,540,520,390,630,-,,False
+624,2,5,107,Bobonga,ボボンガー,Cobonga,bobonga,0,0,0,0,0,0,1420,320,600,470,440,350,-,,False
+120,6,1,362,Bodkin Archer,リリパット,Archer vert,bodkin-archer,2,3,1,2,2,1,1460,470,480,500,460,310,-,,True
+295,6,3,380,Bodkin Fletcher,どくやずきん,Dardeur,bodkin-fletcher,0,0,0,0,0,0,1300,400,610,440,550,540,-,,False
+458,5,5,334,Bomboulder,メガザルロック,Vulcanobombe,bomboulder,0,0,0,0,0,0,1390,460,440,640,400,560,-,,False
+523,7,6,481,Bone Baron,しにがみきぞく,Baron d'os,bone-baron,0,0,0,0,0,0,1340,390,530,530,510,540,-,,False
+514,7,4,467,Bone Idol,ほねリーダー,Tue-tête,bone-idol,0,0,0,0,0,0,1280,520,520,440,570,640,-,,False
+532,7,8,496,Bones of Baramos,バラモスゾンビ,Os de Baramos,bones-of-baramos,0,0,0,0,0,0,1450,320,560,390,480,310,-,,False
+121,5,2,294,Bongo Drongo,ドラムゴート,Dingo bongo,bongo-drongo,2,3,3,2,1,2,1400,460,610,450,410,450,-,,True
+625,5,5,332,Bongo Fandango,ホワイトビート,Big bongo,bongo-fandango,0,0,0,0,0,0,1370,510,590,500,420,390,-,,False
+122,4,2,225,Boppin' Badger,ポンポコだぬき,Blaireau bongo,boppin-badger,2,1,3,4,3,2,1350,350,580,600,530,430,-,,True
+579,2,4,93,Boreal Serpent,スノードラゴン,Serpolaire,boreal-serpent,0,0,0,0,0,0,1330,290,520,600,490,670,-,,False
+476,6,4,390,Boss Troll,ボストロール,Chef troll,boss-troll,0,0,0,0,0,0,1400,300,670,640,390,240,-,,False
+123,1,2,20,Box Slime,ボックススライム,Gluanbloc,box-slime,0,4,1,4,1,3,1420,640,450,610,280,610,-,,True
+390,3,4,173,Brimstone Bulb,じごくのたまねぎ,Monstropoiro,brimstone-bulb,0,0,0,0,0,0,1400,410,470,410,540,460,-,,False
+124,2,2,76,Briny Bronco,シーホース,Mustang de mer,briny-bronco,0,0,0,0,0,0,1330,360,630,470,510,470,-,,False
+308,5,3,305,Brollygagger,キラーアンブレラ,Hécatombrelle,brollygagger,0,0,0,0,0,0,1360,360,560,480,460,580,-,,False
+307,4,3,236,Brownie,ブラウニー,Martebrun,brownie,0,0,0,0,0,0,1340,320,650,550,490,390,-,,False
+103,1,1,7,Bubble Slime,バブルスライム,Gluanbulle,bubble-slime,2,5,2,3,2,2,1440,660,460,500,410,340,-,,True
+126,1,1,4,Buddy Slime,スライムツリー,Tuberglule,buddy-slime,1,4,1,1,2,4,1360,550,520,320,490,670,-,,True
+432,4,6,267,Buffalogre,バッファロン,Encorneur,buffalogre,0,0,0,0,0,0,1400,290,570,640,480,270,-,,False
+127,3,2,146,Bullfinch,あばれうしどり,Taurapace,bullfinch,2,2,3,3,3,3,1330,390,620,550,510,480,-,,True
+128,4,1,207,Bunicorn,いっかくうさぎ,Lapicorne,bunicorn,1,1,2,2,4,2,1300,380,570,470,670,470,-,,True
+461,5,6,337,Buntzenberner,ギャスモン,Brûle-pourprin,buntzenberner,0,0,0,0,0,0,1400,490,470,300,420,730,-,,False
+644,5,1,999,Burr Baby,とげぼうず,-,burrbaby,2,1,1,3,2,3,1410,340,490,540,480,540,-,,True
+129,3,2,151,Cactiball,サボテンボール,Cactueur,cactiball,2,1,3,3,2,2,1400,330,570,520,490,430,-,,True
+537,8,8,504,Calasmos,邪神ニズゼルファ,Kalasmos,khalasmos,0,0,0,0,0,0,1290,330,740,550,380,620,-,,False
+419,4,4,246,Calypso King,トロピカキング,Troubalourd,calypso-king,0,0,0,0,0,0,1360,470,630,610,410,300,-,,False
+130,4,1,211,Candy Cat,しましまキャット,Languochat,candy-cat,1,3,2,2,2,2,1360,480,560,510,480,490,-,,True
+131,5,2,298,Cannibox,ひとくいばこ,Canniboîte,cannibox,0,1,3,3,2,2,1380,280,640,590,450,430,-,,True
+132,6,2,373,Cannonbrawler,ランドセーラー,Cannoniais,cannonbrawler,2,3,4,1,2,1,1370,430,690,410,460,380,-,,True
+133,3,1,139,Capsichum,くしざしツインズ,Piperaduo,capsichum,0,2,2,2,2,2,1370,440,570,480,490,480,-,,True
+394,3,4,177,Carnivine,ひとくいそう,Morchidée,carnivine,0,0,0,0,0,0,1370,340,590,430,470,530,-,,False
+276,2,2,86,Cauldragon,毒つぼドラゴン,Marmitosaure,cauldragon,4,2,3,1,1,1,1380,340,690,370,490,410,-,,True
+530,7,7,494,Cetacean Sorcerer,ホエールロード,Orcus-pocus,cetacean-sorcerer,0,0,0,0,0,0,1380,740,360,320,400,800,-,,False
+420,4,4,247,Cheater Cheetah,ベンガル,Tigrrr,cheater-cheetah,0,0,0,0,0,0,1380,300,580,430,480,530,-,,False
+567,2,5,100,Chihuawyrm,ウルフドラゴン,Dracorniaud,chihuawyrm,0,0,0,0,0,0,1360,310,600,430,600,320,-,,False
+134,3,3,158,Chimaera,キメラ,Chimère,chimaera,0,0,0,0,0,0,1320,430,570,500,500,550,-,,False
+135,5,2,292,Chocolate Golem,チョコゴーレム,Golem de chocolat,chocolate-golem,0,0,0,0,0,0,1410,310,550,630,440,340,-,,False
+293,7,3,452,Chocolate Whisp,チョコホイップ,Caboss,chocolate-whisp,0,0,0,0,0,0,1350,540,490,350,510,610,-,,False
+376,2,7,121,Clawvus,クームヤーガ,Dracorneille,clawvus,0,0,0,0,0,0,1380,430,550,390,560,340,-,,False
+592,3,6,190,Clobster,荒野シュリンプ,Gombaroudeur,clobster,0,0,0,0,0,0,1400,430,530,680,380,370,-,,False
+136,5,3,304,Clockwork Cuckoo,ガチャコッコ,Coucou mécanique,clockwork-cuckoo,0,0,0,0,0,0,1380,320,530,660,520,300,-,,False
+137,6,2,364,Cloud Surfer,くものきょじん,Nébulogénie,cloud-surfer,0,0,0,0,0,0,1390,400,560,470,460,430,-,,False
+329,1,4,36,Cococoa Blobelisk,チョコタワー,Chocobélisque,cococoa-blobelisk,0,0,0,0,0,0,1360,480,470,360,600,480,-,,False
+665,1,2,999,Coconut Slime,トロピカルスライム,,placeholder-2,0,,,,,,1400,380,470,510,510,550,-,,True
+444,5,4,315,Coralossus,シーゴーレム,Corosse,coralossus,0,0,0,0,0,0,1380,380,630,590,380,390,-,,False
+512,7,4,465,Corpsickle,ポイズンゾンビ,Outretombe,corpsickle,0,0,0,0,0,0,1440,330,590,400,430,370,-,,False
+540,8,8,507,Corvus,堕天使エルギオス,Corvus,corvus,0,0,0,0,0,0,1330,340,680,470,390,630,-,,False
+404,3,6,191,Cosmic Chimaera,スターキメラ,Chimère cosmique,cosmic-chimaera,0,0,0,0,0,0,1310,450,570,430,560,520,-,,False
+570,3,5,183,Crabber Dabber Doo,じごくのハサミ,Crabject,crabber-dabber-doo,0,0,0,0,0,0,1320,340,540,790,430,550,-,,False
+306,3,2,160,Crabid,ぐんたいガニ,Crabarbare,crabid,0,1,2,4,3,2,1340,320,570,720,520,420,-,,True
+336,1,5,45,Crème Caraslime,スライムプディング,Gluantilly,creme-caraslime,0,0,0,0,0,0,1440,460,630,410,290,430,-,,False
+661,2,1,999,Crested Viper,とさかへび,,crestedviper,1,1,3,2,4,2,1310,290,640,460,640,450,-,,True
+138,2,2,75,Croc-a-Bugle-Doo,クロコマーチ,Jazzligator,croc-a-bugle-doo,0,4,2,1,2,1,1400,610,600,280,460,390,-,,True
+278,4,3,235,Cross Eye,ビックアイ,Nakunœil,cross-eye,0,0,0,0,0,0,1380,490,620,540,300,510,-,,False
+365,2,5,104,Crowgre,シャンタク,Dracorvidé,crowgre,0,0,0,0,0,0,1350,340,580,380,550,520,-,,False
+139,3,1,140,Cruelcumber,ズッキーニャ,Concombrageur,cruelcumber,1,3,2,3,2,3,1330,460,590,560,490,500,-,,True
+140,5,1,280,Cumaulus,ギズモ,Flammulus,cumaulus,1,2,2,1,2,3,1360,430,570,350,510,620,-,,True
+331,1,4,39,Cureslime,ベホマスライム,Guérigluant,cureslime,0,0,0,0,0,0,1370,610,360,370,530,660,-,,False
+509,7,4,461,Cursed Crooner,タタリ御前,Ténori,cursed-crooner,0,0,0,0,0,0,1250,520,630,620,420,660,-,,False
+337,1,5,46,Cyber Slime,スライムボーグ,Cybergluant,cyber-slime,0,0,0,0,0,0,1360,340,590,530,420,570,-,,False
+314,6,3,376,Cyclops,サイクロプス,Cyclope,cyclops,0,0,0,0,0,0,1430,310,650,510,380,300,-,,False
+141,3,2,148,Cyclown,かまいたち,Cyclown,cyclown,1,4,3,2,3,2,1320,570,590,480,510,470,-,,True
+142,2,1,70,Damselfly,フェアリードラゴン,Damoisel,damselfly,1,3,1,1,5,3,1320,450,460,250,800,500,-,,True
+143,6,2,370,Dancing Devil,びっくりサタン,Diable dansant,dancing-devil,2,3,1,3,3,3,1360,460,410,560,570,580,-,,True
+451,5,4,323,Dancing Flame,フレイム,Brûleflamme,dancing-flame,0,0,0,0,0,0,1330,410,560,550,500,500,-,,False
+387,3,4,170,Dangler Fish,エビルアングラー,Charpirana,dangler-fish,0,0,0,0,0,0,1320,410,540,490,510,620,-,,False
+428,4,5,257,Dark Hare,ブラバニクイーン,Lièvrecorne noir,dark-hare,0,0,0,0,0,0,1300,330,710,360,570,450,-,,False
+328,1,4,35,Dark King Slime,ダークキング,Roi vampigluant,dark-king-slime,0,0,0,0,0,0,1270,460,560,430,530,750,-,,False
+431,4,6,262,Dark Sabrecat,シャドウパンサー,Smilodon noir,dark-sabrecat,0,0,0,0,0,0,1340,310,670,390,580,340,-,,False
+144,4,3,231,Dark Sabrecub,シャドウベビー,Smilodon de lait noir,dark-sabrecub,0,0,0,0,0,0,1340,330,610,390,610,380,-,,False
+145,1,3,27,Dark Slime,ダークスライム,Vampigluant,dark-slime,0,0,0,0,0,0,1340,590,400,420,530,670,-,,False
+146,7,3,449,Dead Resident,しのどれい,Zombinator,dead-resident,0,0,0,0,0,0,1380,320,600,410,530,390,-,,False
+67,6,7,,Demon Family (A),,,demon-a,0,,,,,,,,,,,,-,,True
+60,6,10,,Demon Family (Any),悪魔系,,demon-any,0,,,,,,,,,,,,-,,True
+66,6,6,,Demon Family (B),,,demon-b,0,,,,,,,,,,,,-,,True
+65,6,5,,Demon Family (C),,,demon-c,0,,,,,,,,,,,,-,,True
+64,6,4,,Demon Family (D),,,demon-d,0,,,,,,,,,,,,-,,True
+63,6,3,,Demon Family (E),,,demon-e,0,,,,,,,,,,,,-,,True
+62,6,2,,Demon Family (F),,,demon-f,0,,,,,,,,,,,,-,,True
+61,6,1,,Demon Family (G),,,demon-g,0,,,,,,,,,,,,-,,True
+68,6,8,,Demon Family (S),,,demon-s,0,,,,,,,,,,,,-,,True
+69,6,9,,Demon Family (X),,,demon-x,0,,,,,,,,,,,,-,,True
+527,7,6,489,Demon-at-arms,まおうのつかい,Shivattak,demon-at-arms,0,0,0,0,0,0,1320,370,600,480,410,750,-,,False
+147,6,2,369,Dessert Demon,デザートデーモン,Démon du dessert,dessert-demon,0,1,2,2,2,2,1370,380,600,500,460,520,-,,True
+587,8,8,510,Dhoulmagus,ドルマゲス,Dhoulmagus,dhoulmagus,0,0,0,0,0,0,1300,450,550,530,470,680,-,,False
+342,1,6,52,Diamond Slime,クリスタルスライム,Gluant de diamant,diamond-slime,0,0,0,0,0,0,1300,500,500,740,380,700,-,,False
+515,7,4,468,Discombombulator,ポムポムボム,Boumbone,discombombulator,0,0,0,0,0,0,1350,420,580,460,470,520,-,,False
+148,5,2,293,Disfigurine,とげジョボー,Défigurine,disfigurine,0,0,0,0,0,0,1340,370,600,470,510,480,-,,False
+599,4,6,266,Don Mole,ドンモグーラ,Mister Taupe,don-mole,0,0,0,0,0,0,1360,460,590,610,440,330,-,,False
+528,7,6,490,Dora-in-Grey,メルトア,Chiaravaggia,dora-in-grey,0,0,0,0,0,0,1250,510,610,640,410,710,-,,False
+297,6,3,383,Drackolyte,メイジドラキー,Vampivorace,drackolyte,0,0,0,0,0,0,1330,430,510,430,550,600,-,,False
+149,6,1,355,Dracky,ドラキー,Vampivol,dracky,0,3,1,1,4,3,1260,490,480,440,780,510,-,,True
+484,6,5,400,Drackyma,ドラキーマ,Vampivolle,drackyma,0,0,0,0,0,0,1260,530,520,500,570,650,-,,False
+151,2,2,79,Drag Racer,ダッシュラン,Ptéracorne,drag-racer,2,1,3,2,4,1,1340,340,620,480,640,300,-,,True
+27,2,7,,Dragon Family (A),,,dragon-a,0,,,,,,,,,,,,-,,True
+20,2,10,,Dragon Family (Any),ドラゴン系,,dragon-any,0,,,,,,,,,,,,-,,True
+26,2,6,,Dragon Family (B),,,dragon-b,0,,,,,,,,,,,,-,,True
+25,2,5,,Dragon Family (C),,,dragon-c,0,,,,,,,,,,,,-,,True
+24,2,4,,Dragon Family (D),,,dragon-d,0,,,,,,,,,,,,-,,True
+23,2,3,,Dragon Family (E),,,dragon-e,0,,,,,,,,,,,,-,,True
+22,2,2,,Dragon Family (F),,,dragon-f,0,,,,,,,,,,,,-,,True
+21,2,1,,Dragon Family (G),,,dragon-g,0,,,,,,,,,,,,-,,True
+28,2,8,,Dragon Family (S),,,dragon-s,0,,,,,,,,,,,,-,,True
+29,2,9,,Dragon Family (X),,,dragon-x,0,,,,,,,,,,,,-,,True
+358,2,4,96,Dragon Rider,ドラゴンライダー,Dragonier,dragon-rider,0,0,0,0,0,0,1370,310,570,470,530,440,-,,False
+326,1,4,33,Dragon Slime,スライムブレス,Gluandragon,dragon-slime,0,0,0,0,0,0,1370,450,550,420,530,390,-,,False
+150,2,1,65,Dragonthorn,いばらドラゴン,Dragronce,dragonthorn,1,1,2,3,3,1,1370,360,570,610,530,350,-,,True
+591,4,6,261,Draguar,ゲリュオン,Draguar,draguar,0,0,0,0,0,0,1320,340,620,460,540,500,-,,False
+152,1,2,18,Drake Slime,ドラゴスライム,Gluancornu,drake-slime,2,3,2,1,4,2,1380,460,540,380,580,400,-,,True
+589,2,6,109,Drakulard,ギガントドラゴン,Draculard,drakulard,0,0,0,0,0,0,1400,270,610,640,420,330,-,,False
+313,2,3,83,Drakularge,ギガントヒルズ,Dracularge,drakularge,0,0,0,0,0,0,1390,290,630,620,450,270,-,,False
+378,2,7,124,Dread Dragon,ダースドラゴン,Dragorange,dread-dragon,0,0,0,0,0,0,1350,280,560,570,470,590,-,,False
+371,2,6,112,Dread Dragooner,ハデスナイト,Dragonier de l'enfer,dread-dragooner,0,0,0,0,0,0,1280,370,630,430,600,520,-,,False
+651,4,2,999,Dread Squirrel,アカリリス,,dreadsquirrel,2,2,2,1,4,3,1370,380,530,390,590,510,-,,True
+153,7,1,435,Drohl Drone,ドロル,Mallusque,drohl-drone,0,2,2,2,3,2,1350,420,540,500,590,420,-,,True
+524,7,6,483,Drooling Ghoul,スモールグール,Sméagoule,drooling-ghoul,0,0,0,0,0,0,1290,490,570,430,520,640,-,,False
+606,7,5,475,Dullahan,デュラハーン,Décapitête,dullahan,0,0,0,0,0,0,1320,400,500,590,480,670,-,,False
+154,5,1,279,Eggsoskeleton,からくりエッグ,Mécanœuf,eggsoskeleton,1,1,2,2,2,1,1380,400,570,540,510,380,-,,True
+351,1,7,61,Emperor Slime,スライムエンペラー,Sultant gluant,emperor-slime,0,0,0,0,0,0,1380,390,580,470,420,520,-,,False
+437,4,7,273,Equinox,黒竜丸,Équinocte,equinox,0,0,0,0,0,0,1300,400,640,530,570,350,-,,False
+155,5,2,297,Erazor Blade,ひとくいサーベル,Cimetueur,erazor-blade,2,1,3,3,3,2,1330,360,600,510,580,450,-,,True
+156,5,3,308,Escudogre,シールドオーガ,Blindogre,escudogre,0,0,0,0,0,0,1330,380,610,720,450,360,-,,False
+632,8,9,519,Estark,エスターク,Estark,estark,0,0,0,0,0,0,1400,290,520,480,470,550,-,,False
+354,2,2,77,Ethereal Serpent,スカイドラゴン,Serpenlair,ethereal-serpent,0,1,2,2,2,2,1360,320,600,530,530,450,-,,True
+617,4,7,277,Evil Sir Leopold,魔犬レオパルド,Monsieur Léopold possédé,evil-sir-leopold,0,0,0,0,0,0,1310,440,590,530,580,350,-,,False
+421,4,4,248,Ewwnicorn,ユニコーン,Cornefolle,ewwnicorn,0,0,0,0,0,0,1390,580,330,370,520,690,-,,False
+459,5,5,335,Face Invader,ルバンカ,Obstructueur,face-invader,0,0,0,0,0,0,1350,530,420,460,500,670,-,,False
+400,3,5,186,Fandangow,ダンスニードル,Cactak,fandangow,0,0,0,0,0,0,1310,430,580,410,560,540,-,,False
+157,4,1,209,Fat Rat,おおねずみ,Gratatouille,fat-rat,0,3,2,1,4,2,1360,350,580,490,560,440,-,,True
+159,1,2,11,Feral Slime,ジャングラー,Gluant à crinière,feral-slime,0,1,3,2,2,2,1390,310,690,380,460,450,-,,True
+158,4,1,213,Feralball,ファーラット,Kotonfatal,feralball,2,4,1,1,1,3,1420,570,470,420,390,610,-,,True
+516,7,4,469,Fightgeist,メトロゴースト,Esprit tapeur,fightgeist,0,0,0,0,0,0,1360,340,520,360,540,640,-,,False
+405,3,6,193,Firebird,ひくいどり,Aiglefeu,firebird,0,0,0,0,0,0,1310,340,560,490,610,490,-,,False
+160,7,1,437,Firespirit,メラゴースト,Feu follet,firespirit,1,3,1,3,2,3,1400,520,350,580,480,640,-,,True
+449,5,4,320,Firn Fiend,ひょうがまじん,Glaglator,firn-fiend,0,0,0,0,0,0,1360,370,570,520,440,550,-,,False
+457,5,5,331,Flamethrower,ほのおのせんし,Tizon,flamethrower,0,0,0,0,0,0,1360,450,540,380,500,550,-,,False
+364,2,5,103,Flapdragon,コアトル,Toutouïvre,flapdragon,0,0,0,0,0,0,1350,310,630,470,580,300,-,,False
+506,7,3,457,Float-o-Copier,マネマネ,Feutocopieur,float-o-copier,0,0,0,0,0,0,1330,360,590,360,500,680,-,,False
+546,8,8,517,Fluffy,わたぼう,Doudouleur,fluffy,0,0,0,0,0,0,1360,550,530,370,540,400,-,,False
+571,6,3,525,Flurry Fiend,フルーリーサタン,,flurry-fiend,0,0,0,0,0,0,1300,290,570,520,540,670,-,,False
+640,1,5,44,Flutter Slime,スライムフェアリー,Slurpillon jaune,flutter-slime,0,0,0,0,0,0,1320,500,510,330,610,550,-,,False
+455,5,5,328,Flying Saucers,デスソーサー,Soucoupes volantes,flying-saucers,0,0,0,0,0,0,1390,280,620,400,480,460,-,,False
+161,2,2,74,Flython,ウィングスネーク,Veninconda,flython,2,1,2,1,5,2,1360,310,540,360,680,450,-,,True
+602,3,6,195,Foebergine,ブルベリーノ,Vénergine,foebergine,0,0,0,0,0,0,1390,390,560,440,480,430,-,,False
+162,5,2,290,Foo Dog,あばれこまいぬ,Chienfernal,foo-dog,2,2,3,2,2,3,1370,400,570,470,480,550,-,,True
+406,3,6,194,Fowl Beast,ブラッドオックス,Ptaurodactyle,fowl-beast,0,0,0,0,0,0,1330,380,630,520,490,440,-,,False
+281,5,3,312,Freezing Fog,フロストギズモ,Brumulus,freezing-fog,0,0,0,0,0,0,1330,420,490,410,540,690,-,,False
+106,1,1,10,Fright Bulb,マンドラ,Hypnobulbe,fright-bulb,1,3,1,1,2,3,1370,490,520,450,520,500,-,,True
+522,7,5,478,Fright Knight,ナイトリッチ,Seigneur malheur,fright-knight,0,0,0,0,0,0,1350,300,630,470,510,450,-,,False
+605,7,3,453,Frightful Conductor,デスマエストロ,Mortchestre,frightful-conductor,0,0,0,0,0,0,1320,480,460,520,510,680,-,,False
+311,7,3,454,Frolicker,ベロベロ,Salivard,frolicker,0,0,0,0,0,0,1360,320,580,430,550,450,-,,False
+441,5,3,307,Fromage Fey,ケミカルゼリー,Affromage fondu,fromage-fey,0,0,0,0,0,0,1370,530,530,350,450,580,-,,False
+164,5,1,286,Fromage Fray,フォンデュ,Affromage frais,fromage-fray,1,3,1,1,2,3,1390,480,500,400,490,580,-,,True
+450,5,4,322,Frostburn,ブリザード,Brûlegel,frostburn,0,0,0,0,0,0,1350,390,580,500,520,410,-,,False
+165,7,1,429,Funghoul,おばけキノコ,Champigoule,funghoul,0,2,2,2,2,2,1350,430,580,590,500,420,-,,True
+643,4,1,999,Funky Ferret,くびながイタチ,-,funky-ferret,1,1,1,2,3,2,1380,370,510,470,580,460,-,,True
+585,8,8,512,Fuzzy,ぴぴぼう,Pilou,fuzzy,0,0,0,0,0,0,1330,460,540,310,520,690,-,,False
+557,6,5,398,Gander,デスペクテル,Vudœil,gander,0,0,0,0,0,0,1340,530,540,500,490,450,-,,False
+409,3,6,198,Gangleclaw,ロックちょう,Serrial-killer,gangleclaw,0,0,0,0,0,0,1340,400,600,430,540,430,-,,False
+580,4,4,241,Gargoyle,ガーゴイル,Gargouille,gargoyle,0,0,0,0,0,0,1340,420,580,510,520,410,-,,False
+272,3,2,149,Garuda,ガルーダ,Faucondor,garuda,0,0,0,0,0,0,1270,430,590,560,580,490,-,,False
+355,2,2,88,Gasbagon,フーセンドラゴン,Butanosaure,gasbagon,0,1,3,3,2,2,1420,320,590,590,410,410,-,,True
+349,1,7,59,Gem slime,ゴールデンスライム,Gluandor,gem-slime,0,0,0,0,0,0,280,750,430,1200,850,1030,-,,False
+166,7,1,433,Ghost,ゴースト,Fantôme,ghost,1,5,1,1,3,3,1350,640,480,270,570,590,-,,True
+491,6,6,409,Gigantes,ギガンテス,Géant,gigantes,0,0,0,0,0,0,1400,270,630,630,430,280,-,,False
+563,4,4,243,Giruffian,ジラフマスター,Scélérafe,giruffian,0,0,0,0,0,0,1350,340,580,510,440,610,-,,False
+663,4,1,999,Gloomy Grublin,メソコボルト,,gloomygrublin,1,1,1,1,3,3,1360,390,520,440,560,570,-,,True
+626,4,5,258,Gnumesis,まかいじゅう,Gnoumésis,gnumesis,0,0,0,0,0,0,1390,340,620,560,460,280,-,,False
+610,4,7,275,Gnuriel,デスゴーゴン,Gnoucifer,gnuriel,0,0,0,0,0,0,1360,280,610,640,460,400,-,,False
+673,5,2,999,Gold Golem,ゴールドマン,,placeholder-10,0,,,,,,1400,420,520,580,380,600,-,,True
+464,5,6,340,Golem,ゴーレム,Golem,golem,0,0,0,0,0,0,1370,280,630,690,400,390,-,,False
+486,6,5,403,Goobonce,ブルーイーター,Casse-caboche,ice-breaker,0,0,0,0,0,0,1300,330,660,430,580,460,-,,False
+282,5,3,303,Goodybag,おどるほうせき,Sacatrésor,goodybag,0,0,0,0,0,0,1290,490,470,620,530,630,-,,False
+347,1,6,57,Goomulonimbus,ふうらいスライム,Glumulonimbus,goomulonimbus,0,0,0,0,0,0,1340,430,590,260,610,450,-,,False
+167,1,1,2,Goonache Goodie,スライムコロネ,Gluanduja,goonache-goodie,0,2,2,2,2,2,1390,460,560,420,440,560,-,,True
+353,1,8,63,Grandpa Slime,グランスライム,Gluancien,grandpa-slime,0,0,0,0,0,0,1270,450,500,630,480,780,-,,False
+568,5,5,326,Graven Idol,王のはかもり,Reliqtus,graven-idol,0,0,0,0,0,0,1310,500,460,630,450,710,-,,False
+357,2,4,92,Great Argon Lizard,アルゴングレート,Grand lézard argon,great-argon-lizard,0,0,0,0,0,0,1390,350,650,600,420,250,-,,False
+369,2,6,110,Great Dragon,グレイトドラゴン,Super dragon,great-dragon,0,0,0,0,0,0,1390,270,620,570,450,360,-,,False
+611,5,7,349,Great Keeper,てんのもんばん,Mastodoré,great-keeper,0,0,0,0,0,0,1440,330,550,680,380,270,-,,False
+552,4,4,242,Great Sabercat,キラーパンサー,Smilodon,great-sabercat,0,0,0,0,0,0,1340,300,640,440,580,360,-,,False
+168,4,1,214,Great Sabrecub,ベビーパンサー,Smilodon de lait,great-sabrecub,1,1,2,3,3,1,1400,310,550,550,570,300,-,,True
+670,6,2,999,Greater Dracky,ジャンボドラキー,,placeholder-7,0,,,,,,1430,430,530,560,310,610,-,,True
+312,4,8,278,Greater Platypink,ももいろキング,Grornithox rose,greater-platypink,0,0,0,0,0,0,1420,410,520,570,380,440,-,,False
+427,4,5,256,Greater Platypunk,ビッグももんじゃ,Grornithox,greater-platypunk,0,0,0,0,0,0,1460,310,520,660,380,290,-,,False
+590,7,6,488,Green Bogey,キラーシャドー,Verctoplasme,green-bogey,0,0,0,0,0,0,1280,560,580,430,500,630,-,,False
+321,2,3,87,Green Dragon,ドラゴン,Dragon vert,green-dragon,0,0,0,0,0,0,1340,280,630,540,510,440,-,,False
+169,6,1,353,Gremlin,グレムリン,Gremlin,gremlin,1,5,1,1,2,3,1370,650,450,290,520,640,-,,True
+380,2,8,128,Greygnarl,グレイナル,Grizius,greygnarl,0,0,0,0,0,0,1360,280,570,470,500,570,-,,False
+569,3,5,180,Grillerpillar,かえんムカデ,Charbombyx,grillerpillar,0,0,0,0,0,0,1400,330,530,550,460,440,-,,False
+480,6,5,395,Grim Keeper,じごくのもんばん,Grand faucheur,grim-keeper,0,0,0,0,0,0,1320,390,590,480,560,450,-,,False
+513,7,4,466,Grim Rider,ボーンナイト,Cavalier fantôme,grim-rider,0,0,0,0,0,0,1360,350,570,450,560,400,-,,False
+619,7,5,480,Grincinerator,黄泉のほのお,Vert follet,grincinerator,0,0,0,0,0,0,1400,400,420,590,530,410,-,,False
+310,7,3,448,Grinferno,きつねび,Bleu follet,grinferno,0,0,0,0,0,0,1380,390,460,560,530,450,-,,False
+412,3,7,202,Gripevine,ローズバトラー,Dangerose,gripevine,0,0,0,0,0,0,1400,420,540,610,250,690,-,,False
+526,7,6,486,Grotwyrm,ドラゴンコープス,Décomposaure,grotwyrm,0,0,0,0,0,0,1380,370,570,440,470,490,-,,False
+494,6,6,413,Grrrgoyle,ホラービースト,Grrrgouille,grrrgoyle,0,0,0,0,0,0,1390,380,520,380,550,440,-,,False
+470,6,4,384,Gryphon,サイレス,Griffon,gryphon,0,0,0,0,0,0,1350,470,600,490,460,420,-,,False
+170,4,2,220,Guaardvark,スカルガルー,Kangouffre,guaardvark,2,3,3,1,2,3,1370,450,630,380,450,530,-,,True
+372,2,6,113,Hacksaurus,バトルレックス,Hachosaure,hacksaurus,0,0,0,0,0,0,1320,300,680,480,550,380,-,,False
+395,3,4,178,Hades Condor,ヘルコンドル,Condor Infernal,hades-condor,0,0,0,0,0,0,1410,400,550,470,480,330,-,,False
+280,4,3,233,Ham Shamwitch,トンブレロ,Groin mage,ham-shamwitch,0,0,0,0,0,0,1390,560,440,460,435,570,-,,False
+171,4,1,208,Hammerhood,おおきづち,Marteleur,hammerhood,2,1,3,3,1,1,1450,300,630,570,390,290,-,,True
+662,6,2,999,Hangelabra,はりつきあくま,,hangelabra,0,3,1,2,3,3,1360,470,460,450,550,620,-,,True
+462,5,6,338,Hard-Boiled Eggsoskeleton,グレイトボンバー,Mécanœuf dur,hard-boiled-eggsoskeleton,0,0,0,0,0,0,1410,340,560,590,430,350,-,,False
+542,8,8,511,Hargon,ハーゴン,Kaos,hargon,0,0,0,0,0,0,1390,490,440,480,440,690,-,,False
+316,5,3,309,Harmour,デビルアーマー,Hauberserker,harmour,0,0,0,0,0,0,1360,290,610,690,420,420,-,,False
+172,4,2,224,Hawk Man,ホークマン,Gerfaut,hawk-man,0,0,0,0,0,0,1310,420,630,430,560,430,-,,False
+562,7,6,485,Headless Horseman,デュラハンナイト,Décapiteur,headless-horseman,0,0,0,0,0,0,1320,330,580,620,530,450,-,,False
+104,1,1,8,Healslime,ホイミスライム,Médigluant,healslime,1,5,1,1,4,4,1320,620,330,420,660,700,-,,True
+367,2,5,108,Heligator,ワニバーン,Aligatueur,heligator,0,0,0,0,0,0,1400,330,610,640,410,290,-,,False
+529,7,7,493,Hell Gladiator,ヘルクラッシャー,Gladiateur infernal,hell-gladiator,0,0,0,0,0,0,1310,440,600,390,520,590,-,,False
+174,5,3,311,Hell Niño,ヒートギズモ,Cramulus,hell-nino,0,0,0,0,0,0,1310,420,520,430,570,630,-,,False
+517,7,5,471,Hellbound Hair-Raiser,サンダーシャウト,Ligotonnerre,hellbound-hair-raiser,0,0,0,0,0,0,1380,300,520,560,460,560,-,,False
+173,7,2,446,Hellbound Horror,やみしばり,Ligoterreur,hellbound-horror,0,3,2,2,2,3,1340,440,550,430,530,610,-,,True
+422,4,5,251,Hellion,アームライオン,Trublion,hellion,0,0,0,0,0,0,1390,340,570,530,440,450,-,,False
+550,7,6,487,Hellspawn,フェイスボール,Rejeton de l'enfer,hellspawn,0,0,0,0,0,0,1290,480,420,690,540,650,-,,False
+489,6,6,406,Hocus-Poker,アークマージ,Manipulatueur,hocus-poker,0,0,0,0,0,0,1350,420,470,450,510,670,-,,False
+175,6,2,366,Hood,ごろつき,Bourreau,hood,0,0,0,0,0,0,1400,330,580,510,500,300,-,,False
+176,6,3,377,Hooper Trooper,サタンフーラー,Déhanchard,hooper-trooper,0,0,0,0,0,0,1340,490,530,410,460,660,-,,False
+177,5,2,291,Horriflying Saucers,おばけプレート,Soucoupes affolantes,horriflying-saucers,0,0,0,0,0,0,1410,260,630,380,470,420,-,,False
+178,5,2,300,Hunter Mech,メタルハンター,Mécachasseur,hunter-mech,0,1,3,3,2,1,1350,300,680,540,520,360,-,,True
+603,6,6,414,Hyperanemon,ライオネック,Hyperanémox,hyperanemon,0,0,0,0,0,0,1340,470,520,390,520,600,-,,False
+423,4,5,252,Hyperboarean,アバランチャー,Frappochère,hyperboarean,0,0,0,0,0,0,1390,330,610,530,480,300,-,,False
+471,6,4,385,Hypothermion,シャドーサタン,Hypothermiox,hypothermion,0,0,0,0,0,0,1320,430,530,470,540,580,-,,False
+666,2,1,999,Icy Dragling,ピクシードラゴン,,placeholder-3,0,,,,,,1320,440,490,460,620,600,-,,True
+179,6,1,371,Imp,ベビーサタン,Diablotin,imp,0,1,2,2,3,3,1300,310,570,530,570,680,-,,True
+608,2,7,122,Infernal Serpent,サラマンダー,Serpenfer,infernal-serpent,0,0,0,0,0,0,1410,350,630,420,390,450,-,,False
+286,7,3,458,Iron Maiden,メイデンドール,Poupiège,iron-maiden,0,0,0,0,0,0,1280,460,550,690,470,590,-,,False
+374,2,6,117,Iron Tortoise,ランドアーマー,Tortueféroce,iron-tortoise,0,0,0,0,0,0,1370,320,590,690,380,470,-,,False
+180,4,3,237,Jailcat,プリズニャン,Chagriffeur,jailcat,0,0,0,0,0,0,1320,310,580,530,530,560,-,,False
+181,2,2,80,Jargon,デンデン竜,Saint-berneur,jargon,0,1,4,4,1,1,1400,310,650,590,430,340,-,,True
+543,8,8,513,Jasper Unbound,魔軍司令ホメロス,Jasper déchaîné,jasper-unbound,0,0,0,0,0,0,1330,470,510,530,460,640,-,,False
+334,1,5,42,Jester Slime,スライムジョーカー,Slurpitre,jester-slime,0,0,0,0,0,0,1300,660,400,410,570,690,-,,False
+667,3,2,999,Jingle Bug,チンチロむし,,placeholder-4,1,,,,,,1300,440,500,410,680,590,-,,True
+288,6,3,381,Jinkster,ひとつめピエロ,Fée lée,jinkster,0,0,0,0,0,0,1330,560,490,350,530,630,-,,False
+429,4,5,259,Jowler,マムー,Crinocéphale,jowler,0,0,0,0,0,0,1410,300,620,540,440,300,-,,False
+492,6,6,410,Jugular joker,キラージャック,Grobouffon,jugular-joker,0,0,0,0,0,0,1330,350,580,510,590,380,-,,False
+182,4,3,229,Jumping Jackal,かくとうパンサー,Carnigore,jumping-jackal,0,0,0,0,0,0,1350,310,630,440,590,310,-,,False
+183,3,1,144,Khalamari Kid,プチアーノン,Khalamarmot,khalamari-kid,0,3,2,2,1,3,1400,520,530,460,400,560,-,,True
+184,2,1,72,Killer Gila,ポイズンリザード,Batratueur,killer-gila,0,2,3,2,1,3,1380,430,610,460,420,530,-,,True
+185,3,1,138,Killerpillar,キャタピラー,Furibombyx,killerpillar,1,2,2,3,2,2,1340,400,590,570,500,490,-,,True
+442,5,4,313,Killing Machine,キラーマシン,Machine à tuer,killing-machine,0,0,0,0,0,0,1240,350,690,660,540,470,-,,False
+330,1,4,38,King Bubble Slime,バブルキング,Roi gluanbulle,king-bubble-slime,0,0,0,0,0,0,1450,480,470,500,270,640,-,,False
+344,1,6,54,King Cureslime,スライムベホマズン,Roi guérigluant,king-cureslime,0,0,0,0,0,0,1410,490,350,570,420,660,-,,False
+555,5,6,346,King Foo Dog,ヘルシーサー,Chienfernal enragé,king-foo-dog,0,0,0,0,0,0,1350,400,600,450,460,530,-,,False
+564,2,7,120,King Hydra,キングヒドラ,Reine hydre,king-hydra,0,0,0,0,0,0,1420,290,520,530,500,360,-,,False
+340,1,6,50,King Jester Slime,キングジョーカー,Roi Slurpitre,king-jester-slime,0,0,0,0,0,0,1270,510,530,430,570,680,-,,False
+186,7,2,447,King Kelp,わかめ王子,Royalgue,king-kelp,0,4,3,3,3,4,1280,540,580,520,510,640,-,,True
+345,1,6,55,King Slick Slime,タールキング,Roi gluant de poix,king-slick-slime,0,0,0,0,0,0,1430,370,470,460,400,610,-,,False
+324,1,4,31,King Slime,キングスライム,Roi gluant,king-slime,0,0,0,0,0,0,1410,350,490,550,370,640,-,,False
+399,3,5,184,King Squid,だいおうイカ,Calamaroi,king-squid,0,0,0,0,0,0,1420,300,610,460,490,260,-,,False
+657,3,1,999,Kingfuschia,はなカワセミ,,kingfuschia,0,2,1,3,4,2,1320,430,520,540,620,470,-,,True
+474,6,4,388,Kisser,ブチュチュンパ,Lèchebave,kisser,0,0,0,0,0,0,1370,410,440,380,510,730,-,,False
+499,6,7,420,Knight Abhorrent,しにがみのきし,Chevalier atterrant,knight-abhorrent,0,0,0,0,0,0,1370,280,580,640,480,380,-,,False
+478,6,4,392,Knight Errant,よろいのきし,Chevalier errant,knight-errant,0,0,0,0,0,0,1360,350,520,600,470,530,-,,False
+187,2,1,66,Komodo,コドラ,Komodor,komodo,1,1,3,2,3,1,1360,320,640,490,590,290,-,,True
+535,8,7,499,Krystalinda,リーズレット,Krystalinda,krystalinda,0,0,0,0,0,0,1280,560,490,450,510,770,-,,False
+188,5,1,288,Lampling,ランタンこぞう,Lampiste,lampling,1,3,1,3,1,3,1370,460,520,590,430,570,-,,True
+189,3,2,156,Leafy Larrikin,もみじこぞう,Foufolia,leafy-larrikin,0,4,2,1,3,1,1350,660,520,330,610,350,-,,True
+190,6,1,354,Leery Lout,シールドこぞう,Bouclieux,leery-lout,0,0,0,0,0,0,1350,340,550,670,450,490,-,,False
+363,2,5,102,Liege Lizard,キングリザード,Lézard suzerain,liege-lizard,0,0,0,0,0,0,1410,280,680,280,510,320,-,,False
+498,6,7,419,Lieutenant Goreham-Hogg,ゴレオン将軍,Général Mac Assin,lieutenant-goreham-hogg,0,0,0,0,0,0,1400,280,660,550,410,330,-,,False
+496,6,7,417,Lieutenant Goresby-Purrvis,ギュメイ将軍,Général Mac Léo,lieutenant-goresby-purrvis,0,0,0,0,0,0,1280,380,710,360,580,460,-,,False
+497,6,7,418,Lieutenant Hootingham-Gore,ゲルニック将軍,Général Mac Hulotte,lieutenant-hootingham-gore,0,0,0,0,0,0,1320,490,390,530,560,700,-,,False
+191,6,1,361,Lips,リップス,Bisebave,lips,2,5,1,3,1,1,1430,630,490,530,370,400,-,,True
+338,1,5,47,Liquid Metal Slime,はぐれメタル,Gluant de mercure,liquid-metal-slime,0,0,0,0,0,0,277,560,550,1200,1000,720,-,,False
+645,6,2,999,Little Devil,インプ,,littledevil,2,3,1,1,4,3,1350,460,470,410,600,590,-,,True
+453,5,5,325,Living Statue,うごくせきぞう,Statue vivante,living-statue,0,0,0,0,0,0,1370,290,580,680,420,450,-,,False
+628,2,9,134,Lord of the Dragovians,竜神王,Seigneur des dragoviens,lord-of-the-dragovians,0,0,0,0,0,0,1340,280,630,650,480,390,-,,False
+479,6,4,393,Low Djinks,ランプのまじん,Cumulogénie,low-djinks,0,0,0,0,0,0,1390,360,610,340,460,500,-,,False
+192,2,3,89,Lumbering Lizard,フォレストドラゴ,Sylvosaure,lumbering-lizard,0,0,0,0,0,0,1410,310,570,610,385,430,-,,False
+440,5,3,306,Luminous Lampling,クリオネオン,Flammage,luminous-lampling,0,0,0,0,0,0,1320,430,520,630,450,620,-,,False
+283,6,3,375,Lump Shaman,きめんどうし,Magimol,lump-shaman,0,0,0,0,0,0,1350,490,470,460,460,690,-,,False
+193,6,1,356,Lump Wizard,ドルイド,Sorcimol,lump-wizard,0,3,1,3,2,4,1340,510,410,590,520,680,-,,True
+194,6,1,359,Lunatick,メーダ,Luna-tique,lunatick,1,3,2,1,2,3,1400,450,530,400,460,570,-,,True
+430,4,5,260,Luneyetic,ムーンフェイス,Endœil,luneyetic,0,0,0,0,0,0,1390,300,420,590,500,610,-,,False
+613,4,7,276,Macho Picchu,ネンガル,Macho piccu,macho-picchu,0,0,0,0,0,0,1350,320,740,330,500,370,-,,False
+649,5,2,999,Mad Moai,ビッグモアイ,,madmoai,4,3,1,3,1,3,1400,410,560,600,320,630,-,,True
+195,3,1,141,Mad Mollusk,テールイーター,Dingopode,mad-mollusk,2,4,2,1,1,2,1410,530,580,360,410,490,-,,True
+452,5,4,324,Magmalice,ようがんまじん,Magmasse,magmalice,0,0,0,0,0,0,1350,370,580,530,450,540,-,,False
+536,8,8,503,Malroth,シドー,Malroth,malroth,0,0,0,0,0,0,1300,470,560,500,410,790,-,,False
+299,2,3,90,Mandrake Major,リザードマン,Caporal mandragor,mandrake-major,0,0,0,0,0,0,1350,330,570,510,470,580,-,,False
+370,2,6,111,Mandrake Marshal,シュプリンガー,Général mandragor,mandrake-marshal,0,0,0,0,0,0,1340,390,580,530,490,480,-,,False
+391,3,4,174,Mangleclaw,スノーグリフォン,Serratoès,mangleclaw,0,0,0,0,0,0,1320,560,520,270,580,590,-,,False
+425,4,5,254,Maniacal Mole,キラーピッケル,Taupe-toc,maniacal-mole,0,0,0,0,0,0,1360,300,590,500,580,320,-,,False
+664,1,2,999,Marislime,アクアスライム,,placeholder-1,0,,,,,,1390,410,460,460,570,510,-,,True
+635,4,7,272,Marquis De Leon,キングレオ,Lord Lionel,marquis-de-leon,0,0,0,0,0,0,1360,320,520,560,450,640,-,Only available in the post-game.,False
+622,7,5,479,Marrow Escapee,ボーンプリズナー,Désosseur,marrow-escapee,0,0,0,0,0,0,1420,300,600,470,420,410,-,,False
+57,5,7,,Material Family (A),,,material-a,0,,,,,,,,,,,,-,,True
+50,5,10,,Material Family (Any),物質系,,material-any,0,,,,,,,,,,,,-,,True
+56,5,6,,Material Family (B),,,material-b,0,,,,,,,,,,,,-,,True
+55,5,5,,Material Family (C),,,material-c,0,,,,,,,,,,,,-,,True
+54,5,4,,Material Family (D),,,material-d,0,,,,,,,,,,,,-,,True
+53,5,3,,Material Family (E),,,material-e,0,,,,,,,,,,,,-,,True
+52,5,2,,Material Family (F),,,material-f,0,,,,,,,,,,,,-,,True
+51,5,1,,Material Family (G),,,material-g,0,,,,,,,,,,,,-,,True
+58,5,8,,Material Family (S),,,material-s,0,,,,,,,,,,,,-,,True
+59,5,9,,Material Family (X),,,material-x,0,,,,,,,,,,,,-,,True
+196,5,1,287,Mecha-Mynah,メタッピー,Rouage-gorge,mecha-mynah,1,3,1,5,1,1,1400,490,470,730,440,360,-,,True
+554,2,7,126,Mechan-o'-Wyrm,メカバーン,Mécadragon,mechan-o-wyrm,0,0,0,0,0,0,1390,290,580,690,390,420,-,,False
+197,4,3,234,Meowgician,ねこまどう,Miaougicien,meowgician,0,0,0,0,0,0,1410,490,350,390,520,640,-,,False
+198,6,2,372,Merman,マーマン,Sirénien,merman,2,2,3,4,3,2,1350,380,570,600,530,420,-,,True
+360,2,4,98,Metal Dragon,メタルドラゴン,Dragon de métal,metal-dragon,0,0,0,0,0,0,1350,370,560,640,450,470,-,,False
+348,1,6,58,Metal King Slime,メタルキング,Roi gluant de métal,metal-king-slime,0,0,0,0,0,0,297,510,380,1200,1200,470,-,,False
+411,3,7,201,Metal Scorpion,メタルスコーピオン,Scorpion d'assaut,metal-scorpion,0,0,0,0,0,0,1290,300,610,680,540,460,-,,False
+323,1,3,29,Metal Slime,メタルスライム,Gluant de métal,metal-slime,0,0,0,0,0,0,247,660,610,1200,1110,640,-,,False
+339,1,5,49,Metal Slime Knight,メタルライダー,Monte-gluant de métal,metal-slime-knight,0,0,0,0,0,0,1350,300,590,620,500,400,-,,False
+652,3,2,999,Midnight Horknight,あおバチ騎兵,,midnighthorknight,2,1,2,3,3,3,1390,360,550,510,530,410,-,,True
+302,5,5,333,Mimic,ミミック,Imitapeur,mimic,0,0,0,0,0,0,1310,360,610,590,520,450,-,,False
+548,5,4,526,Mimic with Cheese,バーガーミミック,,mimic-with-cheese,0,0,0,0,0,0,1310,360,610,590,520,450,-,,False
+477,6,4,391,Minidemon,ミニデーモン,Mini démon,minidemon,0,0,0,0,0,0,1300,490,480,470,550,680,-,,False
+199,4,1,206,Mischievous Mole,いたずらもぐら,Pataupe,mischievous-mole,1,1,3,3,3,1,1330,360,630,580,540,400,-,,True
+553,4,4,240,Missing Lynx,ウイングタイガー,Ailéopard,missing-lynx,0,0,0,0,0,0,1360,290,550,510,570,420,-,,False
+200,3,2,153,Mitey Oak,どんぐりベビー,Chênapan,mitey-oak,2,3,3,3,1,2,1420,450,590,560,360,410,-,,True
+551,4,6,263,Mogus,ダークペルシャ,Chacromancien,mogus,0,0,0,0,0,0,1290,520,500,510,510,690,-,,False
+434,4,6,269,Mohawker,モヒカント,Sangliogre,mohawker,0,0,0,0,0,0,1390,300,560,500,500,420,-,,False
+658,1,2,999,Molten Slime,マグマスライム,,moltenslime,2,2,2,2,3,3,1350,410,530,460,540,590,-,,True
+201,7,2,443,Monolog,ふゆうじゅ,Embûcheur,monolog,0,2,2,1,2,2,1440,430,580,370,410,460,-,,True
+549,6,5,394,Moosifer,アンクルホーン,Belzébik,moosifer,0,0,0,0,0,0,1390,330,540,490,420,600,-,,False
+539,8,8,506,"Mordegon, Lord of Shadows",大魔王ウルノーガ,Mortégor le seigneur des Ombres,mordegon-lord-of-shadows,0,0,0,0,0,0,1330,380,720,420,420,500,-,,False
+284,7,3,456,Morphean Mushroom,マタンゴ,Champitox,morphean-mushroom,0,0,0,0,0,0,1360,530,500,510,470,480,-,,False
+541,8,8,508,Mortamor,デスタムーア,Mortamor,mortamor,0,0,0,0,0,0,1230,500,580,500,530,760,-,,False
+388,3,4,171,Mortoad,ガマキャノン,Crapouillot,mortoad,0,0,0,0,0,0,1330,460,550,530,500,490,-,,False
+641,1,5,48,Mottle She-Slime,ぶちスライムベス,Gluante mouchetée,mottle-she-slime,0,0,0,0,0,0,1460,460,410,270,600,310,-,,False
+202,1,2,19,Mottle Slime,ぶちスライム,Gluant moucheté,mottle-slime,2,3,2,2,3,1,1420,460,510,450,510,370,-,,True
+653,7,2,999,Mouldfish,むくろカサゴ,,mouldfish,2,3,3,1,1,3,1430,440,570,380,360,600,-,,True
+275,1,3,28,Mouldy Slime,ぬかどこスライム,Gluant moisi,mouldy-slime,0,0,0,0,0,0,1390,490,520,470,410,520,-,,False
+203,4,1,215,Mouseflap,みみとびねずみ,Chauve-sourat,mouseflap,0,0,0,0,0,0,1360,360,590,370,570,410,-,,False
+205,5,1,285,Mud Mannequin,どろにんぎょう,Pantin de boue,mud-mannequin,1,3,3,3,2,1,1380,460,610,540,480,300,-,,True
+204,7,2,444,Muddy Hand,マドハンド,Main de boue,muddy-hand,2,4,2,1,1,1,1420,550,560,400,430,390,-,,True
+206,5,2,296,Mudraker,ドロヌーバ,Fangeux,mudraker,2,4,3,4,1,3,1380,530,600,590,310,540,-,,True
+207,7,2,445,Mummy Boy,ミイラおとこ,Momignon,mummy-boy,0,2,2,3,2,1,1400,420,580,580,450,340,-,,True
+544,8,8,515,Murdaw,ムドー,Meurtor,murdaw,0,0,0,0,0,0,1350,410,470,460,510,670,-,,False
+208,4,2,226,Napir,ゆめにゅうどう,Taiepir,napir,0,3,1,2,2,3,1390,460,460,420,510,620,-,,True
+209,2,1,64,Nardragon,いっかく竜,Dracorne,nardragon,2,1,3,3,2,1,1410,290,640,540,480,290,-,,True
+37,3,7,,Nature Family (A),,,nature-a,0,,,,,,,,,,,,-,,True
+30,3,10,,Nature Family (Any),自然系,,nature-any,0,,,,,,,,,,,,-,,True
+36,3,6,,Nature Family (B),,,nature-b,0,,,,,,,,,,,,-,,True
+35,3,5,,Nature Family (C),,,nature-c,0,,,,,,,,,,,,-,,True
+34,3,4,,Nature Family (D),,,nature-d,0,,,,,,,,,,,,-,,True
+33,3,3,,Nature Family (E),,,nature-e,0,,,,,,,,,,,,-,,True
+32,3,2,,Nature Family (F),,,nature-f,0,,,,,,,,,,,,-,,True
+31,3,1,,Nature Family (G),,,nature-g,0,,,,,,,,,,,,-,,True
+38,3,8,,Nature Family (S),,,nature-s,0,,,,,,,,,,,,-,,True
+39,3,9,,Nature Family (X),,,nature-x,0,,,,,,,,,,,,-,,True
+597,5,6,344,Ne'er-Do-Well,デスホール,Puissanfond,neer-do-well,0,0,0,0,0,0,1410,330,510,470,440,560,-,,False
+545,8,8,516,Nelgel the Netherfiend,冥獣王ネルゲル,Infernal Nelgel,nelgel-the-netherfiend,0,0,0,0,0,0,1260,280,680,570,510,630,-,,False
+588,6,6,408,Night Clubber,おにこんぼう,Bastonnier,night-clubber,0,0,0,0,0,0,1370,280,700,630,430,250,-,,False
+574,4,4,249,Night Emperor,よるのていおう,Empreur nocturne,night-emperor,0,0,0,0,0,0,1360,430,580,510,430,500,-,,False
+612,7,7,492,Night Knight,ナイトキング,Seigneur terreur,night-knight,0,0,0,0,0,0,1330,350,600,560,440,590,-,,False
+510,7,4,462,Night Sneaker,ナイトウォーカー,Bottœil nocturne,night-sneaker,0,0,0,0,0,0,1320,390,490,350,620,660,-,,False
+586,8,8,514,Nimzo,ミルドラース,Nimzo,nimzo,0,0,0,0,0,0,1330,350,580,510,460,640,-,,False
+366,2,5,106,Noble Gasbagon,バルンバ,Gazosaure,noble-gasbagon,0,0,0,0,0,0,1390,290,640,540,440,350,-,,False
+636,8,9,522,Nokturnus,ダークドレアム,Nokturnus,nokturnus,0,0,0,0,0,0,1340,290,740,370,480,440,-,,False
+426,4,5,255,Notso Macho,ダンビラムーチョ,Meno macho,notso-macho,0,0,0,0,0,0,1380,300,670,530,460,290,-,,False
+210,3,3,161,Octopot,タコメット,Poulpe à calotte,octopot,0,0,0,0,0,0,1370,440,520,660,320,640,-,,False
+211,3,2,150,Odd Cob,キラーコーン,Déspirado,odd-cob,1,4,3,1,4,2,1300,550,610,380,610,430,-,,True
+294,6,3,374,Ogre,オーガー,Bouledogre,ogre,0,0,0,0,0,0,1370,360,670,390,460,410,-,,False
+525,7,6,484,One-Man Army,ソードイド,Squelétripe,one-man-army,0,0,0,0,0,0,1350,340,630,430,560,350,-,,False
+212,1,2,17,Onion Slime,たまねぎスライム,Gluant bulbe,onion-slime,2,3,2,3,3,1,1410,430,510,530,570,240,-,,True
+213,4,2,218,Orc,オーク,Orque,orc,0,2,2,2,2,2,1350,380,570,500,510,560,-,,True
+424,4,5,253,Orc King,オークキング,Roi orque,orc-king,0,0,0,0,0,0,1400,330,580,410,435,530,-,,False
+642,8,8,501,Orgodemir,オルゴデミーラ,Orgodémir,orgodemir,0,0,0,0,0,0,1240,470,560,540,490,830,-,,False
+214,3,1,137,Ornery Onion,オニオーン,Vilpoireau,ornery-onion,1,5,1,2,1,4,1400,620,490,460,340,660,-,,True
+559,2,6,116,Orochi,やまたのおろち,Hydragon,orochi,0,0,0,0,0,0,1420,310,550,400,390,630,-,,False
+467,5,7,347,Overkilling Machine,キラーマシン2,Mékanotoké,overkilling-machine,0,0,0,0,0,0,1280,370,670,560,580,350,-,,False
+604,3,5,185,Overtoad,だいおうガマ,Massacrapaud,overtoad,0,0,0,0,0,0,1360,360,580,450,510,470,-,,False
+392,3,4,175,Palooka Prawn,ダンジョンえび,Gambastonneur,palooka-prawn,0,0,0,0,0,0,1400,420,590,640,390,280,-,,False
+215,4,1,210,Pan Piper,コサックシープ,Bélicorne,pan-piper,0,0,0,0,0,0,1360,320,550,550,460,570,-,,False
+615,5,7,350,Pandora's Box,パンドラボックス,Boîte de pandore,pandoras-box,0,0,0,0,0,0,1420,340,430,610,560,290,-,,False
+445,5,4,316,Paralyslicer,しびれだんびら,Paralysabre,paralyslicer,0,0,0,0,0,0,1350,320,590,520,470,540,-,,False
+318,3,3,162,Parched Peckerel,デザートランナー,Accélhéron,parched-peckerel,0,0,0,0,0,0,1370,340,500,530,550,450,-,,False
+333,1,5,41,Pasty Pastry,コロネホワイト,Gluenroulé,pasty-pastry,0,0,0,0,0,0,1390,450,510,400,420,630,-,,False
+501,6,7,422,Pazuzu,バズズ,Pazuzu,pazuzu,0,0,0,0,0,0,1340,350,510,560,490,630,-,,False
+287,6,3,379,Peeper,スペクテット,Matœil,peeper,0,0,0,0,0,0,1390,360,660,470,400,390,-,,False
+315,7,3,455,Phantom Fencer,ぼうれい剣士,Escrimeur fantôme,phantom-fencer,0,0,0,0,0,0,1350,370,600,350,560,460,-,,False
+519,7,5,474,Phantom Swordsman,ソードファントム,Épéiste fantôme,phantom-swordsman,0,0,0,0,0,0,1300,440,600,480,560,460,-,,False
+410,3,7,200,Phoenix,ほうおう,Phénix,phoenix,0,0,0,0,0,0,1320,450,470,370,630,600,-,,False
+216,6,2,363,Pickayune,おにこぞう,Démonius,pickayune,0,0,0,0,0,0,1330,410,590,520,490,490,-,,False
+217,6,1,357,Picksy,ピクシー,Chérubus,picksy,0,0,0,0,0,0,1380,330,590,430,530,380,-,,False
+650,6,1,999,Piña Marauder,デビルパイン,,pina-marauder,1,1,2,3,3,2,1370,330,580,540,530,430,-,,True
+218,4,1,216,Platypunk,ももんじゃ,Ornithox,platypunk,1,1,2,4,2,1,1370,380,580,620,520,320,-,,True
+646,4,1,999,Platypup,ワンワンダック,,platypup,1,1,2,3,3,1,1370,320,590,520,550,400,-,,True
+219,5,2,299,Pocus Poppet,ミステリドール,Talismaboule,pocus-poppet,2,4,2,3,2,3,1340,500,500,550,490,610,-,,True
+220,3,2,152,Pogoin' Penguin,タップペンギー,Galopingouin,pogoin-penguin,0,0,0,0,0,0,1330,300,550,550,580,470,-,,False
+221,4,2,217,Powie Yowie,イエティ,Yéti yétu,powie-yowie,2,1,3,3,3,2,1360,290,600,570,540,420,-,,True
+298,5,3,302,Prancing Pillar,エンタシスマン,Pilier de bal,prancing-pillar,0,0,0,0,0,0,1380,360,540,560,450,480,-,,False
+669,6,2,999,Prestidigitator,まほうつかい,,placeholder-6,0,,,,,,1360,530,430,440,550,630,-,,True
+413,3,8,203,Prism peacock,にじくじゃく,Dark-en-ciel,prism-peacock,0,0,0,0,0,0,1370,500,590,410,490,350,-,,False
+565,6,7,416,Pruslas,ギガデーモン,Pruslas,pruslas,0,0,0,0,0,0,1420,310,590,590,370,400,-,,False
+633,8,8,509,Psaro the Manslayer,デスピサロ,Psaro l'Exterminateur,psaro-the-manslayer,0,0,0,0,0,0,1320,300,640,590,510,430,-,,False
+473,6,4,387,Psaro's Pawn,ピサロのてさき,Sbire de Psaro,psaros-pawn,0,0,0,0,0,0,1310,550,520,550,460,600,-,,False
+222,2,1,71,Pteranodon,プテラノドン,Ptéranodon,pteranodon,3,2,1,1,3,1,1370,360,580,350,620,410,-,,True
+305,3,3,157,Puffpoise,イルカちょうちん,Globi,puffpoise,0,0,0,0,0,0,1410,280,480,600,460,500,-,,False
+436,4,7,271,Purrgatroyd,キャットリベリオ,Charambol,purrgatroyd,0,0,0,0,0,0,1240,420,650,430,660,470,-,,False
+223,7,1,428,Putrefido,アニマルゾンビ,Zombeagle,putrefido,1,3,2,2,2,1,1400,500,620,400,480,300,-,,True
+341,1,6,51,Queen Slime,クイーンスライム,Reine gluante,queen-slime,0,0,0,0,0,0,1360,650,390,350,440,800,-,,False
+500,6,7,421,Rabid Rector,スカイシーカー,Vicaire délétère,rabid-rector,0,0,0,0,0,0,1340,700,360,310,520,770,-,,False
+629,8,9,523,Ramia,ラーミア,Ramia,ramia,0,0,0,0,0,0,1360,320,520,560,450,640,-,,False
+224,2,2,78,Raptile,スマイルリザード,Zenzard,raptile,2,1,1,1,4,1,1430,360,460,350,630,390,-,,True
+561,2,7,118,Rashaverak,アンドレアル,Rashaverak,rashaverak,0,0,0,0,0,0,1330,350,590,510,510,520,-,,False
+225,4,3,228,Ratatattack,エビルハムスター,Ratattaque,ratatattack,0,0,0,0,0,0,1340,350,600,450,560,420,-,,False
+538,8,8,505,Razerburn,守護者ラズバーン,Razban,razerburn,0,0,0,0,0,0,1260,290,690,570,510,600,-,,False
+226,7,2,440,Restless Armour,さまようよろい,Armure errante,restless-armour,0,2,2,4,2,2,1340,370,560,680,490,490,-,,True
+618,8,8,500,Rhapthorne,暗黒神ラプソーン,Rhaphtorne,rhapthorne,0,0,0,0,0,0,1410,370,420,520,370,790,-,,False
+560,4,4,250,Rhinoceraxe,ライノソルジャー,Rhinocérache,rhinoceraxe,0,0,0,0,0,0,1320,450,590,630,500,360,-,,False
+416,4,4,239,Ripped Rabbit,あらくれチャッピー,Pikostaud,ripped-rabbit,0,0,0,0,0,0,1390,290,640,380,550,290,-,,False
+227,4,2,222,Robber Rabbit,ぬすっとウサギ,Pikassiette,robber-rabbit,2,1,2,3,4,2,1340,350,610,430,590,460,-,,True
+533,8,5,497,Robin 'ood,カンダタ,Chaperon vert,robin-ood,0,0,0,0,0,0,1320,460,610,510,520,390,-,,False
+309,5,3,310,Rockbomb,ばくだんいわ,Rochexplosif,rockbomb,0,0,0,0,0,0,1350,280,620,780,320,560,-,,False
+385,3,4,168,Rockin' Rockhopper,岩とびあくま,Bandit manchot,rockin-rockhopper,0,0,0,0,0,0,1190,450,560,510,730,600,-,,False
+402,3,5,188,Roistering Rooster,レッドシャモ,Ergo-go-go,roistering-rooster,0,0,0,0,0,0,1260,350,540,500,640,650,-,,False
+438,4,7,274,Ronin Raccoon,心眼たぬき,Raton bâton,ronin-raccoon,0,0,0,0,0,0,1340,440,560,350,620,390,-,,False
+558,6,5,402,Roseguardin,ピサロナイト,Sire Rosegarde,roseguardin,0,0,0,0,0,0,1350,360,580,650,420,490,-,,False
+291,4,3,238,Rotten Cotton,モコモコじゅう,Putrikoton,rotten-cotton,0,0,0,0,0,0,1350,380,510,540,545,470,-,,False
+375,2,7,119,Royal Reptile,カイザードラゴン,Reptile royal,royal-reptile,0,0,0,0,0,0,1400,300,520,590,390,590,-,,False
+228,1,3,24,Rubble Slime,ストーンスライム,Slurpierre,rubble-slime,0,0,0,0,0,0,1360,380,540,690,400,510,-,,False
+648,4,2,999,Ruff Ruffian,さんぞくウルフ,,ruffruffian,1,1,2,2,4,3,1320,360,550,470,630,530,-,,True
+448,5,4,319,Saccharine Sacksquatch,ハニーイーター,Sacamiel,saccharine-sacksquatch,0,0,0,0,0,0,1410,540,420,530,410,530,-,,False
+229,5,1,284,Sacksquatch,ドロザラー,Sacasable,sacksquatch,1,4,1,3,1,3,1390,540,490,540,430,520,-,,True
+575,2,4,95,Saltwater Stallion,ドラゴンポップ,Destrier de l'estran,saltwater-stallion,0,0,0,0,0,0,1350,600,490,400,550,420,-,,False
+230,1,1,5,Scallop Slime,パールスライム,Gluître,scallop-slime,1,2,1,3,2,3,1390,410,460,610,470,560,-,,True
+231,7,2,438,Scarfish,おばけヒトデ,Mauvaise étoile,scarfish,2,1,1,3,3,3,1420,330,430,520,510,590,-,,True
+232,3,2,154,Scissor Beatle,はさみくわがた,Scarapince,scissor-beatle,0,0,0,0,0,0,1390,350,580,720,410,290,-,,False
+233,3,3,159,Scornet,キラービー,Dardtagnan,scornet,0,0,0,0,0,0,1360,350,510,350,680,380,-,,False
+654,3,2,999,Scorpion,おおさそり,,scorpion,2,1,3,4,2,1,1350,340,630,650,480,390,-,,True
+401,3,5,187,Scourgette,ブラックベジター,Secourgette,scourgette,0,0,0,0,0,0,1340,480,500,400,470,720,-,,False
+547,8,8,518,Scruffy,ワルぼう,Poupouille,scruffy,0,0,0,0,0,0,1310,590,490,330,560,640,-,,False
+475,6,4,389,Sculptrice,ヘルビースト,Glargouille,sculptrice,0,0,0,0,0,0,1360,350,600,640,410,450,-,,False
+327,1,4,34,Scuttle Slime,石炭つむり,Gluantharcite,scuttle-slime,0,0,0,0,0,0,1390,360,540,640,440,380,-,,False
+655,2,2,999,Seasaur,ギャオース,,seasaur,3,2,3,3,1,1,1350,320,690,620,440,400,-,,True
+271,6,2,368,See Urchin,シーメーダ,Biglœil,see-urchin,2,4,1,1,5,3,1330,580,370,360,690,620,-,,True
+518,7,5,472,Sekerleton,しにがみ,Berserkerlette,sekerleton,0,0,0,0,0,0,1390,320,620,320,580,300,-,,False
+616,2,7,125,Serpent of the Scales,ひかりの番人,Serpent des sentences,serpent-of-the-scales,0,0,0,0,0,0,1430,320,590,610,370,330,-,,False
+234,7,2,441,Shadow,シャドー,Ombre,shadow,0,3,1,2,4,3,1290,440,480,490,670,610,-,,True
+335,1,5,43,Shadow Slime,スライムダーク,Gluant de l'ombre,shadow-slime,0,0,0,0,0,0,1290,470,560,450,600,500,-,,False
+235,4,1,212,Sham Hatwitch,ビッグハット,Chaporc magique,sham-hatwitch,0,2,1,4,2,3,1360,410,470,630,490,600,-,,True
+236,1,1,3,Shell Slime,スライムつむり,Gluanbulot,shell-slime,2,3,1,5,1,3,1430,520,400,840,300,520,-,,True
+105,1,2,16,She-Slime,スライムベス,Gluante,she-slime,0,2,2,1,2,1,1490,400,510,360,490,280,-,,True
+447,5,4,318,Shivery Shrubbery,デビルスノー,Cryfolia,shivery-shrubbery,0,0,0,0,0,0,1290,450,530,410,590,640,-,,False
+343,1,6,53,Shogum,スライムジェネラル,Monte-gluancien,shogum,0,0,0,0,0,0,1260,580,660,450,460,590,-,,False
+472,6,4,386,Silvapithecus,シルバーデビル,Silvapithèque,silvapithecus,0,0,0,0,0,0,1340,450,440,560,500,650,-,,False
+377,2,7,123,Silver Serpent,シルバーナーガ,Apode argenté,silver-serpent,0,0,0,0,0,0,1340,330,650,310,580,440,-,,False
+481,6,5,396,Sintaur,ずしおうまる,Troublosaure,sintaur,0,0,0,0,0,0,1370,350,620,450,460,460,-,,False
+415,7,6,482,Skelegon,スカルゴン,Dragos,skelegon,0,0,0,0,0,0,1410,280,640,480,440,340,-,,False
+238,7,1,431,Skeleton,がいこつ,Squelette,skeleton,2,1,3,2,1,2,1420,290,610,510,430,440,-,,True
+296,7,3,450,Skeleton Soldier,しりょうのきし,Soldat squelette,skeleton-soldier,0,0,0,0,0,0,1390,400,580,460,480,360,-,,False
+508,7,4,460,Skeleton Swordsman,がいこつけんし,Squelépéiste,skeleton-swordsman,0,0,0,0,0,0,1410,310,660,310,500,320,-,,False
+520,7,5,476,Skellyfish,どくろクラゲ,Squelméduse,skellyfish,0,0,0,0,0,0,1360,620,550,270,430,610,-,,False
+273,7,1,434,Skipper,スキッパー,Bottœil,skipper,0,1,2,4,3,2,1340,380,560,630,530,450,-,,True
+239,7,2,442,Skullrider,スカルライダー,Cavale-crâne,skullrider,1,2,1,1,1,3,1400,430,520,370,480,600,-,,True
+660,5,1,999,Sky Fry,ベビークラウド,,skyfry,0,1,2,1,3,1,1370,320,580,440,600,400,-,,True
+240,1,3,26,Slick Slime,スライムタール,Gluant de poix,slick-slime,0,0,0,0,0,0,1340,410,490,380,630,510,-,,False
+101,1,1,1,Slime,スライム,Gluant,slime,2,2,1,1,4,1,1420,410,460,380,650,310,-,,True
+17,1,7,,Slime Family (A),,,slime-a,0,,,,,,,,,,,,-,,True
+10,1,10,,Slime Family (Any),スライム系,,slime-any,0,,,,,,,,,,,,-,,True
+16,1,6,,Slime Family (B),,,slime-b,0,,,,,,,,,,,,-,,True
+15,1,5,,Slime Family (C),,,slime-c,0,,,,,,,,,,,,-,,True
+14,1,4,,Slime Family (D),,,slime-d,0,,,,,,,,,,,,-,,True
+13,1,3,,Slime Family (E),,,slime-e,0,,,,,,,,,,,,-,,True
+12,1,2,,Slime Family (F),,,slime-f,0,,,,,,,,,,,,-,,True
+11,1,1,,Slime Family (G),,,slime-g,0,,,,,,,,,,,,-,,True
+18,1,8,,Slime Family (S),,,slime-s,0,,,,,,,,,,,,-,,True
+19,1,9,,Slime Family (X),,,slime-x,0,,,,,,,,,,,,-,,True
+241,1,2,15,Slime Knight,スライムナイト,Monte-gluant,slime-knight,1,2,2,3,1,3,1330,420,580,590,480,550,-,,True
+346,1,6,56,Slime Snack,だんごスライム,Gluocube,slime-snack,0,0,0,0,0,0,1400,380,500,630,430,430,-,,False
+243,1,1,14,Slime Stack,スライムタワー,Aggluantin,slime-stack,1,1,2,3,2,3,1360,390,570,530,490,520,-,,True
+578,1,4,37,Slimecicle,つららスライム,Stalagluant,slimecicle,0,0,0,0,0,0,1330,560,510,580,410,600,-,,False
+242,1,1,9,Slimeshroom,マッシュスライム,Champigluant,slimeshroom,0,0,0,0,0,0,1400,380,520,410,480,510,-,,False
+350,1,7,60,Slionheart,ゴッドライダー,Monte-gluancêtre,slionheart,0,0,0,0,0,0,1270,420,630,590,520,510,-,,False
+244,2,1,67,Small Fry,ドラゴンキッズ,Souffleu,small-fry,2,3,2,1,2,1,1450,470,530,340,510,310,-,,True
+672,5,2,999,Smog,スモーク,,placeholder-9,0,,,,,,1290,450,540,580,590,550,-,,True
+245,1,2,13,Snail Slime,スライムカルゴ,Escargluant,snail-slime,0,3,1,5,1,4,1410,470,480,820,240,630,-,,True
+414,3,8,204,Snipevine,ロイヤルブルーム,Dangeronce,snipevine,0,0,0,0,0,0,1350,590,450,610,360,680,-,,False
+408,3,6,197,Snowbird,ホークブリザード,Rapaglace,snowbird,0,0,0,0,0,0,1320,400,570,440,550,540,-,,False
+465,5,6,343,Snowgre,スノーホムンクルス,Yépire,snowgre,0,0,0,0,0,0,1410,430,540,610,390,360,-,,False
+246,1,2,12,Snowmangler,スノーム,Dangeleux,snowmangler,2,3,2,3,1,3,1390,480,510,580,390,580,-,,True
+247,7,1,436,Soft Serve Spook,ホイップゴースト,Bat-beurre,soft-serve-spook,0,2,1,2,2,2,1420,490,440,540,460,490,-,,True
+507,7,4,459,Soulspawn,エビルスピリッツ,Grouillâme,soulspawn,0,0,0,0,0,0,1300,470,410,610,580,640,-,,False
+581,7,5,473,Soy Soldier,ソイソルジャー,Flageolaid,soy-soldier,0,0,0,0,0,0,1350,530,610,330,520,380,-,,False
+279,4,3,227,Spiked Hare,アルミラージ,Lièvrecorne,spiked-hare,0,0,0,0,0,0,1310,300,600,480,640,400,-,,False
+386,3,4,169,Spinchilla,うずしおキング,Glacyclone,spinchilla,0,0,0,0,0,0,1370,320,530,590,505,440,-,,False
+248,1,3,25,Spiny Slime,スピンスライム,Gluant piquant,spiny-slime,0,0,0,0,0,0,1360,450,610,540,420,410,-,,False
+249,5,1,282,Spitnik,シャイニング,Spitnik,spitnik,0,0,0,0,0,0,1340,480,590,570,490,330,-,,False
+250,2,2,81,Spitzfire,ワイバーンドッグ,Dracabot,spitzfire,0,0,0,0,0,0,1330,330,660,490,520,400,-,,False
+292,4,3,232,Splatypunk,ダックスビル,Ornitro,splatypunk,0,0,0,0,0,0,1380,340,550,520,430,560,-,,False
+322,1,3,21,Sprite Bulb,アラウネ,Malibulbe,sprite-bulb,0,0,0,0,0,0,1280,550,510,370,600,640,-,,False
+251,2,3,84,Stabosaur,ソードドラゴン,Surinosaure,stabosaur,0,0,0,0,0,0,1390,310,580,460,510,390,-,,False
+252,3,1,135,Stark Raven,おおがらす,Corbarbac,stark-raven,1,2,2,3,3,2,1310,420,560,590,570,490,-,,True
+446,5,4,317,Stone Golem,ストーンマン,Golem de pierre,stone-golem,0,0,0,0,0,0,1400,330,550,680,390,410,-,,False
+493,6,6,412,Stout Troll,トロルボンバー,Gigatroll,stout-troll,0,0,0,0,0,0,1420,310,670,340,490,250,-,,False
+253,5,1,281,String Fella,くみひもこぞう,Scoubidouille,string-fella,1,2,2,1,3,3,1340,420,580,390,550,570,-,,True
+254,7,1,432,Stump Chump,きりかぶおばけ,Souche louche,stump-chump,1,3,2,3,2,2,1370,460,580,590,460,390,-,,True
+256,6,2,365,Succubat,くらやみハーピー,Suce-sang,succubat,1,4,2,1,4,3,1320,500,510,390,610,590,-,,True
+257,3,2,147,Suckling Ocker,オクトリーチ,Octopoupon,suckling-ocker,0,2,2,2,2,2,1410,420,600,410,450,430,-,,True
+469,6,3,378,Sugar Baddie,スイーツまじん,Mastoque,sugar-baddie,0,0,0,0,0,0,1350,530,610,340,420,570,-,,False
+304,1,3,23,Sugarstar Slime,こんぺいとう,Slurperstar,sugarstar-slime,0,0,0,0,0,0,1280,420,480,490,640,630,-,,False
+258,4,2,223,Sunset Sultan,ひぐれバット,Sultant vespéral,sunset-sultan,0,0,0,0,0,0,1360,430,590,500,430,490,-,,False
+352,1,7,62,Superior Slime,マスタースライム,Gluant supérieur,superior-slime,0,0,0,0,0,0,1350,330,480,480,580,570,-,,False
+647,3,1,999,Swarmtroop,カバシラー,,swarmtroop,1,3,2,1,4,2,1300,450,540,430,690,460,-,,True
+418,4,4,245,Sweaty Yeti,デザートゴースト,Yéti des sables,sweaty-yeti,0,0,0,0,0,0,1410,350,640,520,380,350,-,,False
+483,6,5,399,Swingre,てっきゅうまじん,Fléogre,swingre,0,0,0,0,0,0,1430,310,590,620,400,270,-,,False
+435,4,6,270,Tantamount,れんごく天馬,Tempétalon,tantamount,0,0,0,0,0,0,1370,350,560,510,470,500,-,,False
+396,3,5,179,Tartarus Eagle,アンズー,Busard bizarre,tartarus-eagle,0,0,0,0,0,0,1280,430,590,550,600,420,-,,False
+259,6,1,360,Teeny Sanguini,モーモン,Sanguini vache,teeny-sanguini,1,4,1,1,4,3,1300,550,410,440,700,590,-,,True
+607,3,7,199,Tentacular,クラーゴン,Tentapieuvre,tentacular,0,0,0,0,0,0,1450,320,660,260,420,360,-,,False
+630,8,9,520,The Almighty,神さま,Tout-puissant,the-almighty,0,0,0,0,0,0,1330,470,520,470,470,660,-,,False
+504,6,8,427,The Darkling,邪神の子,Scion de l'Ombre,the-darkling,0,0,0,0,0,0,1240,600,680,330,510,630,-,,False
+379,2,7,127,The Dragonlord,りゅうおう,Lordraco,the-dragonlord,0,0,0,0,0,0,1340,490,500,440,490,630,-,,False
+482,6,5,397,The Time Being,タイムマスター,Titemps,the-time-being,0,0,0,0,0,0,1340,650,380,350,480,820,-,,False
+609,5,7,348,The Trauminator,Sキラーマシン,Tauminator,the-trauminator,0,0,0,0,0,0,1230,360,580,710,590,570,-,,False
+598,4,6,265,Tigergram,とうだいタイガー,Tigroar,tigergram,0,0,0,0,0,0,1310,370,650,490,540,420,-,,False
+260,3,1,145,Toady,フロッガー,Combatracien,toady,2,1,2,1,2,1,1410,360,560,450,520,390,-,,True
+485,6,5,401,Togre,ネクロバルサ,Togre,togre,0,0,0,0,0,0,1370,450,590,380,400,610,-,,False
+668,4,2,999,Tongue Fu Fighter,ちゅうまじゅう,,placeholder-5,0,,,,,,1420,320,580,570,430,410,-,,True
+261,2,3,85,Tortoceratops,デンタザウルス,Tensiocératops,tortoceratops,0,0,0,0,0,0,1350,370,560,690,450,420,-,,False
+576,7,4,463,Tortured Soul,なげきの亡霊,Âme en peine,tortured-soul,0,0,0,0,0,0,1370,510,320,520,540,670,-,,False
+572,3,3,166,Tree Feller,ヘルボックル,Tailletron,tree-feller,0,0,0,0,0,0,1320,430,530,500,600,430,-,,False
+505,7,3,451,Treeface,じんめんじゅ,Tronc-bine,treeface,0,0,0,0,0,0,1320,430,530,520,480,650,-,,False
+566,7,5,470,Treevil,ウドラー,Arbomination,treevil,0,0,0,0,0,0,1340,510,490,590,390,680,-,,False
+303,1,1,524,Triple Splatty,バーガースライム,,triple-splatty,0,0,0,0,0,0,1340,390,570,510,490,520,-,,False
+384,2,8,132,True Dragonlord,竜王,Lordragon,true-dragonlord,0,0,0,0,0,0,1290,340,610,650,460,610,-,,False
+600,3,6,192,Tuffpoise,ニードルフィン,Globa,tuffpoise,0,0,0,0,0,0,1310,420,530,380,560,680,-,,False
+397,3,5,181,Tufty Tot,ケセランパセラン,Étoupet,tufty-tot,0,0,0,0,0,0,1310,570,470,360,540,710,-,,False
+577,2,4,94,Tundragster,せつげんりゅう,Frigonosaure,tundragster,0,0,0,0,0,0,1420,330,600,460,490,250,-,,False
+393,3,4,176,Tuskateer,トドマン,Misamorse,tuskateer,0,0,0,0,0,0,1410,280,540,530,480,410,-,,False
+621,2,5,105,Tyrannoceratops,バザックス,Tyrannocératops,tyrannoceratops,0,0,0,0,0,0,1400,390,560,660,390,350,-,,False
+468,5,8,351,Überkilling Machine,キラーマジンガ,Mékanocinglé,uberkilling-machine,0,0,0,0,0,0,1370,290,630,650,500,220,-,,False
+531,7,7,495,Umbra,まおうのかげ,Revenant,umbra,0,0,0,0,0,0,1340,410,560,410,480,640,-,,False
+77,7,7,,Undead Family (A),,,undead-a,0,,,,,,,,,,,,-,,True
+70,7,10,,Undead Family (Any),ゾンビ系,,undead-any,0,,,,,,,,,,,,-,,True
+76,7,6,,Undead Family (B),,,undead-b,0,,,,,,,,,,,,-,,True
+75,7,5,,Undead Family (C),,,undead-c,0,,,,,,,,,,,,-,,True
+74,7,4,,Undead Family (D),,,undead-d,0,,,,,,,,,,,,-,,True
+73,7,3,,Undead Family (E),,,undead-e,0,,,,,,,,,,,,-,,True
+72,7,2,,Undead Family (F),,,undead-f,0,,,,,,,,,,,,-,,True
+71,7,1,,Undead Family (G),,,undead-g,0,,,,,,,,,,,,-,,True
+78,7,8,,Undead Family (S),,,undead-s,0,,,,,,,,,,,,-,,True
+79,7,9,,Undead Family (X),,,undead-x,0,,,,,,,,,,,,-,,True
+674,5,2,999,Urnexpected,あくまのツボ,,placeholder-11,0,,,,,,1350,470,500,590,480,580,-,,True
+320,4,3,230,Ursa Major,グリズリー,Plantigrrrade,ursa-major,0,0,0,0,0,0,1350,370,610,320,550,490,-,,False
+596,4,6,264,Ursa Mega,ダースリカント,Ursa méga,ursa-mega,0,0,0,0,0,0,1290,340,640,460,580,500,-,,False
+262,4,2,219,Vampire Cat,キャットフライ,Chat vampire,vampire-cat,1,3,1,2,4,3,1310,430,450,430,700,600,-,,True
+263,2,1,69,Vegandragora,はなまきドラゴ,Dracorolle,vegandragora,1,4,3,1,1,1,1380,570,630,370,450,380,-,,True
+264,7,2,439,Walking Corpse,くさった死体,Mort-vivant,walking-corpse,2,1,3,3,1,1,1420,360,620,530,400,390,-,,True
+417,4,2,244,Warhog,ソルジャーブル,Sanguinolier,warhog,0,2,3,3,2,2,1360,330,640,530,510,400,-,,True
+265,7,1,430,Wax Murderer,おばけキャンドル,Tristecire,wax-murderer,1,2,1,3,2,2,1390,400,480,610,490,490,-,,True
+266,3,3,163,Weaken Beakon,デッドペッカー,Altérapace,weaken-beakon,0,0,0,0,0,0,1330,370,630,460,540,410,-,,False
+267,4,2,221,Weartiger,とらおとこ,Tigriff,weartiger,0,1,2,3,2,2,1350,340,590,620,480,500,-,,True
+300,5,3,301,Well Wisher,いどまじん,Puits-sang,well-wisher,0,0,0,0,0,0,1420,340,530,410,440,530,-,,False
+268,6,2,367,Whizzard,コンジャラー,Marcagicien,whizzard,0,0,0,0,0,0,1310,550,520,550,460,600,-,,False
+556,7,6,491,Wight King,ワイトキング,Roi maudit,wight-king,0,0,0,0,0,0,1310,620,320,500,610,680,-,,False
+325,1,4,32,Wild Slime,スライムファング,Gluant de crin,wild-slime,0,0,0,0,0,0,1400,270,660,400,440,430,-,,False
+671,7,1,999,Will-o'-the-Whips,ナイトウイプス,,placeholder-8,1,,,,,,1330,490,550,410,530,620,-,,True
+102,1,1,6,Wing Slime,はねスライム,Slurpillon,wing-slime,0,3,2,1,3,2,1320,490,520,360,640,550,-,,True
+269,6,1,352,Winky,おおめだま,Clindœil,winky,1,2,2,2,2,2,1350,440,560,520,520,480,-,,True
+270,3,1,142,Woebergine,ナスビナーラ,Colèrgine,woebergine,0,4,1,1,2,3,1360,610,490,440,480,570,-,,True
+490,6,6,407,Wrecktor,あくましんかん,Cyclomage,wrecktor,0,0,0,0,0,0,1370,480,470,420,450,680,-,,False
+381,2,8,129,Wyrmhole Dragon,じげんりゅう,Dragon du temps,wyrmhole-dragon,0,0,0,0,0,0,1250,390,580,490,580,700,-,,False
+277,2,3,82,Wyrtle,ガメゴン,Tortugon,wyrtle,0,0,0,0,0,0,1300,370,580,670,400,700,-,,False
+362,2,5,101,Wyrtoise,ガメゴンロード,Dracarapace,wyrtoise,0,0,0,0,0,0,1280,350,550,660,470,730,-,,False
+361,2,4,99,Wyvern,ライバーン,Wyverne,wyvern,0,0,0,0,0,0,1380,340,580,480,510,380,-,,False
+627,2,9,133,Xenlon,しんりゅう,Xenlon,xenlon,0,0,0,0,0,0,1330,280,620,560,460,580,-,,False
+521,7,5,477,Zamtasm,ドルマージュ,Feurfadet,zamtasm,0,0,0,0,0,0,1320,550,470,350,530,720,-,,False
+389,3,4,172,Zaptile,サンダーフロッグ,Gaizard,zaptile,0,0,0,0,0,0,1390,390,530,450,460,520,-,,False
+631,8,9,521,Zoma,ゾーマ,Zoma,zoma,0,0,0,0,0,0,1270,520,500,600,470,760,-,,False

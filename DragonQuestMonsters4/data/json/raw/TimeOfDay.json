@@ -1,0 +1,14 @@
+[
+  {
+    "TimeOfDayId": 1,
+    "Name": "Day",
+    "Identifier": "day",
+    "JapaneseName": ""
+  },
+  {
+    "TimeOfDayId": 2,
+    "Name": "Night",
+    "Identifier": "night",
+    "JapaneseName": ""
+  }
+]

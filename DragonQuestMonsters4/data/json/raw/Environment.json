@@ -1,0 +1,17 @@
+[
+  {
+    "EnvironmentId": 3,
+    "Name": "Bush",
+    "Identifier": "bush"
+  },
+  {
+    "EnvironmentId": 1,
+    "Name": "Normal",
+    "Identifier": "normal"
+  },
+  {
+    "EnvironmentId": 2,
+    "Name": "Precipitation",
+    "Identifier": "precipitation"
+  }
+]

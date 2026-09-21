@@ -1,0 +1,52 @@
+[
+  {
+    "LocationId": 5,
+    "Name": "Shrine of Serenity, Interior",
+    "Identifier": "shrine-of-serenity,-interior",
+    "JapaneseName": null,
+    "MapLongitudeMax": null,
+    "MapLatitudeMax": null,
+    "MapLongitudeStart": null,
+    "MapLatitudeStart": null
+  },
+  {
+    "LocationId": 2,
+    "Name": "The Parchland",
+    "Identifier": "the-parchland",
+    "JapaneseName": null,
+    "MapLongitudeMax": null,
+    "MapLatitudeMax": null,
+    "MapLongitudeStart": null,
+    "MapLatitudeStart": null
+  },
+  {
+    "LocationId": 4,
+    "Name": "The Sogswamp",
+    "Identifier": "the-sogswamp",
+    "JapaneseName": null,
+    "MapLongitudeMax": null,
+    "MapLatitudeMax": null,
+    "MapLongitudeStart": null,
+    "MapLatitudeStart": null
+  },
+  {
+    "LocationId": 3,
+    "Name": "The Spelunk",
+    "Identifier": "the-spelunk",
+    "JapaneseName": null,
+    "MapLongitudeMax": null,
+    "MapLatitudeMax": null,
+    "MapLongitudeStart": null,
+    "MapLatitudeStart": null
+  },
+  {
+    "LocationId": 1,
+    "Name": "Witherwood Plains",
+    "Identifier": "witherwood-plains",
+    "JapaneseName": null,
+    "MapLongitudeMax": null,
+    "MapLatitudeMax": null,
+    "MapLongitudeStart": null,
+    "MapLatitudeStart": null
+  }
+]
