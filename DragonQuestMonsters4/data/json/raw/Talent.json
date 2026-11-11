@@ -19,7 +19,7 @@
     "TalentId": 64,
     "Name": "Agility Booster I",
     "Identifier": "agility-booster-i",
-    "JapaneseName": "すばやさアップ1",
+    "JapaneseName": "すばやさアップ１",
     "IsEggOnly": false,
     "IsVerified": true
   },
@@ -27,25 +27,25 @@
     "TalentId": 65,
     "Name": "Agility Booster II",
     "Identifier": "agility-booster-ii",
-    "JapaneseName": "すばやさアップ2",
+    "JapaneseName": "すばやさアップ２",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 122,
     "Name": "Agility Booster III",
     "Identifier": "agility-booster-iii",
-    "JapaneseName": "すばやさアップ3",
+    "JapaneseName": "すばやさアップ３",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 123,
     "Name": "Agility Booster IV",
     "Identifier": "agility-booster-iv",
-    "JapaneseName": "すばやさアップ4",
+    "JapaneseName": "すばやさアップ４",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 91,
@@ -53,7 +53,7 @@
     "Identifier": "air-fryer",
     "JapaneseName": "風炎の剣技",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 201,
@@ -123,7 +123,7 @@
     "TalentId": 60,
     "Name": "Attack Booster I",
     "Identifier": "attack-booster-i",
-    "JapaneseName": "攻撃力アップ1",
+    "JapaneseName": "攻撃力アップ１",
     "IsEggOnly": false,
     "IsVerified": true
   },
@@ -131,25 +131,25 @@
     "TalentId": 61,
     "Name": "Attack Booster II",
     "Identifier": "attack-booster-ii",
-    "JapaneseName": "攻撃力アップ2",
+    "JapaneseName": "攻撃力アップ２",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 118,
     "Name": "Attack Booster III",
     "Identifier": "attack-booster-iii",
-    "JapaneseName": "攻撃力アップ3",
+    "JapaneseName": "攻撃力アップ３",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 119,
     "Name": "Attack Booster IV",
     "Identifier": "attack-booster-iv",
-    "JapaneseName": "攻撃力アップ4",
+    "JapaneseName": "攻撃力アップ４",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 205,
@@ -173,7 +173,7 @@
     "Identifier": "bang-virtuoso",
     "JapaneseName": "爆発の極意",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 72,
@@ -253,7 +253,7 @@
     "Identifier": "blowhard",
     "JapaneseName": "グランドブレスSP",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 34,
@@ -341,7 +341,7 @@
     "Identifier": "chiaroscuro-shield",
     "JapaneseName": "白黒ガードSP",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 110,
@@ -357,7 +357,7 @@
     "Identifier": "choreographer",
     "JapaneseName": "エンターテイナー",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 212,
@@ -379,7 +379,7 @@
     "TalentId": 84,
     "Name": "Confusion Controller",
     "Identifier": "confusion-controller",
-    "JapaneseName": "こんらんガード",
+    "JapaneseName": "混乱ガード",
     "IsEggOnly": false,
     "IsVerified": true
   },
@@ -413,7 +413,7 @@
     "Identifier": "crack-virtuoso",
     "JapaneseName": "氷結の極意",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 73,
@@ -437,7 +437,7 @@
     "Identifier": "crag-virtuoso",
     "JapaneseName": "地の極意",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 71,
@@ -451,7 +451,7 @@
     "TalentId": 96,
     "Name": "Cupid",
     "Identifier": "cupid",
-    "JapaneseName": "キューピッド",
+    "JapaneseName": "キューピット",
     "IsEggOnly": false,
     "IsVerified": true
   },
@@ -477,7 +477,7 @@
     "Identifier": "cyclone-shield",
     "JapaneseName": "爆風ガードSP",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 22,
@@ -525,13 +525,13 @@
     "Identifier": "deep-breather",
     "JapaneseName": "ブレスマスター",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 62,
     "Name": "Defence Booster I",
     "Identifier": "defence-booster-i",
-    "JapaneseName": "守備力アップ1",
+    "JapaneseName": "守備力アップ１",
     "IsEggOnly": false,
     "IsVerified": true
   },
@@ -539,25 +539,25 @@
     "TalentId": 63,
     "Name": "Defence Booster II",
     "Identifier": "defence-booster-ii",
-    "JapaneseName": "守備力アップ2",
+    "JapaneseName": "守備力アップ２",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 120,
     "Name": "Defence Booster III",
     "Identifier": "defense-booster-iii",
-    "JapaneseName": "守備力アップ3",
+    "JapaneseName": "守備力アップ３",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 121,
     "Name": "Defence Booster IV",
     "Identifier": "defense-booster-iv",
-    "JapaneseName": "守備力アップ4",
+    "JapaneseName": "守備力アップ４",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 54,
@@ -701,7 +701,7 @@
     "Identifier": "fluffy",
     "JapaneseName": "わたぼう",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 51,
@@ -717,7 +717,7 @@
     "Identifier": "freeze-popper",
     "JapaneseName": "爆氷の剣技",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 129,
@@ -725,7 +725,7 @@
     "Identifier": "freezer-burner",
     "JapaneseName": "氷炎の剣技",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 1,
@@ -741,7 +741,7 @@
     "Identifier": "frizz-virtuoso",
     "JapaneseName": "火の極意",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 68,
@@ -757,7 +757,7 @@
     "Identifier": "frosty-receptionist",
     "JapaneseName": "氷獄",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 131,
@@ -765,15 +765,15 @@
     "Identifier": "fulgurite-shield",
     "JapaneseName": "稲妻ガードSP",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 188,
     "Name": "Fuzzy Thinker",
     "Identifier": "fuzzy-thinker",
-    "JapaneseName": "ぴぴぼう",
+    "JapaneseName": "ピピぼう",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 136,
@@ -781,13 +781,13 @@
     "Identifier": "glacier-shield",
     "JapaneseName": "流氷ガードSP",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 247,
     "Name": "Goliath",
     "Identifier": "goliath",
-    "JapaneseName": "巨体",
+    "JapaneseName": "巨漢",
     "IsEggOnly": false,
     "IsVerified": true
   },
@@ -829,7 +829,7 @@
     "Identifier": "hair-splitter",
     "JapaneseName": "けんごうSP",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 197,
@@ -923,7 +923,7 @@
     "TalentId": 56,
     "Name": "HP Booster I",
     "Identifier": "hp-booster-i",
-    "JapaneseName": "HPアップ1",
+    "JapaneseName": "HPアップ１",
     "IsEggOnly": false,
     "IsVerified": true
   },
@@ -931,33 +931,25 @@
     "TalentId": 57,
     "Name": "HP Booster II",
     "Identifier": "hp-booster-ii",
-    "JapaneseName": "HPアップ2",
+    "JapaneseName": "HPアップ２",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 114,
     "Name": "HP Booster III",
     "Identifier": "hp-booster-iii",
-    "JapaneseName": "HPアップ3",
+    "JapaneseName": "HPアップ３",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 115,
     "Name": "HP Booster IV",
     "Identifier": "hp-booster-iv",
-    "JapaneseName": "HPアップ4",
+    "JapaneseName": "HPアップ４",
     "IsEggOnly": false,
-    "IsVerified": false
-  },
-  {
-    "TalentId": 45,
-    "Name": "Hulk",
-    "Identifier": "hulk",
-    "JapaneseName": "巨漢",
-    "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 93,
@@ -965,7 +957,7 @@
     "Identifier": "impactor",
     "JapaneseName": "闇の爆炎SP",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 97,
@@ -1035,9 +1027,9 @@
     "TalentId": 135,
     "Name": "Magma Shield",
     "Identifier": "magma-shield",
-    "JapaneseName": "流氷ガードSP",
+    "JapaneseName": "溶岩ガードSP",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 229,
@@ -1115,7 +1107,7 @@
     "TalentId": 58,
     "Name": "MP Booster I",
     "Identifier": "mp-booster-i",
-    "JapaneseName": "MPアップ1",
+    "JapaneseName": "MPアップ１",
     "IsEggOnly": false,
     "IsVerified": true
   },
@@ -1123,25 +1115,25 @@
     "TalentId": 59,
     "Name": "MP Booster II",
     "Identifier": "mp-booster-ii",
-    "JapaneseName": "MPアップ2",
+    "JapaneseName": "MPアップ２",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 116,
     "Name": "MP Booster III",
     "Identifier": "mp-booster-iii",
-    "JapaneseName": "MPアップ3",
+    "JapaneseName": "MPアップ３",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 117,
     "Name": "MP Booster IV",
     "Identifier": "mp-booster-iv",
-    "JapaneseName": "MPアップ4",
+    "JapaneseName": "MPアップ４",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 248,
@@ -1285,7 +1277,7 @@
     "Identifier": "perfect-speller",
     "JapaneseName": "グランスペルSP",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 213,
@@ -1299,7 +1291,7 @@
     "TalentId": 81,
     "Name": "Poison Preventer",
     "Identifier": "poison-preventer",
-    "JapaneseName": "どくガード",
+    "JapaneseName": "毒ガード",
     "IsEggOnly": false,
     "IsVerified": true
   },
@@ -1309,7 +1301,7 @@
     "Identifier": "polariser",
     "JapaneseName": "聖なる吹雪SP",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 172,
@@ -1461,7 +1453,7 @@
     "Identifier": "scruffy",
     "JapaneseName": "ワルぼう",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 20,
@@ -1485,7 +1477,7 @@
     "Identifier": "sizz-virtuoso",
     "JapaneseName": "光の極意",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 75,
@@ -1515,7 +1507,7 @@
     "TalentId": 83,
     "Name": "Sleep Suppressor",
     "Identifier": "sleep-suppressor",
-    "JapaneseName": "ねむりガード",
+    "JapaneseName": "眠りガード",
     "IsEggOnly": false,
     "IsVerified": true
   },
@@ -1533,7 +1525,7 @@
     "Identifier": "smart-blazer",
     "JapaneseName": "獄炎",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 187,
@@ -1613,7 +1605,7 @@
     "Identifier": "splash-virtuoso",
     "JapaneseName": "水の極意",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 69,
@@ -1645,7 +1637,7 @@
     "Identifier": "storm-brewer",
     "JapaneseName": "風雷の剣技",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 160,
@@ -1661,7 +1653,7 @@
     "Identifier": "strong-speller",
     "JapaneseName": "ソーサラー",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 82,
@@ -1755,9 +1747,9 @@
     "TalentId": 132,
     "Name": "Tremor Shield",
     "Identifier": "tremor-shield",
-    "JapaneseName": "流氷ガードSP",
+    "JapaneseName": "衝撃ガードSP",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 225,
@@ -1835,7 +1827,7 @@
     "TalentId": 66,
     "Name": "Wisdom Booster I",
     "Identifier": "wisdoom-booster-i",
-    "JapaneseName": "かしこさアップ1",
+    "JapaneseName": "かしこさアップ１",
     "IsEggOnly": false,
     "IsVerified": true
   },
@@ -1843,25 +1835,25 @@
     "TalentId": 67,
     "Name": "Wisdom Booster II",
     "Identifier": "wisdom-booster-ii",
-    "JapaneseName": "かしこさアップ2",
+    "JapaneseName": "かしこさアップ２",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 124,
     "Name": "Wisdom Booster III",
     "Identifier": "wisdoom-booster-iii",
-    "JapaneseName": "かしこさアップ3",
+    "JapaneseName": "かしこさアップ３",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 125,
     "Name": "Wisdom Booster IV",
     "Identifier": "wisdoom-booster-iv",
-    "JapaneseName": "かしこさアップ4",
+    "JapaneseName": "かしこさアップ４",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 5,
@@ -1877,7 +1869,7 @@
     "Identifier": "woosh-virtuoso",
     "JapaneseName": "風の極意",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 70,
@@ -1925,7 +1917,7 @@
     "Identifier": "zam-virtuoso",
     "JapaneseName": "闇の極意",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 76,
@@ -1949,7 +1941,7 @@
     "Identifier": "zap-virtuoso",
     "JapaneseName": "電撃の極意",
     "IsEggOnly": false,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TalentId": 74,

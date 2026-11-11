@@ -523,5 +523,10 @@
     "TalentSynthesisTalentId": 106,
     "TalentSynthesisId": 69,
     "TalentId": 48
+  },
+  {
+    "TalentSynthesisTalentId": 107,
+    "TalentSynthesisId": 70,
+    "TalentId": 5
   }
 ]

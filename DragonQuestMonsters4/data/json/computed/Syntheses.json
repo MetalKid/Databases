@@ -192,12 +192,12 @@
   {
     "Result": "Dancing Devil",
     "Parent1": "Imp",
-    "Parent2": "Beast Family (Any)"
+    "Parent2": "Woebergine"
   },
   {
     "Result": "Dancing Devil",
     "Parent1": "Imp",
-    "Parent2": "Woebergine"
+    "Parent2": "Beast Family (Any)"
   },
   {
     "Result": "Dessert Demon",
@@ -223,6 +223,11 @@
     "Result": "Dragonthorn",
     "Parent1": "Burr Baby",
     "Parent2": "Pteranodon"
+  },
+  {
+    "Result": "Drake Slime",
+    "Parent1": "Slime",
+    "Parent2": "Dragon Family (Any)"
   },
   {
     "Result": "Drake Slime",
@@ -362,12 +367,12 @@
   {
     "Result": "Greater Dracky",
     "Parent1": "Dracky",
-    "Parent2": "Dracky"
+    "Parent2": "Gasbagon"
   },
   {
     "Result": "Greater Dracky",
     "Parent1": "Dracky",
-    "Parent2": "Gasbagon"
+    "Parent2": "Dracky"
   },
   {
     "Result": "Gremlin",
@@ -437,12 +442,12 @@
   {
     "Result": "Jargon",
     "Parent1": "Komodo",
-    "Parent2": "Material Family (Any)"
+    "Parent2": "Gasbagon"
   },
   {
     "Result": "Jargon",
     "Parent1": "Komodo",
-    "Parent2": "Gasbagon"
+    "Parent2": "Material Family (Any)"
   },
   {
     "Result": "Jingle Bug",
@@ -586,13 +591,13 @@
   },
   {
     "Result": "Mottle Slime",
-    "Parent1": "Slime Family (F)",
-    "Parent2": "Beast Family (F)"
+    "Parent1": "Slime",
+    "Parent2": "Beast Family (Any)"
   },
   {
-    "Result": "Mouldfish",
-    "Parent1": "Undead Family (F)",
-    "Parent2": "Nature Family (G)"
+    "Result": "Mottle Slime",
+    "Parent1": "Slime Family (F)",
+    "Parent2": "Beast Family (F)"
   },
   {
     "Result": "Mouldfish",

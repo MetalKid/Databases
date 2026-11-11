@@ -1,0 +1,736 @@
+ItemLocalizationId,ItemId,LanguageCode,Name,Description
+572,64,DE-DE,<DE99>Flachatmer<DE66>,Bringt einem die Begabung <DE99>Flachatmer<DE66> bei.
+348,39,ES-ES,Aceite de sapo,Aceite extraído de un sapo.
+517,58,IT-IT,Acqua fresca,"Acqua sorgiva naturale, limpida e pura."
+519,58,ES-ES,Agua fresca,Agua fresca de manantial y sin impurezas.
+336,38,FR-FR,Aile de chauve-souris,Grande aile noire obtenue sur une chauve-souris.
+339,38,ES-ES,Ala de murciélago,Ala grande y oscura de un murciélago.
+337,38,IT-IT,Ala di pipistrello,Una grande ala nera che si ottiene da un pipistrello.
+474,53,ES-ES,Algodón de hada,Algodón muy poco común cultivado por las hadas.
+20,3,EN-GB,Amor Seco Essence,Restores 50 to 60 HP to all allies.
+38,5,EN-GB,Antidotal Herb,Cures a single ally of poison and severe poison.
+452,51,EN-GB,Avabranche,A chilly branch that seems to be wreathed in winter.
+579,65,FR-FR,Balle bonus,"Multiplie par 1,5 les points d'expérience et les pièces d'or gagnés pendant 10 combats ! Effet non cumulable avec celui d'autres objets similaires."
+364,41,IT-IT,Batuffolo di lana,Una soffice lana che si ricava dalle pecore.
+317,36,EN-GB,Beast Bone,A sturdy bone from a wild beast.
+544,61,IT-IT,Belfungo,Un fungo meraviglioso e di splendido aspetto.
+546,61,ES-ES,Bellaseta,Champiñón de una belleza inconcebible.
+542,61,EN-GB,Belle Cap,A mushroom of heartbreaking beauty.
+374,42,DE-DE,Blitzbrocken,"Eine Kristallkugel, die die Kraft des Blitzes birgt."
+96,11,ES-ES,Bocaditos de monstruos,Bocadito de carne que chifla a los monstruos. Dáselo a uno y aumentará ligeramente la probabilidad de que se quiera unir a ti.
+453,51,FR-FR,Bois de givre,Branche fraîche qui s'enveloppe d'air froid.
+582,65,ES-ES,Bola extra,"¡Multiplica por 1,5 los puntos de experiencia y el oro durante 10 combates! Este efecto no es acumulable."
+375,42,ES-ES,Bolatrueno,Esfera de cristal que se ha formado por el impacto de un rayo.
+69,8,ES-ES,Boñiga de monstruo,Un desecho orgánico que se puede lanzar a los rivales. Inflige poco daño a un solo enemigo al usarse en combate.
+578,65,EN-GB,Bonus Ball,Increases the amount of experience points and gold coins earned after battle by 1.5x. Effective for 10 battles. Only one of this or similar items can be in effect at any one time.
+48,6,FR-FR,Botryche lunaire,Soigne un allié de la paralysie.
+372,42,FR-FR,Boule de foudre,Orbe dans lequel est cristallisé le pouvoir de la foudre.
+75,9,FR-FR,Bout de caillou,"Petite pierre pouvant faire mal si lancée sur quelqu'un.
+Inflige de légers dégâts à un ennemi lorsque utilisée en combat."
+221,25,DE-DE,Buch der Launigkeit,"Ein Buch, das die Persönlichkeit <DE99>Drama-Diva<DE66> verleiht. Sorgt dafür, dass sich das LP-Maximum und die Abwehr des Monsters gut entwickeln."
+212,24,DE-DE,Buch der Passion,"Ein Buch, das die Persönlichkeit <DE99>Visionär<DE66> verleiht. Sorgt dafür, dass sich das MP-Maximum des Monsters besonders gut entwickelt."
+203,23,DE-DE,Buch der Vielseitigkeit,"Ein Buch, das die Persönlichkeit <DE99>Allrounder<DE66> verleiht. Sorgt dafür, dass sich alle Attribute des Monsters gleich schnell entwickeln."
+49,6,IT-IT,Bulbo di erbaluna,Guarisce un alleato dalla paralisi.
+51,6,ES-ES,Bulbo lunar,Cura la parálisis a un solo aliado.
+123,14,ES-ES,Carne curiosa,Carne sospechosa de origen desconocido. Dásela a un monstruo y aumentará aleatoriamente la probabilidad de que se quiera unir a ti.
+121,14,IT-IT,Carne misteriosa,Un cibo enigmatico di origine sconosciuta. Aumenta in modo del tutto casuale le probabilità che un mostro nemico voglia unirsi a te.
+114,13,ES-ES,Carne putrefacta,"Un cacho de carne pocha que huele regulín. Dásela a un monstruo y aumentará ligeramente la probabilidad de que se quiera unir a ti, pero también se envenenará en el proceso."
+112,13,IT-IT,Carne putrida,"Putrida e maleodorante. Se la dai da mangiare a un mostro, aumenta di pochissimo le probabilità che la creatura voglia unirsi a te, e nel contempo la avveleni!"
+488,55,EN-GB,Celestial Skein,Transcendental fibres that flow like fluid.
+87,10,ES-ES,China,"Una esfera de piedra muy dura que, cuando te da, hace mucha pupa. Inflige poco daño a un solo enemigo al usarse en combate, incluidos los monstruos metálicos."
+76,9,IT-IT,Ciottolo pregiato,Una piccola pietra che può far male se scagliata con sufficiente forza. Infligge lievi danni a un nemico quando si usa in battaglia.
+510,57,ES-ES,Concha descolorida,Concha de tonos níveos encontrada en una playa.
+508,57,IT-IT,Conchiglia sbiadita,Una conchiglia candida rinvenuta sulla spiaggia.
+103,12,IT-IT,Controfiletto affumicato,"Tenero e succulento, è uno dei cibi preferiti dei mostri. Aumenta di poco le probabilità che un mostro nemico voglia unirsi a te."
+245,28,EN-GB,Copper Ore,Common ore rich in copper.
+507,57,FR-FR,Coquillage blanchi,Coquillage immaculé trouvé sur la plage.
+461,52,EN-GB,Cottontop,A fluffy tuft of top-grade cotton.
+66,8,FR-FR,Crottin de monstre,"Déjection malodorante qui peut être lancée.
+Inflige de légers dégâts à un ennemi lorsque utilisée en combat."
+85,10,IT-IT,Dannosfera,"Questa sfera durissima fa vedere le stelle a chi viene colpito da essa. Infligge lievi danni a un nemico quando si usa in battaglia, compresi i mostri metallici."
+353,40,EN-GB,Densinium,A mass of metal that's much heavier than it looks.
+354,40,FR-FR,Densinium,Bloc de métal remarquablement lourd.
+355,40,IT-IT,Densinium,Un blocco di metallo eccezionalmente pesante.
+23,3,DE-DE,Desmodium-Essenz,Gibt allen Verbündeten 50 bis 60<nbsp>LP zurück.
+516,58,FR-FR,Eau fraîche,Eau de source naturelle très limpide.
+489,55,FR-FR,Écheveau céleste,Fibre mystérieuse dont les fils sont couverts d'eau.
+257,29,DE-DE,Eisenerz,"Ein gewöhnliches Erz, das reich an Eisen ist."
+481,54,IT-IT,Erba della brezza marina,Erba che emana il profumo della brezza marina.
+4,1,IT-IT,Erba medicinale,Fa recuperare 30 PV a un alleato.
+40,5,IT-IT,Erba per antidoti,Guarisce un alleato dall'avvelenamento (anche da quello grave).
+312,35,ES-ES,Escama pequeña,Escama pequeñita del tamaño de una uña.
+24,3,ES-ES,Esencia de amor seco,Devuelve entre 50 y 60 PV a todos los aliados.
+22,3,IT-IT,Essenza d'amor seco,Fa recuperare da 50 a 60 PV a tutti gli alleati.
+470,53,EN-GB,Faerie Fluff,Fluffy stuff farmed by the fairest faerie folk.
+509,57,DE-DE,Fahle Muschel,"Eine schneeweiße Muschel, gefunden an einem Strand."
+473,53,DE-DE,Feenwolle,"Eine seltene, von Feen gezüchtete Baumwollpflanze."
+256,29,IT-IT,Ferro,Un minerale comune contenente ferro.
+266,30,DE-DE,Feuerstein,"Ein großer Stein, der sich perfekt als Briefbeschwerer eignet."
+31,4,IT-IT,Fiala piccola,Fa recuperare 10 PM a un alleato.
+553,62,IT-IT,Fiammeterna,"Una fiamma misteriosa, infusa di potere magico."
+471,53,FR-FR,Fibres féeriques,Fleur de coton rare qui a été cultivée par des fées.
+102,12,FR-FR,Filet fumé,"Viande très appréciée par les monstres.
+Augmente légèrement la probabilité qu'un monstre accepte de se joindre à vous."
+120,14,FR-FR,Filet mignon mystérieux,Viande au goût étrange. Augmente aléatoirement la probabilité qu'un monstre accepte de se joindre à vous.
+497,56,EN-GB,Fine Fur,Toasty-warm fur once worn by a monster.
+30,4,FR-FR,Fiole unique,Restaure 10 PM à un allié.
+293,33,DE-DE,Flatterfeder,"Eine Feder, die ein Vogel beim Schnellen durch die Lüfte verloren hat."
+338,38,DE-DE,Fledermausflügel,Die ledrige Schwinge eines nachtaktiven Jägers.
+462,52,FR-FR,Fleur de coton,Plante qui donne un coton léger.
+167,19,DE-DE,Flinkheitssamen,"Erhöht die Flinkheit eines Verbündeten um 3. Achtung: Es gibt für jede Monsterart eine feste Obergrenze, die nicht überschritten werden kann."
+263,30,EN-GB,Flintstone,"A big, heavy stone that's ideal for squishing sandwiches."
+465,52,ES-ES,Flor de algodón,Hierba de la que se extrae un algodón muy esponjoso.
+483,54,ES-ES,Flor de marea,Hierba flotante que arrastra consigo el aroma marino.
+290,33,EN-GB,Flurry Feather,A plume lost in high winds by a bird on the wing.
+498,56,FR-FR,Fourrure fine,Fourrure épaisse obtenue sur un monstre.
+357,40,ES-ES,Fragmento de densinio,Bloque de metal más pesado de lo que parece a primera vista.
+249,28,ES-ES,Fragmento de mineral de cobre,Mineral común con abundancia de cobre.
+258,29,ES-ES,Fragmento de mineral de hierro,Mineral común con abundancia de hierro.
+515,58,EN-GB,Fresh Water,"Natural spring water, cool and clear."
+518,58,DE-DE,Frisches Wasser,"Natürliches Quellwasser, klar und rein."
+455,51,DE-DE,Frostiger Zweig,"Ein kalter Zweig, um den sich der Winter gelegt zu haben scheint."
+113,13,DE-DE,Gammelfleisch,"Ein fauliges Fleischstück, das einen stechenden Gestank verströmt. Füttere ein Monster damit, um die Chance minimal zu erhöhen, dass es sich dir anschließt, es gleichzeitig aber auch zu vergiften."
+41,5,DE-DE,Gegengiftkraut,Heilt einen Verbündeten von Vergiftung und schwerer Vergiftung.
+410,46,DE-DE,Gelbes Kleinod,"Ein kostbarer Stein, der gelbes Licht verströmt."
+454,51,IT-IT,Geloramo,"Il ramo di una pianta fredda, avvolta da un'aura gelida."
+463,52,IT-IT,Germoglio di cotone,Un'erba da cui si può raccogliere del soffice cotone.
+272,31,EN-GB,Glass Frit,Soft sand used to polish things till they gleam.
+527,59,DE-DE,Glitzerharz,"Harz von einem Baum, der im Mondlicht leuchtet."
+327,37,FR-FR,Glugoutte,Gelée élastique rappelant les gluants.
+165,19,FR-FR,Graine d'agilité,"Augmente l'agilité d'un allié de 3 points.
+Ne permet toutefois pas de dépasser la limite de chaque type de monstre."
+237,27,FR-FR,Graine d'agrandissement,Donne la taille G à un monstre allié.
+183,21,FR-FR,Graine de compétence,"Octroie 3 points de talent supplémentaires à un allié.
+Ne permet toutefois pas à un monstre d'avoir plus de 999 points de talent disponibles."
+192,22,FR-FR,Graine de croissance,Augmente le niveau d'un allié de 1 point.
+147,17,FR-FR,Graine de force,"Augmente l'attaque d'un allié de 3 points.
+Ne permet toutefois pas de dépasser la limite de chaque type de monstre."
+138,16,FR-FR,Graine de magie,"Augmente les PM max. d'un allié de 3 points.
+Ne permet toutefois pas de dépasser la limite de chaque type de monstre."
+156,18,FR-FR,Graine de protection,"Augmente la défense d'un allié de 3 points.
+Ne permet toutefois pas de dépasser la limite de chaque type de monstre."
+228,26,FR-FR,Graine de rapetissement,Donne la taille P à un monstre allié.
+174,20,FR-FR,Graine de sagesse,"Augmente la sagesse d'un allié de 3 points.
+Ne permet toutefois pas de dépasser la limite de chaque type de monstre."
+129,15,FR-FR,Graine de vie,"Augmente les PV max. d'un allié de 3 points.
+Ne permet toutefois pas de dépasser la limite de chaque type de monstre."
+416,47,EN-GB,Green Eye,A precious stone that glows with green light.
+419,47,DE-DE,Grünes Kleinod,"Ein kostbarer Stein, der grünes Licht verströmt."
+299,34,EN-GB,Hardy Hide,A tough pelt of the kind formerly found on monsters.
+5,1,DE-DE,Heilkraut,Gibt einem Verbündeten 30<nbsp>LP zurück.
+39,5,FR-FR,Herbe curative,Soigne un allié de l'empoisonnement ou de l'empoisonnement sévère.
+3,1,FR-FR,Herbe médicinale,Restaure 30 PV à un allié.
+491,55,DE-DE,Himmelsgebinde,"Eine übersinnliche Faser, die geschmeidig fließt wie Wasser."
+545,61,DE-DE,Hübschhut,Ein Pilz von vollendeter Schönheit.
+321,36,ES-ES,Hueso de animal mágico,Hueso resistente de un animal salvaje.
+345,39,FR-FR,Huile de crapaud,Mucus obtenu sur un crapaud.
+254,29,EN-GB,Iron Ore,Common ore rich in iron.
+311,35,DE-DE,Kleine Schuppe,Eine winzige Schuppe von der Größe eines Fingernagels.
+383,43,DE-DE,Königliche Erde,Ein Brocken Erde mit magischen Kräften.
+347,39,DE-DE,Krötenöl,"Öl, das einer Kröte entnommen wurde<nbsp><--> wie, das fragt man besser nicht."
+248,28,DE-DE,Kupfererz,"Ein gewöhnliches Erz, das reich an Kupfer ist."
+243,27,KO-KR,L 사이즈 씨앗,동료 1체가 L 사이즈가 된다.
+363,41,FR-FR,Laine d'agneau,Laine légère obtenue sur un mouton.
+362,41,EN-GB,Lambswool,Fluffy wool from a tender young sheep.
+365,41,DE-DE,Lammwolle,Flauschige Wolle von einem flauschigen Schaf.
+554,62,DE-DE,Lampenlicht,"Flammen, die vor Magie knistern."
+551,62,EN-GB,Lamplight,Flames that flicker with magical force.
+366,41,ES-ES,Lana de cordero,Lana suavecita de una oveja bien cuidada.
+552,62,FR-FR,Lanterne,Flamme étrange qui recèle un pouvoir magique.
+131,15,DE-DE,Lebenssamen,"Erhöht das LP-Maximum eines Verbündeten um 3. Achtung: Es gibt für jede Monsterart eine feste Obergrenze, die nicht überschritten werden kann."
+211,24,IT-IT,Libro appassionante,"Un libro per rendere visionario un mostro.
+Aumenta di molto lo sviluppo dei PM max."
+220,25,IT-IT,Libro bizzarro,"Un libro per rendere capriccioso un mostro.
+Aumenta lo sviluppo dei PV max e della Difesa."
+202,23,IT-IT,Libro classico,"Un libro per rendere normale un mostro.
+Fa sviluppare tutti i parametri in maniera bilanciata."
+330,37,ES-ES,Limogota,Gelatina que tiembla como un limo.
+526,59,IT-IT,Linfa scintillante,Linfa di un albero che splende nelle notti illuminate dalla luna.
+570,64,FR-FR,Livret de Petit souffleur,Enseigne le talent « Petit souffleur ».
+555,62,ES-ES,Lucerna,Llamas extrañas que contienen energía mágica.
+235,27,JP-JP,Lサイズのタネ,仲間１体のサイズが　Ｌサイズになる
+242,27,ZH-CN,Ｌ体型种子,使一个伙伴变成Ｌ体型
+241,27,ZH-TW,Ｌ體型種子,使一個夥伴變成Ｌ體型
+492,55,ES-ES,Madeja celestial,Fibra divina por cuyas hebras fluye el agua.
+140,16,DE-DE,Magiesamen,"Erhöht das MP-Maximum eines Verbündeten um 3. Achtung: Es gibt für jede Monsterart eine feste Obergrenze, die nicht überschritten werden kann."
+110,13,EN-GB,Manky Meat,"A piece of putrid flesh that exudes a sour stench. Feed to a monster to very slightly increase the likelihood of it wanting to join you, but also poison it in the process."
+490,55,IT-IT,Matassa celeste,Una fibra misteriosa in cui scorre l'acqua.
+236,27,EN-GB,Maximising Seed,Changes a single ally to L size.
+15,2,ES-ES,Medicina fuerte,Devuelve 60 PV a un solo aliado.
+13,2,IT-IT,Medicina potente,Fa recuperare 60 PV a un alleato.
+2,1,EN-GB,Medicinal Herb,Restores 30 HP to a single ally.
+219,25,FR-FR,Méthode du Capricieux sauvage,"Livre conférant le caractère « capricieux sauvage » à un monstre.
+Développe aussi ses PV max. et sa défense."
+201,23,FR-FR,Méthode du Sérieux,"Livre conférant le caractère « sérieux » à un monstre.
+Développe aussi toutes les caractéristiques sans exception."
+210,24,FR-FR,Méthode du Visionnaire,"Livre conférant le caractère « visionnaire » à un monstre.
+Développe aussi grandement ses PM max."
+246,28,FR-FR,Minerai de cuivre,Morceau de minerai banal qui contient du cuivre.
+255,29,FR-FR,Minerai de fer,Morceau de minerai banal qui contient du fer.
+390,44,FR-FR,Minerai miroir,Pierre brillant comme un miroir.
+561,63,FR-FR,Mini médaille,Médaille collectionnable qui peut être échangée contre une large gamme d'objets au comptoir de Monsieur Médaille.
+560,63,EN-GB,Mini Medal,Can be traded with Monsieur Medaille for rewards at the Mini Medal Swap Shop.
+562,63,IT-IT,Minimedaglia,"Medaglie collezionabili che possono essere scambiate con un'ampia scelta di premi da Monsieur Medaglia, al Banco di scambio delle minimedaglie."
+563,63,DE-DE,Minimedaille,"Medaillen, die bei Monsieur Medaille im Medaillenkiosk gegen diverse Belohnungen eingetauscht werden können."
+564,63,ES-ES,Minimedalla,Las minimedallas se intercambian en el mostrador de Mesié Medallón por una gran variedad de premios.
+227,26,EN-GB,Minimising Seed,Changes a single ally to S size.
+389,44,EN-GB,Mirrorstone,Rock that reflects light as well as any mirror.
+50,6,DE-DE,Mondrauten-Knolle,Heilt einen Verbündeten von Lähmung.
+65,8,EN-GB,Monster Manure,A pongy deposit that can be pitched at one's opponents. Inflicts minor damage to a single enemy when used in battle.
+92,11,EN-GB,Monster Munchies,A meaty morsel that monsters love. Feed to a monster to very slightly increase the likelihood of it wanting to join you.
+302,34,DE-DE,Monsterleder,Freundlicherweise von einem erlegten Monster zur Verfügung gestellt.
+95,11,DE-DE,Monstermampf,"Ein schmackhaftes Stückchen, das Monster sehr schätzen. Füttere ein Monster damit, um die Chance minimal zu erhöhen, dass es sich dir anschließt."
+68,8,DE-DE,Monstermist,"Eine äußerst übel riechende Ausscheidung, die auf Gegner geschleudert werden kann. Fügt einem Feind geringen Schaden zu, wenn sie im Kampf benutzt wird."
+93,11,FR-FR,Monstrobec,"Viande appréciée par les monstres.
+Augmente très légèrement la probabilité qu'un monstre accepte de se joindre à vous."
+47,6,EN-GB,Moonwort Bulb,Cures a single ally of paralysis.
+94,11,IT-IT,Mostrosnack,I mostri adorano questo cibo appetitoso! Aumenta di pochissimo le probabilità che un mostro nemico voglia unirsi a te.
+119,14,EN-GB,Mystery Meat,Meat with an oddly familiar taste. Feed to a monster to increase the likelihood of it wanting to join you. Also applies a random effect.
+86,10,DE-DE,Nadelkugel,"Ein kugelförmiges Geschoss aus ganz hartem Gestein, das wahnsinnig wehtut. Kann im Kampf benutzt werden, um einem Feind geringen Schaden zuzufügen<nbsp><--> auch Metallmonstern."
+285,32,ES-ES,Narcisoso,Planta de aspecto sumamente sospechoso.
+281,32,EN-GB,Narspicious,A plant of dubious nature.
+218,25,EN-GB,Nonconformity for All,A book so idiosyncratic that it changes a monster's personality to <6>nonconformist<9>. The monster will develop high max. HP and defence.
+409,46,IT-IT,Occhio giallo,Una pietra preziosa che emana una luce gialla.
+400,45,IT-IT,Occhio rosso,Una pietra preziosa che emana una luce rossa.
+418,47,IT-IT,Occhio verde,Una pietra preziosa che emana una luce verde.
+427,48,IT-IT,Occhio viola,Una pietra preziosa che emana una luce viola.
+408,46,FR-FR,Œil jaune,Pierre précieuse émettant une lumière jaune.
+399,45,FR-FR,Œil rouge,Pierre précieuse émettant une lumière rouge.
+417,47,FR-FR,Œil vert,Pierre précieuse émettant une lumière verte.
+426,48,FR-FR,Œil violet,Pierre précieuse émettant une lumière violette.
+411,46,ES-ES,Ojo amarillo,Gema valiosa que emite un brillo amarillo.
+429,48,ES-ES,Ojo púrpura,Gema valiosa que emite un brillo morado.
+402,45,ES-ES,Ojo rojo,Gema que reluce con un tono rojizo y fuerte.
+420,47,ES-ES,Ojo verde,Gema valiosa que emite un brillo verde.
+32,4,DE-DE,Olé-Phiole,Gibt einem Verbündeten 10<nbsp>MP zurück.
+346,39,IT-IT,Olio di rospo,Un olio ottenuto da un grosso rospo.
+318,36,FR-FR,Os de bête,Os solide obtenu sur une bête.
+319,36,IT-IT,Osso di mostro,L'osso robusto di una belva.
+472,53,IT-IT,Ovatta fatata,Un raro fiore di cotone coltivato dalle fate.
+434,49,EN-GB,Pale Pearl,"A perfect pearl, pure and milky white."
+274,31,IT-IT,Pasta vetrosa,"Una sabbia che, se viene strofinata energicamente, conferisce lucentezza."
+534,60,FR-FR,Peau de serpent,Peau laissée par un serpent lors de sa mue.
+300,34,FR-FR,Peau résistante,Peau résistante obtenue sur un monstre.
+267,30,ES-ES,Pedernal,"Piedra grande y pesada, ideal para añadir un sabor contundente a cualquier plato."
+301,34,IT-IT,Pelle di mostro,Pelle robusta che si ottiene dai mostri.
+535,60,IT-IT,Pelle di serpente,Muta lasciata da un serpente dopo aver cambiato pelle.
+499,56,IT-IT,Pelliccia di qualità,Una calda pelliccia ottenuta dai mostri.
+84,10,FR-FR,Pelotox,"Pierre sphérique très dure qui peut être lancée. Inflige de légers dégâts à un ennemi lorsque utilisée en combat.
+Efficace aussi contre les monstres métalliques."
+573,64,ES-ES,Pergamino de Alentador suave,Enseña el talento Alentador suave.
+438,49,ES-ES,Perla blanca,"Perla blanca, impecable y muy valiosa."
+436,49,IT-IT,Perla pallida,Una perla candida e colma di eleganza.
+435,49,FR-FR,Perle d'ivoire,Perle immaculée possédant une certaine élégance.
+309,35,FR-FR,Petite écaille,Écaille de la taille d'un ongle humain.
+393,44,ES-ES,Petriespejo,Piedra que refleja la luz como si se tratara de un espejo.
+283,32,IT-IT,Pianta del sospetto,Un'erba dall'aspetto palesemente sospetto.
+78,9,ES-ES,Piedra bonita,Unas piedrecillas que pueden hacer bastante daño si se lanzan con fuerza. Infligen poco daño a un solo enemigo al usarse en combate.
+537,60,ES-ES,Piel de serpiente,Piel mudada por una serpiente.
+501,56,ES-ES,Piel fina,Pelaje calentito de monstruo.
+303,34,ES-ES,Piel recia,Piel resistente de un monstruo.
+83,10,EN-GB,Pinball,"A sphere of the toughest stone that really hurts if it hits you. Inflicts minor damage to a single enemy when used in battle, including metallic monsters."
+443,50,EN-GB,Pink Pine,A slender bough that's long and lovely.
+292,33,IT-IT,Piuma eolica,Una piuma lasciata cadere da un uccello che vola fendendo il vento.
+42,5,ES-ES,Planta de Fierabrás,Cura el envenenamiento y el envenenamiento grave a un aliado.
+6,1,ES-ES,Planta medicinal,Devuelve 30 PV a un solo aliado.
+294,33,ES-ES,Pluma peluda,Pluma desprendida del ala de un pájaro y mecida bien lejos por el viento.
+291,33,FR-FR,Plume de vent,Plume perdue par un oiseau qui vole en fendant l'air.
+275,31,DE-DE,Poliersand,"Sand, mit dem man alles auf Hochglanz bringt."
+276,31,ES-ES,Polvo de cristal,Arena fina que reluce y da esplendor.
+273,31,FR-FR,Poussière de verre,Sable lisse qui a été rigoureusement poli.
+500,56,DE-DE,Prächtiger Pelz,"Warmes Fell, das einst einem Monster gehörte."
+74,9,EN-GB,Pretty Pebble,A small stone that can sting quite sharply if thrown with enough force. Inflicts minor damage to a single enemy when used in battle.
+200,23,EN-GB,Professional Development,A book so competent that it changes a monster's personality to <6>professional<9>. The monster's attributes will develop in a balanced way.
+425,48,EN-GB,Purple Eye,A precious stone that glimmers with purple light.
+282,32,FR-FR,Purpourra,Plante à l'apparence suspecte.
+428,48,DE-DE,Purpurnes Kleinod,"Ein kostbarer Stein, der purpurnes Licht verströmt."
+447,50,ES-ES,Rama rosa,Rama alargada que agrada a la vista.
+456,51,ES-ES,Ramalancha,Madera insuflada del frío del invierno.
+247,28,IT-IT,Rame,Un minerale comune contenente rame.
+444,50,FR-FR,Rameau rose,Branche longue et fine au charme subtil.
+445,50,IT-IT,Ramoscello rosa,Un ramo dall'aspetto grazioso e slanciato.
+104,12,DE-DE,Rauchfleisch,"Ein ziemlich zartes Leckerli, das Monster lieben. Füttere ein Monster damit, um die Chance geringfügig zu erhöhen, dass es sich dir anschließt."
+398,45,EN-GB,Red Eye,A precious stone that radiates bright red light.
+581,65,DE-DE,Reichmacher,"Erhöht für 10 Kämpfe die ausgeschüttete Menge an Gold und Erfahrung auf das 1,5-fache."
+12,2,FR-FR,Remède puissant,Restaure 60 PV à un allié.
+59,7,DE-DE,Riechsalz,Heilt einen Verbündeten von Schlaf und Verwirrung.
+401,45,DE-DE,Rotes Kleinod,"Ein kostbarer Stein, der rotes Licht verströmt."
+380,43,EN-GB,Royal Soil,A clump of soil with thaumaturgic properties.
+543,61,FR-FR,Russule jolie,Champignon splendide à l'apparence attirante.
+234,26,KO-KR,S 사이즈 씨앗,동료 1체가 S 사이즈가 된다.
+60,7,ES-ES,Sales,Cura la confusión y el sueño a un solo aliado.
+58,7,IT-IT,Sali magici,Guarisce un alleato dalla confusione e dal sonno.
+528,59,ES-ES,Savia brillante,Savia recolectada de árboles que brillan bajo la luz de la luna llena.
+310,35,IT-IT,Scaglia piccola,"Una piccola squama, grande all'incirca quanto un'unghia umana."
+536,60,DE-DE,Schlangenhaut,Die abgelegte Haut einer Schlange.
+329,37,DE-DE,Schleimtropfen,Äußerst schleimiger Gelee.
+77,9,DE-DE,Schönes Steinchen,"Ein kleiner Stein, der für stechenden Schmerz sorgen kann, wirft man ihn nur scharf genug. Fügt einem Feind geringen Schaden zu, wenn er im Kampf benutzt wird."
+230,26,DE-DE,Schrumpfsamen,Macht einen Verbündeten klein.
+158,18,DE-DE,Schutzsamen,"Erhöht die Abwehr eines Verbündeten um 3. Achtung: Es gibt für jede Monsterart eine feste Obergrenze, die nicht überschritten werden kann."
+356,40,DE-DE,Schwermetall,"Ein Klumpen Metall, der sehr viel schwerer ist, als er aussieht."
+164,19,EN-GB,Seed of Agility,Raises the agility of a single ally by 3. Note that each monster type has an upper limit to its agility that cannot be exceeded.
+191,22,EN-GB,Seed of Growth,Raises the level of a single ally by 1.
+128,15,EN-GB,Seed of Life,Raises the max. HP of a single ally by 3. Note that each monster type has an upper limit to its max. HP that cannot be exceeded.
+137,16,EN-GB,Seed of Magic,Raises the max. MP of a single ally by 3. Note that each monster type has an upper limit to its max. MP that cannot be exceeded.
+155,18,EN-GB,Seed of Resilience,Raises the defence of a single ally by 3. Note that each monster type has an upper limit to its defence that cannot be exceeded.
+182,21,EN-GB,Seed of Skill,Provides a single ally with 3 additional talent points. Note that a monster can have a maximum of 999 available talent points.
+146,17,EN-GB,Seed of Strength,Raises the attack of a single ally by 3. Note that each monster type has an upper limit to its attack that cannot be exceeded.
+173,20,EN-GB,Seed of Wisdom,Raises the wisdom of a single ally by 3. Note that each monster type has an upper limit to its wisdom that cannot be exceeded.
+265,30,IT-IT,Selce,"Una pietra grande e pesante, ideale per tenere schiacciate le verdure in salamoia."
+57,7,FR-FR,Sels de choc,Soigne un allié du sommeil et/ou de la confusion.
+193,22,IT-IT,Seme della crescita,Aumenta di 1 il livello di un alleato.
+148,17,IT-IT,Seme della forza,Aumenta di 3 l'Attacco di un alleato. Ricorda che ogni tipo di mostro ha un valore massimo per l'Attacco che non può essere superato.
+139,16,IT-IT,Seme della magia,Aumenta di 3 i PM max di un alleato. Ricorda che ogni tipo di mostro ha una soglia massima di PM che non può essere superata.
+157,18,IT-IT,Seme della resistenza,Aumenta di 3 la Difesa di un alleato. Ricorda che ogni tipo di mostro ha un valore massimo per la Difesa che non può essere superato.
+229,26,IT-IT,Seme della riduzione,Fa diventare piccola la taglia di uno dei tuoi mostri.
+175,20,IT-IT,Seme della saggezza,Aumenta di 3 la Saggezza di un alleato. Ricorda che ogni tipo di mostro ha un valore massimo per la Saggezza che non può essere superato.
+130,15,IT-IT,Seme della vita,Aumenta di 3 i PV max di un alleato. Ricorda che ogni tipo di mostro ha una soglia massima di PV che non può essere superata.
+184,21,IT-IT,Seme dell'abilità,Assegna a un alleato 3 Punti Talento in più. Ricorda che un mostro non può avere più di 999 Punti Talento disponibili.
+166,19,IT-IT,Seme dell'agilità,Aumenta di 3 l'Agilità di un alleato. Ricorda che ogni tipo di mostro ha un valore massimo per l'Agilità che non può essere superato.
+238,27,IT-IT,Seme dell'ingrandimento,Fa diventare grande la taglia di uno dei tuoi mostri.
+21,3,FR-FR,Sève de desmodium,Restaure 50 à 60 PV à tous les alliés.
+525,59,FR-FR,Sève étincelante,Récipient contenant la sève d'un arbre qui brille à la lumière de la lune.
+580,65,IT-IT,Sfera del bonus,"Moltiplica x1,5 la quantità di Punti Esperienza e monete d'oro ottenuti dopo un combattimento.
+Efficace per 10 battaglie. L'effetto non è cumulativo."
+373,42,IT-IT,Sfera del tuono,Un globo in cui si è cristallizzato il potere del fulmine.
+569,64,EN-GB,Shallow Breather's Scroll,Teaches the Shallow Breather talent.
+264,30,FR-FR,Silex,Pierre grande et lourde qui serait idéale pour le saumurage des aliments.
+168,19,ES-ES,Simiente de agilidad,Aumenta en 3 la agilidad de un solo aliado. Ten en cuenta que cada tipo de monstruo tiene un límite máximo de agilidad que no se puede superar.
+240,27,ES-ES,Simiente de aumento,Aumenta el tamaño de un monstruo aliado a grande (G).
+195,22,ES-ES,Simiente de crecimiento,Aumenta en 1 el nivel de un solo aliado.
+186,21,ES-ES,Simiente de destreza,Proporciona a un solo aliado 3 puntos de talento más. Ten en cuenta que un monstruo puede tener un máximo de 999 puntos de talento disponibles.
+231,26,ES-ES,Simiente de disminución,Reduce el tamaño de un monstruo aliado a pequeño (P).
+150,17,ES-ES,Simiente de fuerza,Aumenta en 3 el ataque de un solo aliado. Ten en cuenta que cada tipo de monstruo tiene un límite máximo de ataque que no se puede superar.
+141,16,ES-ES,Simiente de magia,Aumenta en 3 el PM máximo de un solo aliado. Ten en cuenta que cada tipo de monstruo tiene un máximo de PM que no se puede superar.
+159,18,ES-ES,Simiente de resistencia,Aumenta en 3 la defensa de un solo aliado. Ten en cuenta que cada tipo de monstruo tiene un límite máximo de defensa que no se puede superar.
+177,20,ES-ES,Simiente de sabiduría,Aumenta en 3 la sabiduría de un solo aliado. Ten en cuenta que cada tipo de monstruo tiene un límite máximo de sabiduría que no se puede superar.
+132,15,ES-ES,Simiente de vida,Aumenta en 3 los PV máximos de un solo aliado. Ten en cuenta que cada tipo de monstruo tiene un máximo de PV que no se puede superar.
+29,4,EN-GB,Single Phial,Restores 10 MP to a single ally.
+326,37,EN-GB,Slimedrop,Jelly that quivers like a shivering slime.
+308,35,EN-GB,Small Scale,A teensy tiny scale the size of a fingernail.
+101,12,EN-GB,Smoked Sirloin,A tender treat that monsters adore. Feed to a monster to slightly increase the likelihood of it wanting to join you.
+533,60,EN-GB,Snakeskin,A skin shed by its serpentine former owner.
+105,12,ES-ES,Solomillo ahumado,Una delicia cárnica que los monstruos adoran. Dásela a uno y aumentará ligeramente la probabilidad de que se quiera unir a ti.
+524,59,EN-GB,Sparkly Sap,Sap from a tree that glows in the moonlight.
+391,44,IT-IT,Specchiosasso,Una pietra lucida come uno specchio.
+392,44,DE-DE,Spiegelstein,"Ein Gestein, das Licht wie ein Spiegel reflektiert."
+14,2,DE-DE,Starke Arznei,Gibt einem Verbündeten 60<nbsp>LP zurück.
+149,17,DE-DE,Stärkesamen,"Erhöht den Angriff eines Verbündeten um 3. Achtung: Es gibt für jede Monsterart eine feste Obergrenze, die nicht überschritten werden kann."
+56,7,EN-GB,Startle Dart,Cures a single ally of confusion and sleep.
+67,8,IT-IT,Sterco di mostro,Un ammasso disgustoso e puzzolente che può essere lanciato contro il nemico. Infligge lievi danni a un nemico quando si usa in battaglia.
+328,37,IT-IT,Stilla di slime,"Una gelatina tremolante, simile a uno Slime."
+11,2,EN-GB,Strong Medicine,Restores 60 HP to a single ally.
+506,57,EN-GB,Sun-Bleached Seashell,A shell found on the beach that's white as bone.
+382,43,IT-IT,Suolo reale,Un grumo di terra che racchiude potere magico.
+226,26,JP-JP,Sサイズのタネ,仲間１体のサイズが　Ｓサイズになる
+233,26,ZH-CN,Ｓ体型种子,使一个伙伴变成Ｓ体型
+232,26,ZH-TW,Ｓ體型種子,使一個夥伴變成Ｓ體型
+185,21,DE-DE,Talentsamen,Gewährt einem Verbündeten 3 zusätzliche Begabungspunkte. Achtung: Ein Monster kann höchstens 999 verfügbare Begabungspunkte haben.
+381,43,FR-FR,Terre sacrée,Bloc de terre recélant un pouvoir magique.
+571,64,IT-IT,Testo del Respiro lieve,Insegna il Talento Respiro lieve.
+209,24,EN-GB,The 20/20 Visionary,A book so forward-thinking that it changes a monster's personality to <6>visionary<9>. The monster will develop very high max. MP.
+371,42,EN-GB,Thunderball,A crystal globe formed through the power of lightning.
+320,36,DE-DE,Tierknochen,Der stabile Knochen einer wilden Bestie.
+384,43,ES-ES,Tierra real,Puñado de barro cargado de energía mágica.
+344,39,EN-GB,Toad Oil,Oil obtained from a toad (don't ask how).
+222,25,ES-ES,Tomo de caprichoso,Un libro que confiere un carácter caprichoso a un monstruo. Aumenta mucho los PV máximos y la defensa.
+204,23,ES-ES,Tomo de solemne,Un libro que convierte a un monstruo en solemne. Aumenta todos los atributos por igual.
+213,24,ES-ES,Tomo de visionario,Un libro que confiere un carácter visionario a un monstruo. Aumenta mucho el PM máximo.
+480,54,FR-FR,Valgue,Plante autour de laquelle flotte un parfum de brise marine.
+122,14,DE-DE,Verdächtiges Fleisch,"Verdächtiges Fleisch unbekannten Ursprungs. Füttere ein Monster damit, um die Chance um ein zufälliges Maß zu erhöhen, dass es sich dir anschließt."
+33,4,ES-ES,Vial,Devuelve 10 PM a un solo aliado.
+111,13,FR-FR,Viande avariée,"Viande avariée qui dégage une odeur aigre.
+Augmente très légèrement la probabilité qu'un monstre accepte de se joindre à vous, mais l'empoisonne par la même occasion."
+239,27,DE-DE,Wachstumssamen,Macht einen Verbündeten groß.
+194,22,DE-DE,Wachstumssamen,Lässt einen Verbündeten um eine Stufe aufsteigen.
+482,54,DE-DE,Wattkraut,"Seegras, das salzigen Duft verströmt."
+479,54,EN-GB,Waveweed,Rhythmically reeling grass that reeks of the receding tide.
+284,32,DE-DE,Weiazynthe,Ein verdächtig anmutendes Gewächs.
+176,20,DE-DE,Weisheitssamen,"Erhöht die Weisheit eines Verbündeten um 3. Achtung: Es gibt für jede Monsterart eine feste Obergrenze, die nicht überschritten werden kann."
+437,49,DE-DE,Weiße Perle,Eine elegante Perle von vollkommenem Weiß.
+335,38,EN-GB,Wing of Bat,A leathery wing from a fly-by-night supplier.
+464,52,DE-DE,Wollgras,"Eine Pflanze, von der wunderbar weiche Wolle geerntet werden kann."
+407,46,EN-GB,Yellow Eye,A precious stone that gleams with yellow light.
+446,50,DE-DE,Zierlicher Zweig,Ein filigraner Zweig von natürlicher Schönheit.
+487,55,JP-JP,あまつゆのいと,糸に水が流れる　神秘のせんい
+19,3,JP-JP,アモールの水,"仲間全体の
+ＨＰを５０～６０回復"
+406,46,JP-JP,イエローアイ,黄色い光を放つ　貴重な石
+370,42,JP-JP,いかずちのたま,雷のチカラが　結晶化した玉
+127,15,JP-JP,いのちのきのみ,"仲間１体の最大ＨＰが　３上がる
+ただし　種族ごとの最大値は超えない"
+541,61,JP-JP,うるわしきのこ,見目うるわしい　ステキなキノコ
+388,44,JP-JP,かがみ石,鏡のように　光りかがやく石
+523,59,JP-JP,かがやきの樹液,月の夜に光る木の　樹液を集めたもの
+172,20,JP-JP,かしこさのたね,"仲間１体のかしこさが　３上がる
+ただし　種族ごとの最大値は超えない"
+343,39,JP-JP,ガマの油,ガマガエルから採れるアブラ
+217,25,JP-JP,きまぐれの本,"性格が　きまぐれ　になる本
+最大ＨＰと守備力が高い　モンスターに成長する"
+514,58,JP-JP,きよめの水,きれいにすんだ　自然のわき水
+442,50,JP-JP,きれいな枝,見た目がきれいな　すらりとした枝
+109,13,JP-JP,くさったにく,"すっぱいニオイがする　ちょっぴり腐った肉
+あげると　ほんの少し仲間になりやすくなるが
+毒状態になる"
+415,47,JP-JP,グリーンアイ,緑の光を放つ　貴重な石
+100,12,JP-JP,くんせいにく,"モンスターが大好きな肉
+あげると　少し仲間になりやすくなる"
+451,51,JP-JP,こおりの樹木,冷気をまとう　ひんやりした樹木
+460,52,JP-JP,コットン草,ふわふわの綿が　採れる草
+190,22,JP-JP,しあわせのたね,仲間１体のレベルが　１上がる
+478,54,JP-JP,しおかぜ草,しおかぜの香りが　ただよう草
+208,24,JP-JP,じょうねつかの本,"性格が　じょうねつか　になる本
+最大ＭＰがかなり高い　モンスターに成長する"
+181,21,JP-JP,スキルのたね,"仲間１体のスキルポイントが　３増える
+ただし　最大ポイントは９９９まで"
+163,19,JP-JP,すばやさのたね,"仲間１体のすばやさが　３上がる
+ただし　種族ごとの最大値は超えない"
+325,37,JP-JP,スライムゼリー,スライムのような　プルプルゼリー
+559,63,JP-JP,ちいさなメダル,"ちいさなメダル交換所にいる
+メダルおじさんに渡すと
+いろいろな　ごほうびがもらえる"
+145,17,JP-JP,ちからのたね,"仲間１体の攻撃力が　３上がる
+ただし　種族ごとの最大値は超えない"
+118,14,JP-JP,なぞのにく,"ふしぎな味がする肉
+あげると　ランダムな効果で仲間になりやすくなる"
+424,48,JP-JP,パープルアイ,紫の光を放つ　貴重な石
+496,56,JP-JP,ふさふさの毛皮,魔物が落とす　あたたかい毛皮
+136,16,JP-JP,ふしぎなきのみ,"仲間１体の最大ＭＰが　３上がる
+ただし　種族ごとの最大値は超えない"
+550,62,JP-JP,ふしぎなひだね,魔力が込められた　ふしぎな炎
+199,23,JP-JP,ふつうの本,"性格が　まじめ　になる本
+すべての能力が　まんべんなく上がる
+モンスターに成長する"
+352,40,JP-JP,ヘビーメタル,ひときわ重い　金属のかたまり
+532,60,JP-JP,へびのぬけがら,蛇が脱皮したとき　残したぬけがら
+433,49,JP-JP,ホワイトパール,気品のある　真っ白な真珠
+154,18,JP-JP,まもりのたね,"仲間１体の守備力が　３上がる
+ただし　種族ごとの最大値は超えない"
+379,43,JP-JP,まりょくの土,魔力を宿した　土のかたまり
+82,10,JP-JP,メタルストーン,"戦闘中に投げて使う　とてもかたい石
+敵１体に　少しダメージを与える
+メタル系モンスターにも有効"
+64,8,JP-JP,モンスターの糞,"かぐわしいニオイがする落とし物
+戦闘中に投げて使うと
+敵１体に　少しダメージを与える"
+361,41,JP-JP,やわらかウール,羊から採れる　ふわふわした毛
+469,53,JP-JP,ようせいの綿花,妖精が育てた　めずらしい綿花
+397,45,JP-JP,レッドアイ,赤い光を放つ　貴重な石
+63,7,KO-KR,각성의 바늘,"동료 1체의
+수면 및 혼란을 치료한다."
+396,44,KO-KR,거울돌,거울처럼 빛나는 돌.
+423,47,KO-KR,그린 아이,초록빛을 뿜는 귀중한 돌.
+270,30,KO-KR,누름돌,절임 요리에 최적인 크고 무거운 돌.
+81,9,KO-KR,돌멩이,"맞으면 아픈 돌멩이.
+전투 중에 던져서 사용하면
+적 1체에 조금의 대미지를 가한다."
+252,28,KO-KR,동광석,구리가 함유된 평범한 광석.
+351,39,KO-KR,두꺼비 기름,두꺼비한테서 채집할 수 있는 기름.
+405,45,KO-KR,레드 아이,붉은빛을 뿜는 귀중한 돌.
+387,43,KO-KR,마력의 흙,마력이 깃든 흙덩어리.
+99,11,KO-KR,마물의 먹이,"몬스터가 좋아하는 고기.
+선물하면 아주 조금 동료로 삼기 쉬워진다."
+36,4,KO-KR,마법의 작은 병,"동료 1체의
+MP를 10 회복한다."
+54,6,KO-KR,만월초,"동료 1체의
+마비를 치료한다."
+522,58,KO-KR,맑은 물,맑고 투명한 자연의 용수.
+90,10,KO-KR,메탈 스톤,"매우 딱딱한 돌. 전투 중에 던져서 사용하면
+적 1체에 조금의 대미지를 가한다.
+메탈계 몬스터에도 유효하다."
+72,8,KO-KR,몬스터의 똥,"코를 자극하는 향기가 맴도는 물체.
+전투 중에 던져서 사용하면
+적 1체에 조금의 대미지를 가한다."
+171,19,KO-KR,민첩의 씨앗,"동료 1체의 민첩함이 3 증가한다.
+단, 종족별 최대치는 넘을 수 없다."
+486,54,KO-KR,바닷바람 풀,바닷바람 향기가 감도는 풀.
+297,33,KO-KR,바람의 깃털,바람을 가르며 나는 새가 떨어뜨린 깃털.
+342,38,KO-KR,박쥐 날개,박쥐의 크고 검은 날개.
+531,59,KO-KR,반짝이는 수액,달밤에 빛나는 나무의 수액을 모은 것.
+162,18,KO-KR,방어의 씨앗,"동료 1체의 수비력이 3 증가한다.
+단, 종족별 최대치는 넘을 수 없다."
+441,49,KO-KR,백진주,기품이 넘치는 새하얀 진주.
+540,60,KO-KR,뱀 껍질,뱀이 탈피하면서 남긴 허물.
+225,25,KO-KR,변덕의 책,"성격을 변덕으로 만드는 책.
+최대 HP와 수비력이 높은 몬스터로 성장한다."
+369,41,KO-KR,부드러운 울,양한테서 채집할 수 있는 폭신한 털.
+495,55,KO-KR,빗방울의 실,실에 물이 흐르는 신비로운 섬유.
+18,2,KO-KR,상급 약초,"동료 1체의
+HP를 60 회복한다."
+135,15,KO-KR,생명의 나무 열매,"동료 1체의 최대 HP가 3 증가한다.
+단, 종족별 최대치는 넘을 수 없다."
+207,23,KO-KR,성실의 책,"성격을 성실로 만드는 책.
+모든 능력치가 균등한 몬스터로 성장한다."
+288,32,KO-KR,수상한 풀,척 보기에도 수상쩍은 풀.
+576,64,KO-KR,숨결의 증표,스킬 '숨결'을 습득한다.
+189,21,KO-KR,스킬의 씨앗,"동료 1체의 스킬 포인트가 3 증가한다.
+단, 최대 포인트는 999를 넘을 수 없다."
+333,37,KO-KR,슬라임 젤리,슬라임처럼 보들보들한 젤리.
+144,16,KO-KR,신비한 나무 열매,"동료 1체의 최대 MP가 3 증가한다.
+단, 종족별 최대치는 넘을 수 없다."
+558,62,KO-KR,신비한 불씨,마력이 깃든 수수께끼의 불꽃.
+117,13,KO-KR,썩은 고기,"시큼한 냄새가 나는 살짝 썩은 고기.
+선물하면 아주 조금 동료로 삼기 쉬워지지만
+독 상태가 된다."
+27,3,KO-KR,아모르의 물,"동료 전체의
+HP를 50~60 회복한다."
+9,1,KO-KR,약초,"동료 1체의
+HP를 30 회복한다."
+459,51,KO-KR,얼음 나무,냉기가 감도는 서늘한 나무.
+279,31,KO-KR,연마 모래,북북 문질러서 윤기를 내는 모래.
+549,61,KO-KR,영롱 버섯,윤기가 흐르는 멋진 버섯.
+450,50,KO-KR,예쁜 가지,곧고 아름답게 뻗은 가지.
+414,46,KO-KR,옐로 아이,노란빛을 뿜는 귀중한 돌.
+477,53,KO-KR,요정의 목화,요정이 기른 진귀한 면화.
+585,65,KO-KR,원기 구슬,"배틀 10회 한정으로
+경험치와 골드 1.5배 획득!
+효과 발동 중에 중복으로 사용할 수 없다."
+567,63,KO-KR,작은 메달,"작은 메달 교환소에 있는
+메달 아저씨에게 건네면
+다양한 보상을 받을 수 있다."
+315,35,KO-KR,작은 비늘,인간 손톱 크기의 작은 비늘.
+216,24,KO-KR,정열가의 책,"성격을 정열가로 만드는 책.
+최대 MP가 상당히 높은 몬스터로 성장한다."
+126,14,KO-KR,정체 모를 고기,"특이한 맛이 나는 고기.
+선물하면 랜덤한 효과가 발생하여 동료로 삼기 쉬워진다."
+17,2,ZH-CN,上等药草,"恢复一名伙伴
+６０点ＨＰ"
+16,2,ZH-TW,上等藥草,"恢復一名夥伴
+６０點ＨＰ"
+10,2,JP-JP,上薬草,"仲間１体の
+ＨＰを６０回復"
+306,34,KO-KR,짐승의 가죽,마물의 질긴 가죽.
+324,36,KO-KR,짐승의 뼈,짐승의 질긴 가죽.
+584,65,ZH-CN,元气珠,"获得的经验值与金币增为１.５倍！
+效果持续１０场战斗
+生效期间无法叠加使用"
+577,65,JP-JP,元気玉,"バトル１０回の間だけ
+経験値とゴールドが　１.５倍に！
+効果発動中に　重ねては使えない"
+583,65,ZH-TW,元氣珠,"獲得的經驗值與金幣增為１.５倍！
+效果持續１０場戰鬥
+生效期間無法疊加使用"
+378,42,KO-KR,천둥의 구슬,번개의 힘이 결정화한 구슬.
+261,29,KO-KR,철광석,철이 함유된 평범한 광석.
+458,51,ZH-CN,冰之树木,带有冷气的冰凉树木
+457,51,ZH-TW,冰之樹木,帶有冷氣的冰涼樹木
+521,58,ZH-CN,净化之水,清澈透明的天然涌泉
+180,20,KO-KR,총명의 씨앗,"동료 1체의 총명함이 3 증가한다.
+단, 종족별 최대치는 넘을 수 없다."
+152,17,ZH-CN,力量种子,"使一名伙伴的攻击力提升３点
+但不会超过种族的上限值"
+151,17,ZH-TW,力量種子,"使一名夥伴的攻擊力提升３點
+但不會超過每個種族的上限值"
+332,37,ZH-CN,史莱姆果冻,像史莱姆般富有弹性的果冻
+331,37,ZH-TW,史萊姆果凍,像史萊姆般富有彈性的果凍
+468,52,KO-KR,코튼초,포근한 면을 채집할 수 있는 풀.
+432,48,KO-KR,퍼플 아이,보랏빛을 뿜는 귀중한 돌.
+504,56,KO-KR,푹신푹신한 모피,마물의 따뜻한 모피.
+287,32,ZH-CN,妖异草,光看就觉得很可疑的草
+286,32,ZH-TW,妖異草,光看就覺得很可疑的草
+475,53,ZH-TW,妖精的棉花,妖精培育的稀有棉花
+476,53,ZH-CN,妖精的棉花,妖精培育的稀有棉花
+280,32,JP-JP,妖草,見るからに　あやしげな草
+513,57,KO-KR,하얀 조개껍데기,해변에서 발견한 새하얀 조개껍데기.
+45,5,KO-KR,해독초,"동료 1체의
+독, 맹독을 치료한다."
+198,22,KO-KR,행복의 씨앗,동료 1체의 레벨이 1 오른다.
+360,40,KO-KR,헤비 메탈,말도 안 되게 무거운 금속 덩어리.
+160,18,ZH-TW,守護種子,"使一名夥伴的守備力提升３點
+但不會超過每個種族的上限值"
+108,12,KO-KR,훈제 고기,"몬스터가 아주 좋아하는 고기.
+선물하면 조금 동료로 삼기 쉬워진다."
+307,35,JP-JP,小さな鱗,人のツメくらいの　小さいうろこ
+313,35,ZH-TW,小巧鱗片,像人的指甲般大小的鱗片
+565,63,ZH-TW,小徽章,"交給小徽章兌換處的徽章大叔
+就能獲得各種獎勵"
+566,63,ZH-CN,小徽章,"交给小徽章兑换处的
+徽章大叔后
+可获得各种奖励"
+314,35,ZH-CN,小鳞片,像人的指甲般大小的鳞片
+153,17,KO-KR,힘의 씨앗,"동료 1체의 공격력이 3 증가한다.
+단, 종족별 최대치는 넘을 수 없다."
+197,22,ZH-CN,幸福种子,使一名伙伴的等级提升１级
+196,22,ZH-TW,幸福種子,使一名夥伴的等級提升１級
+223,25,ZH-TW,心血來潮之書,"使怪物性格變得心血來潮的書
+會成長為最大ＨＰ與守備力較高的怪物"
+224,25,ZH-CN,心血来潮之书,"使怪物性格变得心血来潮的书
+会成长为最大ＨＰ与防御力较高的怪物"
+97,11,ZH-TW,怪物的飼料,"怪物愛吃的肉
+投食後微幅提升怪物成為夥伴的機率"
+98,11,ZH-CN,怪物的饲料,"怪物喜欢吃的肉
+投喂后，略微提高成为伙伴的概率"
+71,8,ZH-CN,怪物粪,"芬芳的排泄物
+在战斗中投掷
+可对一个敌人造成少量伤害"
+70,8,ZH-TW,怪物糞便,"芬芳的排泄物
+在戰鬥中投擲出去
+可對一個敵人造成少量傷害"
+568,64,JP-JP,息吹の証,スキル「息吹」を覚える
+25,3,ZH-TW,愛摩爾之水,"恢復所有夥伴
+５０～６０點ＨＰ"
+188,21,ZH-CN,技能种子,"使一名伙伴的技能点数增加３点
+但不会超过９９９点的上限值"
+187,21,ZH-TW,技能種子,"使一名夥伴的技能點數增加３點
+但不會超過９９９點的上限值"
+296,33,ZH-CN,拨风羽,迎风飞翔的鸟儿掉落的羽毛
+295,33,ZH-TW,撥風羽,迎風飛翔的鳥兒掉落的羽毛
+170,19,ZH-CN,敏捷种子,"使一名伙伴的敏捷提升３点
+但不会超过种族的上限值"
+179,20,ZH-CN,智力种子,"使一名伙伴的智力提升３点
+但不会超过种族的上限值"
+178,20,ZH-TW,智力種子,"使一名夥伴的智力提升３點
+但不會超過每個種族的上限值"
+466,52,ZH-TW,木棉草,可採得柔軟棉絮的草
+467,52,ZH-CN,木棉草,可采得柔软棉絮的草
+367,41,ZH-TW,柔軟的羊毛,從羊身上取得的柔軟羊毛
+368,41,ZH-CN,柔软的羊毛,从羊身上取得的柔软羊毛
+205,23,ZH-TW,正經之書,"使怪物性格變得正經的書
+會成長為所有能力
+平均上升的怪物"
+206,23,ZH-CN,正经之书,"使怪物性格变得正经的书
+会成长为所有能力
+平均上升的怪物"
+37,5,JP-JP,毒消し草,"仲間１体の
+毒・猛毒を治す"
+575,64,ZH-CN,气息之证,可学习技能“气息”
+574,64,ZH-TW,氣息之證,可學習技能「氣息」
+503,56,ZH-CN,浓密毛皮,怪物掉落的保暖毛皮
+484,54,ZH-TW,海風草,飄散海風香氣的草
+485,54,ZH-CN,海风草,飘散海风香气的草
+520,58,ZH-TW,淨化之水,清澈透明的天然湧泉
+46,6,JP-JP,満月草,"仲間１体の
+マヒを治す"
+53,6,ZH-CN,满月草,"治疗一名伙伴的
+麻痹状态"
+52,6,ZH-TW,滿月草,"治療一名夥伴的
+麻痺狀態"
+449,50,ZH-CN,漂亮树枝,外观漂亮的修长树枝
+448,50,ZH-TW,漂亮樹枝,外觀漂亮的修長樹枝
+262,30,JP-JP,漬け物石,漬け物作りに最適な　大きくて重い石
+107,12,ZH-CN,烟熏肉,"怪物非常喜欢吃的肉
+投喂后，小幅提高成为伙伴的概率"
+215,24,ZH-CN,热情奔放之书,"使怪物性格变得热情奔放的书
+会成长为最大ＭＰ相当高的怪物"
+214,24,ZH-TW,熱情奔放之書,"使怪物性格變得熱情奔放的書
+會成長為最大ＭＰ相當高的怪物"
+106,12,ZH-TW,燻肉,"怪物非常愛吃的肉
+投食後小幅提升怪物成為夥伴的機率"
+26,3,ZH-CN,爱摩尔之水,"恢复所有伙伴
+５０～６０点ＨＰ"
+298,34,JP-JP,獣の皮,魔物が落とす　じょうぶな皮
+316,36,JP-JP,獣の骨,獣が落とす　じょうぶな骨
+304,34,ZH-TW,獸皮,怪物掉落的堅韌皮革
+322,36,ZH-TW,獸骨,野獸掉落的堅韌骨頭
+134,15,ZH-CN,生命果实,"使一名伙伴的最大ＨＰ提升３点
+但不会超过种族的上限值"
+133,15,ZH-TW,生命果實,"使一名夥伴的最大ＨＰ提升３點
+但不會超過每個種族的上限值"
+505,57,JP-JP,白い貝がら,浜辺で見つけた　真っ白な貝殻
+439,49,ZH-TW,白珍珠,氣質高雅的潔白珍珠
+440,49,ZH-CN,白珍珠,气质高雅的洁白珍珠
+511,57,ZH-TW,白貝殼,在海邊找到的潔白貝殼
+512,57,ZH-CN,白贝壳,在海边找到的洁白贝壳
+55,7,JP-JP,目覚めの針,"仲間１体の
+眠りや　混乱を治す"
+73,9,JP-JP,石ころ,"戦闘中に投げて使う
+当たると痛い　石ころ
+敵１体に　少しダメージを与える"
+79,9,ZH-TW,石塊,"戰鬥中用來投擲的石塊
+被砸到會很痛
+可對一個敵人造成少量傷害"
+80,9,ZH-CN,石子,"战斗中投掷使用的石子
+砸中会很疼
+可对一个敌人造成少量伤害"
+277,31,ZH-TW,研磨砂,用力刷洗就能磨出光澤的沙
+278,31,ZH-CN,研磨砂,用力刷洗就能磨出光泽的沙
+271,31,JP-JP,磨き砂,ゴシゴシ磨いて　つやを出す砂
+142,16,ZH-TW,神奇果實,"使一名夥伴的最大ＭＰ提升３點
+但不會超過每個種族的上限值"
+557,62,ZH-CN,神奇火种,注入魔力的神奇火焰
+556,62,ZH-TW,神奇火種,注入魔力的神奇火焰
+124,14,ZH-TW,神祕的肉,"味道不可思議的肉
+投食後隨機觸發提升怪物成為夥伴機率的效果"
+125,14,ZH-CN,神秘的肉,"味道不可思议的肉
+投食后随机触发提升怪物成为伙伴机率的效果"
+403,45,ZH-TW,紅眼石,散發紅光的珍貴石頭
+430,48,ZH-TW,紫眼石,散發紫光的珍貴石頭
+431,48,ZH-CN,紫眼石,散发紫光的珍贵石头
+502,56,ZH-TW,絨毛皮,怪物掉落的保暖毛皮
+421,47,ZH-TW,綠眼石,散發綠光的珍貴石頭
+404,45,ZH-CN,红眼石,散发红光的珍贵石头
+422,47,ZH-CN,绿眼石,散发绿光的珍贵石头
+548,61,ZH-CN,美丽蘑菇,外观秀丽的漂亮菇类
+547,61,ZH-TW,美麗蘑菇,外觀秀麗的漂亮菇類
+269,30,ZH-CN,腌菜石,适合用来做腌渍物的沉重大石头
+116,13,ZH-CN,腐烂肉,"散发酸味的微腐肉
+投喂后，略微提高成为伙伴的概率
+但会使其陷入中毒状态"
+115,13,ZH-TW,腐肉,"味道酸酸的微腐肉
+投食後微幅提升怪物成為夥伴的機率
+但會使其陷入中毒狀態"
+62,7,ZH-CN,苏醒之针,"治疗一名伙伴的
+沉睡和混乱状态"
+8,1,ZH-CN,药草,"恢复一名伙伴
+３０点ＨＰ"
+1,1,JP-JP,薬草,"仲間１体の
+ＨＰを３０回復"
+7,1,ZH-TW,藥草,"恢復一名夥伴
+３０點ＨＰ"
+538,60,ZH-TW,蛇蛻,蛇蛻皮時留下的蛇蛻
+539,60,ZH-CN,蛇蜕,蛇蜕皮时留下的蛇蜕
+349,39,ZH-TW,蛤蟆油,從蟾蜍身上採集的油脂
+350,39,ZH-CN,蛤蟆油,从蟾蜍身上采集的油脂
+334,38,JP-JP,蝙蝠の羽,コウモリが落とす　黒く大きな羽
+340,38,ZH-TW,蝙蝠翅膀,蝙蝠掉落的又黑又大的翅膀
+341,38,ZH-CN,蝙蝠翅膀,蝙蝠掉落的又黑又大的翅膀
+43,5,ZH-TW,解毒草,"治療一名夥伴的
+中毒和猛毒狀態"
+44,5,ZH-CN,解毒草,"治疗一名伙伴的
+中毒和猛毒状态"
+169,19,ZH-TW,速度種子,"使一名夥伴的速度提升３點
+但不會超過每個種族的上限值"
+268,30,ZH-TW,醃菜石,適合用來做醃漬物的沉重大石頭
+61,7,ZH-TW,醒神針,"治療一名夥伴的
+睡眠和混亂狀態"
+359,40,ZH-CN,重金属,格外沉重的金属块
+358,40,ZH-TW,重金屬,格外沉重的金屬塊
+305,34,ZH-CN,野兽原皮,怪物掉落的坚韧皮革
+323,36,ZH-CN,野兽原骨,野兽掉落的坚韧骨头
+89,10,ZH-CN,金属石,"战斗中投掷使用的坚硬石块
+可对一个敌人造成少量伤害
+对金属系怪物也能发挥效果"
+88,10,ZH-TW,金屬石頭,"戰鬥中用來投擲的極硬石頭
+可對一個敵人造成少量傷害
+對金屬系怪物也能發揮效果"
+253,29,JP-JP,鉄鉱石,鉄を含んだ　ありふれた鉱石
+244,28,JP-JP,銅の鉱石,銅を含んだ　ありふれた鉱石
+250,28,ZH-TW,銅礦石,含有銅的常見礦石
+394,44,ZH-TW,鏡之石,如鏡面般閃耀光輝的石頭
+259,29,ZH-TW,鐵礦石,含有鐵的常見礦石
+260,29,ZH-CN,铁矿石,含有铁的常见矿石
+251,28,ZH-CN,铜矿石,含有铜的常见矿石
+395,44,ZH-CN,镜之石,如镜面般闪耀光辉的石头
+529,59,ZH-TW,閃光樹汁,自月夜會發光的樹木採集的樹液
+530,59,ZH-CN,闪光树汁,自月夜会发光的树木采集的树液
+161,18,ZH-CN,防御种子,"使一名伙伴的防御力提升３点
+但不会超过种族的上限值"
+494,55,ZH-CN,雨露之丝,细线间流淌着水的神秘纤维
+493,55,ZH-TW,雨露之絲,細線間流淌著水的神祕纖維
+376,42,ZH-TW,雷鳴珠,雷之力量結晶而成的珠玉
+377,42,ZH-CN,雷鸣珠,雷之力量结晶而成的珠玉
+289,33,JP-JP,風切りの羽,風を切って飛ぶ　鳥の落とした羽
+385,43,ZH-TW,魔力之土,寄宿魔力的土塊
+386,43,ZH-CN,魔力之土,寄宿魔力的土块
+143,16,ZH-CN,魔力果实,"使一名伙伴的最大ＭＰ提升３点
+但不会超过种族的上限值"
+28,4,JP-JP,魔法の小瓶,"仲間１体の
+ＭＰを１０回復"
+34,4,ZH-TW,魔法小瓶,"恢復一名夥伴
+１０點ＭＰ"
+35,4,ZH-CN,魔法小瓶,"恢复一名伙伴
+１０点ＭＰ"
+91,11,JP-JP,魔物のエサ,"モンスターが好きな肉
+あげると　ほんの少し仲間になりやすくなる"
+412,46,ZH-TW,黃眼石,散發黃光的珍貴石頭
+413,46,ZH-CN,黄眼石,散发黄光的珍贵石头

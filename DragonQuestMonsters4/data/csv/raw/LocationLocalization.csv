@@ -1,0 +1,154 @@
+LocationLocalizationId,LocationId,LanguageCode,Name
+122,14,DE-DE,Arenalobby
+130,15,IT-IT,Banco di scambio delle minimedaglie
+119,14,EN-GB,Battle Arena Lobby
+101,12,EN-GB,Boughborough
+105,12,ES-ES,Capital de Yermavida
+67,8,IT-IT,Castel Vizzalbero
+69,8,ES-ES,Castillo de Yermavida
+31,3,IT-IT,Caverna delle terre desolate
+66,8,FR-FR,Château de Boisflétri
+129,15,FR-FR,Comptoir de mini médailles
+3,2,FR-FR,Désert desséché
+6,2,ES-ES,Desierto Calima
+5,2,DE-DE,Dörrland
+60,7,ES-ES,Ermita del Silencio - Jardín de los Sacralíferos
+51,6,ES-ES,Ermita del Silencio - Patio sepulcral
+42,5,ES-ES,Ermita del Silencio - PB
+147,17,FR-FR,Ferme
+22,4,IT-IT,Fradìcia
+33,3,ES-ES,Gruta Sedimento
+120,14,FR-FR,Hall de l'arène
+14,1,DE-DE,Immerwelk-Ebene
+110,13,EN-GB,Item Shop
+149,17,DE-DE,Koppel
+113,13,DE-DE,Kramladen
+4,2,IT-IT,Landa Essiccata
+15,1,ES-ES,Llanuras de Yermavida
+121,14,IT-IT,Lobby dell'Arena
+23,4,DE-DE,Matschmoor
+131,15,DE-DE,Medaillenkiosk
+128,15,EN-GB,Mini Medal Swap Shop
+132,15,ES-ES,Minimercado Minimedallas
+112,13,IT-IT,Negozio
+32,3,DE-DE,Öde Höhle
+146,17,EN-GB,Paddock
+24,4,ES-ES,Pantanos babosos
+13,1,IT-IT,Piane di Vizzalbero
+12,1,FR-FR,Plaines du Boisflétri
+87,10,ES-ES,Portales pétalo
+86,10,DE-DE,Portalkammer
+111,13,FR-FR,Quincaillerie
+123,14,ES-ES,Recepción de la arena
+148,17,IT-IT,Recinto dei mostri
+150,17,ES-ES,Redil
+85,10,IT-IT,Sala dei portali
+76,9,IT-IT,Sala del trono
+75,9,FR-FR,Salle du trône
+78,9,ES-ES,Salón del trono
+39,5,FR-FR,Sanctuaire de la Sérénité - 1er sous-sol
+48,6,FR-FR,Sanctuaire de la Sérénité - Clos du Calme
+57,7,FR-FR,Sanctuaire de la Sérénité - Éden des Archaigles
+93,11,FR-FR,Sanctuaire stellaire
+59,7,DE-DE,Sanktuarium der Schwingen
+96,11,ES-ES,Santuario Sideral
+68,8,DE-DE,Schloss Immerwelk
+41,5,DE-DE,Schrein der Einkehr – 1. UG
+50,6,DE-DE,Schrein der Einkehr – Stillehort
+38,5,EN-GB,"Shrine of Serenity, Interior"
+56,7,EN-GB,"Shrine of Serenity, the Avian Haven"
+47,6,EN-GB,"Shrine of Serenity, the Place of Peace"
+30,3,FR-FR,Spélonque
+95,11,DE-DE,Sternenschrein
+141,16,ES-ES,Taberna
+137,16,EN-GB,Tavern
+139,16,IT-IT,Taverna
+138,16,FR-FR,Taverne
+84,10,FR-FR,Téléportail
+49,6,IT-IT,Tempio del silenzio - Culla del silenzio
+58,7,IT-IT,Tempio del silenzio - Giardino dei Saggi
+40,5,IT-IT,Tempio del silenzio - S1
+94,11,IT-IT,Tempio delle stelle
+2,2,EN-GB,The Parchland
+83,10,EN-GB,The Petal Portals
+20,4,EN-GB,The Sogswamp
+29,3,EN-GB,The Spelunk
+92,11,EN-GB,The Starry Shrine
+74,9,EN-GB,Throne Hall
+77,9,DE-DE,Thronsaal
+114,13,ES-ES,Tienda de objetos
+21,4,FR-FR,Tourbières trempées
+102,12,FR-FR,Ville de Boisflétri
+103,12,IT-IT,Vizzalbero
+140,16,DE-DE,Wirtshaus
+65,8,EN-GB,Witherwood Castle
+11,1,EN-GB,Witherwood Plains
+104,12,DE-DE,Zweiglstett
+10,1,JP-JP,カレキ - 平原
+28,3,JP-JP,カレキ - 洞窟ダンジョン
+19,4,JP-JP,カレキ - 湿原
+37,5,JP-JP,カレキ - 祠ダンジョンB1F
+46,6,JP-JP,カレキ - 祠ダンジョンB2F
+55,7,JP-JP,カレキ - 祠ダンジョン祭壇
+1,2,JP-JP,カレキ - 荒野
+27,4,KO-KR,눅눅 습지
+117,13,KO-KR,도구점
+108,12,KO-KR,메마른 마을
+18,1,KO-KR,메마른 평원
+72,8,KO-KR,메마른성
+153,17,KO-KR,목장
+90,10,KO-KR,문의 방
+9,2,KO-KR,바싹 황야
+99,11,KO-KR,별내림 사당
+81,9,KO-KR,알현실
+135,15,KO-KR,작은 메달 교환소
+144,16,KO-KR,주점
+7,2,ZH-TW,乾巴荒野
+63,7,KO-KR,침묵의 사당 성조의 정원
+45,5,KO-KR,침묵의 사당 지하 1층
+54,6,KO-KR,침묵의 사당 침묵의 정원
+126,14,KO-KR,투기장 로비
+36,3,KO-KR,황무지의 동굴
+133,15,ZH-TW,小徽章兌換處
+134,15,ZH-CN,小徽章兑换处
+8,2,ZH-CN,干巴荒野
+127,15,JP-JP,拠点 - メダル交換所
+82,10,JP-JP,拠点 - 扉の間
+91,11,JP-JP,拠点 - 星降りのほこら
+145,17,JP-JP,拠点 - 牧場
+73,9,JP-JP,拠点 - 玉座の間
+64,8,JP-JP,拠点 - 王城
+100,12,JP-JP,拠点 - 街
+109,13,JP-JP,拠点 - 道具屋
+136,16,JP-JP,拠点 - 酒場
+118,14,JP-JP,拠点 - 闘技場ロビー
+125,14,ZH-CN,斗技场大厅
+97,11,ZH-TW,星夜祠堂
+98,11,ZH-CN,星夜祠堂
+70,8,ZH-TW,枯木城
+71,8,ZH-CN,枯木城
+16,1,ZH-TW,枯木平原
+17,1,ZH-CN,枯木平原
+106,12,ZH-TW,枯木鎮
+107,12,ZH-CN,枯木镇
+62,7,ZH-CN,沉默祠堂·圣鸟之园
+44,5,ZH-CN,沉默祠堂·地下１楼
+53,6,ZH-CN,沉默祠堂·沉默之园
+43,5,ZH-TW,沉默祠堂‧地下１樓
+52,6,ZH-TW,沉默祠堂‧沉默之園
+61,7,ZH-TW,沉默祠堂‧聖鳥之園
+26,4,ZH-CN,漉漉湿原
+25,4,ZH-TW,漉漉濕原
+152,17,ZH-CN,牧场
+151,17,ZH-TW,牧場
+79,9,ZH-TW,王座之間
+80,9,ZH-CN,王座之间
+34,3,ZH-TW,荒地洞窟
+35,3,ZH-CN,荒地洞窟
+115,13,ZH-TW,道具店
+116,13,ZH-CN,道具店
+142,16,ZH-TW,酒館
+143,16,ZH-CN,酒馆
+88,10,ZH-TW,門扉之室
+89,10,ZH-CN,门扉之室
+124,14,ZH-TW,鬥技場大廳

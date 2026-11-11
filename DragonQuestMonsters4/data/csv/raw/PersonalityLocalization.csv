@@ -1,0 +1,118 @@
+PersonalityLocalizationId,PersonalityId,LanguageCode,Name
+15,2,ES-ES,Afanoso
+5,1,DE-DE,Allrounder
+14,2,DE-DE,Arbeitstier
+110,12,EN-GB,Bossyboots
+58,7,IT-IT,Calmo
+103,11,IT-IT,Capriccioso
+105,11,ES-ES,Caprichoso
+102,11,FR-FR,Capricieux sauvage
+66,8,FR-FR,Casse-cou
+57,7,FR-FR,Clairvoyant
+56,7,EN-GB,Cool Dude
+59,7,DE-DE,Cooles Kerlchen
+31,4,IT-IT,Coraggioso
+65,8,EN-GB,Daredevil
+69,8,ES-ES,De armas tomar
+92,10,EN-GB,Do-Gooder
+104,11,DE-DE,Drama-Diva
+68,8,DE-DE,Draufgänger
+11,2,EN-GB,Drudge
+96,10,ES-ES,Empático
+48,6,FR-FR,Fonceur
+76,9,IT-IT,Frenetico
+47,6,EN-GB,Go-Getter
+74,9,EN-GB,Hotspur
+49,6,IT-IT,Intraprendente
+77,9,DE-DE,Kleiner Rebell
+50,6,DE-DE,Macher
+114,12,ES-ES,Mandón
+39,5,FR-FR,Mauvais perdant
+95,10,DE-DE,Mitfühlender Typ
+33,4,ES-ES,Montaraz
+101,11,EN-GB,Nonconformist
+4,1,IT-IT,Normale
+83,13,EN-GB,Optimist
+86,13,DE-DE,Optimist
+87,13,ES-ES,Optimista
+84,13,FR-FR,Optimiste
+40,5,IT-IT,Ostinato
+85,13,IT-IT,Ottimista
+12,2,FR-FR,Persévérant
+111,12,FR-FR,Petit chef
+75,9,FR-FR,Petit rebelle
+42,5,ES-ES,Picajoso
+32,4,DE-DE,Pionier
+30,4,FR-FR,Pionnier
+94,10,IT-IT,Premuroso
+112,12,IT-IT,Presuntuoso
+2,1,EN-GB,Professional
+113,12,DE-DE,Rumkommandierer
+41,5,DE-DE,Schlechter Verlierer
+3,1,FR-FR,Sérieux
+13,2,IT-IT,Sgobbone
+51,6,ES-ES,Sin complejos
+6,1,ES-ES,Solemne
+38,5,EN-GB,Sore Loser
+60,7,ES-ES,Sosegado
+93,10,FR-FR,Sympathisant
+67,8,IT-IT,Testa calda
+29,4,EN-GB,Trailblazer
+78,9,ES-ES,Travieso
+23,3,DE-DE,Visionär
+24,3,ES-ES,Visionario
+22,3,IT-IT,Visionario
+20,3,EN-GB,Visionary
+21,3,FR-FR,Visionnaire
+117,12,KO-KR,교만
+90,13,KO-KR,낙천가
+63,7,KO-KR,냉정
+18,2,KO-KR,노력가
+54,6,KO-KR,능동
+72,8,KO-KR,만용
+108,11,KO-KR,변덕
+9,1,KO-KR,성실
+45,5,KO-KR,승부욕의 화신
+36,4,KO-KR,용기
+99,10,KO-KR,인정
+81,9,KO-KR,저돌맹진
+27,3,KO-KR,정열가
+43,5,ZH-TW,不服輸
+44,5,ZH-CN,不服输
+89,13,ZH-CN,乐天
+91,10,JP-JP,人情家
+55,7,JP-JP,冷静
+62,7,ZH-CN,冷静
+61,7,ZH-TW,冷靜
+28,4,JP-JP,勇敢
+34,4,ZH-TW,勇敢
+35,4,ZH-CN,勇敢
+17,2,ZH-CN,勤奋努力
+16,2,ZH-TW,勤奮努力
+64,8,JP-JP,命知らず
+106,11,ZH-TW,心血來潮
+107,11,ZH-CN,心血来潮
+19,3,JP-JP,情熱家
+71,8,ZH-CN,无所畏惧
+1,1,JP-JP,普通
+98,10,ZH-CN,有情有义
+97,10,ZH-TW,有情有義
+82,13,JP-JP,楽天家
+88,13,ZH-TW,樂天
+80,9,ZH-CN,横冲直撞
+79,9,ZH-TW,橫衝直撞
+7,1,ZH-TW,正經
+8,1,ZH-CN,正经
+100,11,JP-JP,気まぐれ
+26,3,ZH-CN,热情奔放
+70,8,ZH-TW,無所畏懼
+25,3,ZH-TW,熱情奔放
+73,9,JP-JP,猪突猛進
+116,12,ZH-CN,盛气凌人
+115,12,ZH-TW,盛氣凌人
+53,6,ZH-CN,积极
+52,6,ZH-TW,積極
+46,6,JP-JP,積極的
+37,5,JP-JP,負けず嫌い
+10,2,JP-JP,頑張り屋
+109,12,JP-JP,高飛車

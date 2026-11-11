@@ -1,0 +1,7616 @@
+[
+  {
+    "TalentLocalizationId": 408,
+    "TalentId": 248,
+    "LanguageCode": "FR-FR",
+    "Name": "Abjection"
+  },
+  {
+    "TalentLocalizationId": 1157,
+    "TalentId": 80,
+    "LanguageCode": "DE-DE",
+    "Name": "Absorptionsausweicher"
+  },
+  {
+    "TalentLocalizationId": 662,
+    "TalentId": 54,
+    "LanguageCode": "DE-DE",
+    "Name": "Abwehren"
+  },
+  {
+    "TalentLocalizationId": 941,
+    "TalentId": 62,
+    "LanguageCode": "DE-DE",
+    "Name": "Abwehrverstärker I"
+  },
+  {
+    "TalentLocalizationId": 950,
+    "TalentId": 63,
+    "LanguageCode": "DE-DE",
+    "Name": "Abwehrverstärker II"
+  },
+  {
+    "TalentLocalizationId": 959,
+    "TalentId": 120,
+    "LanguageCode": "DE-DE",
+    "Name": "Abwehrverstärker III"
+  },
+  {
+    "TalentLocalizationId": 968,
+    "TalentId": 121,
+    "LanguageCode": "DE-DE",
+    "Name": "Abwehrverstärker IV"
+  },
+  {
+    "TalentLocalizationId": 381,
+    "TalentId": 95,
+    "LanguageCode": "FR-FR",
+    "Name": "Accélérateur"
+  },
+  {
+    "TalentLocalizationId": 384,
+    "TalentId": 95,
+    "LanguageCode": "ES-ES",
+    "Name": "Acelerador"
+  },
+  {
+    "TalentLocalizationId": 319,
+    "TalentId": 32,
+    "LanguageCode": "IT-IT",
+    "Name": "Acquamantis"
+  },
+  {
+    "TalentLocalizationId": 365,
+    "TalentId": 36,
+    "LanguageCode": "DE-DE",
+    "Name": "Adrenalinjunkie"
+  },
+  {
+    "TalentLocalizationId": 741,
+    "TalentId": 188,
+    "LanguageCode": "FR-FR",
+    "Name": "Agent infiltré"
+  },
+  {
+    "TalentLocalizationId": 974,
+    "TalentId": 64,
+    "LanguageCode": "EN-GB",
+    "Name": "Agility Booster I"
+  },
+  {
+    "TalentLocalizationId": 983,
+    "TalentId": 65,
+    "LanguageCode": "EN-GB",
+    "Name": "Agility Booster II"
+  },
+  {
+    "TalentLocalizationId": 992,
+    "TalentId": 122,
+    "LanguageCode": "EN-GB",
+    "Name": "Agility Booster III"
+  },
+  {
+    "TalentLocalizationId": 1001,
+    "TalentId": 123,
+    "LanguageCode": "EN-GB",
+    "Name": "Agility Booster IV"
+  },
+  {
+    "TalentLocalizationId": 749,
+    "TalentId": 91,
+    "LanguageCode": "EN-GB",
+    "Name": "Air Fryer"
+  },
+  {
+    "TalentLocalizationId": 605,
+    "TalentId": 251,
+    "LanguageCode": "EN-GB",
+    "Name": "Alarmist"
+  },
+  {
+    "TalentLocalizationId": 825,
+    "TalentId": 127,
+    "LanguageCode": "ES-ES",
+    "Name": "Alentador arrollador"
+  },
+  {
+    "TalentLocalizationId": 213,
+    "TalentId": 21,
+    "LanguageCode": "ES-ES",
+    "Name": "Alentador profundo"
+  },
+  {
+    "TalentLocalizationId": 204,
+    "TalentId": 20,
+    "LanguageCode": "ES-ES",
+    "Name": "Alentador suave"
+  },
+  {
+    "TalentLocalizationId": 366,
+    "TalentId": 36,
+    "LanguageCode": "ES-ES",
+    "Name": "Amante de las emociones"
+  },
+  {
+    "TalentLocalizationId": 392,
+    "TalentId": 96,
+    "LanguageCode": "DE-DE",
+    "Name": "Amor"
+  },
+  {
+    "TalentLocalizationId": 905,
+    "TalentId": 60,
+    "LanguageCode": "DE-DE",
+    "Name": "Angriffsverstärker I"
+  },
+  {
+    "TalentLocalizationId": 914,
+    "TalentId": 61,
+    "LanguageCode": "DE-DE",
+    "Name": "Angriffsverstärker II"
+  },
+  {
+    "TalentLocalizationId": 923,
+    "TalentId": 118,
+    "LanguageCode": "DE-DE",
+    "Name": "Angriffsverstärker III"
+  },
+  {
+    "TalentLocalizationId": 932,
+    "TalentId": 119,
+    "LanguageCode": "DE-DE",
+    "Name": "Angriffsverstärker IV"
+  },
+  {
+    "TalentLocalizationId": 1158,
+    "TalentId": 80,
+    "LanguageCode": "ES-ES",
+    "Name": "Antiabsorción"
+  },
+  {
+    "TalentLocalizationId": 1176,
+    "TalentId": 82,
+    "LanguageCode": "ES-ES",
+    "Name": "Antiaturdimiento"
+  },
+  {
+    "TalentLocalizationId": 1084,
+    "TalentId": 72,
+    "LanguageCode": "IT-IT",
+    "Name": "Anti-Bang"
+  },
+  {
+    "TalentLocalizationId": 1120,
+    "TalentId": 76,
+    "LanguageCode": "IT-IT",
+    "Name": "Anti-Elektron"
+  },
+  {
+    "TalentLocalizationId": 1048,
+    "TalentId": 68,
+    "LanguageCode": "IT-IT",
+    "Name": "Anti-Fiamma"
+  },
+  {
+    "TalentLocalizationId": 1057,
+    "TalentId": 69,
+    "LanguageCode": "IT-IT",
+    "Name": "Anti-Fluidi"
+  },
+  {
+    "TalentLocalizationId": 1102,
+    "TalentId": 74,
+    "LanguageCode": "IT-IT",
+    "Name": "Anti-Fulmine"
+  },
+  {
+    "TalentLocalizationId": 1111,
+    "TalentId": 75,
+    "LanguageCode": "IT-IT",
+    "Name": "Anti-Fuoco"
+  },
+  {
+    "TalentLocalizationId": 1093,
+    "TalentId": 73,
+    "LanguageCode": "IT-IT",
+    "Name": "Anti-Gelo"
+  },
+  {
+    "TalentLocalizationId": 651,
+    "TalentId": 113,
+    "LanguageCode": "FR-FR",
+    "Name": "Antimage"
+  },
+  {
+    "TalentLocalizationId": 1145,
+    "TalentId": 79,
+    "LanguageCode": "EN-GB",
+    "Name": "Antimagic Avoider"
+  },
+  {
+    "TalentLocalizationId": 650,
+    "TalentId": 113,
+    "LanguageCode": "EN-GB",
+    "Name": "Antimagician"
+  },
+  {
+    "TalentLocalizationId": 1148,
+    "TalentId": 79,
+    "LanguageCode": "DE-DE",
+    "Name": "Antimagie-Abwender"
+  },
+  {
+    "TalentLocalizationId": 654,
+    "TalentId": 113,
+    "LanguageCode": "ES-ES",
+    "Name": "Antimagos"
+  },
+  {
+    "TalentLocalizationId": 1075,
+    "TalentId": 71,
+    "LanguageCode": "IT-IT",
+    "Name": "Anti-Roccia"
+  },
+  {
+    "TalentLocalizationId": 1066,
+    "TalentId": 70,
+    "LanguageCode": "IT-IT",
+    "Name": "Anti-Vento"
+  },
+  {
+    "TalentLocalizationId": 1149,
+    "TalentId": 79,
+    "LanguageCode": "ES-ES",
+    "Name": "Apartador de antimagia"
+  },
+  {
+    "TalentLocalizationId": 708,
+    "TalentId": 55,
+    "LanguageCode": "ES-ES",
+    "Name": "Apestador"
+  },
+  {
+    "TalentLocalizationId": 75,
+    "TalentId": 9,
+    "LanguageCode": "FR-FR",
+    "Name": "Apprenti de Bang"
+  },
+  {
+    "TalentLocalizationId": 129,
+    "TalentId": 15,
+    "LanguageCode": "FR-FR",
+    "Name": "Apprenti de Crame"
+  },
+  {
+    "TalentLocalizationId": 3,
+    "TalentId": 1,
+    "LanguageCode": "FR-FR",
+    "Name": "Apprenti de Flamme"
+  },
+  {
+    "TalentLocalizationId": 111,
+    "TalentId": 13,
+    "LanguageCode": "FR-FR",
+    "Name": "Apprenti de Foudre"
+  },
+  {
+    "TalentLocalizationId": 93,
+    "TalentId": 11,
+    "LanguageCode": "FR-FR",
+    "Name": "Apprenti de Glace"
+  },
+  {
+    "TalentLocalizationId": 57,
+    "TalentId": 7,
+    "LanguageCode": "FR-FR",
+    "Name": "Apprenti de Séisme"
+  },
+  {
+    "TalentLocalizationId": 21,
+    "TalentId": 3,
+    "LanguageCode": "FR-FR",
+    "Name": "Apprenti de Superplouf"
+  },
+  {
+    "TalentLocalizationId": 39,
+    "TalentId": 5,
+    "LanguageCode": "FR-FR",
+    "Name": "Apprenti de Tornade"
+  },
+  {
+    "TalentLocalizationId": 147,
+    "TalentId": 17,
+    "LanguageCode": "FR-FR",
+    "Name": "Apprenti d'Élec"
+  },
+  {
+    "TalentLocalizationId": 317,
+    "TalentId": 32,
+    "LanguageCode": "EN-GB",
+    "Name": "Aquapothecary"
+  },
+  {
+    "TalentLocalizationId": 318,
+    "TalentId": 32,
+    "LanguageCode": "FR-FR",
+    "Name": "Aquapothicaire"
+  },
+  {
+    "TalentLocalizationId": 320,
+    "TalentId": 32,
+    "LanguageCode": "DE-DE",
+    "Name": "Aquatheker"
+  },
+  {
+    "TalentLocalizationId": 751,
+    "TalentId": 91,
+    "LanguageCode": "IT-IT",
+    "Name": "Aria bollente"
+  },
+  {
+    "TalentLocalizationId": 760,
+    "TalentId": 130,
+    "LanguageCode": "IT-IT",
+    "Name": "Aria tempestosa"
+  },
+  {
+    "TalentLocalizationId": 292,
+    "TalentId": 29,
+    "LanguageCode": "IT-IT",
+    "Name": "Artista delle tenebre"
+  },
+  {
+    "TalentLocalizationId": 519,
+    "TalentId": 44,
+    "LanguageCode": "ES-ES",
+    "Name": "Asesino"
+  },
+  {
+    "TalentLocalizationId": 515,
+    "TalentId": 44,
+    "LanguageCode": "EN-GB",
+    "Name": "Assassin"
+  },
+  {
+    "TalentLocalizationId": 516,
+    "TalentId": 44,
+    "LanguageCode": "FR-FR",
+    "Name": "Assassin"
+  },
+  {
+    "TalentLocalizationId": 517,
+    "TalentId": 44,
+    "LanguageCode": "IT-IT",
+    "Name": "Assassinio"
+  },
+  {
+    "TalentLocalizationId": 824,
+    "TalentId": 127,
+    "LanguageCode": "DE-DE",
+    "Name": "Atemhelfer"
+  },
+  {
+    "TalentLocalizationId": 644,
+    "TalentId": 111,
+    "LanguageCode": "DE-DE",
+    "Name": "Atemrauber"
+  },
+  {
+    "TalentLocalizationId": 762,
+    "TalentId": 130,
+    "LanguageCode": "ES-ES",
+    "Name": "Atormentador"
+  },
+  {
+    "TalentLocalizationId": 902,
+    "TalentId": 60,
+    "LanguageCode": "EN-GB",
+    "Name": "Attack Booster I"
+  },
+  {
+    "TalentLocalizationId": 911,
+    "TalentId": 61,
+    "LanguageCode": "EN-GB",
+    "Name": "Attack Booster II"
+  },
+  {
+    "TalentLocalizationId": 920,
+    "TalentId": 118,
+    "LanguageCode": "EN-GB",
+    "Name": "Attack Booster III"
+  },
+  {
+    "TalentLocalizationId": 929,
+    "TalentId": 119,
+    "LanguageCode": "EN-GB",
+    "Name": "Attack Booster IV"
+  },
+  {
+    "TalentLocalizationId": 976,
+    "TalentId": 64,
+    "LanguageCode": "IT-IT",
+    "Name": "Aumento di agilità I"
+  },
+  {
+    "TalentLocalizationId": 985,
+    "TalentId": 65,
+    "LanguageCode": "IT-IT",
+    "Name": "Aumento di agilità II"
+  },
+  {
+    "TalentLocalizationId": 994,
+    "TalentId": 122,
+    "LanguageCode": "IT-IT",
+    "Name": "Aumento di agilità III"
+  },
+  {
+    "TalentLocalizationId": 1003,
+    "TalentId": 123,
+    "LanguageCode": "IT-IT",
+    "Name": "Aumento di agilità IV"
+  },
+  {
+    "TalentLocalizationId": 1012,
+    "TalentId": 66,
+    "LanguageCode": "IT-IT",
+    "Name": "Aumento di saggezza I"
+  },
+  {
+    "TalentLocalizationId": 1021,
+    "TalentId": 67,
+    "LanguageCode": "IT-IT",
+    "Name": "Aumento di saggezza II"
+  },
+  {
+    "TalentLocalizationId": 1030,
+    "TalentId": 124,
+    "LanguageCode": "IT-IT",
+    "Name": "Aumento di saggezza III"
+  },
+  {
+    "TalentLocalizationId": 1039,
+    "TalentId": 125,
+    "LanguageCode": "IT-IT",
+    "Name": "Aumento di saggezza IV"
+  },
+  {
+    "TalentLocalizationId": 940,
+    "TalentId": 62,
+    "LanguageCode": "IT-IT",
+    "Name": "Aumento difensivo I"
+  },
+  {
+    "TalentLocalizationId": 949,
+    "TalentId": 63,
+    "LanguageCode": "IT-IT",
+    "Name": "Aumento difensivo II"
+  },
+  {
+    "TalentLocalizationId": 958,
+    "TalentId": 120,
+    "LanguageCode": "IT-IT",
+    "Name": "Aumento difensivo III"
+  },
+  {
+    "TalentLocalizationId": 967,
+    "TalentId": 121,
+    "LanguageCode": "IT-IT",
+    "Name": "Aumento difensivo IV"
+  },
+  {
+    "TalentLocalizationId": 868,
+    "TalentId": 58,
+    "LanguageCode": "IT-IT",
+    "Name": "Aumento magico I"
+  },
+  {
+    "TalentLocalizationId": 877,
+    "TalentId": 59,
+    "LanguageCode": "IT-IT",
+    "Name": "Aumento magico II"
+  },
+  {
+    "TalentLocalizationId": 886,
+    "TalentId": 116,
+    "LanguageCode": "IT-IT",
+    "Name": "Aumento magico III"
+  },
+  {
+    "TalentLocalizationId": 895,
+    "TalentId": 117,
+    "LanguageCode": "IT-IT",
+    "Name": "Aumento magico IV"
+  },
+  {
+    "TalentLocalizationId": 904,
+    "TalentId": 60,
+    "LanguageCode": "IT-IT",
+    "Name": "Aumento offensivo I"
+  },
+  {
+    "TalentLocalizationId": 913,
+    "TalentId": 61,
+    "LanguageCode": "IT-IT",
+    "Name": "Aumento offensivo II"
+  },
+  {
+    "TalentLocalizationId": 922,
+    "TalentId": 118,
+    "LanguageCode": "IT-IT",
+    "Name": "Aumento offensivo III"
+  },
+  {
+    "TalentLocalizationId": 931,
+    "TalentId": 119,
+    "LanguageCode": "IT-IT",
+    "Name": "Aumento offensivo IV"
+  },
+  {
+    "TalentLocalizationId": 832,
+    "TalentId": 56,
+    "LanguageCode": "IT-IT",
+    "Name": "Aumento vitale I"
+  },
+  {
+    "TalentLocalizationId": 841,
+    "TalentId": 57,
+    "LanguageCode": "IT-IT",
+    "Name": "Aumento vitale II"
+  },
+  {
+    "TalentLocalizationId": 850,
+    "TalentId": 114,
+    "LanguageCode": "IT-IT",
+    "Name": "Aumento vitale III"
+  },
+  {
+    "TalentLocalizationId": 859,
+    "TalentId": 115,
+    "LanguageCode": "IT-IT",
+    "Name": "Aumento vitale IV"
+  },
+  {
+    "TalentLocalizationId": 222,
+    "TalentId": 22,
+    "LanguageCode": "ES-ES",
+    "Name": "Bailarín"
+  },
+  {
+    "TalentLocalizationId": 437,
+    "TalentId": 107,
+    "LanguageCode": "DE-DE",
+    "Name": "Bandit"
+  },
+  {
+    "TalentLocalizationId": 74,
+    "TalentId": 9,
+    "LanguageCode": "EN-GB",
+    "Name": "Bang Afficionado"
+  },
+  {
+    "TalentLocalizationId": 83,
+    "TalentId": 10,
+    "LanguageCode": "EN-GB",
+    "Name": "Bang Virtuoso"
+  },
+  {
+    "TalentLocalizationId": 1082,
+    "TalentId": 72,
+    "LanguageCode": "EN-GB",
+    "Name": "Bang Ward"
+  },
+  {
+    "TalentLocalizationId": 672,
+    "TalentId": 89,
+    "LanguageCode": "ES-ES",
+    "Name": "Barricada"
+  },
+  {
+    "TalentLocalizationId": 668,
+    "TalentId": 89,
+    "LanguageCode": "EN-GB",
+    "Name": "Barricade"
+  },
+  {
+    "TalentLocalizationId": 669,
+    "TalentId": 89,
+    "LanguageCode": "FR-FR",
+    "Name": "Barricade"
+  },
+  {
+    "TalentLocalizationId": 670,
+    "TalentId": 89,
+    "LanguageCode": "IT-IT",
+    "Name": "Barricata"
+  },
+  {
+    "TalentLocalizationId": 671,
+    "TalentId": 89,
+    "LanguageCode": "DE-DE",
+    "Name": "Barrikade"
+  },
+  {
+    "TalentLocalizationId": 489,
+    "TalentId": 98,
+    "LanguageCode": "FR-FR",
+    "Name": "Beau-parleur"
+  },
+  {
+    "TalentLocalizationId": 1256,
+    "TalentId": 132,
+    "LanguageCode": "DE-DE",
+    "Name": "Bebenschild"
+  },
+  {
+    "TalentLocalizationId": 1136,
+    "TalentId": 78,
+    "LanguageCode": "EN-GB",
+    "Name": "Bedazzlement Blocker"
+  },
+  {
+    "TalentLocalizationId": 633,
+    "TalentId": 53,
+    "LanguageCode": "FR-FR",
+    "Name": "Bénévole"
+  },
+  {
+    "TalentLocalizationId": 1175,
+    "TalentId": 82,
+    "LanguageCode": "DE-DE",
+    "Name": "Betäubungsbezwinger"
+  },
+  {
+    "TalentLocalizationId": 482,
+    "TalentId": 42,
+    "LanguageCode": "DE-DE",
+    "Name": "Beutelschneider"
+  },
+  {
+    "TalentLocalizationId": 194,
+    "TalentId": 126,
+    "LanguageCode": "DE-DE",
+    "Name": "Bitterkaltblüter"
+  },
+  {
+    "TalentLocalizationId": 461,
+    "TalentId": 41,
+    "LanguageCode": "EN-GB",
+    "Name": "Blade Maven"
+  },
+  {
+    "TalentLocalizationId": 164,
+    "TalentId": 19,
+    "LanguageCode": "EN-GB",
+    "Name": "Blazer"
+  },
+  {
+    "TalentLocalizationId": 1139,
+    "TalentId": 78,
+    "LanguageCode": "DE-DE",
+    "Name": "Blendungsblocker"
+  },
+  {
+    "TalentLocalizationId": 821,
+    "TalentId": 127,
+    "LanguageCode": "EN-GB",
+    "Name": "Blowhard"
+  },
+  {
+    "TalentLocalizationId": 344,
+    "TalentId": 34,
+    "LanguageCode": "EN-GB",
+    "Name": "Blowy Slasher"
+  },
+  {
+    "TalentLocalizationId": 299,
+    "TalentId": 30,
+    "LanguageCode": "EN-GB",
+    "Name": "Blusterer"
+  },
+  {
+    "TalentLocalizationId": 499,
+    "TalentId": 181,
+    "LanguageCode": "IT-IT",
+    "Name": "Bollore"
+  },
+  {
+    "TalentLocalizationId": 975,
+    "TalentId": 64,
+    "LanguageCode": "FR-FR",
+    "Name": "Bonus d'agilité I"
+  },
+  {
+    "TalentLocalizationId": 984,
+    "TalentId": 65,
+    "LanguageCode": "FR-FR",
+    "Name": "Bonus d'agilité II"
+  },
+  {
+    "TalentLocalizationId": 993,
+    "TalentId": 122,
+    "LanguageCode": "FR-FR",
+    "Name": "Bonus d'agilité III"
+  },
+  {
+    "TalentLocalizationId": 1002,
+    "TalentId": 123,
+    "LanguageCode": "FR-FR",
+    "Name": "Bonus d'agilité IV"
+  },
+  {
+    "TalentLocalizationId": 903,
+    "TalentId": 60,
+    "LanguageCode": "FR-FR",
+    "Name": "Bonus d'attaque I"
+  },
+  {
+    "TalentLocalizationId": 912,
+    "TalentId": 61,
+    "LanguageCode": "FR-FR",
+    "Name": "Bonus d'attaque II"
+  },
+  {
+    "TalentLocalizationId": 921,
+    "TalentId": 118,
+    "LanguageCode": "FR-FR",
+    "Name": "Bonus d'attaque III"
+  },
+  {
+    "TalentLocalizationId": 930,
+    "TalentId": 119,
+    "LanguageCode": "FR-FR",
+    "Name": "Bonus d'attaque IV"
+  },
+  {
+    "TalentLocalizationId": 939,
+    "TalentId": 62,
+    "LanguageCode": "FR-FR",
+    "Name": "Bonus de défense I"
+  },
+  {
+    "TalentLocalizationId": 948,
+    "TalentId": 63,
+    "LanguageCode": "FR-FR",
+    "Name": "Bonus de défense II"
+  },
+  {
+    "TalentLocalizationId": 957,
+    "TalentId": 120,
+    "LanguageCode": "FR-FR",
+    "Name": "Bonus de défense III"
+  },
+  {
+    "TalentLocalizationId": 966,
+    "TalentId": 121,
+    "LanguageCode": "FR-FR",
+    "Name": "Bonus de défense IV"
+  },
+  {
+    "TalentLocalizationId": 867,
+    "TalentId": 58,
+    "LanguageCode": "FR-FR",
+    "Name": "Bonus de PM I"
+  },
+  {
+    "TalentLocalizationId": 876,
+    "TalentId": 59,
+    "LanguageCode": "FR-FR",
+    "Name": "Bonus de PM II"
+  },
+  {
+    "TalentLocalizationId": 885,
+    "TalentId": 116,
+    "LanguageCode": "FR-FR",
+    "Name": "Bonus de PM III"
+  },
+  {
+    "TalentLocalizationId": 894,
+    "TalentId": 117,
+    "LanguageCode": "FR-FR",
+    "Name": "Bonus de PM IV"
+  },
+  {
+    "TalentLocalizationId": 831,
+    "TalentId": 56,
+    "LanguageCode": "FR-FR",
+    "Name": "Bonus de PV I"
+  },
+  {
+    "TalentLocalizationId": 840,
+    "TalentId": 57,
+    "LanguageCode": "FR-FR",
+    "Name": "Bonus de PV II"
+  },
+  {
+    "TalentLocalizationId": 849,
+    "TalentId": 114,
+    "LanguageCode": "FR-FR",
+    "Name": "Bonus de PV III"
+  },
+  {
+    "TalentLocalizationId": 858,
+    "TalentId": 115,
+    "LanguageCode": "FR-FR",
+    "Name": "Bonus de PV IV"
+  },
+  {
+    "TalentLocalizationId": 1011,
+    "TalentId": 66,
+    "LanguageCode": "FR-FR",
+    "Name": "Bonus de sagesse I"
+  },
+  {
+    "TalentLocalizationId": 1020,
+    "TalentId": 67,
+    "LanguageCode": "FR-FR",
+    "Name": "Bonus de sagesse II"
+  },
+  {
+    "TalentLocalizationId": 1029,
+    "TalentId": 124,
+    "LanguageCode": "FR-FR",
+    "Name": "Bonus de sagesse III"
+  },
+  {
+    "TalentLocalizationId": 1038,
+    "TalentId": 125,
+    "LanguageCode": "FR-FR",
+    "Name": "Bonus de sagesse IV"
+  },
+  {
+    "TalentLocalizationId": 1245,
+    "TalentId": 133,
+    "LanguageCode": "FR-FR",
+    "Name": "Bouclier clair-obscur SP"
+  },
+  {
+    "TalentLocalizationId": 1236,
+    "TalentId": 134,
+    "LanguageCode": "FR-FR",
+    "Name": "Bouclier cyclonique SP"
+  },
+  {
+    "TalentLocalizationId": 1263,
+    "TalentId": 131,
+    "LanguageCode": "FR-FR",
+    "Name": "Bouclier électrique SP"
+  },
+  {
+    "TalentLocalizationId": 1218,
+    "TalentId": 135,
+    "LanguageCode": "FR-FR",
+    "Name": "Bouclier magmatique SP"
+  },
+  {
+    "TalentLocalizationId": 1227,
+    "TalentId": 136,
+    "LanguageCode": "FR-FR",
+    "Name": "Bouclier polaire SP"
+  },
+  {
+    "TalentLocalizationId": 1254,
+    "TalentId": 132,
+    "LanguageCode": "FR-FR",
+    "Name": "Bouclier tectonique SP"
+  },
+  {
+    "TalentLocalizationId": 641,
+    "TalentId": 111,
+    "LanguageCode": "EN-GB",
+    "Name": "Breath Taker"
+  },
+  {
+    "TalentLocalizationId": 444,
+    "TalentId": 40,
+    "LanguageCode": "FR-FR",
+    "Name": "Brisquard"
+  },
+  {
+    "TalentLocalizationId": 59,
+    "TalentId": 7,
+    "LanguageCode": "DE-DE",
+    "Name": "Bröckel-Fan"
+  },
+  {
+    "TalentLocalizationId": 1076,
+    "TalentId": 71,
+    "LanguageCode": "DE-DE",
+    "Name": "Bröckelresistenz"
+  },
+  {
+    "TalentLocalizationId": 68,
+    "TalentId": 8,
+    "LanguageCode": "DE-DE",
+    "Name": "Bröckel-Virtuose"
+  },
+  {
+    "TalentLocalizationId": 546,
+    "TalentId": 46,
+    "LanguageCode": "ES-ES",
+    "Name": "Bromista"
+  },
+  {
+    "TalentLocalizationId": 399,
+    "TalentId": 250,
+    "LanguageCode": "FR-FR",
+    "Name": "Brûleur"
+  },
+  {
+    "TalentLocalizationId": 795,
+    "TalentId": 93,
+    "LanguageCode": "FR-FR",
+    "Name": "Bûcher-charcuteur SP"
+  },
+  {
+    "TalentLocalizationId": 474,
+    "TalentId": 88,
+    "LanguageCode": "ES-ES",
+    "Name": "Buen caballero"
+  },
+  {
+    "TalentLocalizationId": 391,
+    "TalentId": 96,
+    "LanguageCode": "IT-IT",
+    "Name": "Buon cuore"
+  },
+  {
+    "TalentLocalizationId": 544,
+    "TalentId": 46,
+    "LanguageCode": "IT-IT",
+    "Name": "Burla"
+  },
+  {
+    "TalentLocalizationId": 264,
+    "TalentId": 26,
+    "LanguageCode": "FR-FR",
+    "Name": "Cafardeur"
+  },
+  {
+    "TalentLocalizationId": 168,
+    "TalentId": 19,
+    "LanguageCode": "ES-ES",
+    "Name": "Calcinador"
+  },
+  {
+    "TalentLocalizationId": 177,
+    "TalentId": 105,
+    "LanguageCode": "ES-ES",
+    "Name": "Calcinador inteligente"
+  },
+  {
+    "TalentLocalizationId": 753,
+    "TalentId": 91,
+    "LanguageCode": "ES-ES",
+    "Name": "Calcinante aéreo"
+  },
+  {
+    "TalentLocalizationId": 501,
+    "TalentId": 181,
+    "LanguageCode": "ES-ES",
+    "Name": "Caldeador"
+  },
+  {
+    "TalentLocalizationId": 435,
+    "TalentId": 107,
+    "LanguageCode": "FR-FR",
+    "Name": "Canaille"
+  },
+  {
+    "TalentLocalizationId": 768,
+    "TalentId": 103,
+    "LanguageCode": "FR-FR",
+    "Name": "Canon à neige"
+  },
+  {
+    "TalentLocalizationId": 690,
+    "TalentId": 90,
+    "LanguageCode": "ES-ES",
+    "Name": "Cansino"
+  },
+  {
+    "TalentLocalizationId": 695,
+    "TalentId": 112,
+    "LanguageCode": "EN-GB",
+    "Name": "Charmer"
+  },
+  {
+    "TalentLocalizationId": 696,
+    "TalentId": 112,
+    "LanguageCode": "FR-FR",
+    "Name": "Charmeur"
+  },
+  {
+    "TalentLocalizationId": 698,
+    "TalentId": 112,
+    "LanguageCode": "DE-DE",
+    "Name": "Charmeur"
+  },
+  {
+    "TalentLocalizationId": 777,
+    "TalentId": 129,
+    "LanguageCode": "FR-FR",
+    "Name": "Chaud-froid"
+  },
+  {
+    "TalentLocalizationId": 471,
+    "TalentId": 88,
+    "LanguageCode": "FR-FR",
+    "Name": "Chevalier servant"
+  },
+  {
+    "TalentLocalizationId": 1244,
+    "TalentId": 133,
+    "LanguageCode": "EN-GB",
+    "Name": "Chiaroscuro Shield"
+  },
+  {
+    "TalentLocalizationId": 182,
+    "TalentId": 110,
+    "LanguageCode": "EN-GB",
+    "Name": "Chilly Receptionist"
+  },
+  {
+    "TalentLocalizationId": 228,
+    "TalentId": 109,
+    "LanguageCode": "FR-FR",
+    "Name": "Chorégraphe"
+  },
+  {
+    "TalentLocalizationId": 230,
+    "TalentId": 109,
+    "LanguageCode": "DE-DE",
+    "Name": "Choreograph"
+  },
+  {
+    "TalentLocalizationId": 227,
+    "TalentId": 109,
+    "LanguageCode": "EN-GB",
+    "Name": "Choreographer"
+  },
+  {
+    "TalentLocalizationId": 246,
+    "TalentId": 24,
+    "LanguageCode": "FR-FR",
+    "Name": "Cœur de dragon"
+  },
+  {
+    "TalentLocalizationId": 447,
+    "TalentId": 40,
+    "LanguageCode": "ES-ES",
+    "Name": "Combatiente"
+  },
+  {
+    "TalentLocalizationId": 445,
+    "TalentId": 40,
+    "LanguageCode": "IT-IT",
+    "Name": "Combattimento"
+  },
+  {
+    "TalentLocalizationId": 1190,
+    "TalentId": 84,
+    "LanguageCode": "EN-GB",
+    "Name": "Confusion Controller"
+  },
+  {
+    "TalentLocalizationId": 606,
+    "TalentId": 251,
+    "LanguageCode": "FR-FR",
+    "Name": "Confusionniste"
+  },
+  {
+    "TalentLocalizationId": 816,
+    "TalentId": 94,
+    "LanguageCode": "ES-ES",
+    "Name": "Conjurador de primera"
+  },
+  {
+    "TalentLocalizationId": 112,
+    "TalentId": 13,
+    "LanguageCode": "IT-IT",
+    "Name": "Conoscenza dei fulmini"
+  },
+  {
+    "TalentLocalizationId": 22,
+    "TalentId": 3,
+    "LanguageCode": "IT-IT",
+    "Name": "Conoscenza dei liquidi"
+  },
+  {
+    "TalentLocalizationId": 40,
+    "TalentId": 5,
+    "LanguageCode": "IT-IT",
+    "Name": "Conoscenza dei venti"
+  },
+  {
+    "TalentLocalizationId": 4,
+    "TalentId": 1,
+    "LanguageCode": "IT-IT",
+    "Name": "Conoscenza del fuoco"
+  },
+  {
+    "TalentLocalizationId": 94,
+    "TalentId": 11,
+    "LanguageCode": "IT-IT",
+    "Name": "Conoscenza del ghiaccio"
+  },
+  {
+    "TalentLocalizationId": 130,
+    "TalentId": 15,
+    "LanguageCode": "IT-IT",
+    "Name": "Conoscenza della luce"
+  },
+  {
+    "TalentLocalizationId": 76,
+    "TalentId": 9,
+    "LanguageCode": "IT-IT",
+    "Name": "Conoscenza delle esplosioni"
+  },
+  {
+    "TalentLocalizationId": 58,
+    "TalentId": 7,
+    "LanguageCode": "IT-IT",
+    "Name": "Conoscenza delle rocce"
+  },
+  {
+    "TalentLocalizationId": 148,
+    "TalentId": 17,
+    "LanguageCode": "IT-IT",
+    "Name": "Conoscenza dell'oscurità"
+  },
+  {
+    "TalentLocalizationId": 1138,
+    "TalentId": 78,
+    "LanguageCode": "IT-IT",
+    "Name": "Contro-abbagliamento"
+  },
+  {
+    "TalentLocalizationId": 1147,
+    "TalentId": 79,
+    "LanguageCode": "IT-IT",
+    "Name": "Contro-antincanto"
+  },
+  {
+    "TalentLocalizationId": 1156,
+    "TalentId": 80,
+    "LanguageCode": "IT-IT",
+    "Name": "Contro-assorbimento"
+  },
+  {
+    "TalentLocalizationId": 1165,
+    "TalentId": 81,
+    "LanguageCode": "IT-IT",
+    "Name": "Contro-avvelenamento"
+  },
+  {
+    "TalentLocalizationId": 1192,
+    "TalentId": 84,
+    "LanguageCode": "IT-IT",
+    "Name": "Contro-confusione"
+  },
+  {
+    "TalentLocalizationId": 1129,
+    "TalentId": 77,
+    "LanguageCode": "IT-IT",
+    "Name": "Contro-indebolimento"
+  },
+  {
+    "TalentLocalizationId": 1194,
+    "TalentId": 84,
+    "LanguageCode": "ES-ES",
+    "Name": "Controlador de confusión"
+  },
+  {
+    "TalentLocalizationId": 1210,
+    "TalentId": 86,
+    "LanguageCode": "IT-IT",
+    "Name": "Contro-morte"
+  },
+  {
+    "TalentLocalizationId": 1201,
+    "TalentId": 85,
+    "LanguageCode": "IT-IT",
+    "Name": "Contro-paralisi"
+  },
+  {
+    "TalentLocalizationId": 1183,
+    "TalentId": 83,
+    "LanguageCode": "IT-IT",
+    "Name": "Contro-sonno"
+  },
+  {
+    "TalentLocalizationId": 1174,
+    "TalentId": 82,
+    "LanguageCode": "IT-IT",
+    "Name": "Contro-stordimento"
+  },
+  {
+    "TalentLocalizationId": 249,
+    "TalentId": 24,
+    "LanguageCode": "ES-ES",
+    "Name": "Corazón de dragón"
+  },
+  {
+    "TalentLocalizationId": 231,
+    "TalentId": 109,
+    "LanguageCode": "ES-ES",
+    "Name": "Coreógrafo"
+  },
+  {
+    "TalentLocalizationId": 480,
+    "TalentId": 42,
+    "LanguageCode": "FR-FR",
+    "Name": "Coupe-jarrets"
+  },
+  {
+    "TalentLocalizationId": 642,
+    "TalentId": 111,
+    "LanguageCode": "FR-FR",
+    "Name": "Coupe-souffle"
+  },
+  {
+    "TalentLocalizationId": 92,
+    "TalentId": 11,
+    "LanguageCode": "EN-GB",
+    "Name": "Crack Afficionado"
+  },
+  {
+    "TalentLocalizationId": 101,
+    "TalentId": 12,
+    "LanguageCode": "EN-GB",
+    "Name": "Crack Virtuoso"
+  },
+  {
+    "TalentLocalizationId": 1091,
+    "TalentId": 73,
+    "LanguageCode": "EN-GB",
+    "Name": "Crack Ward"
+  },
+  {
+    "TalentLocalizationId": 56,
+    "TalentId": 7,
+    "LanguageCode": "EN-GB",
+    "Name": "Crag Afficionado"
+  },
+  {
+    "TalentLocalizationId": 65,
+    "TalentId": 8,
+    "LanguageCode": "EN-GB",
+    "Name": "Crag Virtuoso"
+  },
+  {
+    "TalentLocalizationId": 1073,
+    "TalentId": 71,
+    "LanguageCode": "EN-GB",
+    "Name": "Crag Ward"
+  },
+  {
+    "TalentLocalizationId": 294,
+    "TalentId": 29,
+    "LanguageCode": "ES-ES",
+    "Name": "Creador oscuro"
+  },
+  {
+    "TalentLocalizationId": 312,
+    "TalentId": 31,
+    "LanguageCode": "ES-ES",
+    "Name": "Criatura de la naturaleza"
+  },
+  {
+    "TalentLocalizationId": 429,
+    "TalentId": 39,
+    "LanguageCode": "ES-ES",
+    "Name": "Criatura salvaje"
+  },
+  {
+    "TalentLocalizationId": 436,
+    "TalentId": 107,
+    "LanguageCode": "IT-IT",
+    "Name": "Criminalità"
+  },
+  {
+    "TalentLocalizationId": 389,
+    "TalentId": 96,
+    "LanguageCode": "EN-GB",
+    "Name": "Cupid"
+  },
+  {
+    "TalentLocalizationId": 393,
+    "TalentId": 96,
+    "LanguageCode": "ES-ES",
+    "Name": "Cupido"
+  },
+  {
+    "TalentLocalizationId": 390,
+    "TalentId": 96,
+    "LanguageCode": "FR-FR",
+    "Name": "Cupidon"
+  },
+  {
+    "TalentLocalizationId": 479,
+    "TalentId": 42,
+    "LanguageCode": "EN-GB",
+    "Name": "Cutpurse"
+  },
+  {
+    "TalentLocalizationId": 1235,
+    "TalentId": 134,
+    "LanguageCode": "EN-GB",
+    "Name": "Cyclone Shield"
+  },
+  {
+    "TalentLocalizationId": 218,
+    "TalentId": 22,
+    "LanguageCode": "EN-GB",
+    "Name": "Dancer"
+  },
+  {
+    "TalentLocalizationId": 219,
+    "TalentId": 22,
+    "LanguageCode": "FR-FR",
+    "Name": "Danseuse"
+  },
+  {
+    "TalentLocalizationId": 220,
+    "TalentId": 22,
+    "LanguageCode": "IT-IT",
+    "Name": "Danza"
+  },
+  {
+    "TalentLocalizationId": 290,
+    "TalentId": 29,
+    "LanguageCode": "EN-GB",
+    "Name": "Dark Artist"
+  },
+  {
+    "TalentLocalizationId": 1208,
+    "TalentId": 86,
+    "LanguageCode": "EN-GB",
+    "Name": "Death Defier"
+  },
+  {
+    "TalentLocalizationId": 627,
+    "TalentId": 52,
+    "LanguageCode": "ES-ES",
+    "Name": "Debilitador"
+  },
+  {
+    "TalentLocalizationId": 1127,
+    "TalentId": 77,
+    "LanguageCode": "EN-GB",
+    "Name": "Debilitation Ducker"
+  },
+  {
+    "TalentLocalizationId": 786,
+    "TalentId": 104,
+    "LanguageCode": "FR-FR",
+    "Name": "Débiteur SP"
+  },
+  {
+    "TalentLocalizationId": 209,
+    "TalentId": 21,
+    "LanguageCode": "EN-GB",
+    "Name": "Deep Breather"
+  },
+  {
+    "TalentLocalizationId": 938,
+    "TalentId": 62,
+    "LanguageCode": "EN-GB",
+    "Name": "Defence Booster I"
+  },
+  {
+    "TalentLocalizationId": 947,
+    "TalentId": 63,
+    "LanguageCode": "EN-GB",
+    "Name": "Defence Booster II"
+  },
+  {
+    "TalentLocalizationId": 956,
+    "TalentId": 120,
+    "LanguageCode": "EN-GB",
+    "Name": "Defence Booster III"
+  },
+  {
+    "TalentLocalizationId": 965,
+    "TalentId": 121,
+    "LanguageCode": "EN-GB",
+    "Name": "Defence Booster IV"
+  },
+  {
+    "TalentLocalizationId": 659,
+    "TalentId": 54,
+    "LanguageCode": "EN-GB",
+    "Name": "Defender"
+  },
+  {
+    "TalentLocalizationId": 660,
+    "TalentId": 54,
+    "LanguageCode": "FR-FR",
+    "Name": "Défenseur"
+  },
+  {
+    "TalentLocalizationId": 663,
+    "TalentId": 54,
+    "LanguageCode": "ES-ES",
+    "Name": "Defensor"
+  },
+  {
+    "TalentLocalizationId": 438,
+    "TalentId": 107,
+    "LanguageCode": "ES-ES",
+    "Name": "Delincuente"
+  },
+  {
+    "TalentLocalizationId": 291,
+    "TalentId": 29,
+    "LanguageCode": "FR-FR",
+    "Name": "Démonologue"
+  },
+  {
+    "TalentLocalizationId": 1212,
+    "TalentId": 86,
+    "LanguageCode": "ES-ES",
+    "Name": "Desafío a la muerte"
+  },
+  {
+    "TalentLocalizationId": 1131,
+    "TalentId": 77,
+    "LanguageCode": "ES-ES",
+    "Name": "Desviador de debilitación"
+  },
+  {
+    "TalentLocalizationId": 1140,
+    "TalentId": 78,
+    "LanguageCode": "ES-ES",
+    "Name": "Desviador de deslumbramiento"
+  },
+  {
+    "TalentLocalizationId": 771,
+    "TalentId": 103,
+    "LanguageCode": "ES-ES",
+    "Name": "Detonador de hielo"
+  },
+  {
+    "TalentLocalizationId": 797,
+    "TalentId": 93,
+    "LanguageCode": "DE-DE",
+    "Name": "Dicker Brummer"
+  },
+  {
+    "TalentLocalizationId": 723,
+    "TalentId": 219,
+    "LanguageCode": "FR-FR",
+    "Name": "Doudouleur"
+  },
+  {
+    "TalentLocalizationId": 248,
+    "TalentId": 24,
+    "LanguageCode": "DE-DE",
+    "Name": "Drachenherz"
+  },
+  {
+    "TalentLocalizationId": 245,
+    "TalentId": 24,
+    "LanguageCode": "EN-GB",
+    "Name": "Dragonheart"
+  },
+  {
+    "TalentLocalizationId": 1154,
+    "TalentId": 80,
+    "LanguageCode": "EN-GB",
+    "Name": "Drain Dodger"
+  },
+  {
+    "TalentLocalizationId": 463,
+    "TalentId": 41,
+    "LanguageCode": "IT-IT",
+    "Name": "Eccellenza con la spada"
+  },
+  {
+    "TalentLocalizationId": 454,
+    "TalentId": 106,
+    "LanguageCode": "IT-IT",
+    "Name": "Eccellenza magica"
+  },
+  {
+    "TalentLocalizationId": 770,
+    "TalentId": 103,
+    "LanguageCode": "DE-DE",
+    "Name": "Eisbombe"
+  },
+  {
+    "TalentLocalizationId": 492,
+    "TalentId": 98,
+    "LanguageCode": "ES-ES",
+    "Name": "Empalagoso"
+  },
+  {
+    "TalentLocalizationId": 699,
+    "TalentId": 112,
+    "LanguageCode": "ES-ES",
+    "Name": "Encantador"
+  },
+  {
+    "TalentLocalizationId": 615,
+    "TalentId": 51,
+    "LanguageCode": "FR-FR",
+    "Name": "Énergiseur"
+  },
+  {
+    "TalentLocalizationId": 411,
+    "TalentId": 248,
+    "LanguageCode": "ES-ES",
+    "Name": "Enfangar"
+  },
+  {
+    "TalentLocalizationId": 426,
+    "TalentId": 39,
+    "LanguageCode": "FR-FR",
+    "Name": "Enfant sauvage"
+  },
+  {
+    "TalentLocalizationId": 623,
+    "TalentId": 52,
+    "LanguageCode": "EN-GB",
+    "Name": "Enfeebler"
+  },
+  {
+    "TalentLocalizationId": 526,
+    "TalentId": 247,
+    "LanguageCode": "IT-IT",
+    "Name": "Enormità"
+  },
+  {
+    "TalentLocalizationId": 678,
+    "TalentId": 97,
+    "LanguageCode": "FR-FR",
+    "Name": "Enquiquineur"
+  },
+  {
+    "TalentLocalizationId": 1130,
+    "TalentId": 77,
+    "LanguageCode": "DE-DE",
+    "Name": "Entkräftungsentgeher"
+  },
+  {
+    "TalentLocalizationId": 267,
+    "TalentId": 26,
+    "LanguageCode": "ES-ES",
+    "Name": "Entomólogo"
+  },
+  {
+    "TalentLocalizationId": 653,
+    "TalentId": 113,
+    "LanguageCode": "DE-DE",
+    "Name": "Entzauberer"
+  },
+  {
+    "TalentLocalizationId": 1239,
+    "TalentId": 134,
+    "LanguageCode": "ES-ES",
+    "Name": "Escudo ciclónico"
+  },
+  {
+    "TalentLocalizationId": 1248,
+    "TalentId": 133,
+    "LanguageCode": "ES-ES",
+    "Name": "Escudo claroscuro"
+  },
+  {
+    "TalentLocalizationId": 1266,
+    "TalentId": 131,
+    "LanguageCode": "ES-ES",
+    "Name": "Escudo fulgurante"
+  },
+  {
+    "TalentLocalizationId": 1230,
+    "TalentId": 136,
+    "LanguageCode": "ES-ES",
+    "Name": "Escudo glacial"
+  },
+  {
+    "TalentLocalizationId": 1221,
+    "TalentId": 135,
+    "LanguageCode": "ES-ES",
+    "Name": "Escudo magmático"
+  },
+  {
+    "TalentLocalizationId": 1257,
+    "TalentId": 132,
+    "LanguageCode": "ES-ES",
+    "Name": "Escudo telúrico"
+  },
+  {
+    "TalentLocalizationId": 465,
+    "TalentId": 41,
+    "LanguageCode": "ES-ES",
+    "Name": "Esgrimista experto"
+  },
+  {
+    "TalentLocalizationId": 339,
+    "TalentId": 87,
+    "LanguageCode": "ES-ES",
+    "Name": "Espadachín aguado"
+  },
+  {
+    "TalentLocalizationId": 357,
+    "TalentId": 35,
+    "LanguageCode": "ES-ES",
+    "Name": "Espadachín pétreo"
+  },
+  {
+    "TalentLocalizationId": 330,
+    "TalentId": 33,
+    "LanguageCode": "ES-ES",
+    "Name": "Espadachín picante"
+  },
+  {
+    "TalentLocalizationId": 348,
+    "TalentId": 34,
+    "LanguageCode": "ES-ES",
+    "Name": "Espadachín ventoso"
+  },
+  {
+    "TalentLocalizationId": 327,
+    "TalentId": 33,
+    "LanguageCode": "FR-FR",
+    "Name": "Estoqueur de feu"
+  },
+  {
+    "TalentLocalizationId": 354,
+    "TalentId": 35,
+    "LanguageCode": "FR-FR",
+    "Name": "Estoqueur de pierre"
+  },
+  {
+    "TalentLocalizationId": 345,
+    "TalentId": 34,
+    "LanguageCode": "FR-FR",
+    "Name": "Estoqueur de vent"
+  },
+  {
+    "TalentLocalizationId": 336,
+    "TalentId": 87,
+    "LanguageCode": "FR-FR",
+    "Name": "Estoqueur d'eau"
+  },
+  {
+    "TalentLocalizationId": 375,
+    "TalentId": 37,
+    "LanguageCode": "ES-ES",
+    "Name": "Excomulgador"
+  },
+  {
+    "TalentLocalizationId": 24,
+    "TalentId": 3,
+    "LanguageCode": "ES-ES",
+    "Name": "Fan de Aspersión"
+  },
+  {
+    "TalentLocalizationId": 6,
+    "TalentId": 1,
+    "LanguageCode": "ES-ES",
+    "Name": "Fan de Miniataque ígneo"
+  },
+  {
+    "TalentLocalizationId": 114,
+    "TalentId": 13,
+    "LanguageCode": "ES-ES",
+    "Name": "Fan de Minidescarga"
+  },
+  {
+    "TalentLocalizationId": 78,
+    "TalentId": 9,
+    "LanguageCode": "ES-ES",
+    "Name": "Fan de Miniexplosión"
+  },
+  {
+    "TalentLocalizationId": 96,
+    "TalentId": 11,
+    "LanguageCode": "ES-ES",
+    "Name": "Fan de Minihelada"
+  },
+  {
+    "TalentLocalizationId": 132,
+    "TalentId": 15,
+    "LanguageCode": "ES-ES",
+    "Name": "Fan de Miniincendio"
+  },
+  {
+    "TalentLocalizationId": 150,
+    "TalentId": 17,
+    "LanguageCode": "ES-ES",
+    "Name": "Fan de Minirrayo"
+  },
+  {
+    "TalentLocalizationId": 60,
+    "TalentId": 7,
+    "LanguageCode": "ES-ES",
+    "Name": "Fan de Minirrisco"
+  },
+  {
+    "TalentLocalizationId": 42,
+    "TalentId": 5,
+    "LanguageCode": "ES-ES",
+    "Name": "Fan de Minitornado"
+  },
+  {
+    "TalentLocalizationId": 5,
+    "TalentId": 1,
+    "LanguageCode": "DE-DE",
+    "Name": "Fauch-Fan"
+  },
+  {
+    "TalentLocalizationId": 1049,
+    "TalentId": 68,
+    "LanguageCode": "DE-DE",
+    "Name": "Fauchresistenz"
+  },
+  {
+    "TalentLocalizationId": 14,
+    "TalentId": 2,
+    "LanguageCode": "DE-DE",
+    "Name": "Fauch-Virtuose"
+  },
+  {
+    "TalentLocalizationId": 329,
+    "TalentId": 33,
+    "LanguageCode": "DE-DE",
+    "Name": "Feurige Klinge"
+  },
+  {
+    "TalentLocalizationId": 443,
+    "TalentId": 40,
+    "LanguageCode": "EN-GB",
+    "Name": "Fighter"
+  },
+  {
+    "TalentLocalizationId": 203,
+    "TalentId": 20,
+    "LanguageCode": "DE-DE",
+    "Name": "Flachatmer"
+  },
+  {
+    "TalentLocalizationId": 743,
+    "TalentId": 188,
+    "LanguageCode": "DE-DE",
+    "Name": "Flaumel"
+  },
+  {
+    "TalentLocalizationId": 977,
+    "TalentId": 64,
+    "LanguageCode": "DE-DE",
+    "Name": "Flinkheitsverstärker I"
+  },
+  {
+    "TalentLocalizationId": 986,
+    "TalentId": 65,
+    "LanguageCode": "DE-DE",
+    "Name": "Flinkheitsverstärker II"
+  },
+  {
+    "TalentLocalizationId": 995,
+    "TalentId": 122,
+    "LanguageCode": "DE-DE",
+    "Name": "Flinkheitsverstärker III"
+  },
+  {
+    "TalentLocalizationId": 1004,
+    "TalentId": 123,
+    "LanguageCode": "DE-DE",
+    "Name": "Flinkheitsverstärker IV"
+  },
+  {
+    "TalentLocalizationId": 383,
+    "TalentId": 95,
+    "LanguageCode": "DE-DE",
+    "Name": "Flitzer"
+  },
+  {
+    "TalentLocalizationId": 725,
+    "TalentId": 219,
+    "LanguageCode": "DE-DE",
+    "Name": "Fluffi"
+  },
+  {
+    "TalentLocalizationId": 722,
+    "TalentId": 219,
+    "LanguageCode": "EN-GB",
+    "Name": "Fluffy"
+  },
+  {
+    "TalentLocalizationId": 166,
+    "TalentId": 19,
+    "LanguageCode": "IT-IT",
+    "Name": "Focosità"
+  },
+  {
+    "TalentLocalizationId": 175,
+    "TalentId": 105,
+    "LanguageCode": "IT-IT",
+    "Name": "Focosità plus"
+  },
+  {
+    "TalentLocalizationId": 715,
+    "TalentId": 158,
+    "LanguageCode": "IT-IT",
+    "Name": "Forte magia"
+  },
+  {
+    "TalentLocalizationId": 618,
+    "TalentId": 51,
+    "LanguageCode": "ES-ES",
+    "Name": "Fortificador"
+  },
+  {
+    "TalentLocalizationId": 616,
+    "TalentId": 51,
+    "LanguageCode": "IT-IT",
+    "Name": "Fortificazione"
+  },
+  {
+    "TalentLocalizationId": 614,
+    "TalentId": 51,
+    "LanguageCode": "EN-GB",
+    "Name": "Fortifier"
+  },
+  {
+    "TalentLocalizationId": 310,
+    "TalentId": 31,
+    "LanguageCode": "IT-IT",
+    "Name": "Forza della natura"
+  },
+  {
+    "TalentLocalizationId": 364,
+    "TalentId": 36,
+    "LanguageCode": "IT-IT",
+    "Name": "Freddi brividi"
+  },
+  {
+    "TalentLocalizationId": 767,
+    "TalentId": 103,
+    "LanguageCode": "EN-GB",
+    "Name": "Freeze Popper"
+  },
+  {
+    "TalentLocalizationId": 776,
+    "TalentId": 129,
+    "LanguageCode": "EN-GB",
+    "Name": "Freezer Burner"
+  },
+  {
+    "TalentLocalizationId": 183,
+    "TalentId": 110,
+    "LanguageCode": "FR-FR",
+    "Name": "Frigo"
+  },
+  {
+    "TalentLocalizationId": 2,
+    "TalentId": 1,
+    "LanguageCode": "EN-GB",
+    "Name": "Frizz Afficionado"
+  },
+  {
+    "TalentLocalizationId": 11,
+    "TalentId": 2,
+    "LanguageCode": "EN-GB",
+    "Name": "Frizz Virtuoso"
+  },
+  {
+    "TalentLocalizationId": 1046,
+    "TalentId": 68,
+    "LanguageCode": "EN-GB",
+    "Name": "Frizz Ward"
+  },
+  {
+    "TalentLocalizationId": 338,
+    "TalentId": 87,
+    "LanguageCode": "DE-DE",
+    "Name": "Frostige Klinge"
+  },
+  {
+    "TalentLocalizationId": 191,
+    "TalentId": 126,
+    "LanguageCode": "EN-GB",
+    "Name": "Frosty Receptionist"
+  },
+  {
+    "TalentLocalizationId": 1262,
+    "TalentId": 131,
+    "LanguageCode": "EN-GB",
+    "Name": "Fulgurite Shield"
+  },
+  {
+    "TalentLocalizationId": 1265,
+    "TalentId": 131,
+    "LanguageCode": "DE-DE",
+    "Name": "Fulguritschild"
+  },
+  {
+    "TalentLocalizationId": 778,
+    "TalentId": 129,
+    "LanguageCode": "IT-IT",
+    "Name": "Fuoco ghiacciato"
+  },
+  {
+    "TalentLocalizationId": 427,
+    "TalentId": 39,
+    "LanguageCode": "IT-IT",
+    "Name": "Furia selvaggia"
+  },
+  {
+    "TalentLocalizationId": 740,
+    "TalentId": 188,
+    "LanguageCode": "EN-GB",
+    "Name": "Fuzzy Thinker"
+  },
+  {
+    "TalentLocalizationId": 779,
+    "TalentId": 129,
+    "LanguageCode": "DE-DE",
+    "Name": "Gefrierbrandstifter"
+  },
+  {
+    "TalentLocalizationId": 769,
+    "TalentId": 103,
+    "LanguageCode": "IT-IT",
+    "Name": "Gelo esplosivo"
+  },
+  {
+    "TalentLocalizationId": 761,
+    "TalentId": 130,
+    "LanguageCode": "DE-DE",
+    "Name": "Gewitterguru"
+  },
+  {
+    "TalentLocalizationId": 257,
+    "TalentId": 25,
+    "LanguageCode": "DE-DE",
+    "Name": "Giftiger Grufti"
+  },
+  {
+    "TalentLocalizationId": 528,
+    "TalentId": 247,
+    "LanguageCode": "ES-ES",
+    "Name": "Gigantez"
+  },
+  {
+    "TalentLocalizationId": 400,
+    "TalentId": 250,
+    "LanguageCode": "IT-IT",
+    "Name": "Giocare col fuoco"
+  },
+  {
+    "TalentLocalizationId": 1226,
+    "TalentId": 136,
+    "LanguageCode": "EN-GB",
+    "Name": "Glacier Shield"
+  },
+  {
+    "TalentLocalizationId": 192,
+    "TalentId": 126,
+    "LanguageCode": "FR-FR",
+    "Name": "Glacière"
+  },
+  {
+    "TalentLocalizationId": 1229,
+    "TalentId": 136,
+    "LanguageCode": "DE-DE",
+    "Name": "Gletscherschild"
+  },
+  {
+    "TalentLocalizationId": 524,
+    "TalentId": 247,
+    "LanguageCode": "EN-GB",
+    "Name": "Goliath"
+  },
+  {
+    "TalentLocalizationId": 470,
+    "TalentId": 88,
+    "LanguageCode": "EN-GB",
+    "Name": "Good Knight"
+  },
+  {
+    "TalentLocalizationId": 661,
+    "TalentId": 54,
+    "LanguageCode": "IT-IT",
+    "Name": "Gran difesa"
+  },
+  {
+    "TalentLocalizationId": 210,
+    "TalentId": 21,
+    "LanguageCode": "FR-FR",
+    "Name": "Grand souffleur"
+  },
+  {
+    "TalentLocalizationId": 418,
+    "TalentId": 38,
+    "LanguageCode": "IT-IT",
+    "Name": "Grande potenza"
+  },
+  {
+    "TalentLocalizationId": 254,
+    "TalentId": 25,
+    "LanguageCode": "EN-GB",
+    "Name": "Graveheart"
+  },
+  {
+    "TalentLocalizationId": 149,
+    "TalentId": 17,
+    "LanguageCode": "DE-DE",
+    "Name": "Gritz-Fan"
+  },
+  {
+    "TalentLocalizationId": 1121,
+    "TalentId": 76,
+    "LanguageCode": "DE-DE",
+    "Name": "Gritzresistenz"
+  },
+  {
+    "TalentLocalizationId": 158,
+    "TalentId": 18,
+    "LanguageCode": "DE-DE",
+    "Name": "Gritz-Virtuose"
+  },
+  {
+    "TalentLocalizationId": 562,
+    "TalentId": 47,
+    "LanguageCode": "IT-IT",
+    "Name": "Guarigione"
+  },
+  {
+    "TalentLocalizationId": 581,
+    "TalentId": 49,
+    "LanguageCode": "DE-DE",
+    "Name": "Gute Fee"
+  },
+  {
+    "TalentLocalizationId": 788,
+    "TalentId": 104,
+    "LanguageCode": "DE-DE",
+    "Name": "Haarspalter"
+  },
+  {
+    "TalentLocalizationId": 785,
+    "TalentId": 104,
+    "LanguageCode": "EN-GB",
+    "Name": "Hair Splitter"
+  },
+  {
+    "TalentLocalizationId": 560,
+    "TalentId": 47,
+    "LanguageCode": "EN-GB",
+    "Name": "Healer"
+  },
+  {
+    "TalentLocalizationId": 717,
+    "TalentId": 158,
+    "LanguageCode": "ES-ES",
+    "Name": "Hechizador potente"
+  },
+  {
+    "TalentLocalizationId": 563,
+    "TalentId": 47,
+    "LanguageCode": "DE-DE",
+    "Name": "Heiler"
+  },
+  {
+    "TalentLocalizationId": 500,
+    "TalentId": 181,
+    "LanguageCode": "DE-DE",
+    "Name": "Heiße Sohle"
+  },
+  {
+    "TalentLocalizationId": 176,
+    "TalentId": 105,
+    "LanguageCode": "DE-DE",
+    "Name": "Heizungsmeister"
+  },
+  {
+    "TalentLocalizationId": 167,
+    "TalentId": 19,
+    "LanguageCode": "DE-DE",
+    "Name": "Heizungstechniker"
+  },
+  {
+    "TalentLocalizationId": 371,
+    "TalentId": 37,
+    "LanguageCode": "EN-GB",
+    "Name": "Hexcommunicator"
+  },
+  {
+    "TalentLocalizationId": 374,
+    "TalentId": 37,
+    "LanguageCode": "DE-DE",
+    "Name": "Hexorzist"
+  },
+  {
+    "TalentLocalizationId": 321,
+    "TalentId": 32,
+    "LanguageCode": "ES-ES",
+    "Name": "Hidrotecario"
+  },
+  {
+    "TalentLocalizationId": 263,
+    "TalentId": 26,
+    "LanguageCode": "EN-GB",
+    "Name": "Hive Mind"
+  },
+  {
+    "TalentLocalizationId": 497,
+    "TalentId": 181,
+    "LanguageCode": "EN-GB",
+    "Name": "Hottie"
+  },
+  {
+    "TalentLocalizationId": 830,
+    "TalentId": 56,
+    "LanguageCode": "EN-GB",
+    "Name": "HP Booster I"
+  },
+  {
+    "TalentLocalizationId": 839,
+    "TalentId": 57,
+    "LanguageCode": "EN-GB",
+    "Name": "HP Booster II"
+  },
+  {
+    "TalentLocalizationId": 848,
+    "TalentId": 114,
+    "LanguageCode": "EN-GB",
+    "Name": "HP Booster III"
+  },
+  {
+    "TalentLocalizationId": 857,
+    "TalentId": 115,
+    "LanguageCode": "EN-GB",
+    "Name": "HP Booster IV"
+  },
+  {
+    "TalentLocalizationId": 837,
+    "TalentId": 56,
+    "LanguageCode": "KO-KR",
+    "Name": "HP UP 1"
+  },
+  {
+    "TalentLocalizationId": 846,
+    "TalentId": 57,
+    "LanguageCode": "KO-KR",
+    "Name": "HP UP 2"
+  },
+  {
+    "TalentLocalizationId": 855,
+    "TalentId": 114,
+    "LanguageCode": "KO-KR",
+    "Name": "HP UP 3"
+  },
+  {
+    "TalentLocalizationId": 864,
+    "TalentId": 115,
+    "LanguageCode": "KO-KR",
+    "Name": "HP UP 4"
+  },
+  {
+    "TalentLocalizationId": 567,
+    "TalentId": 47,
+    "LanguageCode": "KO-KR",
+    "Name": "HP 회복"
+  },
+  {
+    "TalentLocalizationId": 829,
+    "TalentId": 56,
+    "LanguageCode": "JP-JP",
+    "Name": "HPアップ１"
+  },
+  {
+    "TalentLocalizationId": 838,
+    "TalentId": 57,
+    "LanguageCode": "JP-JP",
+    "Name": "HPアップ２"
+  },
+  {
+    "TalentLocalizationId": 847,
+    "TalentId": 114,
+    "LanguageCode": "JP-JP",
+    "Name": "HPアップ３"
+  },
+  {
+    "TalentLocalizationId": 856,
+    "TalentId": 115,
+    "LanguageCode": "JP-JP",
+    "Name": "HPアップ４"
+  },
+  {
+    "TalentLocalizationId": 559,
+    "TalentId": 47,
+    "LanguageCode": "JP-JP",
+    "Name": "HP回復"
+  },
+  {
+    "TalentLocalizationId": 566,
+    "TalentId": 47,
+    "LanguageCode": "ZH-CN",
+    "Name": "ＨＰ恢复"
+  },
+  {
+    "TalentLocalizationId": 565,
+    "TalentId": 47,
+    "LanguageCode": "ZH-TW",
+    "Name": "ＨＰ恢復"
+  },
+  {
+    "TalentLocalizationId": 835,
+    "TalentId": 56,
+    "LanguageCode": "ZH-TW",
+    "Name": "ＨＰ提升１"
+  },
+  {
+    "TalentLocalizationId": 836,
+    "TalentId": 56,
+    "LanguageCode": "ZH-CN",
+    "Name": "ＨＰ提升１"
+  },
+  {
+    "TalentLocalizationId": 844,
+    "TalentId": 57,
+    "LanguageCode": "ZH-TW",
+    "Name": "ＨＰ提升２"
+  },
+  {
+    "TalentLocalizationId": 845,
+    "TalentId": 57,
+    "LanguageCode": "ZH-CN",
+    "Name": "ＨＰ提升２"
+  },
+  {
+    "TalentLocalizationId": 853,
+    "TalentId": 114,
+    "LanguageCode": "ZH-TW",
+    "Name": "ＨＰ提升３"
+  },
+  {
+    "TalentLocalizationId": 854,
+    "TalentId": 114,
+    "LanguageCode": "ZH-CN",
+    "Name": "ＨＰ提升３"
+  },
+  {
+    "TalentLocalizationId": 862,
+    "TalentId": 115,
+    "LanguageCode": "ZH-TW",
+    "Name": "ＨＰ提升４"
+  },
+  {
+    "TalentLocalizationId": 863,
+    "TalentId": 115,
+    "LanguageCode": "ZH-CN",
+    "Name": "ＨＰ提升４"
+  },
+  {
+    "TalentLocalizationId": 798,
+    "TalentId": 93,
+    "LanguageCode": "ES-ES",
+    "Name": "Impactante"
+  },
+  {
+    "TalentLocalizationId": 794,
+    "TalentId": 93,
+    "LanguageCode": "EN-GB",
+    "Name": "Impactor"
+  },
+  {
+    "TalentLocalizationId": 796,
+    "TalentId": 93,
+    "LanguageCode": "IT-IT",
+    "Name": "Impatto incandescente"
+  },
+  {
+    "TalentLocalizationId": 165,
+    "TalentId": 19,
+    "LanguageCode": "FR-FR",
+    "Name": "Incendiaire"
+  },
+  {
+    "TalentLocalizationId": 625,
+    "TalentId": 52,
+    "LanguageCode": "IT-IT",
+    "Name": "Indebolimento"
+  },
+  {
+    "TalentLocalizationId": 265,
+    "TalentId": 26,
+    "LanguageCode": "IT-IT",
+    "Name": "Insector"
+  },
+  {
+    "TalentLocalizationId": 677,
+    "TalentId": 97,
+    "LanguageCode": "EN-GB",
+    "Name": "Irritant"
+  },
+  {
+    "TalentLocalizationId": 681,
+    "TalentId": 97,
+    "LanguageCode": "ES-ES",
+    "Name": "Irritante"
+  },
+  {
+    "TalentLocalizationId": 679,
+    "TalentId": 97,
+    "LanguageCode": "IT-IT",
+    "Name": "Irritazione"
+  },
+  {
+    "TalentLocalizationId": 402,
+    "TalentId": 250,
+    "LanguageCode": "ES-ES",
+    "Name": "Jugar con fuego"
+  },
+  {
+    "TalentLocalizationId": 185,
+    "TalentId": 110,
+    "LanguageCode": "DE-DE",
+    "Name": "Kaltblüter"
+  },
+  {
+    "TalentLocalizationId": 446,
+    "TalentId": 40,
+    "LanguageCode": "DE-DE",
+    "Name": "Kämpfer"
+  },
+  {
+    "TalentLocalizationId": 464,
+    "TalentId": 41,
+    "LanguageCode": "DE-DE",
+    "Name": "Klingenkenner"
+  },
+  {
+    "TalentLocalizationId": 95,
+    "TalentId": 11,
+    "LanguageCode": "DE-DE",
+    "Name": "Knirsch-Fan"
+  },
+  {
+    "TalentLocalizationId": 1094,
+    "TalentId": 73,
+    "LanguageCode": "DE-DE",
+    "Name": "Knirschresistenz"
+  },
+  {
+    "TalentLocalizationId": 104,
+    "TalentId": 12,
+    "LanguageCode": "DE-DE",
+    "Name": "Knirsch-Virtuose"
+  },
+  {
+    "TalentLocalizationId": 131,
+    "TalentId": 15,
+    "LanguageCode": "DE-DE",
+    "Name": "Knister-Fan"
+  },
+  {
+    "TalentLocalizationId": 1112,
+    "TalentId": 75,
+    "LanguageCode": "DE-DE",
+    "Name": "Knisterresistenz"
+  },
+  {
+    "TalentLocalizationId": 140,
+    "TalentId": 16,
+    "LanguageCode": "DE-DE",
+    "Name": "Knister-Virtuose"
+  },
+  {
+    "TalentLocalizationId": 266,
+    "TalentId": 26,
+    "LanguageCode": "DE-DE",
+    "Name": "Kollektivbewusstsein"
+  },
+  {
+    "TalentLocalizationId": 527,
+    "TalentId": 247,
+    "LanguageCode": "DE-DE",
+    "Name": "Koloss"
+  },
+  {
+    "TalentLocalizationId": 428,
+    "TalentId": 39,
+    "LanguageCode": "DE-DE",
+    "Name": "Krawallmacher"
+  },
+  {
+    "TalentLocalizationId": 473,
+    "TalentId": 88,
+    "LanguageCode": "DE-DE",
+    "Name": "Kreuzbraver Ritter"
+  },
+  {
+    "TalentLocalizationId": 1202,
+    "TalentId": 85,
+    "LanguageCode": "DE-DE",
+    "Name": "Lähmungslöser"
+  },
+  {
+    "TalentLocalizationId": 346,
+    "TalentId": 34,
+    "LanguageCode": "IT-IT",
+    "Name": "Lama eolica"
+  },
+  {
+    "TalentLocalizationId": 328,
+    "TalentId": 33,
+    "LanguageCode": "IT-IT",
+    "Name": "Lama infuocata"
+  },
+  {
+    "TalentLocalizationId": 337,
+    "TalentId": 87,
+    "LanguageCode": "IT-IT",
+    "Name": "Lama liquida"
+  },
+  {
+    "TalentLocalizationId": 787,
+    "TalentId": 104,
+    "LanguageCode": "IT-IT",
+    "Name": "Lama maestra"
+  },
+  {
+    "TalentLocalizationId": 355,
+    "TalentId": 35,
+    "LanguageCode": "IT-IT",
+    "Name": "Lama rocciosa"
+  },
+  {
+    "TalentLocalizationId": 240,
+    "TalentId": 23,
+    "LanguageCode": "ES-ES",
+    "Name": "Limero"
+  },
+  {
+    "TalentLocalizationId": 490,
+    "TalentId": 98,
+    "LanguageCode": "IT-IT",
+    "Name": "Lingua dolce"
+  },
+  {
+    "TalentLocalizationId": 507,
+    "TalentId": 43,
+    "LanguageCode": "FR-FR",
+    "Name": "Linguiste"
+  },
+  {
+    "TalentLocalizationId": 508,
+    "TalentId": 43,
+    "LanguageCode": "IT-IT",
+    "Name": "Linguistica"
+  },
+  {
+    "TalentLocalizationId": 833,
+    "TalentId": 56,
+    "LanguageCode": "DE-DE",
+    "Name": "LP-Verstärker I"
+  },
+  {
+    "TalentLocalizationId": 842,
+    "TalentId": 57,
+    "LanguageCode": "DE-DE",
+    "Name": "LP-Verstärker II"
+  },
+  {
+    "TalentLocalizationId": 851,
+    "TalentId": 114,
+    "LanguageCode": "DE-DE",
+    "Name": "LP-Verstärker III"
+  },
+  {
+    "TalentLocalizationId": 860,
+    "TalentId": 115,
+    "LanguageCode": "DE-DE",
+    "Name": "LP-Verstärker IV"
+  },
+  {
+    "TalentLocalizationId": 752,
+    "TalentId": 91,
+    "LanguageCode": "DE-DE",
+    "Name": "Lufterhitzer"
+  },
+  {
+    "TalentLocalizationId": 121,
+    "TalentId": 14,
+    "LanguageCode": "IT-IT",
+    "Name": "Maestria dei fulmini"
+  },
+  {
+    "TalentLocalizationId": 31,
+    "TalentId": 4,
+    "LanguageCode": "IT-IT",
+    "Name": "Maestria dei liquidi"
+  },
+  {
+    "TalentLocalizationId": 49,
+    "TalentId": 6,
+    "LanguageCode": "IT-IT",
+    "Name": "Maestria dei venti"
+  },
+  {
+    "TalentLocalizationId": 13,
+    "TalentId": 2,
+    "LanguageCode": "IT-IT",
+    "Name": "Maestria del fuoco"
+  },
+  {
+    "TalentLocalizationId": 103,
+    "TalentId": 12,
+    "LanguageCode": "IT-IT",
+    "Name": "Maestria del ghiaccio"
+  },
+  {
+    "TalentLocalizationId": 139,
+    "TalentId": 16,
+    "LanguageCode": "IT-IT",
+    "Name": "Maestria della luce"
+  },
+  {
+    "TalentLocalizationId": 85,
+    "TalentId": 10,
+    "LanguageCode": "IT-IT",
+    "Name": "Maestria delle esplosioni"
+  },
+  {
+    "TalentLocalizationId": 67,
+    "TalentId": 8,
+    "LanguageCode": "IT-IT",
+    "Name": "Maestria delle rocce"
+  },
+  {
+    "TalentLocalizationId": 157,
+    "TalentId": 18,
+    "LanguageCode": "IT-IT",
+    "Name": "Maestria dell'oscurità"
+  },
+  {
+    "TalentLocalizationId": 714,
+    "TalentId": 158,
+    "LanguageCode": "FR-FR",
+    "Name": "Mage maousse"
+  },
+  {
+    "TalentLocalizationId": 814,
+    "TalentId": 94,
+    "LanguageCode": "IT-IT",
+    "Name": "Magia suprema"
+  },
+  {
+    "TalentLocalizationId": 452,
+    "TalentId": 106,
+    "LanguageCode": "EN-GB",
+    "Name": "Magic Maven"
+  },
+  {
+    "TalentLocalizationId": 455,
+    "TalentId": 106,
+    "LanguageCode": "DE-DE",
+    "Name": "Magie-Magister"
+  },
+  {
+    "TalentLocalizationId": 1217,
+    "TalentId": 135,
+    "LanguageCode": "EN-GB",
+    "Name": "Magma Shield"
+  },
+  {
+    "TalentLocalizationId": 1220,
+    "TalentId": 135,
+    "LanguageCode": "DE-DE",
+    "Name": "Magmaschild"
+  },
+  {
+    "TalentLocalizationId": 456,
+    "TalentId": 106,
+    "LanguageCode": "ES-ES",
+    "Name": "Mago experto"
+  },
+  {
+    "TalentLocalizationId": 373,
+    "TalentId": 37,
+    "LanguageCode": "IT-IT",
+    "Name": "Maledicenza"
+  },
+  {
+    "TalentLocalizationId": 483,
+    "TalentId": 42,
+    "LanguageCode": "ES-ES",
+    "Name": "Manilargo"
+  },
+  {
+    "TalentLocalizationId": 417,
+    "TalentId": 38,
+    "LanguageCode": "FR-FR",
+    "Name": "Marmule"
+  },
+  {
+    "TalentLocalizationId": 537,
+    "TalentId": 99,
+    "LanguageCode": "ES-ES",
+    "Name": "Mártir"
+  },
+  {
+    "TalentLocalizationId": 535,
+    "TalentId": 99,
+    "LanguageCode": "IT-IT",
+    "Name": "Martirio"
+  },
+  {
+    "TalentLocalizationId": 533,
+    "TalentId": 99,
+    "LanguageCode": "EN-GB",
+    "Name": "Martyr"
+  },
+  {
+    "TalentLocalizationId": 534,
+    "TalentId": 99,
+    "LanguageCode": "FR-FR",
+    "Name": "Martyr"
+  },
+  {
+    "TalentLocalizationId": 536,
+    "TalentId": 99,
+    "LanguageCode": "DE-DE",
+    "Name": "Märtyrer"
+  },
+  {
+    "TalentLocalizationId": 274,
+    "TalentId": 27,
+    "LanguageCode": "IT-IT",
+    "Name": "Materialismo"
+  },
+  {
+    "TalentLocalizationId": 275,
+    "TalentId": 27,
+    "LanguageCode": "DE-DE",
+    "Name": "Materialist"
+  },
+  {
+    "TalentLocalizationId": 272,
+    "TalentId": 27,
+    "LanguageCode": "EN-GB",
+    "Name": "Materialist"
+  },
+  {
+    "TalentLocalizationId": 276,
+    "TalentId": 27,
+    "LanguageCode": "ES-ES",
+    "Name": "Materialista"
+  },
+  {
+    "TalentLocalizationId": 273,
+    "TalentId": 27,
+    "LanguageCode": "FR-FR",
+    "Name": "Matérialiste"
+  },
+  {
+    "TalentLocalizationId": 687,
+    "TalentId": 90,
+    "LanguageCode": "FR-FR",
+    "Name": "Mauvaise langue"
+  },
+  {
+    "TalentLocalizationId": 815,
+    "TalentId": 94,
+    "LanguageCode": "DE-DE",
+    "Name": "Meistermagier"
+  },
+  {
+    "TalentLocalizationId": 518,
+    "TalentId": 44,
+    "LanguageCode": "DE-DE",
+    "Name": "Meuchler"
+  },
+  {
+    "TalentLocalizationId": 580,
+    "TalentId": 49,
+    "LanguageCode": "IT-IT",
+    "Name": "Mistificazione"
+  },
+  {
+    "TalentLocalizationId": 866,
+    "TalentId": 58,
+    "LanguageCode": "EN-GB",
+    "Name": "MP Booster I"
+  },
+  {
+    "TalentLocalizationId": 875,
+    "TalentId": 59,
+    "LanguageCode": "EN-GB",
+    "Name": "MP Booster II"
+  },
+  {
+    "TalentLocalizationId": 884,
+    "TalentId": 116,
+    "LanguageCode": "EN-GB",
+    "Name": "MP Booster III"
+  },
+  {
+    "TalentLocalizationId": 893,
+    "TalentId": 117,
+    "LanguageCode": "EN-GB",
+    "Name": "MP Booster IV"
+  },
+  {
+    "TalentLocalizationId": 873,
+    "TalentId": 58,
+    "LanguageCode": "KO-KR",
+    "Name": "MP UP 1"
+  },
+  {
+    "TalentLocalizationId": 882,
+    "TalentId": 59,
+    "LanguageCode": "KO-KR",
+    "Name": "MP UP 2"
+  },
+  {
+    "TalentLocalizationId": 891,
+    "TalentId": 116,
+    "LanguageCode": "KO-KR",
+    "Name": "MP UP 3"
+  },
+  {
+    "TalentLocalizationId": 900,
+    "TalentId": 117,
+    "LanguageCode": "KO-KR",
+    "Name": "MP UP 4"
+  },
+  {
+    "TalentLocalizationId": 1161,
+    "TalentId": 80,
+    "LanguageCode": "KO-KR",
+    "Name": "MP 흡수 가드"
+  },
+  {
+    "TalentLocalizationId": 869,
+    "TalentId": 58,
+    "LanguageCode": "DE-DE",
+    "Name": "MP-Verstärker I"
+  },
+  {
+    "TalentLocalizationId": 878,
+    "TalentId": 59,
+    "LanguageCode": "DE-DE",
+    "Name": "MP-Verstärker II"
+  },
+  {
+    "TalentLocalizationId": 887,
+    "TalentId": 116,
+    "LanguageCode": "DE-DE",
+    "Name": "MP-Verstärker III"
+  },
+  {
+    "TalentLocalizationId": 896,
+    "TalentId": 117,
+    "LanguageCode": "DE-DE",
+    "Name": "MP-Verstärker IV"
+  },
+  {
+    "TalentLocalizationId": 865,
+    "TalentId": 58,
+    "LanguageCode": "JP-JP",
+    "Name": "MPアップ１"
+  },
+  {
+    "TalentLocalizationId": 874,
+    "TalentId": 59,
+    "LanguageCode": "JP-JP",
+    "Name": "MPアップ２"
+  },
+  {
+    "TalentLocalizationId": 883,
+    "TalentId": 116,
+    "LanguageCode": "JP-JP",
+    "Name": "MPアップ３"
+  },
+  {
+    "TalentLocalizationId": 892,
+    "TalentId": 117,
+    "LanguageCode": "JP-JP",
+    "Name": "MPアップ４"
+  },
+  {
+    "TalentLocalizationId": 1153,
+    "TalentId": 80,
+    "LanguageCode": "JP-JP",
+    "Name": "MP吸収ガード"
+  },
+  {
+    "TalentLocalizationId": 1160,
+    "TalentId": 80,
+    "LanguageCode": "ZH-CN",
+    "Name": "ＭＰ吸收防护"
+  },
+  {
+    "TalentLocalizationId": 1159,
+    "TalentId": 80,
+    "LanguageCode": "ZH-TW",
+    "Name": "ＭＰ吸收防護"
+  },
+  {
+    "TalentLocalizationId": 871,
+    "TalentId": 58,
+    "LanguageCode": "ZH-TW",
+    "Name": "ＭＰ提升１"
+  },
+  {
+    "TalentLocalizationId": 872,
+    "TalentId": 58,
+    "LanguageCode": "ZH-CN",
+    "Name": "ＭＰ提升１"
+  },
+  {
+    "TalentLocalizationId": 880,
+    "TalentId": 59,
+    "LanguageCode": "ZH-TW",
+    "Name": "ＭＰ提升２"
+  },
+  {
+    "TalentLocalizationId": 881,
+    "TalentId": 59,
+    "LanguageCode": "ZH-CN",
+    "Name": "ＭＰ提升２"
+  },
+  {
+    "TalentLocalizationId": 889,
+    "TalentId": 116,
+    "LanguageCode": "ZH-TW",
+    "Name": "ＭＰ提升３"
+  },
+  {
+    "TalentLocalizationId": 890,
+    "TalentId": 116,
+    "LanguageCode": "ZH-CN",
+    "Name": "ＭＰ提升３"
+  },
+  {
+    "TalentLocalizationId": 898,
+    "TalentId": 117,
+    "LanguageCode": "ZH-TW",
+    "Name": "ＭＰ提升４"
+  },
+  {
+    "TalentLocalizationId": 899,
+    "TalentId": 117,
+    "LanguageCode": "ZH-CN",
+    "Name": "ＭＰ提升４"
+  },
+  {
+    "TalentLocalizationId": 407,
+    "TalentId": 248,
+    "LanguageCode": "EN-GB",
+    "Name": "Mudmonger"
+  },
+  {
+    "TalentLocalizationId": 734,
+    "TalentId": 220,
+    "LanguageCode": "DE-DE",
+    "Name": "Muffi"
+  },
+  {
+    "TalentLocalizationId": 283,
+    "TalentId": 28,
+    "LanguageCode": "IT-IT",
+    "Name": "Naturalismo"
+  },
+  {
+    "TalentLocalizationId": 281,
+    "TalentId": 28,
+    "LanguageCode": "EN-GB",
+    "Name": "Naturalist"
+  },
+  {
+    "TalentLocalizationId": 285,
+    "TalentId": 28,
+    "LanguageCode": "ES-ES",
+    "Name": "Naturalista"
+  },
+  {
+    "TalentLocalizationId": 282,
+    "TalentId": 28,
+    "LanguageCode": "FR-FR",
+    "Name": "Naturaliste"
+  },
+  {
+    "TalentLocalizationId": 284,
+    "TalentId": 28,
+    "LanguageCode": "DE-DE",
+    "Name": "Naturbestie"
+  },
+  {
+    "TalentLocalizationId": 308,
+    "TalentId": 31,
+    "LanguageCode": "EN-GB",
+    "Name": "Nature Child"
+  },
+  {
+    "TalentLocalizationId": 311,
+    "TalentId": 31,
+    "LanguageCode": "DE-DE",
+    "Name": "Naturkind"
+  },
+  {
+    "TalentLocalizationId": 309,
+    "TalentId": 31,
+    "LanguageCode": "FR-FR",
+    "Name": "Naturopathe"
+  },
+  {
+    "TalentLocalizationId": 256,
+    "TalentId": 25,
+    "LanguageCode": "IT-IT",
+    "Name": "Necromanzia"
+  },
+  {
+    "TalentLocalizationId": 258,
+    "TalentId": 25,
+    "LanguageCode": "ES-ES",
+    "Name": "Nigromante"
+  },
+  {
+    "TalentLocalizationId": 472,
+    "TalentId": 88,
+    "LanguageCode": "IT-IT",
+    "Name": "Nobile cavalleria"
+  },
+  {
+    "TalentLocalizationId": 372,
+    "TalentId": 37,
+    "LanguageCode": "FR-FR",
+    "Name": "Occultiste"
+  },
+  {
+    "TalentLocalizationId": 706,
+    "TalentId": 55,
+    "LanguageCode": "IT-IT",
+    "Name": "Odore nauseabondo"
+  },
+  {
+    "TalentLocalizationId": 688,
+    "TalentId": 90,
+    "LanguageCode": "IT-IT",
+    "Name": "Oppressione"
+  },
+  {
+    "TalentLocalizationId": 434,
+    "TalentId": 107,
+    "LanguageCode": "EN-GB",
+    "Name": "Outlaw"
+  },
+  {
+    "TalentLocalizationId": 724,
+    "TalentId": 219,
+    "LanguageCode": "IT-IT",
+    "Name": "Ovattino"
+  },
+  {
+    "TalentLocalizationId": 607,
+    "TalentId": 251,
+    "LanguageCode": "IT-IT",
+    "Name": "Panico"
+  },
+  {
+    "TalentLocalizationId": 609,
+    "TalentId": 251,
+    "LanguageCode": "ES-ES",
+    "Name": "Pánico"
+  },
+  {
+    "TalentLocalizationId": 608,
+    "TalentId": 251,
+    "LanguageCode": "DE-DE",
+    "Name": "Panikmacher"
+  },
+  {
+    "TalentLocalizationId": 1199,
+    "TalentId": 85,
+    "LanguageCode": "EN-GB",
+    "Name": "Paralysis Protector"
+  },
+  {
+    "TalentLocalizationId": 569,
+    "TalentId": 48,
+    "LanguageCode": "EN-GB",
+    "Name": "Paramedic"
+  },
+  {
+    "TalentLocalizationId": 573,
+    "TalentId": 48,
+    "LanguageCode": "ES-ES",
+    "Name": "Paramédico"
+  },
+  {
+    "TalentLocalizationId": 744,
+    "TalentId": 188,
+    "LanguageCode": "ES-ES",
+    "Name": "pelocha"
+  },
+  {
+    "TalentLocalizationId": 726,
+    "TalentId": 219,
+    "LanguageCode": "ES-ES",
+    "Name": "peludín"
+  },
+  {
+    "TalentLocalizationId": 735,
+    "TalentId": 220,
+    "LanguageCode": "ES-ES",
+    "Name": "Peludoncho"
+  },
+  {
+    "TalentLocalizationId": 77,
+    "TalentId": 9,
+    "LanguageCode": "DE-DE",
+    "Name": "Peng-Fan"
+  },
+  {
+    "TalentLocalizationId": 1085,
+    "TalentId": 72,
+    "LanguageCode": "DE-DE",
+    "Name": "Pengresistenz"
+  },
+  {
+    "TalentLocalizationId": 86,
+    "TalentId": 10,
+    "LanguageCode": "DE-DE",
+    "Name": "Peng-Virtuose"
+  },
+  {
+    "TalentLocalizationId": 742,
+    "TalentId": 188,
+    "LanguageCode": "IT-IT",
+    "Name": "Pensiero confuso"
+  },
+  {
+    "TalentLocalizationId": 813,
+    "TalentId": 94,
+    "LanguageCode": "FR-FR",
+    "Name": "Pentacliste SP"
+  },
+  {
+    "TalentLocalizationId": 812,
+    "TalentId": 94,
+    "LanguageCode": "EN-GB",
+    "Name": "Perfect Speller"
+  },
+  {
+    "TalentLocalizationId": 201,
+    "TalentId": 20,
+    "LanguageCode": "FR-FR",
+    "Name": "Petit souffleur"
+  },
+  {
+    "TalentLocalizationId": 689,
+    "TalentId": 90,
+    "LanguageCode": "DE-DE",
+    "Name": "Plagegeist"
+  },
+  {
+    "TalentLocalizationId": 229,
+    "TalentId": 109,
+    "LanguageCode": "IT-IT",
+    "Name": "Pluridanza"
+  },
+  {
+    "TalentLocalizationId": 1163,
+    "TalentId": 81,
+    "LanguageCode": "EN-GB",
+    "Name": "Poison Preventer"
+  },
+  {
+    "TalentLocalizationId": 806,
+    "TalentId": 92,
+    "LanguageCode": "DE-DE",
+    "Name": "Polarexzess"
+  },
+  {
+    "TalentLocalizationId": 803,
+    "TalentId": 92,
+    "LanguageCode": "EN-GB",
+    "Name": "Polariser"
+  },
+  {
+    "TalentLocalizationId": 807,
+    "TalentId": 92,
+    "LanguageCode": "ES-ES",
+    "Name": "Polarizador"
+  },
+  {
+    "TalentLocalizationId": 805,
+    "TalentId": 92,
+    "LanguageCode": "IT-IT",
+    "Name": "Polarizzazione"
+  },
+  {
+    "TalentLocalizationId": 409,
+    "TalentId": 248,
+    "LanguageCode": "IT-IT",
+    "Name": "Poltiglia"
+  },
+  {
+    "TalentLocalizationId": 545,
+    "TalentId": 46,
+    "LanguageCode": "DE-DE",
+    "Name": "Possenreißer"
+  },
+  {
+    "TalentLocalizationId": 237,
+    "TalentId": 23,
+    "LanguageCode": "FR-FR",
+    "Name": "Pot de glu"
+  },
+  {
+    "TalentLocalizationId": 978,
+    "TalentId": 64,
+    "LanguageCode": "ES-ES",
+    "Name": "Potenciador de agilidad I"
+  },
+  {
+    "TalentLocalizationId": 987,
+    "TalentId": 65,
+    "LanguageCode": "ES-ES",
+    "Name": "Potenciador de agilidad II"
+  },
+  {
+    "TalentLocalizationId": 996,
+    "TalentId": 122,
+    "LanguageCode": "ES-ES",
+    "Name": "Potenciador de agilidad III"
+  },
+  {
+    "TalentLocalizationId": 1005,
+    "TalentId": 123,
+    "LanguageCode": "ES-ES",
+    "Name": "Potenciador de agilidad IV"
+  },
+  {
+    "TalentLocalizationId": 906,
+    "TalentId": 60,
+    "LanguageCode": "ES-ES",
+    "Name": "Potenciador de ataque I"
+  },
+  {
+    "TalentLocalizationId": 915,
+    "TalentId": 61,
+    "LanguageCode": "ES-ES",
+    "Name": "Potenciador de ataque II"
+  },
+  {
+    "TalentLocalizationId": 924,
+    "TalentId": 118,
+    "LanguageCode": "ES-ES",
+    "Name": "Potenciador de ataque III"
+  },
+  {
+    "TalentLocalizationId": 933,
+    "TalentId": 119,
+    "LanguageCode": "ES-ES",
+    "Name": "Potenciador de ataque IV"
+  },
+  {
+    "TalentLocalizationId": 942,
+    "TalentId": 62,
+    "LanguageCode": "ES-ES",
+    "Name": "Potenciador de defensa I"
+  },
+  {
+    "TalentLocalizationId": 951,
+    "TalentId": 63,
+    "LanguageCode": "ES-ES",
+    "Name": "Potenciador de defensa II"
+  },
+  {
+    "TalentLocalizationId": 960,
+    "TalentId": 120,
+    "LanguageCode": "ES-ES",
+    "Name": "Potenciador de defensa III"
+  },
+  {
+    "TalentLocalizationId": 969,
+    "TalentId": 121,
+    "LanguageCode": "ES-ES",
+    "Name": "Potenciador de defensa IV"
+  },
+  {
+    "TalentLocalizationId": 870,
+    "TalentId": 58,
+    "LanguageCode": "ES-ES",
+    "Name": "Potenciador de PM I"
+  },
+  {
+    "TalentLocalizationId": 879,
+    "TalentId": 59,
+    "LanguageCode": "ES-ES",
+    "Name": "Potenciador de PM II"
+  },
+  {
+    "TalentLocalizationId": 888,
+    "TalentId": 116,
+    "LanguageCode": "ES-ES",
+    "Name": "Potenciador de PM III"
+  },
+  {
+    "TalentLocalizationId": 897,
+    "TalentId": 117,
+    "LanguageCode": "ES-ES",
+    "Name": "Potenciador de PM IV"
+  },
+  {
+    "TalentLocalizationId": 834,
+    "TalentId": 56,
+    "LanguageCode": "ES-ES",
+    "Name": "Potenciador de PV I"
+  },
+  {
+    "TalentLocalizationId": 843,
+    "TalentId": 57,
+    "LanguageCode": "ES-ES",
+    "Name": "Potenciador de PV II"
+  },
+  {
+    "TalentLocalizationId": 852,
+    "TalentId": 114,
+    "LanguageCode": "ES-ES",
+    "Name": "Potenciador de PV III"
+  },
+  {
+    "TalentLocalizationId": 861,
+    "TalentId": 115,
+    "LanguageCode": "ES-ES",
+    "Name": "Potenciador de PV IV"
+  },
+  {
+    "TalentLocalizationId": 1014,
+    "TalentId": 66,
+    "LanguageCode": "ES-ES",
+    "Name": "Potenciador de sabiduría I"
+  },
+  {
+    "TalentLocalizationId": 1023,
+    "TalentId": 67,
+    "LanguageCode": "ES-ES",
+    "Name": "Potenciador de sabiduría II"
+  },
+  {
+    "TalentLocalizationId": 1032,
+    "TalentId": 124,
+    "LanguageCode": "ES-ES",
+    "Name": "Potenciador de sabiduría III"
+  },
+  {
+    "TalentLocalizationId": 1041,
+    "TalentId": 125,
+    "LanguageCode": "ES-ES",
+    "Name": "Potenciador de sabiduría IV"
+  },
+  {
+    "TalentLocalizationId": 420,
+    "TalentId": 38,
+    "LanguageCode": "ES-ES",
+    "Name": "Potenciador poderoso"
+  },
+  {
+    "TalentLocalizationId": 732,
+    "TalentId": 220,
+    "LanguageCode": "FR-FR",
+    "Name": "Poupouille"
+  },
+  {
+    "TalentLocalizationId": 416,
+    "TalentId": 38,
+    "LanguageCode": "EN-GB",
+    "Name": "Power Player"
+  },
+  {
+    "TalentLocalizationId": 542,
+    "TalentId": 46,
+    "LanguageCode": "EN-GB",
+    "Name": "Prankster"
+  },
+  {
+    "TalentLocalizationId": 555,
+    "TalentId": 249,
+    "LanguageCode": "ES-ES",
+    "Name": "Princesa"
+  },
+  {
+    "TalentLocalizationId": 551,
+    "TalentId": 249,
+    "LanguageCode": "EN-GB",
+    "Name": "Princess"
+  },
+  {
+    "TalentLocalizationId": 552,
+    "TalentId": 249,
+    "LanguageCode": "FR-FR",
+    "Name": "Princesse"
+  },
+  {
+    "TalentLocalizationId": 553,
+    "TalentId": 249,
+    "LanguageCode": "IT-IT",
+    "Name": "Principessa"
+  },
+  {
+    "TalentLocalizationId": 554,
+    "TalentId": 249,
+    "LanguageCode": "DE-DE",
+    "Name": "Prinzessin"
+  },
+  {
+    "TalentLocalizationId": 634,
+    "TalentId": 53,
+    "LanguageCode": "IT-IT",
+    "Name": "Pronto ausilio"
+  },
+  {
+    "TalentLocalizationId": 1104,
+    "TalentId": 74,
+    "LanguageCode": "ES-ES",
+    "Name": "Protección aislante"
+  },
+  {
+    "TalentLocalizationId": 1068,
+    "TalentId": 70,
+    "LanguageCode": "ES-ES",
+    "Name": "Protección antieólica"
+  },
+  {
+    "TalentLocalizationId": 1086,
+    "TalentId": 72,
+    "LanguageCode": "ES-ES",
+    "Name": "Protección antiexplosiones"
+  },
+  {
+    "TalentLocalizationId": 1113,
+    "TalentId": 75,
+    "LanguageCode": "ES-ES",
+    "Name": "Protección antincendios"
+  },
+  {
+    "TalentLocalizationId": 1050,
+    "TalentId": 68,
+    "LanguageCode": "ES-ES",
+    "Name": "Protección ignífuga"
+  },
+  {
+    "TalentLocalizationId": 1059,
+    "TalentId": 69,
+    "LanguageCode": "ES-ES",
+    "Name": "Protección impermeable"
+  },
+  {
+    "TalentLocalizationId": 1122,
+    "TalentId": 76,
+    "LanguageCode": "ES-ES",
+    "Name": "Protección pararrayos"
+  },
+  {
+    "TalentLocalizationId": 1077,
+    "TalentId": 71,
+    "LanguageCode": "ES-ES",
+    "Name": "Protección telúrica"
+  },
+  {
+    "TalentLocalizationId": 1095,
+    "TalentId": 73,
+    "LanguageCode": "ES-ES",
+    "Name": "Protección térmica"
+  },
+  {
+    "TalentLocalizationId": 1128,
+    "TalentId": 77,
+    "LanguageCode": "FR-FR",
+    "Name": "Protection Affaiblissement"
+  },
+  {
+    "TalentLocalizationId": 1155,
+    "TalentId": 80,
+    "LanguageCode": "FR-FR",
+    "Name": "Protection Aspirmagie"
+  },
+  {
+    "TalentLocalizationId": 1083,
+    "TalentId": 72,
+    "LanguageCode": "FR-FR",
+    "Name": "Protection Bang"
+  },
+  {
+    "TalentLocalizationId": 1191,
+    "TalentId": 84,
+    "LanguageCode": "FR-FR",
+    "Name": "Protection Confusion"
+  },
+  {
+    "TalentLocalizationId": 1110,
+    "TalentId": 75,
+    "LanguageCode": "FR-FR",
+    "Name": "Protection Crame"
+  },
+  {
+    "TalentLocalizationId": 1137,
+    "TalentId": 78,
+    "LanguageCode": "FR-FR",
+    "Name": "Protection Éblouissement"
+  },
+  {
+    "TalentLocalizationId": 1119,
+    "TalentId": 76,
+    "LanguageCode": "FR-FR",
+    "Name": "Protection Élec"
+  },
+  {
+    "TalentLocalizationId": 1146,
+    "TalentId": 79,
+    "LanguageCode": "FR-FR",
+    "Name": "Protection Empêchement"
+  },
+  {
+    "TalentLocalizationId": 1164,
+    "TalentId": 81,
+    "LanguageCode": "FR-FR",
+    "Name": "Protection Empoisonnement"
+  },
+  {
+    "TalentLocalizationId": 1173,
+    "TalentId": 82,
+    "LanguageCode": "FR-FR",
+    "Name": "Protection Étourdissement"
+  },
+  {
+    "TalentLocalizationId": 1047,
+    "TalentId": 68,
+    "LanguageCode": "FR-FR",
+    "Name": "Protection Flamme"
+  },
+  {
+    "TalentLocalizationId": 1101,
+    "TalentId": 74,
+    "LanguageCode": "FR-FR",
+    "Name": "Protection Foudre"
+  },
+  {
+    "TalentLocalizationId": 1092,
+    "TalentId": 73,
+    "LanguageCode": "FR-FR",
+    "Name": "Protection Glace"
+  },
+  {
+    "TalentLocalizationId": 1209,
+    "TalentId": 86,
+    "LanguageCode": "FR-FR",
+    "Name": "Protection Mort subite"
+  },
+  {
+    "TalentLocalizationId": 1200,
+    "TalentId": 85,
+    "LanguageCode": "FR-FR",
+    "Name": "Protection Paralysie"
+  },
+  {
+    "TalentLocalizationId": 1056,
+    "TalentId": 69,
+    "LanguageCode": "FR-FR",
+    "Name": "Protection Plouf"
+  },
+  {
+    "TalentLocalizationId": 1074,
+    "TalentId": 71,
+    "LanguageCode": "FR-FR",
+    "Name": "Protection Séisme"
+  },
+  {
+    "TalentLocalizationId": 1182,
+    "TalentId": 83,
+    "LanguageCode": "FR-FR",
+    "Name": "Protection Sommeil"
+  },
+  {
+    "TalentLocalizationId": 1065,
+    "TalentId": 70,
+    "LanguageCode": "FR-FR",
+    "Name": "Protection Tornade"
+  },
+  {
+    "TalentLocalizationId": 1203,
+    "TalentId": 85,
+    "LanguageCode": "ES-ES",
+    "Name": "Protector de parálisis"
+  },
+  {
+    "TalentLocalizationId": 174,
+    "TalentId": 105,
+    "LanguageCode": "FR-FR",
+    "Name": "Pyromane"
+  },
+  {
+    "TalentLocalizationId": 780,
+    "TalentId": 129,
+    "LanguageCode": "ES-ES",
+    "Name": "Quemador de hielo"
+  },
+  {
+    "TalentLocalizationId": 303,
+    "TalentId": 30,
+    "LanguageCode": "ES-ES",
+    "Name": "Racheador"
+  },
+  {
+    "TalentLocalizationId": 624,
+    "TalentId": 52,
+    "LanguageCode": "FR-FR",
+    "Name": "Ramollisseur"
+  },
+  {
+    "TalentLocalizationId": 186,
+    "TalentId": 110,
+    "LanguageCode": "ES-ES",
+    "Name": "Recepcionista frío"
+  },
+  {
+    "TalentLocalizationId": 195,
+    "TalentId": 126,
+    "LanguageCode": "ES-ES",
+    "Name": "Recepcionista helado"
+  },
+  {
+    "TalentLocalizationId": 579,
+    "TalentId": 49,
+    "LanguageCode": "FR-FR",
+    "Name": "Remèdiateur"
+  },
+  {
+    "TalentLocalizationId": 823,
+    "TalentId": 127,
+    "LanguageCode": "IT-IT",
+    "Name": "Respiro grandioso"
+  },
+  {
+    "TalentLocalizationId": 202,
+    "TalentId": 20,
+    "LanguageCode": "IT-IT",
+    "Name": "Respiro lieve"
+  },
+  {
+    "TalentLocalizationId": 211,
+    "TalentId": 21,
+    "LanguageCode": "IT-IT",
+    "Name": "Respiro pesante"
+  },
+  {
+    "TalentLocalizationId": 363,
+    "TalentId": 36,
+    "LanguageCode": "FR-FR",
+    "Name": "Risque-tout"
+  },
+  {
+    "TalentLocalizationId": 398,
+    "TalentId": 250,
+    "LanguageCode": "EN-GB",
+    "Name": "Roaster"
+  },
+  {
+    "TalentLocalizationId": 419,
+    "TalentId": 38,
+    "LanguageCode": "DE-DE",
+    "Name": "Rowdy"
+  },
+  {
+    "TalentLocalizationId": 543,
+    "TalentId": 46,
+    "LanguageCode": "FR-FR",
+    "Name": "Sacripant"
+  },
+  {
+    "TalentLocalizationId": 804,
+    "TalentId": 92,
+    "LanguageCode": "FR-FR",
+    "Name": "Saint de glace SP"
+  },
+  {
+    "TalentLocalizationId": 564,
+    "TalentId": 47,
+    "LanguageCode": "ES-ES",
+    "Name": "Sanador"
+  },
+  {
+    "TalentLocalizationId": 193,
+    "TalentId": 126,
+    "LanguageCode": "IT-IT",
+    "Name": "Sangue congelato"
+  },
+  {
+    "TalentLocalizationId": 184,
+    "TalentId": 110,
+    "LanguageCode": "IT-IT",
+    "Name": "Sangue freddo"
+  },
+  {
+    "TalentLocalizationId": 582,
+    "TalentId": 49,
+    "LanguageCode": "ES-ES",
+    "Name": "Sanitario"
+  },
+  {
+    "TalentLocalizationId": 572,
+    "TalentId": 48,
+    "LanguageCode": "DE-DE",
+    "Name": "Sanitäter"
+  },
+  {
+    "TalentLocalizationId": 645,
+    "TalentId": 111,
+    "LanguageCode": "ES-ES",
+    "Name": "Saquealientos"
+  },
+  {
+    "TalentLocalizationId": 716,
+    "TalentId": 158,
+    "LanguageCode": "DE-DE",
+    "Name": "Sauberer Zauberer"
+  },
+  {
+    "TalentLocalizationId": 41,
+    "TalentId": 5,
+    "LanguageCode": "DE-DE",
+    "Name": "Säusel-Fan"
+  },
+  {
+    "TalentLocalizationId": 1067,
+    "TalentId": 70,
+    "LanguageCode": "DE-DE",
+    "Name": "Säuselresistenz"
+  },
+  {
+    "TalentLocalizationId": 50,
+    "TalentId": 6,
+    "LanguageCode": "DE-DE",
+    "Name": "Säusel-Virtuose"
+  },
+  {
+    "TalentLocalizationId": 1184,
+    "TalentId": 83,
+    "LanguageCode": "DE-DE",
+    "Name": "Schlafstopper"
+  },
+  {
+    "TalentLocalizationId": 590,
+    "TalentId": 100,
+    "LanguageCode": "DE-DE",
+    "Name": "Schlaftherapeut"
+  },
+  {
+    "TalentLocalizationId": 410,
+    "TalentId": 248,
+    "LanguageCode": "DE-DE",
+    "Name": "Schlammatiker"
+  },
+  {
+    "TalentLocalizationId": 239,
+    "TalentId": 23,
+    "LanguageCode": "DE-DE",
+    "Name": "Schleimer"
+  },
+  {
+    "TalentLocalizationId": 705,
+    "TalentId": 55,
+    "LanguageCode": "FR-FR",
+    "Name": "Schlinguiste"
+  },
+  {
+    "TalentLocalizationId": 509,
+    "TalentId": 43,
+    "LanguageCode": "DE-DE",
+    "Name": "Schmieriger Typ"
+  },
+  {
+    "TalentLocalizationId": 23,
+    "TalentId": 3,
+    "LanguageCode": "DE-DE",
+    "Name": "Schütt-Fan"
+  },
+  {
+    "TalentLocalizationId": 32,
+    "TalentId": 4,
+    "LanguageCode": "DE-DE",
+    "Name": "Schütt-Virtuose"
+  },
+  {
+    "TalentLocalizationId": 626,
+    "TalentId": 52,
+    "LanguageCode": "DE-DE",
+    "Name": "Schwächer"
+  },
+  {
+    "TalentLocalizationId": 293,
+    "TalentId": 29,
+    "LanguageCode": "DE-DE",
+    "Name": "Schwarzkünstler"
+  },
+  {
+    "TalentLocalizationId": 1247,
+    "TalentId": 133,
+    "LanguageCode": "DE-DE",
+    "Name": "Schwarzweiß-Schild"
+  },
+  {
+    "TalentLocalizationId": 481,
+    "TalentId": 42,
+    "LanguageCode": "IT-IT",
+    "Name": "Scippo"
+  },
+  {
+    "TalentLocalizationId": 733,
+    "TalentId": 220,
+    "LanguageCode": "IT-IT",
+    "Name": "Scruffy"
+  },
+  {
+    "TalentLocalizationId": 731,
+    "TalentId": 220,
+    "LanguageCode": "EN-GB",
+    "Name": "Scruffy"
+  },
+  {
+    "TalentLocalizationId": 1246,
+    "TalentId": 133,
+    "LanguageCode": "IT-IT",
+    "Name": "Scudo del chiaroscuro"
+  },
+  {
+    "TalentLocalizationId": 1237,
+    "TalentId": 134,
+    "LanguageCode": "IT-IT",
+    "Name": "Scudo del ciclone"
+  },
+  {
+    "TalentLocalizationId": 1228,
+    "TalentId": 136,
+    "LanguageCode": "IT-IT",
+    "Name": "Scudo del ghiaccio"
+  },
+  {
+    "TalentLocalizationId": 1219,
+    "TalentId": 135,
+    "LanguageCode": "IT-IT",
+    "Name": "Scudo del magma"
+  },
+  {
+    "TalentLocalizationId": 1255,
+    "TalentId": 132,
+    "LanguageCode": "IT-IT",
+    "Name": "Scudo del tremore"
+  },
+  {
+    "TalentLocalizationId": 1264,
+    "TalentId": 131,
+    "LanguageCode": "IT-IT",
+    "Name": "Scudo della folgore"
+  },
+  {
+    "TalentLocalizationId": 697,
+    "TalentId": 112,
+    "LanguageCode": "IT-IT",
+    "Name": "Seduzione"
+  },
+  {
+    "TalentLocalizationId": 200,
+    "TalentId": 20,
+    "LanguageCode": "EN-GB",
+    "Name": "Shallow Breather"
+  },
+  {
+    "TalentLocalizationId": 652,
+    "TalentId": 113,
+    "LanguageCode": "IT-IT",
+    "Name": "Silenzia magia"
+  },
+  {
+    "TalentLocalizationId": 643,
+    "TalentId": 111,
+    "LanguageCode": "IT-IT",
+    "Name": "Silenzia respiri"
+  },
+  {
+    "TalentLocalizationId": 128,
+    "TalentId": 15,
+    "LanguageCode": "EN-GB",
+    "Name": "Sizz Afficionado"
+  },
+  {
+    "TalentLocalizationId": 137,
+    "TalentId": 16,
+    "LanguageCode": "EN-GB",
+    "Name": "Sizz Virtuoso"
+  },
+  {
+    "TalentLocalizationId": 1109,
+    "TalentId": 75,
+    "LanguageCode": "EN-GB",
+    "Name": "Sizz Ward"
+  },
+  {
+    "TalentLocalizationId": 587,
+    "TalentId": 100,
+    "LanguageCode": "EN-GB",
+    "Name": "Sleep Counsellor"
+  },
+  {
+    "TalentLocalizationId": 1181,
+    "TalentId": 83,
+    "LanguageCode": "EN-GB",
+    "Name": "Sleep Suppressor"
+  },
+  {
+    "TalentLocalizationId": 236,
+    "TalentId": 23,
+    "LanguageCode": "EN-GB",
+    "Name": "Slimer"
+  },
+  {
+    "TalentLocalizationId": 238,
+    "TalentId": 23,
+    "LanguageCode": "IT-IT",
+    "Name": "Slimer"
+  },
+  {
+    "TalentLocalizationId": 173,
+    "TalentId": 105,
+    "LanguageCode": "EN-GB",
+    "Name": "Smart Blazer"
+  },
+  {
+    "TalentLocalizationId": 335,
+    "TalentId": 87,
+    "LanguageCode": "EN-GB",
+    "Name": "Soggy Slasher"
+  },
+  {
+    "TalentLocalizationId": 561,
+    "TalentId": 47,
+    "LanguageCode": "FR-FR",
+    "Name": "Soigneur"
+  },
+  {
+    "TalentLocalizationId": 453,
+    "TalentId": 106,
+    "LanguageCode": "FR-FR",
+    "Name": "Sommité des sorts"
+  },
+  {
+    "TalentLocalizationId": 462,
+    "TalentId": 41,
+    "LanguageCode": "FR-FR",
+    "Name": "Sommité du sabre"
+  },
+  {
+    "TalentLocalizationId": 591,
+    "TalentId": 100,
+    "LanguageCode": "ES-ES",
+    "Name": "Somnífero"
+  },
+  {
+    "TalentLocalizationId": 589,
+    "TalentId": 100,
+    "LanguageCode": "IT-IT",
+    "Name": "Sonno pacifico"
+  },
+  {
+    "TalentLocalizationId": 578,
+    "TalentId": 49,
+    "LanguageCode": "EN-GB",
+    "Name": "Soothesayer"
+  },
+  {
+    "TalentLocalizationId": 822,
+    "TalentId": 127,
+    "LanguageCode": "FR-FR",
+    "Name": "Souffle-souffre SP"
+  },
+  {
+    "TalentLocalizationId": 380,
+    "TalentId": 95,
+    "LanguageCode": "EN-GB",
+    "Name": "Speedster"
+  },
+  {
+    "TalentLocalizationId": 326,
+    "TalentId": 33,
+    "LanguageCode": "EN-GB",
+    "Name": "Spicy Slasher"
+  },
+  {
+    "TalentLocalizationId": 247,
+    "TalentId": 24,
+    "LanguageCode": "IT-IT",
+    "Name": "Spirito di drago"
+  },
+  {
+    "TalentLocalizationId": 20,
+    "TalentId": 3,
+    "LanguageCode": "EN-GB",
+    "Name": "Splash Afficionado"
+  },
+  {
+    "TalentLocalizationId": 29,
+    "TalentId": 4,
+    "LanguageCode": "EN-GB",
+    "Name": "Splash Virtuoso"
+  },
+  {
+    "TalentLocalizationId": 1055,
+    "TalentId": 69,
+    "LanguageCode": "EN-GB",
+    "Name": "Splish Ward"
+  },
+  {
+    "TalentLocalizationId": 1058,
+    "TalentId": 69,
+    "LanguageCode": "DE-DE",
+    "Name": "Spritzresistenz"
+  },
+  {
+    "TalentLocalizationId": 617,
+    "TalentId": 51,
+    "LanguageCode": "DE-DE",
+    "Name": "Stärker"
+  },
+  {
+    "TalentLocalizationId": 356,
+    "TalentId": 35,
+    "LanguageCode": "DE-DE",
+    "Name": "Steinige Klinge"
+  },
+  {
+    "TalentLocalizationId": 704,
+    "TalentId": 55,
+    "LanguageCode": "EN-GB",
+    "Name": "Stinker"
+  },
+  {
+    "TalentLocalizationId": 707,
+    "TalentId": 55,
+    "LanguageCode": "DE-DE",
+    "Name": "Stinkstiefel"
+  },
+  {
+    "TalentLocalizationId": 353,
+    "TalentId": 35,
+    "LanguageCode": "EN-GB",
+    "Name": "Stony Slasher"
+  },
+  {
+    "TalentLocalizationId": 680,
+    "TalentId": 97,
+    "LanguageCode": "DE-DE",
+    "Name": "Störenfried"
+  },
+  {
+    "TalentLocalizationId": 758,
+    "TalentId": 130,
+    "LanguageCode": "EN-GB",
+    "Name": "Storm Brewer"
+  },
+  {
+    "TalentLocalizationId": 713,
+    "TalentId": 158,
+    "LanguageCode": "EN-GB",
+    "Name": "Strong Speller"
+  },
+  {
+    "TalentLocalizationId": 1172,
+    "TalentId": 82,
+    "LanguageCode": "EN-GB",
+    "Name": "Stun Stopper"
+  },
+  {
+    "TalentLocalizationId": 382,
+    "TalentId": 95,
+    "LanguageCode": "IT-IT",
+    "Name": "Super velocità"
+  },
+  {
+    "TalentLocalizationId": 1185,
+    "TalentId": 83,
+    "LanguageCode": "ES-ES",
+    "Name": "Supresor de sueño"
+  },
+  {
+    "TalentLocalizationId": 491,
+    "TalentId": 98,
+    "LanguageCode": "DE-DE",
+    "Name": "Süßholzraspler"
+  },
+  {
+    "TalentLocalizationId": 488,
+    "TalentId": 98,
+    "LanguageCode": "EN-GB",
+    "Name": "Sweet-Talker"
+  },
+  {
+    "TalentLocalizationId": 789,
+    "TalentId": 104,
+    "LanguageCode": "ES-ES",
+    "Name": "Tajador nato"
+  },
+  {
+    "TalentLocalizationId": 221,
+    "TalentId": 22,
+    "LanguageCode": "DE-DE",
+    "Name": "Tänzer"
+  },
+  {
+    "TalentLocalizationId": 571,
+    "TalentId": 48,
+    "LanguageCode": "IT-IT",
+    "Name": "Terapia"
+  },
+  {
+    "TalentLocalizationId": 362,
+    "TalentId": 36,
+    "LanguageCode": "EN-GB",
+    "Name": "Thrill-Seeker"
+  },
+  {
+    "TalentLocalizationId": 212,
+    "TalentId": 21,
+    "LanguageCode": "DE-DE",
+    "Name": "Tiefatmer"
+  },
+  {
+    "TalentLocalizationId": 525,
+    "TalentId": 247,
+    "LanguageCode": "FR-FR",
+    "Name": "Titan"
+  },
+  {
+    "TalentLocalizationId": 1211,
+    "TalentId": 86,
+    "LanguageCode": "DE-DE",
+    "Name": "Todesverweigerer"
+  },
+  {
+    "TalentLocalizationId": 506,
+    "TalentId": 43,
+    "LanguageCode": "EN-GB",
+    "Name": "Tongue Twister"
+  },
+  {
+    "TalentLocalizationId": 759,
+    "TalentId": 130,
+    "LanguageCode": "FR-FR",
+    "Name": "Tonitrueur"
+  },
+  {
+    "TalentLocalizationId": 598,
+    "TalentId": 50,
+    "LanguageCode": "IT-IT",
+    "Name": "Tossicologia"
+  },
+  {
+    "TalentLocalizationId": 750,
+    "TalentId": 91,
+    "LanguageCode": "FR-FR",
+    "Name": "Touffeur"
+  },
+  {
+    "TalentLocalizationId": 596,
+    "TalentId": 50,
+    "LanguageCode": "EN-GB",
+    "Name": "Toxicologist"
+  },
+  {
+    "TalentLocalizationId": 600,
+    "TalentId": 50,
+    "LanguageCode": "ES-ES",
+    "Name": "Toxicólogo"
+  },
+  {
+    "TalentLocalizationId": 597,
+    "TalentId": 50,
+    "LanguageCode": "FR-FR",
+    "Name": "Toxicologue"
+  },
+  {
+    "TalentLocalizationId": 599,
+    "TalentId": 50,
+    "LanguageCode": "DE-DE",
+    "Name": "Toxikologe"
+  },
+  {
+    "TalentLocalizationId": 510,
+    "TalentId": 43,
+    "LanguageCode": "ES-ES",
+    "Name": "Trabalenguas"
+  },
+  {
+    "TalentLocalizationId": 1253,
+    "TalentId": 132,
+    "LanguageCode": "EN-GB",
+    "Name": "Tremor Shield"
+  },
+  {
+    "TalentLocalizationId": 498,
+    "TalentId": 181,
+    "LanguageCode": "FR-FR",
+    "Name": "Troubalourdeur"
+  },
+  {
+    "TalentLocalizationId": 588,
+    "TalentId": 100,
+    "LanguageCode": "FR-FR",
+    "Name": "Tsé-tsérapeuthe"
+  },
+  {
+    "TalentLocalizationId": 300,
+    "TalentId": 30,
+    "LanguageCode": "FR-FR",
+    "Name": "Typhon"
+  },
+  {
+    "TalentLocalizationId": 570,
+    "TalentId": 48,
+    "LanguageCode": "FR-FR",
+    "Name": "Urgentiste"
+  },
+  {
+    "TalentLocalizationId": 301,
+    "TalentId": 30,
+    "LanguageCode": "IT-IT",
+    "Name": "Ventilazione"
+  },
+  {
+    "TalentLocalizationId": 1166,
+    "TalentId": 81,
+    "LanguageCode": "DE-DE",
+    "Name": "Vergiftungsvereitler"
+  },
+  {
+    "TalentLocalizationId": 1193,
+    "TalentId": 84,
+    "LanguageCode": "DE-DE",
+    "Name": "Verwirrungsvermeider"
+  },
+  {
+    "TalentLocalizationId": 1167,
+    "TalentId": 81,
+    "LanguageCode": "ES-ES",
+    "Name": "Vetavenenos"
+  },
+  {
+    "TalentLocalizationId": 686,
+    "TalentId": 90,
+    "LanguageCode": "EN-GB",
+    "Name": "Vexologist"
+  },
+  {
+    "TalentLocalizationId": 84,
+    "TalentId": 10,
+    "LanguageCode": "FR-FR",
+    "Name": "Virtuose de Bang"
+  },
+  {
+    "TalentLocalizationId": 138,
+    "TalentId": 16,
+    "LanguageCode": "FR-FR",
+    "Name": "Virtuose de Crame"
+  },
+  {
+    "TalentLocalizationId": 12,
+    "TalentId": 2,
+    "LanguageCode": "FR-FR",
+    "Name": "Virtuose de Flamme"
+  },
+  {
+    "TalentLocalizationId": 120,
+    "TalentId": 14,
+    "LanguageCode": "FR-FR",
+    "Name": "Virtuose de Foudre"
+  },
+  {
+    "TalentLocalizationId": 102,
+    "TalentId": 12,
+    "LanguageCode": "FR-FR",
+    "Name": "Virtuose de Glace"
+  },
+  {
+    "TalentLocalizationId": 66,
+    "TalentId": 8,
+    "LanguageCode": "FR-FR",
+    "Name": "Virtuose de Séisme"
+  },
+  {
+    "TalentLocalizationId": 30,
+    "TalentId": 4,
+    "LanguageCode": "FR-FR",
+    "Name": "Virtuose de Superplouf"
+  },
+  {
+    "TalentLocalizationId": 48,
+    "TalentId": 6,
+    "LanguageCode": "FR-FR",
+    "Name": "Virtuose de Tornade"
+  },
+  {
+    "TalentLocalizationId": 156,
+    "TalentId": 18,
+    "LanguageCode": "FR-FR",
+    "Name": "Virtuose d'Élec"
+  },
+  {
+    "TalentLocalizationId": 33,
+    "TalentId": 4,
+    "LanguageCode": "ES-ES",
+    "Name": "Virtuoso de Aspersión"
+  },
+  {
+    "TalentLocalizationId": 15,
+    "TalentId": 2,
+    "LanguageCode": "ES-ES",
+    "Name": "Virtuoso de Miniataque ígneo"
+  },
+  {
+    "TalentLocalizationId": 123,
+    "TalentId": 14,
+    "LanguageCode": "ES-ES",
+    "Name": "Virtuoso de Minidescarga"
+  },
+  {
+    "TalentLocalizationId": 87,
+    "TalentId": 10,
+    "LanguageCode": "ES-ES",
+    "Name": "Virtuoso de Miniexplosión"
+  },
+  {
+    "TalentLocalizationId": 105,
+    "TalentId": 12,
+    "LanguageCode": "ES-ES",
+    "Name": "Virtuoso de Minihelada"
+  },
+  {
+    "TalentLocalizationId": 141,
+    "TalentId": 16,
+    "LanguageCode": "ES-ES",
+    "Name": "Virtuoso de Miniincendio"
+  },
+  {
+    "TalentLocalizationId": 159,
+    "TalentId": 18,
+    "LanguageCode": "ES-ES",
+    "Name": "Virtuoso de Minirrayo"
+  },
+  {
+    "TalentLocalizationId": 69,
+    "TalentId": 8,
+    "LanguageCode": "ES-ES",
+    "Name": "Virtuoso de Minirrisco"
+  },
+  {
+    "TalentLocalizationId": 51,
+    "TalentId": 6,
+    "LanguageCode": "ES-ES",
+    "Name": "Virtuoso de Minitornado"
+  },
+  {
+    "TalentLocalizationId": 636,
+    "TalentId": 53,
+    "LanguageCode": "ES-ES",
+    "Name": "Voluntarioso"
+  },
+  {
+    "TalentLocalizationId": 1013,
+    "TalentId": 66,
+    "LanguageCode": "DE-DE",
+    "Name": "Weisheitsverstärker I"
+  },
+  {
+    "TalentLocalizationId": 1022,
+    "TalentId": 67,
+    "LanguageCode": "DE-DE",
+    "Name": "Weisheitsverstärker II"
+  },
+  {
+    "TalentLocalizationId": 1031,
+    "TalentId": 124,
+    "LanguageCode": "DE-DE",
+    "Name": "Weisheitsverstärker III"
+  },
+  {
+    "TalentLocalizationId": 1040,
+    "TalentId": 125,
+    "LanguageCode": "DE-DE",
+    "Name": "Weisheitsverstärker IV"
+  },
+  {
+    "TalentLocalizationId": 425,
+    "TalentId": 39,
+    "LanguageCode": "EN-GB",
+    "Name": "Wild Child"
+  },
+  {
+    "TalentLocalizationId": 635,
+    "TalentId": 53,
+    "LanguageCode": "DE-DE",
+    "Name": "Williger Helfer"
+  },
+  {
+    "TalentLocalizationId": 632,
+    "TalentId": 53,
+    "LanguageCode": "EN-GB",
+    "Name": "Willing Helper"
+  },
+  {
+    "TalentLocalizationId": 347,
+    "TalentId": 34,
+    "LanguageCode": "DE-DE",
+    "Name": "Windige Klinge"
+  },
+  {
+    "TalentLocalizationId": 302,
+    "TalentId": 30,
+    "LanguageCode": "DE-DE",
+    "Name": "Wirbelmacher"
+  },
+  {
+    "TalentLocalizationId": 1010,
+    "TalentId": 66,
+    "LanguageCode": "EN-GB",
+    "Name": "Wisdom Booster I"
+  },
+  {
+    "TalentLocalizationId": 1019,
+    "TalentId": 67,
+    "LanguageCode": "EN-GB",
+    "Name": "Wisdom Booster II"
+  },
+  {
+    "TalentLocalizationId": 1028,
+    "TalentId": 124,
+    "LanguageCode": "EN-GB",
+    "Name": "Wisdom Booster III"
+  },
+  {
+    "TalentLocalizationId": 1037,
+    "TalentId": 125,
+    "LanguageCode": "EN-GB",
+    "Name": "Wisdom Booster IV"
+  },
+  {
+    "TalentLocalizationId": 38,
+    "TalentId": 5,
+    "LanguageCode": "EN-GB",
+    "Name": "Woosh Afficionado"
+  },
+  {
+    "TalentLocalizationId": 47,
+    "TalentId": 6,
+    "LanguageCode": "EN-GB",
+    "Name": "Woosh Virtuoso"
+  },
+  {
+    "TalentLocalizationId": 1064,
+    "TalentId": 70,
+    "LanguageCode": "EN-GB",
+    "Name": "Woosh Ward"
+  },
+  {
+    "TalentLocalizationId": 146,
+    "TalentId": 17,
+    "LanguageCode": "EN-GB",
+    "Name": "Zam Afficionado"
+  },
+  {
+    "TalentLocalizationId": 155,
+    "TalentId": 18,
+    "LanguageCode": "EN-GB",
+    "Name": "Zam Virtuoso"
+  },
+  {
+    "TalentLocalizationId": 1118,
+    "TalentId": 76,
+    "LanguageCode": "EN-GB",
+    "Name": "Zam Ward"
+  },
+  {
+    "TalentLocalizationId": 110,
+    "TalentId": 13,
+    "LanguageCode": "EN-GB",
+    "Name": "Zap Afficionado"
+  },
+  {
+    "TalentLocalizationId": 119,
+    "TalentId": 14,
+    "LanguageCode": "EN-GB",
+    "Name": "Zap Virtuoso"
+  },
+  {
+    "TalentLocalizationId": 1100,
+    "TalentId": 74,
+    "LanguageCode": "EN-GB",
+    "Name": "Zap Ward"
+  },
+  {
+    "TalentLocalizationId": 113,
+    "TalentId": 13,
+    "LanguageCode": "DE-DE",
+    "Name": "Zick-Fan"
+  },
+  {
+    "TalentLocalizationId": 1103,
+    "TalentId": 74,
+    "LanguageCode": "DE-DE",
+    "Name": "Zickresistenz"
+  },
+  {
+    "TalentLocalizationId": 122,
+    "TalentId": 14,
+    "LanguageCode": "DE-DE",
+    "Name": "Zick-Virtuose"
+  },
+  {
+    "TalentLocalizationId": 255,
+    "TalentId": 25,
+    "LanguageCode": "FR-FR",
+    "Name": "Zombivant"
+  },
+  {
+    "TalentLocalizationId": 401,
+    "TalentId": 250,
+    "LanguageCode": "DE-DE",
+    "Name": "Zündteufel"
+  },
+  {
+    "TalentLocalizationId": 1238,
+    "TalentId": 134,
+    "LanguageCode": "DE-DE",
+    "Name": "Zyklonschild"
+  },
+  {
+    "TalentLocalizationId": 703,
+    "TalentId": 55,
+    "LanguageCode": "JP-JP",
+    "Name": "あくしゅう"
+  },
+  {
+    "TalentLocalizationId": 514,
+    "TalentId": 44,
+    "LanguageCode": "JP-JP",
+    "Name": "アサシン"
+  },
+  {
+    "TalentLocalizationId": 613,
+    "TalentId": 51,
+    "LanguageCode": "JP-JP",
+    "Name": "アッパー"
+  },
+  {
+    "TalentLocalizationId": 424,
+    "TalentId": 39,
+    "LanguageCode": "JP-JP",
+    "Name": "あばれんぼう"
+  },
+  {
+    "TalentLocalizationId": 649,
+    "TalentId": 113,
+    "LanguageCode": "JP-JP",
+    "Name": "アンチスペル"
+  },
+  {
+    "TalentLocalizationId": 640,
+    "TalentId": 111,
+    "LanguageCode": "JP-JP",
+    "Name": "アンチブレス"
+  },
+  {
+    "TalentLocalizationId": 253,
+    "TalentId": 25,
+    "LanguageCode": "JP-JP",
+    "Name": "アンデッド"
+  },
+  {
+    "TalentLocalizationId": 352,
+    "TalentId": 35,
+    "LanguageCode": "JP-JP",
+    "Name": "イエローソード"
+  },
+  {
+    "TalentLocalizationId": 271,
+    "TalentId": 27,
+    "LanguageCode": "JP-JP",
+    "Name": "いしあたま"
+  },
+  {
+    "TalentLocalizationId": 541,
+    "TalentId": 46,
+    "LanguageCode": "JP-JP",
+    "Name": "いたずら"
+  },
+  {
+    "TalentLocalizationId": 442,
+    "TalentId": 40,
+    "LanguageCode": "JP-JP",
+    "Name": "ウォリアー"
+  },
+  {
+    "TalentLocalizationId": 226,
+    "TalentId": 109,
+    "LanguageCode": "JP-JP",
+    "Name": "エンターテイナー"
+  },
+  {
+    "TalentLocalizationId": 370,
+    "TalentId": 37,
+    "LanguageCode": "JP-JP",
+    "Name": "カース"
+  },
+  {
+    "TalentLocalizationId": 1009,
+    "TalentId": 66,
+    "LanguageCode": "JP-JP",
+    "Name": "かしこさアップ１"
+  },
+  {
+    "TalentLocalizationId": 1018,
+    "TalentId": 67,
+    "LanguageCode": "JP-JP",
+    "Name": "かしこさアップ２"
+  },
+  {
+    "TalentLocalizationId": 1027,
+    "TalentId": 124,
+    "LanguageCode": "JP-JP",
+    "Name": "かしこさアップ３"
+  },
+  {
+    "TalentLocalizationId": 1036,
+    "TalentId": 125,
+    "LanguageCode": "JP-JP",
+    "Name": "かしこさアップ４"
+  },
+  {
+    "TalentLocalizationId": 388,
+    "TalentId": 96,
+    "LanguageCode": "JP-JP",
+    "Name": "キューピット"
+  },
+  {
+    "TalentLocalizationId": 811,
+    "TalentId": 94,
+    "LanguageCode": "JP-JP",
+    "Name": "グランスペルSP"
+  },
+  {
+    "TalentLocalizationId": 820,
+    "TalentId": 127,
+    "LanguageCode": "JP-JP",
+    "Name": "グランドブレスSP"
+  },
+  {
+    "TalentLocalizationId": 343,
+    "TalentId": 34,
+    "LanguageCode": "JP-JP",
+    "Name": "グリーンソード"
+  },
+  {
+    "TalentLocalizationId": 280,
+    "TalentId": 28,
+    "LanguageCode": "JP-JP",
+    "Name": "けもの道"
+  },
+  {
+    "TalentLocalizationId": 784,
+    "TalentId": 104,
+    "LanguageCode": "JP-JP",
+    "Name": "けんごうSP"
+  },
+  {
+    "TalentLocalizationId": 631,
+    "TalentId": 53,
+    "LanguageCode": "JP-JP",
+    "Name": "サポーター"
+  },
+  {
+    "TalentLocalizationId": 532,
+    "TalentId": 99,
+    "LanguageCode": "JP-JP",
+    "Name": "じこぎせい"
+  },
+  {
+    "TalentLocalizationId": 676,
+    "TalentId": 97,
+    "LanguageCode": "JP-JP",
+    "Name": "ジャマー"
+  },
+  {
+    "TalentLocalizationId": 379,
+    "TalentId": 95,
+    "LanguageCode": "JP-JP",
+    "Name": "しんそく"
+  },
+  {
+    "TalentLocalizationId": 487,
+    "TalentId": 98,
+    "LanguageCode": "JP-JP",
+    "Name": "スイート"
+  },
+  {
+    "TalentLocalizationId": 973,
+    "TalentId": 64,
+    "LanguageCode": "JP-JP",
+    "Name": "すばやさアップ１"
+  },
+  {
+    "TalentLocalizationId": 982,
+    "TalentId": 65,
+    "LanguageCode": "JP-JP",
+    "Name": "すばやさアップ２"
+  },
+  {
+    "TalentLocalizationId": 991,
+    "TalentId": 122,
+    "LanguageCode": "JP-JP",
+    "Name": "すばやさアップ３"
+  },
+  {
+    "TalentLocalizationId": 1000,
+    "TalentId": 123,
+    "LanguageCode": "JP-JP",
+    "Name": "すばやさアップ４"
+  },
+  {
+    "TalentLocalizationId": 235,
+    "TalentId": 23,
+    "LanguageCode": "JP-JP",
+    "Name": "スラフォース"
+  },
+  {
+    "TalentLocalizationId": 361,
+    "TalentId": 36,
+    "LanguageCode": "JP-JP",
+    "Name": "スリラー"
+  },
+  {
+    "TalentLocalizationId": 712,
+    "TalentId": 158,
+    "LanguageCode": "JP-JP",
+    "Name": "ソーサラー"
+  },
+  {
+    "TalentLocalizationId": 622,
+    "TalentId": 52,
+    "LanguageCode": "JP-JP",
+    "Name": "ダウナー"
+  },
+  {
+    "TalentLocalizationId": 217,
+    "TalentId": 22,
+    "LanguageCode": "JP-JP",
+    "Name": "ダンサー"
+  },
+  {
+    "TalentLocalizationId": 415,
+    "TalentId": 38,
+    "LanguageCode": "JP-JP",
+    "Name": "ちからもち"
+  },
+  {
+    "TalentLocalizationId": 298,
+    "TalentId": 30,
+    "LanguageCode": "JP-JP",
+    "Name": "つむじ風"
+  },
+  {
+    "TalentLocalizationId": 667,
+    "TalentId": 89,
+    "LanguageCode": "JP-JP",
+    "Name": "てっぺき"
+  },
+  {
+    "TalentLocalizationId": 244,
+    "TalentId": 24,
+    "LanguageCode": "JP-JP",
+    "Name": "ドラゴンソウル"
+  },
+  {
+    "TalentLocalizationId": 685,
+    "TalentId": 90,
+    "LanguageCode": "JP-JP",
+    "Name": "トリッキー"
+  },
+  {
+    "TalentLocalizationId": 496,
+    "TalentId": 181,
+    "LanguageCode": "JP-JP",
+    "Name": "トロピカル"
+  },
+  {
+    "TalentLocalizationId": 307,
+    "TalentId": 31,
+    "LanguageCode": "JP-JP",
+    "Name": "ナチュラル"
+  },
+  {
+    "TalentLocalizationId": 478,
+    "TalentId": 42,
+    "LanguageCode": "JP-JP",
+    "Name": "ぬすっと"
+  },
+  {
+    "TalentLocalizationId": 505,
+    "TalentId": 43,
+    "LanguageCode": "JP-JP",
+    "Name": "ヌメヌメ"
+  },
+  {
+    "TalentLocalizationId": 604,
+    "TalentId": 251,
+    "LanguageCode": "JP-JP",
+    "Name": "パニック"
+  },
+  {
+    "TalentLocalizationId": 433,
+    "TalentId": 107,
+    "LanguageCode": "JP-JP",
+    "Name": "バンデッド"
+  },
+  {
+    "TalentLocalizationId": 739,
+    "TalentId": 188,
+    "LanguageCode": "JP-JP",
+    "Name": "ピピぼう"
+  },
+  {
+    "TalentLocalizationId": 550,
+    "TalentId": 249,
+    "LanguageCode": "JP-JP",
+    "Name": "プリンセス"
+  },
+  {
+    "TalentLocalizationId": 334,
+    "TalentId": 87,
+    "LanguageCode": "JP-JP",
+    "Name": "ブルーソード"
+  },
+  {
+    "TalentLocalizationId": 208,
+    "TalentId": 21,
+    "LanguageCode": "JP-JP",
+    "Name": "ブレスマスター"
+  },
+  {
+    "TalentLocalizationId": 406,
+    "TalentId": 248,
+    "LanguageCode": "JP-JP",
+    "Name": "ヘドロ"
+  },
+  {
+    "TalentLocalizationId": 658,
+    "TalentId": 54,
+    "LanguageCode": "JP-JP",
+    "Name": "ぼうぎょ"
+  },
+  {
+    "TalentLocalizationId": 1198,
+    "TalentId": 85,
+    "LanguageCode": "JP-JP",
+    "Name": "マヒガード"
+  },
+  {
+    "TalentLocalizationId": 316,
+    "TalentId": 32,
+    "LanguageCode": "JP-JP",
+    "Name": "みずげい"
+  },
+  {
+    "TalentLocalizationId": 694,
+    "TalentId": 112,
+    "LanguageCode": "JP-JP",
+    "Name": "みわく"
+  },
+  {
+    "TalentLocalizationId": 262,
+    "TalentId": 26,
+    "LanguageCode": "JP-JP",
+    "Name": "むしのしらせ"
+  },
+  {
+    "TalentLocalizationId": 325,
+    "TalentId": 33,
+    "LanguageCode": "JP-JP",
+    "Name": "レッドソード"
+  },
+  {
+    "TalentLocalizationId": 721,
+    "TalentId": 219,
+    "LanguageCode": "JP-JP",
+    "Name": "わたぼう"
+  },
+  {
+    "TalentLocalizationId": 730,
+    "TalentId": 220,
+    "LanguageCode": "JP-JP",
+    "Name": "ワルぼう"
+  },
+  {
+    "TalentLocalizationId": 531,
+    "TalentId": 247,
+    "LanguageCode": "KO-KR",
+    "Name": "거구"
+  },
+  {
+    "TalentLocalizationId": 468,
+    "TalentId": 41,
+    "LanguageCode": "KO-KR",
+    "Name": "검술"
+  },
+  {
+    "TalentLocalizationId": 792,
+    "TalentId": 104,
+    "LanguageCode": "KO-KR",
+    "Name": "검호 SP"
+  },
+  {
+    "TalentLocalizationId": 909,
+    "TalentId": 60,
+    "LanguageCode": "KO-KR",
+    "Name": "공격력 UP 1"
+  },
+  {
+    "TalentLocalizationId": 918,
+    "TalentId": 61,
+    "LanguageCode": "KO-KR",
+    "Name": "공격력 UP 2"
+  },
+  {
+    "TalentLocalizationId": 927,
+    "TalentId": 118,
+    "LanguageCode": "KO-KR",
+    "Name": "공격력 UP 3"
+  },
+  {
+    "TalentLocalizationId": 936,
+    "TalentId": 119,
+    "LanguageCode": "KO-KR",
+    "Name": "공격력 UP 4"
+  },
+  {
+    "TalentLocalizationId": 558,
+    "TalentId": 249,
+    "LanguageCode": "KO-KR",
+    "Name": "공주"
+  },
+  {
+    "TalentLocalizationId": 819,
+    "TalentId": 94,
+    "LanguageCode": "KO-KR",
+    "Name": "그랑 스펠 SP"
+  },
+  {
+    "TalentLocalizationId": 828,
+    "TalentId": 127,
+    "LanguageCode": "KO-KR",
+    "Name": "그랜드 브레스 SP"
+  },
+  {
+    "TalentLocalizationId": 351,
+    "TalentId": 34,
+    "LanguageCode": "KO-KR",
+    "Name": "그린 소드"
+  },
+  {
+    "TalentLocalizationId": 477,
+    "TalentId": 88,
+    "LanguageCode": "KO-KR",
+    "Name": "기사도"
+  },
+  {
+    "TalentLocalizationId": 315,
+    "TalentId": 31,
+    "LanguageCode": "KO-KR",
+    "Name": "내추럴"
+  },
+  {
+    "TalentLocalizationId": 189,
+    "TalentId": 110,
+    "LanguageCode": "KO-KR",
+    "Name": "눈보라"
+  },
+  {
+    "TalentLocalizationId": 630,
+    "TalentId": 52,
+    "LanguageCode": "KO-KR",
+    "Name": "다우너"
+  },
+  {
+    "TalentLocalizationId": 225,
+    "TalentId": 22,
+    "LanguageCode": "KO-KR",
+    "Name": "댄서"
+  },
+  {
+    "TalentLocalizationId": 486,
+    "TalentId": 42,
+    "LanguageCode": "KO-KR",
+    "Name": "도적"
+  },
+  {
+    "TalentLocalizationId": 1170,
+    "TalentId": 81,
+    "LanguageCode": "KO-KR",
+    "Name": "독 가드"
+  },
+  {
+    "TalentLocalizationId": 603,
+    "TalentId": 50,
+    "LanguageCode": "KO-KR",
+    "Name": "독설"
+  },
+  {
+    "TalentLocalizationId": 279,
+    "TalentId": 27,
+    "LanguageCode": "KO-KR",
+    "Name": "돌머리"
+  },
+  {
+    "TalentLocalizationId": 252,
+    "TalentId": 24,
+    "LanguageCode": "KO-KR",
+    "Name": "드래곤 소울"
+  },
+  {
+    "TalentLocalizationId": 1080,
+    "TalentId": 71,
+    "LanguageCode": "KO-KR",
+    "Name": "땅 가드"
+  },
+  {
+    "TalentLocalizationId": 63,
+    "TalentId": 7,
+    "LanguageCode": "KO-KR",
+    "Name": "땅의 마음"
+  },
+  {
+    "TalentLocalizationId": 72,
+    "TalentId": 8,
+    "LanguageCode": "KO-KR",
+    "Name": "땅의 오의"
+  },
+  {
+    "TalentLocalizationId": 333,
+    "TalentId": 33,
+    "LanguageCode": "KO-KR",
+    "Name": "레드 소드"
+  },
+  {
+    "TalentLocalizationId": 1206,
+    "TalentId": 85,
+    "LanguageCode": "KO-KR",
+    "Name": "마비 가드"
+  },
+  {
+    "TalentLocalizationId": 459,
+    "TalentId": 106,
+    "LanguageCode": "KO-KR",
+    "Name": "마술"
+  },
+  {
+    "TalentLocalizationId": 702,
+    "TalentId": 112,
+    "LanguageCode": "KO-KR",
+    "Name": "매혹"
+  },
+  {
+    "TalentLocalizationId": 1062,
+    "TalentId": 69,
+    "LanguageCode": "KO-KR",
+    "Name": "물 가드"
+  },
+  {
+    "TalentLocalizationId": 27,
+    "TalentId": 3,
+    "LanguageCode": "KO-KR",
+    "Name": "물의 마음"
+  },
+  {
+    "TalentLocalizationId": 36,
+    "TalentId": 4,
+    "LanguageCode": "KO-KR",
+    "Name": "물의 오의"
+  },
+  {
+    "TalentLocalizationId": 513,
+    "TalentId": 43,
+    "LanguageCode": "KO-KR",
+    "Name": "미끈미끈"
+  },
+  {
+    "TalentLocalizationId": 981,
+    "TalentId": 64,
+    "LanguageCode": "KO-KR",
+    "Name": "민첩함 UP 1"
+  },
+  {
+    "TalentLocalizationId": 990,
+    "TalentId": 65,
+    "LanguageCode": "KO-KR",
+    "Name": "민첩함 UP 2"
+  },
+  {
+    "TalentLocalizationId": 999,
+    "TalentId": 122,
+    "LanguageCode": "KO-KR",
+    "Name": "민첩함 UP 3"
+  },
+  {
+    "TalentLocalizationId": 1008,
+    "TalentId": 123,
+    "LanguageCode": "KO-KR",
+    "Name": "민첩함 UP 4"
+  },
+  {
+    "TalentLocalizationId": 1071,
+    "TalentId": 70,
+    "LanguageCode": "KO-KR",
+    "Name": "바람 가드"
+  },
+  {
+    "TalentLocalizationId": 45,
+    "TalentId": 5,
+    "LanguageCode": "KO-KR",
+    "Name": "바람의 마음"
+  },
+  {
+    "TalentLocalizationId": 54,
+    "TalentId": 6,
+    "LanguageCode": "KO-KR",
+    "Name": "바람의 오의"
+  },
+  {
+    "TalentLocalizationId": 666,
+    "TalentId": 54,
+    "LanguageCode": "KO-KR",
+    "Name": "방어"
+  },
+  {
+    "TalentLocalizationId": 441,
+    "TalentId": 107,
+    "LanguageCode": "KO-KR",
+    "Name": "밴디트"
+  },
+  {
+    "TalentLocalizationId": 1269,
+    "TalentId": 131,
+    "LanguageCode": "KO-KR",
+    "Name": "번개 가드 SP"
+  },
+  {
+    "TalentLocalizationId": 270,
+    "TalentId": 26,
+    "LanguageCode": "KO-KR",
+    "Name": "벌레의 경고"
+  },
+  {
+    "TalentLocalizationId": 1152,
+    "TalentId": 79,
+    "LanguageCode": "KO-KR",
+    "Name": "봉인 가드"
+  },
+  {
+    "TalentLocalizationId": 1053,
+    "TalentId": 68,
+    "LanguageCode": "KO-KR",
+    "Name": "불 가드"
+  },
+  {
+    "TalentLocalizationId": 9,
+    "TalentId": 1,
+    "LanguageCode": "KO-KR",
+    "Name": "불의 마음"
+  },
+  {
+    "TalentLocalizationId": 18,
+    "TalentId": 2,
+    "LanguageCode": "KO-KR",
+    "Name": "불의 오의"
+  },
+  {
+    "TalentLocalizationId": 405,
+    "TalentId": 250,
+    "LanguageCode": "KO-KR",
+    "Name": "불장난"
+  },
+  {
+    "TalentLocalizationId": 216,
+    "TalentId": 21,
+    "LanguageCode": "KO-KR",
+    "Name": "브레스 마스터"
+  },
+  {
+    "TalentLocalizationId": 342,
+    "TalentId": 87,
+    "LanguageCode": "KO-KR",
+    "Name": "블루 소드"
+  },
+  {
+    "TalentLocalizationId": 1098,
+    "TalentId": 73,
+    "LanguageCode": "KO-KR",
+    "Name": "빙결 가드"
+  },
+  {
+    "TalentLocalizationId": 99,
+    "TalentId": 11,
+    "LanguageCode": "KO-KR",
+    "Name": "빙결의 마음"
+  },
+  {
+    "TalentLocalizationId": 108,
+    "TalentId": 12,
+    "LanguageCode": "KO-KR",
+    "Name": "빙결의 오의"
+  },
+  {
+    "TalentLocalizationId": 783,
+    "TalentId": 129,
+    "LanguageCode": "KO-KR",
+    "Name": "빙염의 검기"
+  },
+  {
+    "TalentLocalizationId": 198,
+    "TalentId": 126,
+    "LanguageCode": "KO-KR",
+    "Name": "빙옥"
+  },
+  {
+    "TalentLocalizationId": 1116,
+    "TalentId": 75,
+    "LanguageCode": "KO-KR",
+    "Name": "빛 가드"
+  },
+  {
+    "TalentLocalizationId": 135,
+    "TalentId": 15,
+    "LanguageCode": "KO-KR",
+    "Name": "빛의 마음"
+  },
+  {
+    "TalentLocalizationId": 144,
+    "TalentId": 16,
+    "LanguageCode": "KO-KR",
+    "Name": "빛의 오의"
+  },
+  {
+    "TalentLocalizationId": 747,
+    "TalentId": 188,
+    "LanguageCode": "KO-KR",
+    "Name": "삐삐몬"
+  },
+  {
+    "TalentLocalizationId": 639,
+    "TalentId": 53,
+    "LanguageCode": "KO-KR",
+    "Name": "서포터"
+  },
+  {
+    "TalentLocalizationId": 720,
+    "TalentId": 158,
+    "LanguageCode": "KO-KR",
+    "Name": "소서러"
+  },
+  {
+    "TalentLocalizationId": 594,
+    "TalentId": 100,
+    "LanguageCode": "KO-KR",
+    "Name": "수마"
+  },
+  {
+    "TalentLocalizationId": 1188,
+    "TalentId": 83,
+    "LanguageCode": "KO-KR",
+    "Name": "수면 가드"
+  },
+  {
+    "TalentLocalizationId": 945,
+    "TalentId": 62,
+    "LanguageCode": "KO-KR",
+    "Name": "수비력 UP 1"
+  },
+  {
+    "TalentLocalizationId": 954,
+    "TalentId": 63,
+    "LanguageCode": "KO-KR",
+    "Name": "수비력 UP 2"
+  },
+  {
+    "TalentLocalizationId": 963,
+    "TalentId": 120,
+    "LanguageCode": "KO-KR",
+    "Name": "수비력 UP 3"
+  },
+  {
+    "TalentLocalizationId": 972,
+    "TalentId": 121,
+    "LanguageCode": "KO-KR",
+    "Name": "수비력 UP 4"
+  },
+  {
+    "TalentLocalizationId": 324,
+    "TalentId": 32,
+    "LanguageCode": "KO-KR",
+    "Name": "수예"
+  },
+  {
+    "TalentLocalizationId": 207,
+    "TalentId": 20,
+    "LanguageCode": "KO-KR",
+    "Name": "숨결"
+  },
+  {
+    "TalentLocalizationId": 369,
+    "TalentId": 36,
+    "LanguageCode": "KO-KR",
+    "Name": "스릴러"
+  },
+  {
+    "TalentLocalizationId": 495,
+    "TalentId": 98,
+    "LanguageCode": "KO-KR",
+    "Name": "스위트"
+  },
+  {
+    "TalentLocalizationId": 243,
+    "TalentId": 23,
+    "LanguageCode": "KO-KR",
+    "Name": "슬라 포스"
+  },
+  {
+    "TalentLocalizationId": 810,
+    "TalentId": 92,
+    "LanguageCode": "KO-KR",
+    "Name": "신성한 눈보라 SP"
+  },
+  {
+    "TalentLocalizationId": 387,
+    "TalentId": 95,
+    "LanguageCode": "KO-KR",
+    "Name": "신속"
+  },
+  {
+    "TalentLocalizationId": 297,
+    "TalentId": 29,
+    "LanguageCode": "KO-KR",
+    "Name": "악마의 속삭임"
+  },
+  {
+    "TalentLocalizationId": 711,
+    "TalentId": 55,
+    "LanguageCode": "KO-KR",
+    "Name": "악취"
+  },
+  {
+    "TalentLocalizationId": 648,
+    "TalentId": 111,
+    "LanguageCode": "KO-KR",
+    "Name": "안티 브레스"
+  },
+  {
+    "TalentLocalizationId": 657,
+    "TalentId": 113,
+    "LanguageCode": "KO-KR",
+    "Name": "안티 스펠"
+  },
+  {
+    "TalentLocalizationId": 1134,
+    "TalentId": 77,
+    "LanguageCode": "KO-KR",
+    "Name": "약체화 가드"
+  },
+  {
+    "TalentLocalizationId": 1125,
+    "TalentId": 76,
+    "LanguageCode": "KO-KR",
+    "Name": "어둠 가드"
+  },
+  {
+    "TalentLocalizationId": 153,
+    "TalentId": 17,
+    "LanguageCode": "KO-KR",
+    "Name": "어둠의 마음"
+  },
+  {
+    "TalentLocalizationId": 162,
+    "TalentId": 18,
+    "LanguageCode": "KO-KR",
+    "Name": "어둠의 오의"
+  },
+  {
+    "TalentLocalizationId": 801,
+    "TalentId": 93,
+    "LanguageCode": "KO-KR",
+    "Name": "어둠의 폭염 SP"
+  },
+  {
+    "TalentLocalizationId": 522,
+    "TalentId": 44,
+    "LanguageCode": "KO-KR",
+    "Name": "어새신"
+  },
+  {
+    "TalentLocalizationId": 621,
+    "TalentId": 51,
+    "LanguageCode": "KO-KR",
+    "Name": "어퍼"
+  },
+  {
+    "TalentLocalizationId": 261,
+    "TalentId": 25,
+    "LanguageCode": "KO-KR",
+    "Name": "언데드"
+  },
+  {
+    "TalentLocalizationId": 234,
+    "TalentId": 109,
+    "LanguageCode": "KO-KR",
+    "Name": "엔터테이너"
+  },
+  {
+    "TalentLocalizationId": 360,
+    "TalentId": 35,
+    "LanguageCode": "KO-KR",
+    "Name": "옐로 소드"
+  },
+  {
+    "TalentLocalizationId": 180,
+    "TalentId": 105,
+    "LanguageCode": "KO-KR",
+    "Name": "옥염"
+  },
+  {
+    "TalentLocalizationId": 585,
+    "TalentId": 49,
+    "LanguageCode": "KO-KR",
+    "Name": "요정"
+  },
+  {
+    "TalentLocalizationId": 1224,
+    "TalentId": 135,
+    "LanguageCode": "KO-KR",
+    "Name": "용암 가드 SP"
+  },
+  {
+    "TalentLocalizationId": 450,
+    "TalentId": 40,
+    "LanguageCode": "KO-KR",
+    "Name": "워리어"
+  },
+  {
+    "TalentLocalizationId": 1233,
+    "TalentId": 136,
+    "LanguageCode": "KO-KR",
+    "Name": "유빙 가드 SP"
+  },
+  {
+    "TalentLocalizationId": 738,
+    "TalentId": 220,
+    "LanguageCode": "KO-KR",
+    "Name": "이블 코튼몬"
+  },
+  {
+    "TalentLocalizationId": 576,
+    "TalentId": 48,
+    "LanguageCode": "KO-KR",
+    "Name": "이상 회복"
+  },
+  {
+    "TalentLocalizationId": 540,
+    "TalentId": 99,
+    "LanguageCode": "KO-KR",
+    "Name": "자기희생"
+  },
+  {
+    "TalentLocalizationId": 549,
+    "TalentId": 46,
+    "LanguageCode": "KO-KR",
+    "Name": "장난"
+  },
+  {
+    "TalentLocalizationId": 684,
+    "TalentId": 97,
+    "LanguageCode": "KO-KR",
+    "Name": "재머"
+  },
+  {
+    "TalentLocalizationId": 1107,
+    "TalentId": 74,
+    "LanguageCode": "KO-KR",
+    "Name": "전격 가드"
+  },
+  {
+    "TalentLocalizationId": 117,
+    "TalentId": 13,
+    "LanguageCode": "KO-KR",
+    "Name": "전격의 마음"
+  },
+  {
+    "TalentLocalizationId": 126,
+    "TalentId": 14,
+    "LanguageCode": "KO-KR",
+    "Name": "전격의 오의"
+  },
+  {
+    "TalentLocalizationId": 260,
+    "TalentId": 25,
+    "LanguageCode": "ZH-CN",
+    "Name": "不死"
+  },
+  {
+    "TalentLocalizationId": 259,
+    "TalentId": 25,
+    "LanguageCode": "ZH-TW",
+    "Name": "不死者"
+  },
+  {
+    "TalentLocalizationId": 268,
+    "TalentId": 26,
+    "LanguageCode": "ZH-TW",
+    "Name": "不祥預感"
+  },
+  {
+    "TalentLocalizationId": 269,
+    "TalentId": 26,
+    "LanguageCode": "ZH-CN",
+    "Name": "不祥预感"
+  },
+  {
+    "TalentLocalizationId": 394,
+    "TalentId": 96,
+    "LanguageCode": "ZH-TW",
+    "Name": "丘比特"
+  },
+  {
+    "TalentLocalizationId": 395,
+    "TalentId": 96,
+    "LanguageCode": "ZH-CN",
+    "Name": "丘比特"
+  },
+  {
+    "TalentLocalizationId": 1215,
+    "TalentId": 86,
+    "LanguageCode": "KO-KR",
+    "Name": "즉사 가드"
+  },
+  {
+    "TalentLocalizationId": 414,
+    "TalentId": 248,
+    "LanguageCode": "KO-KR",
+    "Name": "진흙"
+  },
+  {
+    "TalentLocalizationId": 288,
+    "TalentId": 28,
+    "LanguageCode": "KO-KR",
+    "Name": "짐승의 길"
+  },
+  {
+    "TalentLocalizationId": 1171,
+    "TalentId": 82,
+    "LanguageCode": "JP-JP",
+    "Name": "休みガード"
+  },
+  {
+    "TalentLocalizationId": 1178,
+    "TalentId": 82,
+    "LanguageCode": "ZH-CN",
+    "Name": "休息防护"
+  },
+  {
+    "TalentLocalizationId": 1177,
+    "TalentId": 82,
+    "LanguageCode": "ZH-TW",
+    "Name": "休息防護"
+  },
+  {
+    "TalentLocalizationId": 818,
+    "TalentId": 94,
+    "LanguageCode": "ZH-CN",
+    "Name": "伟大咒文ＳＰ"
+  },
+  {
+    "TalentLocalizationId": 1108,
+    "TalentId": 75,
+    "LanguageCode": "JP-JP",
+    "Name": "光ガード"
+  },
+  {
+    "TalentLocalizationId": 127,
+    "TalentId": 15,
+    "LanguageCode": "JP-JP",
+    "Name": "光の心"
+  },
+  {
+    "TalentLocalizationId": 136,
+    "TalentId": 16,
+    "LanguageCode": "JP-JP",
+    "Name": "光の極意"
+  },
+  {
+    "TalentLocalizationId": 142,
+    "TalentId": 16,
+    "LanguageCode": "ZH-TW",
+    "Name": "光之奧祕"
+  },
+  {
+    "TalentLocalizationId": 133,
+    "TalentId": 15,
+    "LanguageCode": "ZH-TW",
+    "Name": "光之心"
+  },
+  {
+    "TalentLocalizationId": 134,
+    "TalentId": 15,
+    "LanguageCode": "ZH-CN",
+    "Name": "光之心"
+  },
+  {
+    "TalentLocalizationId": 143,
+    "TalentId": 16,
+    "LanguageCode": "ZH-CN",
+    "Name": "光之精髓"
+  },
+  {
+    "TalentLocalizationId": 1115,
+    "TalentId": 75,
+    "LanguageCode": "ZH-CN",
+    "Name": "光之防护"
+  },
+  {
+    "TalentLocalizationId": 1114,
+    "TalentId": 75,
+    "LanguageCode": "ZH-TW",
+    "Name": "光防護"
+  },
+  {
+    "TalentLocalizationId": 556,
+    "TalentId": 249,
+    "LanguageCode": "ZH-TW",
+    "Name": "公主"
+  },
+  {
+    "TalentLocalizationId": 557,
+    "TalentId": 249,
+    "LanguageCode": "ZH-CN",
+    "Name": "公主"
+  },
+  {
+    "TalentLocalizationId": 423,
+    "TalentId": 38,
+    "LanguageCode": "KO-KR",
+    "Name": "천하장사"
+  },
+  {
+    "TalentLocalizationId": 675,
+    "TalentId": 89,
+    "LanguageCode": "KO-KR",
+    "Name": "철벽"
+  },
+  {
+    "TalentLocalizationId": 782,
+    "TalentId": 129,
+    "LanguageCode": "ZH-CN",
+    "Name": "冰火剑技"
+  },
+  {
+    "TalentLocalizationId": 781,
+    "TalentId": 129,
+    "LanguageCode": "ZH-TW",
+    "Name": "冰炎劍技"
+  },
+  {
+    "TalentLocalizationId": 197,
+    "TalentId": 126,
+    "LanguageCode": "ZH-CN",
+    "Name": "冰狱"
+  },
+  {
+    "TalentLocalizationId": 196,
+    "TalentId": 126,
+    "LanguageCode": "ZH-TW",
+    "Name": "冰獄"
+  },
+  {
+    "TalentLocalizationId": 106,
+    "TalentId": 12,
+    "LanguageCode": "ZH-TW",
+    "Name": "冰結之奧祕"
+  },
+  {
+    "TalentLocalizationId": 97,
+    "TalentId": 11,
+    "LanguageCode": "ZH-TW",
+    "Name": "冰結之心"
+  },
+  {
+    "TalentLocalizationId": 1096,
+    "TalentId": 73,
+    "LanguageCode": "ZH-TW",
+    "Name": "冰結防護"
+  },
+  {
+    "TalentLocalizationId": 98,
+    "TalentId": 11,
+    "LanguageCode": "ZH-CN",
+    "Name": "冰结之心"
+  },
+  {
+    "TalentLocalizationId": 107,
+    "TalentId": 12,
+    "LanguageCode": "ZH-CN",
+    "Name": "冰结之精髓"
+  },
+  {
+    "TalentLocalizationId": 1097,
+    "TalentId": 73,
+    "LanguageCode": "ZH-CN",
+    "Name": "冰结防护"
+  },
+  {
+    "TalentLocalizationId": 1259,
+    "TalentId": 132,
+    "LanguageCode": "ZH-CN",
+    "Name": "冲击防护ＳＰ"
+  },
+  {
+    "TalentLocalizationId": 1017,
+    "TalentId": 66,
+    "LanguageCode": "KO-KR",
+    "Name": "총명함 UP 1"
+  },
+  {
+    "TalentLocalizationId": 1026,
+    "TalentId": 67,
+    "LanguageCode": "KO-KR",
+    "Name": "총명함 UP 2"
+  },
+  {
+    "TalentLocalizationId": 1035,
+    "TalentId": 124,
+    "LanguageCode": "KO-KR",
+    "Name": "총명함 UP 3"
+  },
+  {
+    "TalentLocalizationId": 1044,
+    "TalentId": 125,
+    "LanguageCode": "KO-KR",
+    "Name": "총명함 UP 4"
+  },
+  {
+    "TalentLocalizationId": 520,
+    "TalentId": 44,
+    "LanguageCode": "ZH-TW",
+    "Name": "刺客"
+  },
+  {
+    "TalentLocalizationId": 521,
+    "TalentId": 44,
+    "LanguageCode": "ZH-CN",
+    "Name": "刺客"
+  },
+  {
+    "TalentLocalizationId": 467,
+    "TalentId": 41,
+    "LanguageCode": "ZH-CN",
+    "Name": "剑术"
+  },
+  {
+    "TalentLocalizationId": 791,
+    "TalentId": 104,
+    "LanguageCode": "ZH-CN",
+    "Name": "剑豪ＳＰ"
+  },
+  {
+    "TalentLocalizationId": 460,
+    "TalentId": 41,
+    "LanguageCode": "JP-JP",
+    "Name": "剣術"
+  },
+  {
+    "TalentLocalizationId": 1169,
+    "TalentId": 81,
+    "LanguageCode": "ZH-CN",
+    "Name": "剧毒防护"
+  },
+  {
+    "TalentLocalizationId": 1260,
+    "TalentId": 132,
+    "LanguageCode": "KO-KR",
+    "Name": "충격 가드 SP"
+  },
+  {
+    "TalentLocalizationId": 466,
+    "TalentId": 41,
+    "LanguageCode": "ZH-TW",
+    "Name": "劍術"
+  },
+  {
+    "TalentLocalizationId": 790,
+    "TalentId": 104,
+    "LanguageCode": "ZH-TW",
+    "Name": "劍豪ＳＰ"
+  },
+  {
+    "TalentLocalizationId": 448,
+    "TalentId": 40,
+    "LanguageCode": "ZH-TW",
+    "Name": "勇士"
+  },
+  {
+    "TalentLocalizationId": 449,
+    "TalentId": 40,
+    "LanguageCode": "ZH-CN",
+    "Name": "勇士"
+  },
+  {
+    "TalentLocalizationId": 1207,
+    "TalentId": 86,
+    "LanguageCode": "JP-JP",
+    "Name": "即死ガード"
+  },
+  {
+    "TalentLocalizationId": 1214,
+    "TalentId": 86,
+    "LanguageCode": "ZH-CN",
+    "Name": "即死防护"
+  },
+  {
+    "TalentLocalizationId": 1213,
+    "TalentId": 86,
+    "LanguageCode": "ZH-TW",
+    "Name": "即死防護"
+  },
+  {
+    "TalentLocalizationId": 378,
+    "TalentId": 37,
+    "LanguageCode": "KO-KR",
+    "Name": "커스"
+  },
+  {
+    "TalentLocalizationId": 242,
+    "TalentId": 23,
+    "LanguageCode": "ZH-CN",
+    "Name": "史莱姆源力"
+  },
+  {
+    "TalentLocalizationId": 241,
+    "TalentId": 23,
+    "LanguageCode": "ZH-TW",
+    "Name": "史萊姆源力"
+  },
+  {
+    "TalentLocalizationId": 214,
+    "TalentId": 21,
+    "LanguageCode": "ZH-TW",
+    "Name": "吐息大師"
+  },
+  {
+    "TalentLocalizationId": 215,
+    "TalentId": 21,
+    "LanguageCode": "ZH-CN",
+    "Name": "吐息至尊"
+  },
+  {
+    "TalentLocalizationId": 729,
+    "TalentId": 219,
+    "LanguageCode": "KO-KR",
+    "Name": "코튼몬"
+  },
+  {
+    "TalentLocalizationId": 181,
+    "TalentId": 110,
+    "LanguageCode": "JP-JP",
+    "Name": "吹雪"
+  },
+  {
+    "TalentLocalizationId": 746,
+    "TalentId": 188,
+    "LanguageCode": "ZH-CN",
+    "Name": "哔哔精"
+  },
+  {
+    "TalentLocalizationId": 396,
+    "TalentId": 96,
+    "LanguageCode": "KO-KR",
+    "Name": "큐피드"
+  },
+  {
+    "TalentLocalizationId": 1072,
+    "TalentId": 71,
+    "LanguageCode": "JP-JP",
+    "Name": "地ガード"
+  },
+  {
+    "TalentLocalizationId": 55,
+    "TalentId": 7,
+    "LanguageCode": "JP-JP",
+    "Name": "地の心"
+  },
+  {
+    "TalentLocalizationId": 64,
+    "TalentId": 8,
+    "LanguageCode": "JP-JP",
+    "Name": "地の極意"
+  },
+  {
+    "TalentLocalizationId": 70,
+    "TalentId": 8,
+    "LanguageCode": "ZH-TW",
+    "Name": "地之奧祕"
+  },
+  {
+    "TalentLocalizationId": 61,
+    "TalentId": 7,
+    "LanguageCode": "ZH-TW",
+    "Name": "地之心"
+  },
+  {
+    "TalentLocalizationId": 62,
+    "TalentId": 7,
+    "LanguageCode": "ZH-CN",
+    "Name": "地之心"
+  },
+  {
+    "TalentLocalizationId": 71,
+    "TalentId": 8,
+    "LanguageCode": "ZH-CN",
+    "Name": "地之精髓"
+  },
+  {
+    "TalentLocalizationId": 1079,
+    "TalentId": 71,
+    "LanguageCode": "ZH-CN",
+    "Name": "地之防护"
+  },
+  {
+    "TalentLocalizationId": 1078,
+    "TalentId": 71,
+    "LanguageCode": "ZH-TW",
+    "Name": "地防護"
+  },
+  {
+    "TalentLocalizationId": 278,
+    "TalentId": 27,
+    "LanguageCode": "ZH-CN",
+    "Name": "坚硬脑袋"
+  },
+  {
+    "TalentLocalizationId": 504,
+    "TalentId": 181,
+    "LanguageCode": "KO-KR",
+    "Name": "트로피컬"
+  },
+  {
+    "TalentLocalizationId": 693,
+    "TalentId": 90,
+    "LanguageCode": "KO-KR",
+    "Name": "트리키"
+  },
+  {
+    "TalentLocalizationId": 612,
+    "TalentId": 251,
+    "LanguageCode": "KO-KR",
+    "Name": "패닉"
+  },
+  {
+    "TalentLocalizationId": 432,
+    "TalentId": 39,
+    "LanguageCode": "KO-KR",
+    "Name": "폭거"
+  },
+  {
+    "TalentLocalizationId": 1089,
+    "TalentId": 72,
+    "LanguageCode": "KO-KR",
+    "Name": "폭발 가드"
+  },
+  {
+    "TalentLocalizationId": 81,
+    "TalentId": 9,
+    "LanguageCode": "KO-KR",
+    "Name": "폭발의 마음"
+  },
+  {
+    "TalentLocalizationId": 90,
+    "TalentId": 10,
+    "LanguageCode": "KO-KR",
+    "Name": "폭발의 오의"
+  },
+  {
+    "TalentLocalizationId": 774,
+    "TalentId": 103,
+    "LanguageCode": "KO-KR",
+    "Name": "폭빙의 검기"
+  },
+  {
+    "TalentLocalizationId": 1242,
+    "TalentId": 134,
+    "LanguageCode": "KO-KR",
+    "Name": "폭풍 가드 SP"
+  },
+  {
+    "TalentLocalizationId": 421,
+    "TalentId": 38,
+    "LanguageCode": "ZH-TW",
+    "Name": "大力士"
+  },
+  {
+    "TalentLocalizationId": 422,
+    "TalentId": 38,
+    "LanguageCode": "ZH-CN",
+    "Name": "大力士"
+  },
+  {
+    "TalentLocalizationId": 827,
+    "TalentId": 127,
+    "LanguageCode": "ZH-CN",
+    "Name": "大吐息ＳＰ"
+  },
+  {
+    "TalentLocalizationId": 765,
+    "TalentId": 130,
+    "LanguageCode": "KO-KR",
+    "Name": "풍뢰의 검기"
+  },
+  {
+    "TalentLocalizationId": 756,
+    "TalentId": 91,
+    "LanguageCode": "KO-KR",
+    "Name": "풍염의 검기"
+  },
+  {
+    "TalentLocalizationId": 719,
+    "TalentId": 158,
+    "LanguageCode": "ZH-CN",
+    "Name": "妖术师"
+  },
+  {
+    "TalentLocalizationId": 577,
+    "TalentId": 49,
+    "LanguageCode": "JP-JP",
+    "Name": "妖精"
+  },
+  {
+    "TalentLocalizationId": 583,
+    "TalentId": 49,
+    "LanguageCode": "ZH-TW",
+    "Name": "妖精"
+  },
+  {
+    "TalentLocalizationId": 584,
+    "TalentId": 49,
+    "LanguageCode": "ZH-CN",
+    "Name": "妖精"
+  },
+  {
+    "TalentLocalizationId": 718,
+    "TalentId": 158,
+    "LanguageCode": "ZH-TW",
+    "Name": "妖術師"
+  },
+  {
+    "TalentLocalizationId": 233,
+    "TalentId": 109,
+    "LanguageCode": "ZH-CN",
+    "Name": "娱乐家"
+  },
+  {
+    "TalentLocalizationId": 1197,
+    "TalentId": 84,
+    "LanguageCode": "KO-KR",
+    "Name": "혼란 가드"
+  },
+  {
+    "TalentLocalizationId": 171,
+    "TalentId": 19,
+    "LanguageCode": "KO-KR",
+    "Name": "화염"
+  },
+  {
+    "TalentLocalizationId": 1143,
+    "TalentId": 78,
+    "LanguageCode": "KO-KR",
+    "Name": "환혹 가드"
+  },
+  {
+    "TalentLocalizationId": 306,
+    "TalentId": 30,
+    "LanguageCode": "KO-KR",
+    "Name": "회오리바람"
+  },
+  {
+    "TalentLocalizationId": 937,
+    "TalentId": 62,
+    "LanguageCode": "JP-JP",
+    "Name": "守備力アップ１"
+  },
+  {
+    "TalentLocalizationId": 946,
+    "TalentId": 63,
+    "LanguageCode": "JP-JP",
+    "Name": "守備力アップ２"
+  },
+  {
+    "TalentLocalizationId": 955,
+    "TalentId": 120,
+    "LanguageCode": "JP-JP",
+    "Name": "守備力アップ３"
+  },
+  {
+    "TalentLocalizationId": 964,
+    "TalentId": 121,
+    "LanguageCode": "JP-JP",
+    "Name": "守備力アップ４"
+  },
+  {
+    "TalentLocalizationId": 943,
+    "TalentId": 62,
+    "LanguageCode": "ZH-TW",
+    "Name": "守備力提升１"
+  },
+  {
+    "TalentLocalizationId": 952,
+    "TalentId": 63,
+    "LanguageCode": "ZH-TW",
+    "Name": "守備力提升２"
+  },
+  {
+    "TalentLocalizationId": 961,
+    "TalentId": 120,
+    "LanguageCode": "ZH-TW",
+    "Name": "守備力提升３"
+  },
+  {
+    "TalentLocalizationId": 970,
+    "TalentId": 121,
+    "LanguageCode": "ZH-TW",
+    "Name": "守備力提升４"
+  },
+  {
+    "TalentLocalizationId": 1179,
+    "TalentId": 82,
+    "LanguageCode": "KO-KR",
+    "Name": "휴식 가드"
+  },
+  {
+    "TalentLocalizationId": 1144,
+    "TalentId": 79,
+    "LanguageCode": "JP-JP",
+    "Name": "封じガード"
+  },
+  {
+    "TalentLocalizationId": 1151,
+    "TalentId": 79,
+    "LanguageCode": "ZH-CN",
+    "Name": "封印防护"
+  },
+  {
+    "TalentLocalizationId": 1150,
+    "TalentId": 79,
+    "LanguageCode": "ZH-TW",
+    "Name": "封印防護"
+  },
+  {
+    "TalentLocalizationId": 1251,
+    "TalentId": 133,
+    "LanguageCode": "KO-KR",
+    "Name": "흑백 가드 SP"
+  },
+  {
+    "TalentLocalizationId": 601,
+    "TalentId": 50,
+    "LanguageCode": "ZH-TW",
+    "Name": "尖酸刻薄"
+  },
+  {
+    "TalentLocalizationId": 602,
+    "TalentId": 50,
+    "LanguageCode": "ZH-CN",
+    "Name": "尖酸刻薄"
+  },
+  {
+    "TalentLocalizationId": 826,
+    "TalentId": 127,
+    "LanguageCode": "ZH-TW",
+    "Name": "崇高吐息ＳＰ"
+  },
+  {
+    "TalentLocalizationId": 817,
+    "TalentId": 94,
+    "LanguageCode": "ZH-TW",
+    "Name": "崇高咒文ＳＰ"
+  },
+  {
+    "TalentLocalizationId": 523,
+    "TalentId": 247,
+    "LanguageCode": "JP-JP",
+    "Name": "巨漢"
+  },
+  {
+    "TalentLocalizationId": 530,
+    "TalentId": 247,
+    "LanguageCode": "ZH-CN",
+    "Name": "巨躯"
+  },
+  {
+    "TalentLocalizationId": 529,
+    "TalentId": 247,
+    "LanguageCode": "ZH-TW",
+    "Name": "巨軀"
+  },
+  {
+    "TalentLocalizationId": 683,
+    "TalentId": 97,
+    "LanguageCode": "ZH-CN",
+    "Name": "干扰"
+  },
+  {
+    "TalentLocalizationId": 682,
+    "TalentId": 97,
+    "LanguageCode": "ZH-TW",
+    "Name": "干擾"
+  },
+  {
+    "TalentLocalizationId": 1135,
+    "TalentId": 78,
+    "LanguageCode": "JP-JP",
+    "Name": "幻惑ガード"
+  },
+  {
+    "TalentLocalizationId": 575,
+    "TalentId": 48,
+    "LanguageCode": "ZH-CN",
+    "Name": "异常解除"
+  },
+  {
+    "TalentLocalizationId": 1126,
+    "TalentId": 77,
+    "LanguageCode": "JP-JP",
+    "Name": "弱体化ガード"
+  },
+  {
+    "TalentLocalizationId": 628,
+    "TalentId": 52,
+    "LanguageCode": "ZH-TW",
+    "Name": "弱化者"
+  },
+  {
+    "TalentLocalizationId": 629,
+    "TalentId": 52,
+    "LanguageCode": "ZH-CN",
+    "Name": "弱化者"
+  },
+  {
+    "TalentLocalizationId": 1133,
+    "TalentId": 77,
+    "LanguageCode": "ZH-CN",
+    "Name": "弱化防护"
+  },
+  {
+    "TalentLocalizationId": 1132,
+    "TalentId": 77,
+    "LanguageCode": "ZH-TW",
+    "Name": "弱化防護"
+  },
+  {
+    "TalentLocalizationId": 619,
+    "TalentId": 51,
+    "LanguageCode": "ZH-TW",
+    "Name": "強化者"
+  },
+  {
+    "TalentLocalizationId": 620,
+    "TalentId": 51,
+    "LanguageCode": "ZH-CN",
+    "Name": "强化者"
+  },
+  {
+    "TalentLocalizationId": 368,
+    "TalentId": 36,
+    "LanguageCode": "ZH-CN",
+    "Name": "恐惧"
+  },
+  {
+    "TalentLocalizationId": 610,
+    "TalentId": 251,
+    "LanguageCode": "ZH-TW",
+    "Name": "恐慌"
+  },
+  {
+    "TalentLocalizationId": 611,
+    "TalentId": 251,
+    "LanguageCode": "ZH-CN",
+    "Name": "恐慌"
+  },
+  {
+    "TalentLocalizationId": 199,
+    "TalentId": 20,
+    "LanguageCode": "JP-JP",
+    "Name": "息吹"
+  },
+  {
+    "TalentLocalizationId": 440,
+    "TalentId": 107,
+    "LanguageCode": "ZH-CN",
+    "Name": "恶棍"
+  },
+  {
+    "TalentLocalizationId": 710,
+    "TalentId": 55,
+    "LanguageCode": "ZH-CN",
+    "Name": "恶臭"
+  },
+  {
+    "TalentLocalizationId": 296,
+    "TalentId": 29,
+    "LanguageCode": "ZH-CN",
+    "Name": "恶魔的低语"
+  },
+  {
+    "TalentLocalizationId": 289,
+    "TalentId": 29,
+    "LanguageCode": "JP-JP",
+    "Name": "悪魔のささやき"
+  },
+  {
+    "TalentLocalizationId": 547,
+    "TalentId": 46,
+    "LanguageCode": "ZH-TW",
+    "Name": "惡作劇"
+  },
+  {
+    "TalentLocalizationId": 439,
+    "TalentId": 107,
+    "LanguageCode": "ZH-TW",
+    "Name": "惡棍"
+  },
+  {
+    "TalentLocalizationId": 709,
+    "TalentId": 55,
+    "LanguageCode": "ZH-TW",
+    "Name": "惡臭"
+  },
+  {
+    "TalentLocalizationId": 295,
+    "TalentId": 29,
+    "LanguageCode": "ZH-TW",
+    "Name": "惡魔的呢喃"
+  },
+  {
+    "TalentLocalizationId": 646,
+    "TalentId": 111,
+    "LanguageCode": "ZH-TW",
+    "Name": "抗吐息"
+  },
+  {
+    "TalentLocalizationId": 647,
+    "TalentId": 111,
+    "LanguageCode": "ZH-CN",
+    "Name": "抗吐息"
+  },
+  {
+    "TalentLocalizationId": 655,
+    "TalentId": 113,
+    "LanguageCode": "ZH-TW",
+    "Name": "抗咒文"
+  },
+  {
+    "TalentLocalizationId": 656,
+    "TalentId": 113,
+    "LanguageCode": "ZH-CN",
+    "Name": "抗咒文"
+  },
+  {
+    "TalentLocalizationId": 548,
+    "TalentId": 46,
+    "LanguageCode": "ZH-CN",
+    "Name": "捣蛋"
+  },
+  {
+    "TalentLocalizationId": 637,
+    "TalentId": 53,
+    "LanguageCode": "ZH-TW",
+    "Name": "支援者"
+  },
+  {
+    "TalentLocalizationId": 638,
+    "TalentId": 53,
+    "LanguageCode": "ZH-CN",
+    "Name": "支援者"
+  },
+  {
+    "TalentLocalizationId": 908,
+    "TalentId": 60,
+    "LanguageCode": "ZH-CN",
+    "Name": "攻击力提升１"
+  },
+  {
+    "TalentLocalizationId": 917,
+    "TalentId": 61,
+    "LanguageCode": "ZH-CN",
+    "Name": "攻击力提升２"
+  },
+  {
+    "TalentLocalizationId": 926,
+    "TalentId": 118,
+    "LanguageCode": "ZH-CN",
+    "Name": "攻击力提升３"
+  },
+  {
+    "TalentLocalizationId": 935,
+    "TalentId": 119,
+    "LanguageCode": "ZH-CN",
+    "Name": "攻击力提升４"
+  },
+  {
+    "TalentLocalizationId": 901,
+    "TalentId": 60,
+    "LanguageCode": "JP-JP",
+    "Name": "攻撃力アップ１"
+  },
+  {
+    "TalentLocalizationId": 910,
+    "TalentId": 61,
+    "LanguageCode": "JP-JP",
+    "Name": "攻撃力アップ２"
+  },
+  {
+    "TalentLocalizationId": 919,
+    "TalentId": 118,
+    "LanguageCode": "JP-JP",
+    "Name": "攻撃力アップ３"
+  },
+  {
+    "TalentLocalizationId": 928,
+    "TalentId": 119,
+    "LanguageCode": "JP-JP",
+    "Name": "攻撃力アップ４"
+  },
+  {
+    "TalentLocalizationId": 907,
+    "TalentId": 60,
+    "LanguageCode": "ZH-TW",
+    "Name": "攻擊力提升１"
+  },
+  {
+    "TalentLocalizationId": 916,
+    "TalentId": 61,
+    "LanguageCode": "ZH-TW",
+    "Name": "攻擊力提升２"
+  },
+  {
+    "TalentLocalizationId": 925,
+    "TalentId": 118,
+    "LanguageCode": "ZH-TW",
+    "Name": "攻擊力提升３"
+  },
+  {
+    "TalentLocalizationId": 934,
+    "TalentId": 119,
+    "LanguageCode": "ZH-TW",
+    "Name": "攻擊力提升４"
+  },
+  {
+    "TalentLocalizationId": 980,
+    "TalentId": 64,
+    "LanguageCode": "ZH-CN",
+    "Name": "敏捷提升１"
+  },
+  {
+    "TalentLocalizationId": 989,
+    "TalentId": 65,
+    "LanguageCode": "ZH-CN",
+    "Name": "敏捷提升２"
+  },
+  {
+    "TalentLocalizationId": 998,
+    "TalentId": 122,
+    "LanguageCode": "ZH-CN",
+    "Name": "敏捷提升３"
+  },
+  {
+    "TalentLocalizationId": 1007,
+    "TalentId": 123,
+    "LanguageCode": "ZH-CN",
+    "Name": "敏捷提升４"
+  },
+  {
+    "TalentLocalizationId": 304,
+    "TalentId": 30,
+    "LanguageCode": "ZH-TW",
+    "Name": "旋風"
+  },
+  {
+    "TalentLocalizationId": 305,
+    "TalentId": 30,
+    "LanguageCode": "ZH-CN",
+    "Name": "旋风"
+  },
+  {
+    "TalentLocalizationId": 1015,
+    "TalentId": 66,
+    "LanguageCode": "ZH-TW",
+    "Name": "智力提升１"
+  },
+  {
+    "TalentLocalizationId": 1016,
+    "TalentId": 66,
+    "LanguageCode": "ZH-CN",
+    "Name": "智力提升１"
+  },
+  {
+    "TalentLocalizationId": 1024,
+    "TalentId": 67,
+    "LanguageCode": "ZH-TW",
+    "Name": "智力提升２"
+  },
+  {
+    "TalentLocalizationId": 1025,
+    "TalentId": 67,
+    "LanguageCode": "ZH-CN",
+    "Name": "智力提升２"
+  },
+  {
+    "TalentLocalizationId": 1033,
+    "TalentId": 124,
+    "LanguageCode": "ZH-TW",
+    "Name": "智力提升３"
+  },
+  {
+    "TalentLocalizationId": 1034,
+    "TalentId": 124,
+    "LanguageCode": "ZH-CN",
+    "Name": "智力提升３"
+  },
+  {
+    "TalentLocalizationId": 1042,
+    "TalentId": 125,
+    "LanguageCode": "ZH-TW",
+    "Name": "智力提升４"
+  },
+  {
+    "TalentLocalizationId": 1043,
+    "TalentId": 125,
+    "LanguageCode": "ZH-CN",
+    "Name": "智力提升４"
+  },
+  {
+    "TalentLocalizationId": 152,
+    "TalentId": 17,
+    "LanguageCode": "ZH-CN",
+    "Name": "暗之心"
+  },
+  {
+    "TalentLocalizationId": 161,
+    "TalentId": 18,
+    "LanguageCode": "ZH-CN",
+    "Name": "暗之精髓"
+  },
+  {
+    "TalentLocalizationId": 1124,
+    "TalentId": 76,
+    "LanguageCode": "ZH-CN",
+    "Name": "暗之防护"
+  },
+  {
+    "TalentLocalizationId": 430,
+    "TalentId": 39,
+    "LanguageCode": "ZH-TW",
+    "Name": "暴徒"
+  },
+  {
+    "TalentLocalizationId": 431,
+    "TalentId": 39,
+    "LanguageCode": "ZH-CN",
+    "Name": "暴徒"
+  },
+  {
+    "TalentLocalizationId": 187,
+    "TalentId": 110,
+    "LanguageCode": "ZH-TW",
+    "Name": "暴雪"
+  },
+  {
+    "TalentLocalizationId": 188,
+    "TalentId": 110,
+    "LanguageCode": "ZH-CN",
+    "Name": "暴雪"
+  },
+  {
+    "TalentLocalizationId": 1162,
+    "TalentId": 81,
+    "LanguageCode": "JP-JP",
+    "Name": "毒ガード"
+  },
+  {
+    "TalentLocalizationId": 595,
+    "TalentId": 50,
+    "LanguageCode": "JP-JP",
+    "Name": "毒舌"
+  },
+  {
+    "TalentLocalizationId": 1168,
+    "TalentId": 81,
+    "LanguageCode": "ZH-TW",
+    "Name": "毒防護"
+  },
+  {
+    "TalentLocalizationId": 206,
+    "TalentId": 20,
+    "LanguageCode": "ZH-CN",
+    "Name": "气息"
+  },
+  {
+    "TalentLocalizationId": 1241,
+    "TalentId": 134,
+    "LanguageCode": "ZH-CN",
+    "Name": "气浪防护ＳＰ"
+  },
+  {
+    "TalentLocalizationId": 205,
+    "TalentId": 20,
+    "LanguageCode": "ZH-TW",
+    "Name": "氣息"
+  },
+  {
+    "TalentLocalizationId": 1054,
+    "TalentId": 69,
+    "LanguageCode": "JP-JP",
+    "Name": "水ガード"
+  },
+  {
+    "TalentLocalizationId": 19,
+    "TalentId": 3,
+    "LanguageCode": "JP-JP",
+    "Name": "水の心"
+  },
+  {
+    "TalentLocalizationId": 28,
+    "TalentId": 4,
+    "LanguageCode": "JP-JP",
+    "Name": "水の極意"
+  },
+  {
+    "TalentLocalizationId": 34,
+    "TalentId": 4,
+    "LanguageCode": "ZH-TW",
+    "Name": "水之奧祕"
+  },
+  {
+    "TalentLocalizationId": 25,
+    "TalentId": 3,
+    "LanguageCode": "ZH-TW",
+    "Name": "水之心"
+  },
+  {
+    "TalentLocalizationId": 26,
+    "TalentId": 3,
+    "LanguageCode": "ZH-CN",
+    "Name": "水之心"
+  },
+  {
+    "TalentLocalizationId": 323,
+    "TalentId": 32,
+    "LanguageCode": "ZH-CN",
+    "Name": "水之技艺"
+  },
+  {
+    "TalentLocalizationId": 322,
+    "TalentId": 32,
+    "LanguageCode": "ZH-TW",
+    "Name": "水之技藝"
+  },
+  {
+    "TalentLocalizationId": 35,
+    "TalentId": 4,
+    "LanguageCode": "ZH-CN",
+    "Name": "水之精髓"
+  },
+  {
+    "TalentLocalizationId": 1061,
+    "TalentId": 69,
+    "LanguageCode": "ZH-CN",
+    "Name": "水之防护"
+  },
+  {
+    "TalentLocalizationId": 1060,
+    "TalentId": 69,
+    "LanguageCode": "ZH-TW",
+    "Name": "水防護"
+  },
+  {
+    "TalentLocalizationId": 775,
+    "TalentId": 129,
+    "LanguageCode": "JP-JP",
+    "Name": "氷炎の剣技"
+  },
+  {
+    "TalentLocalizationId": 190,
+    "TalentId": 126,
+    "LanguageCode": "JP-JP",
+    "Name": "氷獄"
+  },
+  {
+    "TalentLocalizationId": 1090,
+    "TalentId": 73,
+    "LanguageCode": "JP-JP",
+    "Name": "氷結ガード"
+  },
+  {
+    "TalentLocalizationId": 91,
+    "TalentId": 11,
+    "LanguageCode": "JP-JP",
+    "Name": "氷結の心"
+  },
+  {
+    "TalentLocalizationId": 100,
+    "TalentId": 12,
+    "LanguageCode": "JP-JP",
+    "Name": "氷結の極意"
+  },
+  {
+    "TalentLocalizationId": 1187,
+    "TalentId": 83,
+    "LanguageCode": "ZH-CN",
+    "Name": "沉睡防护"
+  },
+  {
+    "TalentLocalizationId": 1231,
+    "TalentId": 136,
+    "LanguageCode": "ZH-TW",
+    "Name": "流冰防護ＳＰ"
+  },
+  {
+    "TalentLocalizationId": 1225,
+    "TalentId": 136,
+    "LanguageCode": "JP-JP",
+    "Name": "流氷ガードSP"
+  },
+  {
+    "TalentLocalizationId": 1232,
+    "TalentId": 136,
+    "LanguageCode": "ZH-CN",
+    "Name": "浮冰防护ＳＰ"
+  },
+  {
+    "TalentLocalizationId": 737,
+    "TalentId": 220,
+    "LanguageCode": "ZH-CN",
+    "Name": "淘气精"
+  },
+  {
+    "TalentLocalizationId": 736,
+    "TalentId": 220,
+    "LanguageCode": "ZH-TW",
+    "Name": "淘氣精"
+  },
+  {
+    "TalentLocalizationId": 412,
+    "TalentId": 248,
+    "LanguageCode": "ZH-TW",
+    "Name": "淤泥"
+  },
+  {
+    "TalentLocalizationId": 413,
+    "TalentId": 248,
+    "LanguageCode": "ZH-CN",
+    "Name": "淤泥"
+  },
+  {
+    "TalentLocalizationId": 1189,
+    "TalentId": 84,
+    "LanguageCode": "JP-JP",
+    "Name": "混乱ガード"
+  },
+  {
+    "TalentLocalizationId": 1196,
+    "TalentId": 84,
+    "LanguageCode": "ZH-CN",
+    "Name": "混乱防护"
+  },
+  {
+    "TalentLocalizationId": 1195,
+    "TalentId": 84,
+    "LanguageCode": "ZH-TW",
+    "Name": "混亂防護"
+  },
+  {
+    "TalentLocalizationId": 1216,
+    "TalentId": 135,
+    "LanguageCode": "JP-JP",
+    "Name": "溶岩ガードSP"
+  },
+  {
+    "TalentLocalizationId": 512,
+    "TalentId": 43,
+    "LanguageCode": "ZH-CN",
+    "Name": "滑溜溜"
+  },
+  {
+    "TalentLocalizationId": 1045,
+    "TalentId": 68,
+    "LanguageCode": "JP-JP",
+    "Name": "火ガード"
+  },
+  {
+    "TalentLocalizationId": 1,
+    "TalentId": 1,
+    "LanguageCode": "JP-JP",
+    "Name": "火の心"
+  },
+  {
+    "TalentLocalizationId": 10,
+    "TalentId": 2,
+    "LanguageCode": "JP-JP",
+    "Name": "火の極意"
+  },
+  {
+    "TalentLocalizationId": 16,
+    "TalentId": 2,
+    "LanguageCode": "ZH-TW",
+    "Name": "火之奧祕"
+  },
+  {
+    "TalentLocalizationId": 7,
+    "TalentId": 1,
+    "LanguageCode": "ZH-TW",
+    "Name": "火之心"
+  },
+  {
+    "TalentLocalizationId": 8,
+    "TalentId": 1,
+    "LanguageCode": "ZH-CN",
+    "Name": "火之心"
+  },
+  {
+    "TalentLocalizationId": 17,
+    "TalentId": 2,
+    "LanguageCode": "ZH-CN",
+    "Name": "火之精髓"
+  },
+  {
+    "TalentLocalizationId": 1052,
+    "TalentId": 68,
+    "LanguageCode": "ZH-CN",
+    "Name": "火之防护"
+  },
+  {
+    "TalentLocalizationId": 163,
+    "TalentId": 19,
+    "LanguageCode": "JP-JP",
+    "Name": "火炎"
+  },
+  {
+    "TalentLocalizationId": 169,
+    "TalentId": 19,
+    "LanguageCode": "ZH-TW",
+    "Name": "火焰"
+  },
+  {
+    "TalentLocalizationId": 170,
+    "TalentId": 19,
+    "LanguageCode": "ZH-CN",
+    "Name": "火焰"
+  },
+  {
+    "TalentLocalizationId": 397,
+    "TalentId": 250,
+    "LanguageCode": "JP-JP",
+    "Name": "火遊び"
+  },
+  {
+    "TalentLocalizationId": 1051,
+    "TalentId": 68,
+    "LanguageCode": "ZH-TW",
+    "Name": "火防護"
+  },
+  {
+    "TalentLocalizationId": 503,
+    "TalentId": 181,
+    "LanguageCode": "ZH-CN",
+    "Name": "热带"
+  },
+  {
+    "TalentLocalizationId": 1223,
+    "TalentId": 135,
+    "LanguageCode": "ZH-CN",
+    "Name": "熔岩防护ＳＰ"
+  },
+  {
+    "TalentLocalizationId": 1222,
+    "TalentId": 135,
+    "LanguageCode": "ZH-TW",
+    "Name": "熔岩防護ＳＰ"
+  },
+  {
+    "TalentLocalizationId": 502,
+    "TalentId": 181,
+    "LanguageCode": "ZH-TW",
+    "Name": "熱帶"
+  },
+  {
+    "TalentLocalizationId": 773,
+    "TalentId": 103,
+    "LanguageCode": "ZH-CN",
+    "Name": "爆冰剑技"
+  },
+  {
+    "TalentLocalizationId": 772,
+    "TalentId": 103,
+    "LanguageCode": "ZH-TW",
+    "Name": "爆冰劍技"
+  },
+  {
+    "TalentLocalizationId": 766,
+    "TalentId": 103,
+    "LanguageCode": "JP-JP",
+    "Name": "爆氷の剣技"
+  },
+  {
+    "TalentLocalizationId": 88,
+    "TalentId": 10,
+    "LanguageCode": "ZH-TW",
+    "Name": "爆炸之奧祕"
+  },
+  {
+    "TalentLocalizationId": 79,
+    "TalentId": 9,
+    "LanguageCode": "ZH-TW",
+    "Name": "爆炸之心"
+  },
+  {
+    "TalentLocalizationId": 80,
+    "TalentId": 9,
+    "LanguageCode": "ZH-CN",
+    "Name": "爆炸之心"
+  },
+  {
+    "TalentLocalizationId": 89,
+    "TalentId": 10,
+    "LanguageCode": "ZH-CN",
+    "Name": "爆炸之精髓"
+  },
+  {
+    "TalentLocalizationId": 1088,
+    "TalentId": 72,
+    "LanguageCode": "ZH-CN",
+    "Name": "爆炸防护"
+  },
+  {
+    "TalentLocalizationId": 1087,
+    "TalentId": 72,
+    "LanguageCode": "ZH-TW",
+    "Name": "爆炸防護"
+  },
+  {
+    "TalentLocalizationId": 1081,
+    "TalentId": 72,
+    "LanguageCode": "JP-JP",
+    "Name": "爆発ガード"
+  },
+  {
+    "TalentLocalizationId": 73,
+    "TalentId": 9,
+    "LanguageCode": "JP-JP",
+    "Name": "爆発の心"
+  },
+  {
+    "TalentLocalizationId": 82,
+    "TalentId": 10,
+    "LanguageCode": "JP-JP",
+    "Name": "爆発の極意"
+  },
+  {
+    "TalentLocalizationId": 1234,
+    "TalentId": 134,
+    "LanguageCode": "JP-JP",
+    "Name": "爆風ガードSP"
+  },
+  {
+    "TalentLocalizationId": 1240,
+    "TalentId": 134,
+    "LanguageCode": "ZH-TW",
+    "Name": "爆風防護ＳＰ"
+  },
+  {
+    "TalentLocalizationId": 692,
+    "TalentId": 90,
+    "LanguageCode": "ZH-CN",
+    "Name": "狡猾"
+  },
+  {
+    "TalentLocalizationId": 179,
+    "TalentId": 105,
+    "LanguageCode": "ZH-CN",
+    "Name": "狱焰"
+  },
+  {
+    "TalentLocalizationId": 178,
+    "TalentId": 105,
+    "LanguageCode": "ZH-TW",
+    "Name": "獄炎"
+  },
+  {
+    "TalentLocalizationId": 172,
+    "TalentId": 105,
+    "LanguageCode": "JP-JP",
+    "Name": "獄炎"
+  },
+  {
+    "TalentLocalizationId": 403,
+    "TalentId": 250,
+    "LanguageCode": "ZH-TW",
+    "Name": "玩火"
+  },
+  {
+    "TalentLocalizationId": 404,
+    "TalentId": 250,
+    "LanguageCode": "ZH-CN",
+    "Name": "玩火"
+  },
+  {
+    "TalentLocalizationId": 493,
+    "TalentId": 98,
+    "LanguageCode": "ZH-TW",
+    "Name": "甜蜜"
+  },
+  {
+    "TalentLocalizationId": 494,
+    "TalentId": 98,
+    "LanguageCode": "ZH-CN",
+    "Name": "甜蜜"
+  },
+  {
+    "TalentLocalizationId": 116,
+    "TalentId": 13,
+    "LanguageCode": "ZH-CN",
+    "Name": "电击之心"
+  },
+  {
+    "TalentLocalizationId": 125,
+    "TalentId": 14,
+    "LanguageCode": "ZH-CN",
+    "Name": "电击之精髓"
+  },
+  {
+    "TalentLocalizationId": 1106,
+    "TalentId": 74,
+    "LanguageCode": "ZH-CN",
+    "Name": "电击防护"
+  },
+  {
+    "TalentLocalizationId": 568,
+    "TalentId": 48,
+    "LanguageCode": "JP-JP",
+    "Name": "異常回復"
+  },
+  {
+    "TalentLocalizationId": 574,
+    "TalentId": 48,
+    "LanguageCode": "ZH-TW",
+    "Name": "異常解除"
+  },
+  {
+    "TalentLocalizationId": 1243,
+    "TalentId": 133,
+    "LanguageCode": "JP-JP",
+    "Name": "白黒ガードSP"
+  },
+  {
+    "TalentLocalizationId": 745,
+    "TalentId": 188,
+    "LanguageCode": "ZH-TW",
+    "Name": "皮皮精"
+  },
+  {
+    "TalentLocalizationId": 485,
+    "TalentId": 42,
+    "LanguageCode": "ZH-CN",
+    "Name": "盗贼"
+  },
+  {
+    "TalentLocalizationId": 484,
+    "TalentId": 42,
+    "LanguageCode": "ZH-TW",
+    "Name": "盜賊"
+  },
+  {
+    "TalentLocalizationId": 1180,
+    "TalentId": 83,
+    "LanguageCode": "JP-JP",
+    "Name": "眠りガード"
+  },
+  {
+    "TalentLocalizationId": 1186,
+    "TalentId": 83,
+    "LanguageCode": "ZH-TW",
+    "Name": "睡眠防護"
+  },
+  {
+    "TalentLocalizationId": 586,
+    "TalentId": 100,
+    "LanguageCode": "JP-JP",
+    "Name": "睡魔"
+  },
+  {
+    "TalentLocalizationId": 592,
+    "TalentId": 100,
+    "LanguageCode": "ZH-TW",
+    "Name": "睡魔"
+  },
+  {
+    "TalentLocalizationId": 593,
+    "TalentId": 100,
+    "LanguageCode": "ZH-CN",
+    "Name": "睡魔"
+  },
+  {
+    "TalentLocalizationId": 277,
+    "TalentId": 27,
+    "LanguageCode": "ZH-TW",
+    "Name": "石頭腦袋"
+  },
+  {
+    "TalentLocalizationId": 809,
+    "TalentId": 92,
+    "LanguageCode": "ZH-CN",
+    "Name": "神圣暴雪ＳＰ"
+  },
+  {
+    "TalentLocalizationId": 808,
+    "TalentId": 92,
+    "LanguageCode": "ZH-TW",
+    "Name": "神聖暴雪ＳＰ"
+  },
+  {
+    "TalentLocalizationId": 385,
+    "TalentId": 95,
+    "LanguageCode": "ZH-TW",
+    "Name": "神速"
+  },
+  {
+    "TalentLocalizationId": 386,
+    "TalentId": 95,
+    "LanguageCode": "ZH-CN",
+    "Name": "神速"
+  },
+  {
+    "TalentLocalizationId": 1261,
+    "TalentId": 131,
+    "LanguageCode": "JP-JP",
+    "Name": "稲妻ガードSP"
+  },
+  {
+    "TalentLocalizationId": 331,
+    "TalentId": 33,
+    "LanguageCode": "ZH-TW",
+    "Name": "紅之劍"
+  },
+  {
+    "TalentLocalizationId": 349,
+    "TalentId": 34,
+    "LanguageCode": "ZH-TW",
+    "Name": "綠之劍"
+  },
+  {
+    "TalentLocalizationId": 727,
+    "TalentId": 219,
+    "LanguageCode": "ZH-TW",
+    "Name": "綿綿精"
+  },
+  {
+    "TalentLocalizationId": 332,
+    "TalentId": 33,
+    "LanguageCode": "ZH-CN",
+    "Name": "红剑"
+  },
+  {
+    "TalentLocalizationId": 728,
+    "TalentId": 219,
+    "LanguageCode": "ZH-CN",
+    "Name": "绒绒精"
+  },
+  {
+    "TalentLocalizationId": 350,
+    "TalentId": 34,
+    "LanguageCode": "ZH-CN",
+    "Name": "绿剑"
+  },
+  {
+    "TalentLocalizationId": 802,
+    "TalentId": 92,
+    "LanguageCode": "JP-JP",
+    "Name": "聖なる吹雪SP"
+  },
+  {
+    "TalentLocalizationId": 539,
+    "TalentId": 99,
+    "LanguageCode": "ZH-CN",
+    "Name": "自我牺牲"
+  },
+  {
+    "TalentLocalizationId": 538,
+    "TalentId": 99,
+    "LanguageCode": "ZH-TW",
+    "Name": "自我犧牲"
+  },
+  {
+    "TalentLocalizationId": 313,
+    "TalentId": 31,
+    "LanguageCode": "ZH-TW",
+    "Name": "自然"
+  },
+  {
+    "TalentLocalizationId": 314,
+    "TalentId": 31,
+    "LanguageCode": "ZH-CN",
+    "Name": "自然"
+  },
+  {
+    "TalentLocalizationId": 223,
+    "TalentId": 22,
+    "LanguageCode": "ZH-TW",
+    "Name": "舞者"
+  },
+  {
+    "TalentLocalizationId": 224,
+    "TalentId": 22,
+    "LanguageCode": "ZH-CN",
+    "Name": "舞者"
+  },
+  {
+    "TalentLocalizationId": 341,
+    "TalentId": 87,
+    "LanguageCode": "ZH-CN",
+    "Name": "蓝剑"
+  },
+  {
+    "TalentLocalizationId": 340,
+    "TalentId": 87,
+    "LanguageCode": "ZH-TW",
+    "Name": "藍之劍"
+  },
+  {
+    "TalentLocalizationId": 232,
+    "TalentId": 109,
+    "LanguageCode": "ZH-TW",
+    "Name": "藝人"
+  },
+  {
+    "TalentLocalizationId": 1252,
+    "TalentId": 132,
+    "LanguageCode": "JP-JP",
+    "Name": "衝撃ガードSP"
+  },
+  {
+    "TalentLocalizationId": 1258,
+    "TalentId": 132,
+    "LanguageCode": "ZH-TW",
+    "Name": "衝擊防護ＳＰ"
+  },
+  {
+    "TalentLocalizationId": 376,
+    "TalentId": 37,
+    "LanguageCode": "ZH-TW",
+    "Name": "詛咒"
+  },
+  {
+    "TalentLocalizationId": 691,
+    "TalentId": 90,
+    "LanguageCode": "ZH-TW",
+    "Name": "詭計"
+  },
+  {
+    "TalentLocalizationId": 377,
+    "TalentId": 37,
+    "LanguageCode": "ZH-CN",
+    "Name": "诅咒"
+  },
+  {
+    "TalentLocalizationId": 1141,
+    "TalentId": 78,
+    "LanguageCode": "ZH-TW",
+    "Name": "迷幻防護"
+  },
+  {
+    "TalentLocalizationId": 1142,
+    "TalentId": 78,
+    "LanguageCode": "ZH-CN",
+    "Name": "迷惑防护"
+  },
+  {
+    "TalentLocalizationId": 979,
+    "TalentId": 64,
+    "LanguageCode": "ZH-TW",
+    "Name": "速度提升１"
+  },
+  {
+    "TalentLocalizationId": 988,
+    "TalentId": 65,
+    "LanguageCode": "ZH-TW",
+    "Name": "速度提升２"
+  },
+  {
+    "TalentLocalizationId": 997,
+    "TalentId": 122,
+    "LanguageCode": "ZH-TW",
+    "Name": "速度提升３"
+  },
+  {
+    "TalentLocalizationId": 1006,
+    "TalentId": 123,
+    "LanguageCode": "ZH-TW",
+    "Name": "速度提升４"
+  },
+  {
+    "TalentLocalizationId": 287,
+    "TalentId": 28,
+    "LanguageCode": "ZH-CN",
+    "Name": "野兽之道"
+  },
+  {
+    "TalentLocalizationId": 286,
+    "TalentId": 28,
+    "LanguageCode": "ZH-TW",
+    "Name": "野獸道"
+  },
+  {
+    "TalentLocalizationId": 673,
+    "TalentId": 89,
+    "LanguageCode": "ZH-TW",
+    "Name": "鐵壁"
+  },
+  {
+    "TalentLocalizationId": 674,
+    "TalentId": 89,
+    "LanguageCode": "ZH-CN",
+    "Name": "铁壁"
+  },
+  {
+    "TalentLocalizationId": 1267,
+    "TalentId": 131,
+    "LanguageCode": "ZH-TW",
+    "Name": "閃電防護ＳＰ"
+  },
+  {
+    "TalentLocalizationId": 1117,
+    "TalentId": 76,
+    "LanguageCode": "JP-JP",
+    "Name": "闇ガード"
+  },
+  {
+    "TalentLocalizationId": 145,
+    "TalentId": 17,
+    "LanguageCode": "JP-JP",
+    "Name": "闇の心"
+  },
+  {
+    "TalentLocalizationId": 154,
+    "TalentId": 18,
+    "LanguageCode": "JP-JP",
+    "Name": "闇の極意"
+  },
+  {
+    "TalentLocalizationId": 793,
+    "TalentId": 93,
+    "LanguageCode": "JP-JP",
+    "Name": "闇の爆炎SP"
+  },
+  {
+    "TalentLocalizationId": 160,
+    "TalentId": 18,
+    "LanguageCode": "ZH-TW",
+    "Name": "闇之奧祕"
+  },
+  {
+    "TalentLocalizationId": 151,
+    "TalentId": 17,
+    "LanguageCode": "ZH-TW",
+    "Name": "闇之心"
+  },
+  {
+    "TalentLocalizationId": 799,
+    "TalentId": 93,
+    "LanguageCode": "ZH-TW",
+    "Name": "闇之烈焰ＳＰ"
+  },
+  {
+    "TalentLocalizationId": 1123,
+    "TalentId": 76,
+    "LanguageCode": "ZH-TW",
+    "Name": "闇防護"
+  },
+  {
+    "TalentLocalizationId": 1268,
+    "TalentId": 131,
+    "LanguageCode": "ZH-CN",
+    "Name": "闪电防护ＳＰ"
+  },
+  {
+    "TalentLocalizationId": 665,
+    "TalentId": 54,
+    "LanguageCode": "ZH-CN",
+    "Name": "防御"
+  },
+  {
+    "TalentLocalizationId": 944,
+    "TalentId": 62,
+    "LanguageCode": "ZH-CN",
+    "Name": "防御力提升１"
+  },
+  {
+    "TalentLocalizationId": 953,
+    "TalentId": 63,
+    "LanguageCode": "ZH-CN",
+    "Name": "防御力提升２"
+  },
+  {
+    "TalentLocalizationId": 962,
+    "TalentId": 120,
+    "LanguageCode": "ZH-CN",
+    "Name": "防御力提升３"
+  },
+  {
+    "TalentLocalizationId": 971,
+    "TalentId": 121,
+    "LanguageCode": "ZH-CN",
+    "Name": "防御力提升４"
+  },
+  {
+    "TalentLocalizationId": 664,
+    "TalentId": 54,
+    "LanguageCode": "ZH-TW",
+    "Name": "防禦"
+  },
+  {
+    "TalentLocalizationId": 1099,
+    "TalentId": 74,
+    "LanguageCode": "JP-JP",
+    "Name": "電撃ガード"
+  },
+  {
+    "TalentLocalizationId": 109,
+    "TalentId": 13,
+    "LanguageCode": "JP-JP",
+    "Name": "電撃の心"
+  },
+  {
+    "TalentLocalizationId": 118,
+    "TalentId": 14,
+    "LanguageCode": "JP-JP",
+    "Name": "電撃の極意"
+  },
+  {
+    "TalentLocalizationId": 124,
+    "TalentId": 14,
+    "LanguageCode": "ZH-TW",
+    "Name": "電擊之奧祕"
+  },
+  {
+    "TalentLocalizationId": 115,
+    "TalentId": 13,
+    "LanguageCode": "ZH-TW",
+    "Name": "電擊之心"
+  },
+  {
+    "TalentLocalizationId": 1105,
+    "TalentId": 74,
+    "LanguageCode": "ZH-TW",
+    "Name": "電擊防護"
+  },
+  {
+    "TalentLocalizationId": 1063,
+    "TalentId": 70,
+    "LanguageCode": "JP-JP",
+    "Name": "風ガード"
+  },
+  {
+    "TalentLocalizationId": 37,
+    "TalentId": 5,
+    "LanguageCode": "JP-JP",
+    "Name": "風の心"
+  },
+  {
+    "TalentLocalizationId": 46,
+    "TalentId": 6,
+    "LanguageCode": "JP-JP",
+    "Name": "風の極意"
+  },
+  {
+    "TalentLocalizationId": 52,
+    "TalentId": 6,
+    "LanguageCode": "ZH-TW",
+    "Name": "風之奧祕"
+  },
+  {
+    "TalentLocalizationId": 43,
+    "TalentId": 5,
+    "LanguageCode": "ZH-TW",
+    "Name": "風之心"
+  },
+  {
+    "TalentLocalizationId": 748,
+    "TalentId": 91,
+    "LanguageCode": "JP-JP",
+    "Name": "風炎の剣技"
+  },
+  {
+    "TalentLocalizationId": 754,
+    "TalentId": 91,
+    "LanguageCode": "ZH-TW",
+    "Name": "風炎劍技"
+  },
+  {
+    "TalentLocalizationId": 1069,
+    "TalentId": 70,
+    "LanguageCode": "ZH-TW",
+    "Name": "風防護"
+  },
+  {
+    "TalentLocalizationId": 757,
+    "TalentId": 130,
+    "LanguageCode": "JP-JP",
+    "Name": "風雷の剣技"
+  },
+  {
+    "TalentLocalizationId": 763,
+    "TalentId": 130,
+    "LanguageCode": "ZH-TW",
+    "Name": "風雷劍技"
+  },
+  {
+    "TalentLocalizationId": 44,
+    "TalentId": 5,
+    "LanguageCode": "ZH-CN",
+    "Name": "风之心"
+  },
+  {
+    "TalentLocalizationId": 53,
+    "TalentId": 6,
+    "LanguageCode": "ZH-CN",
+    "Name": "风之精髓"
+  },
+  {
+    "TalentLocalizationId": 1070,
+    "TalentId": 70,
+    "LanguageCode": "ZH-CN",
+    "Name": "风之防护"
+  },
+  {
+    "TalentLocalizationId": 755,
+    "TalentId": 91,
+    "LanguageCode": "ZH-CN",
+    "Name": "风火剑技"
+  },
+  {
+    "TalentLocalizationId": 764,
+    "TalentId": 130,
+    "LanguageCode": "ZH-CN",
+    "Name": "风雷剑技"
+  },
+  {
+    "TalentLocalizationId": 475,
+    "TalentId": 88,
+    "LanguageCode": "ZH-TW",
+    "Name": "騎士精神"
+  },
+  {
+    "TalentLocalizationId": 469,
+    "TalentId": 88,
+    "LanguageCode": "JP-JP",
+    "Name": "騎士道"
+  },
+  {
+    "TalentLocalizationId": 367,
+    "TalentId": 36,
+    "LanguageCode": "ZH-TW",
+    "Name": "驚悚"
+  },
+  {
+    "TalentLocalizationId": 476,
+    "TalentId": 88,
+    "LanguageCode": "ZH-CN",
+    "Name": "骑士精神"
+  },
+  {
+    "TalentLocalizationId": 700,
+    "TalentId": 112,
+    "LanguageCode": "ZH-TW",
+    "Name": "魅惑"
+  },
+  {
+    "TalentLocalizationId": 701,
+    "TalentId": 112,
+    "LanguageCode": "ZH-CN",
+    "Name": "魅惑"
+  },
+  {
+    "TalentLocalizationId": 458,
+    "TalentId": 106,
+    "LanguageCode": "ZH-CN",
+    "Name": "魔术"
+  },
+  {
+    "TalentLocalizationId": 457,
+    "TalentId": 106,
+    "LanguageCode": "ZH-TW",
+    "Name": "魔術"
+  },
+  {
+    "TalentLocalizationId": 451,
+    "TalentId": 106,
+    "LanguageCode": "JP-JP",
+    "Name": "魔術"
+  },
+  {
+    "TalentLocalizationId": 1205,
+    "TalentId": 85,
+    "LanguageCode": "ZH-CN",
+    "Name": "麻痹防护"
+  },
+  {
+    "TalentLocalizationId": 1204,
+    "TalentId": 85,
+    "LanguageCode": "ZH-TW",
+    "Name": "麻痺防護"
+  },
+  {
+    "TalentLocalizationId": 358,
+    "TalentId": 35,
+    "LanguageCode": "ZH-TW",
+    "Name": "黃之劍"
+  },
+  {
+    "TalentLocalizationId": 359,
+    "TalentId": 35,
+    "LanguageCode": "ZH-CN",
+    "Name": "黄剑"
+  },
+  {
+    "TalentLocalizationId": 511,
+    "TalentId": 43,
+    "LanguageCode": "ZH-TW",
+    "Name": "黏滑"
+  },
+  {
+    "TalentLocalizationId": 800,
+    "TalentId": 93,
+    "LanguageCode": "ZH-CN",
+    "Name": "黑暗爆炎ＳＰ"
+  },
+  {
+    "TalentLocalizationId": 1250,
+    "TalentId": 133,
+    "LanguageCode": "ZH-CN",
+    "Name": "黑白防护ＳＰ"
+  },
+  {
+    "TalentLocalizationId": 1249,
+    "TalentId": 133,
+    "LanguageCode": "ZH-TW",
+    "Name": "黑白防護ＳＰ"
+  },
+  {
+    "TalentLocalizationId": 250,
+    "TalentId": 24,
+    "LanguageCode": "ZH-TW",
+    "Name": "龍魂"
+  },
+  {
+    "TalentLocalizationId": 251,
+    "TalentId": 24,
+    "LanguageCode": "ZH-CN",
+    "Name": "龙魂"
+  }
+]

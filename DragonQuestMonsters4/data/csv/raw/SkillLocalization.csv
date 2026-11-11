@@ -1,0 +1,2809 @@
+SkillLocalizationId,SkillId,LanguageCode,Name,Description
+1572,171,ES-ES,Abanico locamía,"Un baile que inflige daño a enemigos al azar, de 3 a 4 veces en total. Cuanta más agilidad tenga quien lo use, más daño causará."
+1517,129,DE-DE,Abscheulicher Atem,"Fügt sämtlichen Gegnern erheblichen Odem-Dunkelheitsschaden zu und hindert sie gelegentlich für 4 bis 7<nbsp>Runden daran, Zauber einzusetzen."
+581,51,DE-DE,Abschirmung,"Reduziert bei einem Verbündeten für 4 bis 7<nbsp>Runden den Schaden, den ihm Odemangriffe zufügen, erheblich."
+636,56,ES-ES,Absorción de magia,Absorbe algo de PM de un solo enemigo.
+506,44,EN-GB,Accelerate,Greatly increases the agility of a single ally for 4 to 7 turns.
+515,45,EN-GB,Acceleratle,Increases the agility of all allies for 4 to 7 turns.
+517,45,IT-IT,Accelerazione,Aumenta l'Agilità di tutti gli alleati per 4-7 turni.
+507,44,FR-FR,Accéléro,Sort augmentant grandement l'agilité d'un allié pendant 4 à 7 tours.
+519,45,ES-ES,Aceleración,Aumenta la agilidad de todos los aliados de 4 a 7 turnos.
+510,44,ES-ES,Acelerar,Aumenta mucho la agilidad de un solo aliado de 4 a 7 turnos.
+420,33,ES-ES,Aclaración,Cura la confusión de todos los aliados.
+1488,175,FR-FR,Âge de glace,"Inflige des dégâts extrêmes de souffle de glace à tous les ennemis, et les empêche parfois de bouger pendant 1 tour."
+591,52,ES-ES,Aislamiento,Reduce el daño de ataques de aliento que reciben todos los aliados de 4 a 7 turnos.
+582,51,ES-ES,Aislar,Reduce mucho el daño de ataques de aliento que recibe un solo aliado de 4 a 7 turnos.
+456,39,ES-ES,Alicaimiento,"Reduce mucho el ataque de un solo enemigo de 2 a 5 turnos. Cuanta más sabiduría tenga quien lo lance, más probable es que el conjuro tenga éxito."
+1545,132,ES-ES,Aliento abrasador,Deja escapar una exhalación inmovilizadora que paraliza a todos los enemigos de 2 a 5 turnos.
+1509,128,ES-ES,Aliento bendito,Inflige daño grave de aliento elemental de luz a todos los enemigos y en ocasiones los confunde de 2 a 5 turnos.
+1536,131,ES-ES,Aliento dulce,Deja escapar una exhalación relajante que duerme a todos los enemigos de 2 a 5 turnos.
+1419,120,ES-ES,Aliento flamígero,Inflige daño medio de aliento elemental de fuego a todos los enemigos.
+1455,123,ES-ES,Aliento frío,Inflige daño leve de aliento elemental de hielo a todos los enemigos.
+1482,126,ES-ES,Aliento glacial,Inflige daño extremo de aliento elemental de hielo a todos los enemigos.
+1464,124,ES-ES,Aliento helado,Inflige daño medio de aliento elemental de hielo a todos los enemigos.
+1410,118,ES-ES,Aliento ígneo,Inflige daño leve de aliento elemental de fuego a todos los enemigos.
+1446,164,ES-ES,Aliento infernal,Inflige daño brutal de aliento elemental de fuego a todos los enemigos y en ocasiones los aturde 1 turno.
+1518,129,ES-ES,Aliento oscuro,Inflige daño grave de aliento elemental de oscuridad a todos los enemigos y en ocasiones evita que lancen conjuros de 4 a 7 turnos.
+1554,133,ES-ES,Aliento venenoso,Exhala humos tóxicos que envenenan a todos los enemigos.
+1453,123,IT-IT,Alito di ghiaccio,Infligge lievi danni da respiro di ghiaccio a tutti i nemici.
+1444,164,IT-IT,Alito infernale,"Infligge incredibili danni da respiro di fuoco a tutti i nemici e, di quando in quando, può stordirli per un turno."
+1552,133,IT-IT,Alito velenoso,Emette gas tossici che avvelenano tutti i nemici.
+402,31,ES-ES,Alivio,Cura el envenenamiento o el envenenamiento grave de todos los aliados.
+489,42,FR-FR,Altération,"Sort réduisant grandement la défense d'un ennemi pendant 4 à 7 tours.
+Sa réussite est proportionnelle à la sagesse du monstre incantateur."
+1398,117,FR-FR,Altruisme,"Encaisse toutes les attaques à la place des alliés pendant 1 round.
+Les dégâts subis sont augmentés."
+689,60,DE-DE,Anästhesie,"Lähmt einen Gegner für 2 bis 5<nbsp>Runden. Je höher der Weisheitswert des Wirkers, desto wahrscheinlicher ist es, dass der Zauber erfolgreich ist."
+992,83,EN-GB,Anchorman,A punching technique performed after everyone else that inflicts major damage on the enemy.
+1381,205,IT-IT,An-de-trà,Un alleato diventa immune alle alterazioni di stato per 2-5 turni grazie al potere dello scintillio.
+994,83,IT-IT,Ankora killer,"Chi usa questa tecnica a base di pugni agisce per ultimo, ma infligge al nemico ingenti danni."
+211,19,IT-IT,Antartide,Infligge ingenti danni da incantesimo di ghiaccio a tutti i nemici.
+1030,217,IT-IT,Antiarmatura,"Un fendente che infligge moderati danni a tutti i nemici e, a volte, può ridurre la loro Difesa per 4-7 turni."
+615,55,FR-FR,Antimagie,Sort empêchant tous les ennemis d'utiliser des sorts pendant 4 à 7 tours. Sa réussite est proportionnelle à la sagesse du monstre incantateur.
+1210,100,IT-IT,Aria di guai,"Infligge moderati danni di vento a tutti i nemici. Quanto più è alto il livello di chi usa questa tecnica, tanto maggiori saranno i danni inflitti."
+1028,217,EN-GB,Armour Harmer,A slashing attack that inflicts medium damage on all enemies and occasionally lowers their defence for 4 to 7 turns.
+967,210,IT-IT,Artigli del falco,Un fendente che infligge lievi danni per 2 volte a un nemico.
+769,218,IT-IT,Artigli gelidi,"Un fendente che infligge moderati danni di ghiaccio a tutti i nemici e, a volte, li stordisce per un turno."
+987,82,ES-ES,Asalto de Mercurio,"Una técnica pugilística que permite a quien la lanza atacar antes que nadie, pero que reduce la cantidad de daño infligido."
+51,7,ES-ES,Aspersión,Inflige daño medio de conjuro elemental de agua a un solo enemigo.
+633,56,FR-FR,Aspirmagie,Sort absorbant des PM à un ennemi.
+1136,96,EN-GB,Assassin's Stab,Damages a single enemy and occasionally causes instant death.
+1068,89,ES-ES,Atacaatacante,"Inflige daño a un solo enemigo y, en ocasiones, reduce su ataque de 2 a 5 turnos."
+1095,92,ES-ES,Ataque adormecedor,"Inflige daño a un solo enemigo y, en ocasiones, lo duerme de 2 a 5 turnos."
+1086,91,ES-ES,Ataque confuso,"Inflige daño a un solo enemigo y, en ocasiones, lo confunde de 2 a 5 turnos."
+15,2,ES-ES,Ataque ígneo,Inflige daño medio de conjuro elemental de fuego a un solo enemigo.
+1131,95,ES-ES,Ataque venenoso,"Inflige daño a un solo enemigo y, en ocasiones, lo envenena."
+903,78,FR-FR,Atomisation,Attaque tranchante infligeant de grands dégâts aux monstres de la famille des matières.
+564,49,ES-ES,Atontamiento,"Reduce mucho la sabiduría de un solo enemigo de 4 a 7 turnos. Cuanta más sabiduría tenga quien lo lance, más probable es que el conjuro tenga éxito."
+617,55,DE-DE,Ätsch,"Hindert sämtliche Gegner für 4 bis 7<nbsp>Runden daran, Zauber einzusetzen. Je höher der Weisheitswert des Wirkers, desto wahrscheinlicher ist es, dass der Zauber erfolgreich ist."
+1084,91,IT-IT,Attacco confusione,"Infligge danni a un nemico e, a volte, può confonderlo per 2-5 turni."
+1102,93,IT-IT,Attacco paralizzante,"Infligge danni a un nemico e, a volte, può paralizzarlo per 2-5 turni."
+1064,89,EN-GB,Attack Attacker,Damages a single enemy and occasionally lowers its attack for 2 to 5 turns.
+1083,91,FR-FR,Attaque confusion,"Inflige des dégâts à un ennemi, et provoque parfois sa confusion pendant 2 à 5 tours."
+966,210,FR-FR,Attaque du faucon,Attaque tranchante infligeant 2 fois de suite de légers dégâts à un ennemi.
+1299,108,FR-FR,Attaque éblouissante,Émet une lumière aveuglante qui réduit la précision des attaques ennemies pendant 2 à 5 tours.
+1128,95,FR-FR,Attaque poison,"Inflige des dégâts à un ennemi, et provoque parfois son empoisonnement."
+1092,92,FR-FR,Attaque sommeil,"Inflige des dégâts à un ennemi, et provoque parfois son sommeil pendant 2 à 5 tours."
+1065,89,FR-FR,Attaque-attaque,"Inflige des dégâts à un ennemi, et réduit parfois son attaque pendant 2 à 5 tours."
+1049,87,DE-DE,Ausraster,"Eine riskante Technik, die einem zufällig ausgewählten Gegner oder Verbündeten einen kritischen Treffer verpasst."
+393,159,ES-ES,Autosacrificio,"Cura o resucita a todos los aliados, incluidos los suplentes, pero a cambio de la vida de quien lo lanza, que no podrá ser resucitado en el mismo combate."
+1112,165,DE-DE,Axt der Angst,"Ein Hieb, der einem Gegner schweren Schaden zufügt und ihn gelegentlich für 2 bis 5<nbsp>Runden lähmt."
+166,146,IT-IT,Baboom,Infligge grandi danni da incantesimo di esplosione a tutti i nemici.
+146,14,EN-GB,Bang,Inflicts minor explosive spell damage on all enemies.
+147,14,FR-FR,Bang,Inflige de légers dégâts de sort d'explosion à tous les ennemis.
+148,14,IT-IT,Bang,Infligge lievi danni da incantesimo di esplosione a tutti i nemici.
+175,147,IT-IT,Bang supremo,Infligge ingenti danni da incantesimo di esplosione a tutti i nemici.
+600,207,ES-ES,Barrera mágica,Aumenta la resistencia de todos los aliados de 2 a 5 turnos.
+598,207,IT-IT,Barriera miracolosa,Aumenta le resistenze di tutti gli alleati per 2-5 turni.
+597,207,FR-FR,Barrière magique,Sort augmentant les résistances de tous les alliés pendant 2 à 5 tours.
+893,77,EN-GB,Beast Tamer,A slashing attack that inflicts sizeable slashing damage on monsters in the beast family.
+122,13,DE-DE,Berst,"Fügt sämtlichen Gegnern mittleren magischen Erdschaden zu, aber erst in der nächsten Runde."
+509,44,DE-DE,Beschleunigung,Erhöht die Flinkheit eines Verbündeten für 4 bis 7<nbsp>Runden erheblich.
+896,77,DE-DE,Bestienbekämpfer,"Ein Hieb, der Monstern der Bestienfamilie schweren Schaden zufügt."
+1598,135,DE-DE,Bizarres Ballett,"Ein Tanz, der die MP eines Gegners reduziert."
+1514,129,EN-GB,Black Breath,Inflicts major dark-elemental breath damage on all enemies and occasionally prevents them from casting spells for 4 to 7 turns.
+1301,108,DE-DE,Blendender Blitz,"Gibt ein blendendes Licht ab, das für 2 bis 5<nbsp>Runden die Genauigkeit gegnerischer Angriffe senkt."
+1505,128,EN-GB,Blessed Breath,Inflicts major light-elemental breath damage on all enemies and occasionally confuses them for 2 to 5 turns.
+830,36,EN-GB,Blightsplitter,A slashing attack that inflicts medium dark-elemental damage on all enemies.
+1247,148,DE-DE,Blitz,"Fügt sämtlichen Gegnern mittleren Blitzschaden zu. Je höher die Stufe des Benutzers, desto größer der zugefügte Schaden."
+779,70,DE-DE,Blitzhieb,"Ein Hieb, der einem Gegner geringen Blitzschaden zufügt."
+616,55,IT-IT,Bloccamagia,"Impedisce a tutti i nemici di lanciare incantesimi per 4-7 turni. Quanto più è alta la Saggezza di chi lancia l'incantesimo, tanto maggiori saranno le probabilità che la magia abbia successo."
+452,39,EN-GB,Blunt,"Greatly decreases the attack of a single enemy for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed."
+859,163,IT-IT,Boato dell'ombra,"Infligge ingenti danni di oscurità per 2 volte a tutti i nemici. Quanto più è alto il livello di chi usa questa tecnica, tanto maggiori saranno i danni inflitti."
+1309,109,IT-IT,Boccachiusa,"Blocca la bocca di un nemico, impedendogli di usare attacchi da respiro per 4-7 turni."
+626,174,DE-DE,Boing,Wirft die meisten gegnerischen Zauber während der nächsten 4 bis 7<nbsp>Runden auf den Wirker zurück.
+155,15,EN-GB,Boom,Inflicts medium explosive spell damage on all enemies.
+157,15,IT-IT,Boom,Infligge moderati danni da incantesimo di esplosione a tutti i nemici.
+1371,115,FR-FR,Bouffée de chaleur,Intériorise sa colère pour augmenter les dégâts de la prochaine attaque et la rendre plus difficile à esquiver pour l'ennemi.
+623,174,EN-GB,Bounce,Reflects most spells back at the enemy for 4 to 7 turns.
+1325,110,EN-GB,Brake Wind,Reflects breath attacks back at the enemy. Protects all allies once only.
+104,11,DE-DE,Brasaus,Fügt sämtlichen Gegnern extremen magischen Windschaden zu.
+95,10,DE-DE,Braus,Fügt sämtlichen Gegnern erheblichen magischen Windschaden zu.
+1544,132,DE-DE,Brennender Odem,"Atmet einen bewegungsunfähig machenden Odem aus, der sämtliche Gegner für 2 bis 5<nbsp>Runden lähmt."
+821,73,EN-GB,Brightsplitter,A slashing attack that inflicts medium light-elemental damage on all enemies.
+1074,90,FR-FR,Brise-casque,"Inflige des dégâts à un ennemi, et réduit parfois sa défense pendant 4 à 7 tours."
+804,72,FR-FR,Brise-cieux,Attaque tranchante infligeant des dégâts moyens de vent à tous les ennemis.
+786,71,FR-FR,Brise-flammes,Attaque tranchante infligeant des dégâts moyens de feu à tous les ennemis.
+822,73,FR-FR,Brise-lumière,Attaque tranchante infligeant des dégâts moyens de lumière à tous les ennemis.
+831,36,FR-FR,Brise-ombre,Attaque tranchante infligeant des dégâts moyens de ténèbres à tous les ennemis.
+813,145,FR-FR,Brise-terre,Attaque tranchante infligeant des dégâts moyens de terre à tous les ennemis.
+113,12,DE-DE,Bröckel,"Fügt sämtlichen Gegnern geringen magischen Erdschaden zu, aber erst in der nächsten Runde."
+1373,115,DE-DE,Brodeln,"Zügelt den Zorn, um so den Schaden des nächsten Angriffs zu erhöhen. Außerdem wird es für den Gegner schwieriger, den Angriffen des Benutzers auszuweichen."
+1435,122,IT-IT,Bruchor,Infligge ingenti danni da respiro di fuoco a tutti i nemici.
+1434,122,FR-FR,Brûlure,Inflige de très grands dégâts de souffle de feu à tous les ennemis.
+1335,111,FR-FR,Brume de bataille,Annule les dégâts subis une seule fois. Sans effet sur certaines attaques.
+266,23,DE-DE,Brutzel,Fügt sämtlichen Gegnern mittleren magischen Lichtschaden zu.
+1164,208,FR-FR,Bûcher,Inflige de légers dégâts de feu à un ennemi.
+85,9,IT-IT,Bufera,Infligge moderati danni da incantesimo di vento a tutti i nemici.
+470,40,EN-GB,Buff,Greatly increases the defence of a single ally for 4 to 7 turns.
+596,207,EN-GB,Buffer Zone,Raises the resistances of all allies for 2 to 5 turns.
+167,146,DE-DE,Bumm,Fügt sämtlichen Gegnern erheblichen magischen Explosionsschaden zu.
+1541,132,EN-GB,Burning Breath,Lets out an exhalation of immobilisation that paralyses all enemies for 2 to 5 turns.
+454,39,IT-IT,Calattacco,"Riduce di molto l'Attacco di un nemico per 2-5 turni. Quanto più è alta la Saggezza di chi lancia l'incantesimo, tanto maggiori saranno le probabilità che la magia abbia successo."
+1500,127,ES-ES,Calima,Crea una nube de polvo que inflige daño grave de aliento elemental de tierra a todos los enemigos y reduce su precisión de 2 a 5 turnos.
+652,57,IT-IT,Caos,"Confonde un nemico per 2-5 turni. Quanto più è alta la Saggezza di chi lancia l'incantesimo, tanto maggiori saranno le probabilità che la magia abbia successo."
+1372,115,IT-IT,Carica d'ira,"Accumula rabbia per aumentare i danni inflitti dal proprio Attacco nell'azione successiva. Inoltre, per il nemico diventa difficilissimo schivare i colpi sferrati da chi esegue questa tecnica."
+357,194,ES-ES,Casicuración,Devuelve 285 PV o más a un solo aliado.
+1011,84,FR-FR,Casse-dentier,"Technique de pugilat concentrant les forces du monstre pour infliger des dégâts moyens à un ennemi au tour suivant.
+Ignore la défense de l'ennemi."
+1478,126,EN-GB,C-C-Cold Breath,Inflicts extreme ice-elemental breath damage on all enemies.
+870,74,ES-ES,Chafalimos,Un ataque de impacto que inflige mucho daño a los monstruos de la familia de los limos.
+1460,124,EN-GB,Chilly Breath,Inflicts medium ice-elemental breath damage on all enemies.
+1608,136,ES-ES,Claqué mágico,Un baile que absorbe el PM de un solo enemigo.
+1605,136,FR-FR,Claquettes,Danse aspirant les PM d'un ennemi.
+1380,205,FR-FR,Clic-clac-zap,Immunise un allié contre les altérations d'état pendant 2 à 5 tours grâce à un pouvoir étincelant.
+425,34,EN-GB,Cock-a-Doodle-Doo,Cures all allies of sleep.
+426,34,FR-FR,Cocorico,Sort soignant tous les alliés du sommeil.
+771,218,ES-ES,Colmillos gélidos,Un ataque cortante que inflige daño medio elemental de hielo a todos los enemigos y en ocasiones los aturde 1 turno.
+1165,208,IT-IT,Colonna di fuoco,Infligge lievi danni di fuoco a un nemico.
+877,75,IT-IT,Colpo del drago,Un fendente che infligge grandi danni ai mostri appartenenti alla famiglia dei draghi.
+1039,86,IT-IT,Colpo del sicario,"Un fendente che infligge danni a un nemico.
+Ha una maggiore probabilità di sferrare colpi critici, ma aumenta anche la probabilità di colpi mancati."
+1138,96,IT-IT,Colpo dell'assassino,"Infligge danni a un nemico e, a volte, lo elimina istantaneamente."
+1354,113,IT-IT,Colpo di lingua,"Cosparge di viscida bava un nemico, stordendolo e riducendone la Difesa."
+1147,97,IT-IT,Colpo di Thanatos,"Infligge danni a un nemico. Molto efficace contro i mostri avvelenati, gravemente avvelenati o paralizzati."
+1057,88,IT-IT,Colpo miracoloso,"Un fendente che infligge danni a un nemico. Chi esegue questa tecnica recupera una quantità di PV pari a circa la metà dei danni causati all'avversario, fino a un massimo di 200 per colpo."
+985,82,IT-IT,Colpo perforante,"Chi usa questa tecnica a base di pugni infligge una quantità minima di danni, ma attacca prima di chiunque altro."
+651,57,FR-FR,Confusion,"Sort provoquant la confusion d'un ennemi pendant 2 à 5 tours.
+Sa réussite est proportionnelle à la sagesse du monstre incantateur."
+654,57,ES-ES,Confusión,"Confunde a un solo enemigo de 2 a 5 turnos. Cuanta más sabiduría tenga quien lo lance, más probable es que el conjuro tenga éxito."
+1082,91,EN-GB,Confusion Attack,Damages a single enemy and occasionally confuses it for 2 to 5 turns.
+390,159,FR-FR,Conjuration,"Sort sacrifiant le monstre afin de ressusciter et de restaurer les PV de tous les alliés, y compris ceux de l'équipe réserve.
+Le monstre incantateur ne peut pas être ressuscité pendant le reste du combat."
+886,76,IT-IT,Contronatura,Un fendente che infligge grandi danni ai mostri appartenenti alla famiglia dei naturali.
+1451,123,EN-GB,Cool Breath,Inflicts minor ice-elemental breath damage on all enemies.
+1158,98,ES-ES,Cortasueños,Inflige daño a un solo enemigo. Es muy eficaz contra los enemigos dormidos o confusos.
+1362,114,FR-FR,Coup de langue,"Enduit violemment un ennemi d'une bave visqueuse, qui l'empêche de bouger et réduit sa défense à 1."
+1137,96,FR-FR,Coup de l'assassin,"Inflige des dégâts à un ennemi, et provoque parfois sa mort subite."
+1020,85,FR-FR,Coup de pied circulaire,"Technique de coup de pied infligeant des dégâts à tous les ennemis. Ignore la défense des ennemis.
+Plus les ennemis sont sur la droite, moins ils subissent de dégâts."
+984,82,FR-FR,Coup d'Hermès,"Technique de pugilat permettant d'attaquer au début du round.
+En contrepartie, les dégâts sont réduits."
+1056,88,FR-FR,Coup miraculeux,"Attaque tranchante infligeant des dégâts à un ennemi, et restaurant les PV du monstre utilisateur à hauteur d'environ la moitié des dégâts infligés. Peut restaurer jusqu'à 200 PV par coup."
+1038,86,FR-FR,Coupe claire,"Attaque tranchante infligeant des dégâts à un ennemi. Les chances de coup critique sont augmentées, mais en contrepartie, le risque de rater est également accru."
+1146,97,FR-FR,Coupe franche,"Inflige des dégâts à un ennemi. Les dégâts sont augmentés si l'ennemi subit l'empoisonnement, l'empoisonnement sévère ou la paralysie."
+1416,120,FR-FR,Cracheflamme,Inflige des dégâts moyens de souffle de feu à tous les ennemis.
+182,16,EN-GB,Crack,Inflicts minor ice-elemental spell damage on a single enemy.
+191,17,EN-GB,Crackle,Inflicts medium ice-elemental spell damage on all enemies.
+110,12,EN-GB,Crag,"Inflicts minor earth-elemental spell damage on all enemies, but not until the following round."
+119,13,EN-GB,Craggle,"Inflicts medium earth-elemental spell damage on all enemies, but not until the following round."
+255,22,FR-FR,Crame,Inflige de légers dégâts de sort de lumière à tous les ennemis.
+1119,94,FR-FR,Crève-cœur,"Attaque tranchante infligeant des dégâts à un ennemi, et l'empêchant parfois de bouger pendant 1 tour."
+1344,112,FR-FR,Cri de guerre,Pousse un cri déchirant qui terrifie tous les ennemis et les empêche de bouger pendant 1 tour.
+1316,37,EN-GB,Critical Meltdown,Prevents a single enemy from inflicting critical hits for 4 to 7 turns.
+1317,37,FR-FR,Critique malvenue,Empêche un ennemi de donner des coups critiques pendant 4 à 7 tours.
+768,218,FR-FR,Crocs de glace,"Attaque tranchante infligeant des dégâts moyens de glace à tous les ennemis, et les empêchant parfois de bouger pendant 1 tour."
+947,206,EN-GB,Crushed Ice,"A punching technique that inflicts ice-elemental damage on enemies at random, 4 times in total."
+337,27,IT-IT,Cura,Fa recuperare 28 o più PV a un solo alleato.
+914,79,DE-DE,Dämonendisser,"Ein Hieb, der Monstern der Dämonenfamilie schweren Schaden zufügt."
+1614,137,FR-FR,Danse de confusion,Danse provoquant la confusion de tous les ennemis pendant 2 à 5 tours.
+1587,170,FR-FR,Danse de conjuration,"Danse sacrifiant le monstre afin de ressusciter et de restaurer les PV de tous les alliés, y compris ceux de l'équipe réserve.
+Le monstre utilisateur ne peut pas être ressuscité pendant le reste du combat."
+1560,134,FR-FR,Danse de l'épée,Danse infligeant 3 à 7 fois de suite des dégâts à un ennemi au hasard.
+1569,171,FR-FR,Danse de l'éventail,"Danse infligeant 3 à 4 fois de suite des dégâts à un ennemi au hasard.
+Les dégâts sont proportionnels à l'agilité du monstre utilisateur."
+1578,166,FR-FR,Danse des soins,"Danse restaurant 2 à 6 fois des PV à un allié au hasard.
+La quantité de PV restaurés est proportionnelle au niveau du monstre utilisateur."
+1389,116,FR-FR,Danse d'esquive,Augmente l'esquive du monstre pendant 4 à 7 tours.
+1623,138,FR-FR,Danse sensuelle,Danse envoûtante qui empêche tous les ennemis de bouger pendant 1 tour.
+1590,170,ES-ES,Danza de autosacrificio,"Un baile que cura o resucita a todos los aliados, incluidos los suplentes, pero a cambio de la vida de quien lo use, que no podrá ser resucitado en el mismo combate."
+1617,137,ES-ES,Danza de confusión,Un baile que confunde a todos los enemigos de 2 a 5 turnos.
+1563,134,ES-ES,Danza de la espada,"Un baile que inflige daño a enemigos al azar, de 3 a 7 veces en total."
+1615,137,IT-IT,Danza del caos,Questa danza confonde tutti i nemici per 2-5 turni.
+1624,138,IT-IT,Danza della passione,Questa danza ammaliante stordisce tutti i nemici per un turno.
+1561,134,IT-IT,Danza delle spade,Questa danza infligge danni per 3-7 volte a dei nemici a caso.
+1390,116,IT-IT,Danza evasiva,Chi usa questa tecnica migliora la propria capacità di effettuare schivate per 4-7 turni.
+1599,135,ES-ES,Danza extraña,Un baile que disminuye el PM de un solo enemigo.
+1581,166,ES-ES,Danza fogosa,"Un baile que cura a aliados al azar, de 2 a 6 veces en total. Cuanto mayor sea el nivel de quien lo use, mayor será la curación."
+1579,166,IT-IT,Danza rinvigorente,"Questa danza cura per 2-6 volte qualche alleato a caso. Quanto più è alto il livello di chi esegue la danza, tanto maggiore sarà l'effetto curativo."
+1588,170,IT-IT,Danza sacrificale,"Questa danza cura o riporta in vita tutti gli alleati, incluse le riserve, ma chi la esegue finisce fuori combattimento e non può essere rimesso in piedi nel corso della stessa battaglia."
+1626,138,ES-ES,Danza seductora,Un baile embrujador que aturde a todos los enemigos 1 turno.
+1392,116,ES-ES,Danza sinuosa,Aumenta la evasión de quien lo use de 4 a 7 turnos.
+958,157,IT-IT,Dardo di luce,Infligge danni di luce per 4-12 volte a dei nemici a caso.
+605,53,EN-GB,Dazzle,"Bedazzles all enemies for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed."
+1298,108,EN-GB,Dazzleflash,Unleashes a blinding light that lowers the accuracy of enemy attacks for 2 to 5 turns.
+490,42,IT-IT,Debilis,"Riduce di molto la Difesa di un nemico per 4-7 turni. Quanto più è alta la Saggezza di chi lancia l'incantesimo, tanto maggiori saranno le probabilità che la magia abbia successo."
+492,42,ES-ES,Debilitación,"Reduce mucho la defensa de un solo enemigo de 4 a 7 turnos. Cuanta más sabiduría tenga quien lo lance, más probable es que el conjuro tenga éxito."
+537,47,ES-ES,Deceleración,"Reduce la agilidad de todos los enemigos de 4 a 7 turnos. Cuanta más sabiduría tenga quien lo lance, más probable es que el conjuro tenga éxito."
+528,46,ES-ES,Decelerar,"Reduce mucho la agilidad de un solo enemigo de 4 a 7 turnos. Cuanta más sabiduría tenga quien lo lance, más probable es que el conjuro tenga éxito."
+524,46,EN-GB,Decelerate,"Greatly decreases the agility of a single enemy for 4 to 7 turns. The higher the caster's wisdom, the more likely the spell is to succeed."
+533,47,EN-GB,Deceleratle,"Decreases the agility of all enemies for 4 to 7 turns. The higher the caster's wisdom, the more likely the spell is to succeed."
+535,47,IT-IT,Decelerazione,"Riduce l'Agilità di tutti i nemici per 4-7 turni. Quanto più è alta la Saggezza di chi lancia l'incantesimo, tanto maggiori saranno le probabilità che la magia abbia successo."
+525,46,FR-FR,Décéléro,"Sort réduisant grandement l'agilité d'un ennemi pendant 4 à 7 tours.
+Sa réussite est proportionnelle à la sagesse du monstre incantateur."
+417,33,FR-FR,Déconfuz,Sort soignant tous les alliés de la confusion.
+435,35,FR-FR,Décuplo,Sort augmentant grandement l'attaque d'un allié pendant 2 à 5 tours.
+1523,130,EN-GB,Deep Breath,"Inhales long and deep, raising the damage inflicted by the user's next breath attack."
+1635,139,ES-ES,Defensa intensa,Adopta una guardia impenetrable que reduce en un 90<nbsp>% la mayor parte del daño recibido. Solo puede usarse una vez por combate.
+1632,139,FR-FR,Défense intense,"Adopte une posture défensive extrême afin de réduire la plupart des dégâts subis de 90%.
+Utilisable une seule fois par combat."
+416,33,EN-GB,Defuddle,Cures all allies of confusion.
+911,79,EN-GB,Demon Demeaner,A slashing attack that inflicts sizeable damage on monsters in the demon family.
+912,79,FR-FR,Démonlition,Attaque tranchante infligeant de grands dégâts aux monstres de la famille des démons.
+1329,110,ES-ES,Desaliento,Refleja los ataques de aliento enemigos. Protege a todos los aliados una sola vez.
+399,31,FR-FR,Désaltération,Sort soignant tous les alliés de l'empoisonnement ou l'empoisonnement sévère.
+1029,217,FR-FR,Désarmure,"Attaque tranchante infligeant des dégâts moyens à tous les ennemis, et réduisant parfois leur défense pendant 4 à 7 tours."
+231,21,ES-ES,Descarga,Inflige daño medio de conjuro eléctrico a todos los enemigos.
+906,78,ES-ES,Desmaterializador,Un ataque cortante que inflige mucho daño a los monstruos de la familia material.
+1302,108,ES-ES,Destello deslumbrante,Desata una luz cegadora que disminuye la precisión de los ataques enemigos de 2 a 5 turnos.
+327,26,FR-FR,Détonation magique,"Consomme un quart des PM restants pour infliger des dégâts de sort de lumière à un ennemi avec une version réduite d'un sort extrême.
+Les dégâts sont proportionnels aux PM restants du monstre incantateur."
+400,31,IT-IT,Detox,Guarisce tutti gli alleati dall'avvelenamento (anche da quello grave).
+1633,139,IT-IT,Difesa intensificata,Chi esegue questa tecnica assume una posizione impenetrabile che permette di ridurre del 90% la maggior parte dei danni subiti. Si può eseguire solo una volta per ciascuna battaglia.
+560,49,EN-GB,Dim,"Greatly decreases the wisdom of a single enemy for 4 to 7 turns. The higher the caster's wisdom, the more likely the spell is to succeed."
+410,32,DE-DE,Dingdong,Heilt sämtliche Verbündete von Lähmung.
+447,38,ES-ES,Doble potencia,Aumenta el ataque de todos los aliados de 2 a 5 turnos.
+1388,116,EN-GB,Dodgy Dance,Raises the user's evasion for 4 to 7 turns.
+1534,131,IT-IT,Dolce respiro,Emette un respiro rilassante che addormenta tutti i nemici per 2-5 turni.
+897,77,ES-ES,Domabestias,Un ataque cortante que inflige mucho daño a los monstruos de la familia de las bestias.
+895,77,IT-IT,Domabestie,Un fendente che infligge grandi danni ai mostri appartenenti alla famiglia delle belve.
+878,75,DE-DE,Drachenhieb,"Ein Hieb, der Monstern der Drachenfamilie schweren Schaden zufügt."
+879,75,ES-ES,Dragoestocada,Un ataque cortante que inflige mucho daño a los monstruos de la familia de los dragones.
+875,75,EN-GB,Dragon Slash,A slashing attack that inflicts sizeable damage on monsters in the dragon family.
+632,56,EN-GB,Drain Magic,Absorbs some MP from a single enemy.
+1596,135,FR-FR,Drôle de danse,Danse faisant perdre des PM à un ennemi.
+1211,100,DE-DE,Dünne Luft,"Fügt sämtlichen Gegnern mittleren Windschaden zu. Je höher die Stufe des Benutzers, desto größer der zugefügte Schaden."
+563,49,DE-DE,Dussel,"Reduziert die Weisheit eines Gegners für 4 bis 7<nbsp>Runden erheblich. Je höher der Weisheitswert des Wirkers, desto wahrscheinlicher ist es, dass der Zauber erfolgreich ist."
+812,145,EN-GB,Earthsplitter,A slashing attack that inflicts medium earth-elemental damage on all enemies.
+1245,148,FR-FR,Éclair,"Inflige des dégâts moyens de foudre à tous les ennemis.
+Les dégâts sont proportionnels au niveau du monstre utilisateur."
+1491,175,ES-ES,Edad de hielo,Inflige daño brutal de aliento elemental de hielo a todos los enemigos y en ocasiones los aturde 1 turno.
+392,159,DE-DE,Einer für alle,"Alle Verbündeten werden geheilt oder wiederbelebt, auch Reservemonster. Der Benutzer stirbt und kann bis zum Ende des Kampfes nicht wiederbelebt werden."
+1481,126,DE-DE,Eisiger Odem,Fügt sämtlichen Gegnern extremen Odem-Eisschaden zu.
+1490,175,DE-DE,Eiszeit,Fügt sämtlichen Gegnern ungeheuerlichen Odem-Eisschaden zu und betäubt sie gelegentlich für 1<nbsp>Runde.
+291,24,FR-FR,Élec,Inflige de légers dégâts de sort de ténèbres à un ennemi.
+292,24,IT-IT,Elektron,Infligge lievi danni da incantesimo di oscurità a un nemico.
+319,156,IT-IT,Elektron supremo,Infligge ingenti danni da incantesimo di oscurità a un nemico.
+437,35,DE-DE,Energieschub,Erhöht den Angriff eines Verbündeten für 2 bis 5<nbsp>Runden erheblich.
+446,38,DE-DE,Energiestups,Erhöht den Angriff aller Verbündeten für 2 bis 5<nbsp>Runden.
+609,53,ES-ES,Engaño ilusorio,"Deslumbra a todos los enemigos de 2 a 5 turnos. Cuanta más sabiduría tenga quien lo lance, más probable es que el conjuro tenga éxito."
+401,31,DE-DE,Entgiftung,Heilt sämtliche Verbündete von schwerer Vergiftung.
+1031,217,DE-DE,Entrüstende Klinge,"Ein Hieb, der sämtlichen Gegnern mittleren Schaden zufügt und gelegentlich für 4 bis 7<nbsp>Runden ihrer Abwehr reduziert."
+690,60,ES-ES,Entumecimiento,"Paraliza a un solo enemigo de 2 a 5 turnos. Cuanta más sabiduría tenga quien lo lance, más probable es que el conjuro tenga éxito."
+419,33,DE-DE,Entwirrung,Heilt sämtliche Verbündete von Verwirrung.
+1489,175,IT-IT,Era glacialis,"Infligge incredibili danni da respiro di ghiaccio a tutti i nemici e, di quando in quando, può stordirli per un turno."
+815,145,DE-DE,Erdspalter,"Ein Hieb, der sämtlichen Gegnern mittleren Erdschaden zufügt."
+922,80,IT-IT,Esorcismo,Un fendente che infligge grandi danni ai mostri appartenenti alla famiglia dei non-morti.
+1174,202,IT-IT,Esplosione di magma,Infligge moderati danni di fuoco a tutti i nemici.
+330,26,ES-ES,Estallido mágico,"Usa un cuarto del PM restante para infligir daño elemental de luz a un solo enemigo, una versión más débil de un conjuro extremo. Cuanto más PM tenga el monstruo en el momento de lanzarlo, más daño causará."
+1176,202,ES-ES,Estallido magmático,Inflige daño medio elemental de fuego a todos los enemigos.
+861,163,ES-ES,Estallido oscuro,"Inflige daño extremo elemental de oscuridad a todos los enemigos 2 veces seguidas. Cuanto mayor sea el nivel de quien lo use, más daño causará."
+780,70,ES-ES,Estocada de relámpago,Un ataque cortante que inflige daño leve eléctrico a un solo enemigo.
+762,214,ES-ES,Estocada de superhelada,Un ataque cortante que inflige daño leve elemental de hielo a un solo enemigo.
+753,67,ES-ES,Estocada de viento,Un ataque cortante que inflige daño leve elemental de viento a un solo enemigo.
+744,65,ES-ES,Estocada flamígera,Un ataque cortante que inflige daño leve elemental de fuego a un solo enemigo.
+933,209,ES-ES,Estocada metálica,"Un ataque cortante igual de potente que un ataque normal, pero que inflige como mínimo 1 punto de daño a los enemigos metálicos."
+1059,88,ES-ES,Estocada prodigiosa,"Un ataque cortante que inflige daño a un solo enemigo. Quien lo usa recupera aproximadamente la mitad del daño infligido en forma de PV, hasta un máximo de 200 PV por cada golpe."
+1526,130,DE-DE,Exhalierer,"Atmet tief ein, sodass der nächste Odemangriff des Benutzers mehr Schaden verursacht."
+915,79,ES-ES,Exorcista,Un ataque cortante que inflige mucho daño a los monstruos de la familia de los demonios.
+159,15,ES-ES,Explosión,Inflige daño medio de conjuro de explosión a todos los enemigos.
+888,76,ES-ES,Exterminador,Un ataque cortante que inflige mucho daño a los monstruos de la familia natural.
+969,210,ES-ES,Falcoestocada,Un ataque cortante que inflige daño leve a un enemigo 2 veces seguidas.
+965,210,EN-GB,Falcon Slash,A slashing attack that inflicts minor damage 2 times in a row on a single enemy.
+968,210,DE-DE,Falkenhieb,Fügt einem Gegner 2-mal geringen Hiebschaden zu.
+1318,37,IT-IT,Fallimento critico,Impedisce a un nemico di sferrare colpi critici per 4-7 turni.
+1568,171,EN-GB,Fan Dango,"A dance that damages enemies at random, 3 or 4 times in total. The higher the user's agility, the greater the damage that will be inflicted."
+608,53,DE-DE,Fata Morgana,"Blendet sämtliche Gegner für 2 bis 5<nbsp>Runden. Je höher der Weisheitswert des Wirkers, desto wahrscheinlicher ist es, dass der Zauber erfolgreich ist."
+5,1,DE-DE,Fauch,Fügt einem Gegner geringen magischen Feuerschaden zu.
+941,158,DE-DE,Faustwirbel,"Eine Schlagtechnik, die zufällig ausgewählten Gegnern insgesamt 4-mal Schaden zufügt."
+778,70,IT-IT,Fendente della saetta,Un fendente che infligge lievi danni di elettricità a un nemico.
+742,65,IT-IT,Fendente di fuoco,Un fendente che infligge lievi danni di fuoco a un nemico.
+751,67,IT-IT,Fendente eolico,Un fendente che infligge lievi danni di vento a un nemico.
+760,214,IT-IT,Fendente ghiacciato,Un fendente che infligge lievi danni di ghiaccio a un nemico.
+1093,92,IT-IT,Fendente narcotico,"Infligge danni a un nemico e, a volte, può addormentarlo per 2-5 turni."
+832,36,IT-IT,Fendibuio,Un fendente che infligge moderati danni di oscurità a tutti i nemici.
+805,72,IT-IT,Fendicielo,Un fendente che infligge moderati danni di vento a tutti i nemici.
+787,71,IT-IT,Fendifuoco,Un fendente che infligge moderati danni di fuoco a tutti i nemici.
+823,73,IT-IT,Fendiluce,Un fendente che infligge moderati danni di luce a tutti i nemici.
+796,215,IT-IT,Fendimare,Un fendente che infligge moderati danni d'acqua a tutti i nemici.
+814,145,IT-IT,Fendisuolo,Un fendente che infligge moderati danni di terra a tutti i nemici.
+1409,118,DE-DE,Feuerodem,Fügt sämtlichen Gegnern geringen Odem-Feuerschaden zu.
+1166,208,DE-DE,Feuersäule,Fügt einem Gegner geringen Feuerschaden zu.
+4,1,IT-IT,Fiamma,Infligge lievi danni da incantesimo di fuoco a un nemico.
+1406,118,EN-GB,Fire Breath,Inflicts minor fire-elemental breath damage on all enemies.
+614,55,EN-GB,Fizzle,"Prevents all enemies from casting spells for 4 to 7 turns. The higher the caster's wisdom, the more likely the spell is to succeed."
+1415,120,EN-GB,Flame Breath,Inflicts medium fire-elemental breath damage on all enemies.
+740,65,EN-GB,Flame Slash,A slashing attack that inflicts minor fire-elemental damage on a single enemy.
+785,71,EN-GB,Flamesplitter,A slashing attack that inflicts medium fire-elemental damage on all enemies.
+13,2,IT-IT,Flammasfera,Infligge moderati danni da incantesimo di fuoco a un nemico.
+3,1,FR-FR,Flamme,Inflige de légers dégâts de sort de feu à un ennemi.
+743,65,DE-DE,Flammenhieb,"Ein Hieb, der einem Gegner geringen Feuerschaden zufügt."
+1418,120,DE-DE,Flammenodem,Fügt sämtlichen Gegnern mittleren Odem-Feuerschaden zu.
+788,71,DE-DE,Flammenspalter,"Ein Hieb, der sämtlichen Gegnern mittleren Feuerschaden zufügt."
+455,39,DE-DE,Flau,"Reduziert den Angriff eines Gegners für 2 bis 5<nbsp>Runden erheblich. Je höher der Weisheitswert des Wirkers, desto wahrscheinlicher ist es, dass der Zauber erfolgreich ist."
+1048,87,IT-IT,Foga furiosa,"Questa tecnica rischiosa infligge un colpo critico, casualmente, a un nemico o a un alleato."
+474,40,ES-ES,Fortalecimiento,Aumenta mucho la defensa de un solo aliado de 4 a 7 turnos.
+219,20,FR-FR,Foudre,Inflige de légers dégâts de sort de foudre à un ennemi.
+1101,93,FR-FR,Frappe paralysante,"Inflige des dégâts à un ennemi, et provoque parfois sa paralysie pendant 2 à 5 tours."
+1469,125,EN-GB,Freezing Blizzard,Inflicts major ice-elemental breath damage on all enemies.
+1050,87,ES-ES,Frenesí,Una técnica arriesgada que inflige un golpe crítico a un solo enemigo o aliado al azar.
+1047,87,FR-FR,Frénésie,Technique dangereuse infligeant un coup critique à un ennemi ou un allié au hasard.
+1046,87,EN-GB,Frenzy,A risky technique that inflicts a critical hit on a single enemy or ally at random.
+2,1,EN-GB,Frizz,Inflicts minor fire-elemental spell damage on a single enemy.
+11,2,EN-GB,Frizzle,Inflicts medium fire-elemental spell damage on a single enemy.
+767,218,EN-GB,Frost Fangs,A slashing attack that inflicts medium ice-elemental damage on all enemies and occasionally stuns them for 1 turn.
+758,214,EN-GB,Frost Slash,A slashing attack that inflicts minor ice-elemental damage on a single enemy.
+770,218,DE-DE,Frostfontäne,Fügt sämtlichen Gegnern mittleren Eisschaden zu und betäubt sie gelegentlich für 1<nbsp>Runde.
+761,214,DE-DE,Frosthieb,"Ein Hieb, der einem Gegner geringen Eisschaden zufügt."
+650,57,EN-GB,Fuddle,"Confuses a single enemy for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed."
+1613,137,EN-GB,Fuddle Dance,A dance that confuses all enemies for 2 to 5 turns.
+1246,148,IT-IT,Fulmine,"Infligge moderati danni elettrici a tutti i nemici. Quanto più è alto il livello di chi usa questa tecnica, tanto maggiori saranno i danni inflitti."
+247,151,IT-IT,Fulminion,Infligge ingenti danni da incantesimo di elettricità a tutti i nemici.
+256,22,IT-IT,Fuoco,Infligge lievi danni da incantesimo di luce a tutti i nemici.
+1013,84,DE-DE,Furchtbare Faust,"Sammelt Kraft, um einem Gegner in der nächsten Runde mittleren Schaden zuzufügen, unabhängig von seiner Abwehr."
+671,58,DE-DE,Gähn,"Lässt einen Gegner für 2 bis 5<nbsp>Runden einschlummern. Je höher der Weisheitswert des Wirkers, desto wahrscheinlicher ist es, dass der Zauber erfolgreich ist."
+311,155,DE-DE,Garitz,Fügt einem Gegner erheblichen magischen Dunkelheitsschaden zu.
+320,156,DE-DE,Garutz,Fügt einem Gegner extremen magischen Dunkelheitsschaden zu.
+184,16,IT-IT,Gelo,Infligge lievi danni da incantesimo di ghiaccio a un nemico.
+1399,117,IT-IT,Generosya,"Diventa il bersaglio di tutti gli attacchi in arrivo per un round, proteggendo così gli alleati, ma subisce una quantità maggiore di danni."
+1265,105,DE-DE,Gerechter Regen,"Vollzieht ein Regenritual, das in der nächsten Runde einen heilenden Schauer niedergehen lässt. Gibt allen Verbündeten eine zufällige Menge LP zurück."
+1130,95,DE-DE,Giftiger Gruß,Fügt einem Gegner Schaden zu und vergiftet ihn gelegentlich.
+1553,133,DE-DE,Giftiger Odem,"Stößt toxischen Qualm aus, der sämtliche Gegner vergiftet."
+850,162,IT-IT,Giga croce,"Un devastante attacco con la spada che infligge ingenti danni di elettricità per 2 volte a tutti i nemici. Quanto più è alto il livello di chi usa questa tecnica, tanto maggiori saranno i danni inflitti."
+641,172,EN-GB,Giga Drain Magic,"Absorbs MP from enemies at random, 4 times in total."
+841,161,IT-IT,Giga fendente,"Infligge incredibili danni di elettricità a tutti i nemici. Quanto più è alto il livello di chi usa questa tecnica, tanto maggiori saranno i danni inflitti."
+643,172,IT-IT,Giga Rubamagia,Assorbe PM per 4 volte da nemici a caso.
+174,147,FR-FR,Gigabang,Inflige de très grands dégâts de sort d'explosion à tous les ennemis.
+282,154,FR-FR,Gigacrame,Inflige de très grands dégâts de sort de lumière à tous les ennemis.
+849,162,FR-FR,Gigacroix,"Technique d'escrime infligeant 2 fois de suite de très grands dégâts de foudre à tous les ennemis.
+Les dégâts sont proportionnels au niveau du monstre utilisateur."
+848,162,EN-GB,Gigacross,"An audacious sword attack that inflicts extreme electrical damage 2 times in a row on all enemies. The higher the user's level, the greater the damage that will be inflicted."
+318,156,FR-FR,Gigaélec,Inflige de très grands dégâts de sort de ténèbres à un ennemi.
+30,4,FR-FR,Gigaflamme,Inflige de très grands dégâts de sort de feu à un ennemi.
+246,151,FR-FR,Gigafoudre,Inflige de très grands dégâts de sort de foudre à tous les ennemis.
+839,161,EN-GB,Gigagash,"Inflicts outrageous electrical damage on all enemies. The higher the user's level, the greater the damage that will be inflicted."
+840,161,FR-FR,Gigagash,"Inflige des dégâts extrêmes de foudre à tous les ennemis.
+Les dégâts sont proportionnels au niveau du monstre utilisateur."
+210,19,FR-FR,Gigaglace,Inflige de très grands dégâts de sort de glace à tous les ennemis.
+851,162,DE-DE,Gigakreuzhieb,"Ein verheerender Schwertangriff, der sämtlichen Gegnern 2-mal hintereinander extremen Blitzschaden zufügt. Je höher die Stufe des Benutzers, desto größer der zugefügte Schaden."
+644,172,DE-DE,Giga-Magieentzug,Absorbiert insgesamt 4-mal MP von zufällig ausgewählten Gegnern.
+66,141,FR-FR,Gigaplouf,Inflige de très grands dégâts de sort d'eau à un ennemi.
+842,161,DE-DE,Gigaschlitzer,"Fügt sämtlichen Gegnern ungeheuerlichen Blitzschaden zu. Je höher die Stufe des Benutzers, desto größer der zugefügte Schaden."
+138,144,FR-FR,Gigaséisme,"Inflige de très grands dégâts de sort de terre à tous les ennemis.
+L'attaque se déclenche au round suivant."
+642,172,FR-FR,Gigaspirmagie,Sort absorbant 4 fois des PM à un ennemi au hasard.
+102,11,FR-FR,Gigatornade,Inflige de très grands dégâts de sort de vent à tous les ennemis.
+183,16,FR-FR,Glace,Inflige de légers dégâts de sort de glace à un ennemi.
+948,206,FR-FR,Glace pilée,Technique de pugilat infligeant 4 fois de suite des dégâts de glace à un ennemi au hasard.
+1307,109,EN-GB,Gobstopper,"Stops a single enemy from using its mouth, preventing the use of breath attacks for 4 to 7 turns."
+1104,93,ES-ES,Golpe paralizador,"Inflige daño a un solo enemigo y, en ocasiones, lo paraliza de 2 a 5 turnos."
+1077,90,ES-ES,Golpe parteyelmos,"Inflige daño a un solo enemigo y, en ocasiones, reduce su defensa de 4 a 7 turnos."
+1122,94,ES-ES,Golpe rompedor,"Inflige daño a un solo enemigo y, en ocasiones, lo aturde 1 turno."
+1320,37,ES-ES,golpes críticos cancelados,Evita que un solo enemigo lance golpes críticos de 4 a 7 turnos.
+1021,85,IT-IT,Grancalcione,"Questa tecnica a base di calci infligge danni a tutti i nemici, indipendentemente dal valore della loro Difesa. Più l'avversario si trova a destra sul campo di battaglia, meno danni subisce."
+1524,130,FR-FR,Grande inspiration,Fait une grande aspiration pour augmenter les dégâts de la prochaine attaque de souffle.
+1345,112,IT-IT,Grido di guerra,Un urlo assordante che stordisce tutti i nemici per un turno.
+1347,112,ES-ES,Grito de guerra,Libera un grito ensordecedor que aturde a todos los enemigos 1 turno.
+293,24,DE-DE,Gritz,Fügt einem Gegner geringen magischen Dunkelheitsschaden zu.
+302,25,DE-DE,Grutz,Fügt einem Gegner mittleren magischen Dunkelheitsschaden zu.
+749,67,EN-GB,Gust Slash,A slashing attack that inflicts minor wind-elemental damage on a single enemy.
+1041,86,ES-ES,Hacha asesina,"Un ataque cortante que inflige daño a un solo enemigo. El ataque tiene muchas probabilidades de no tener éxito, pero también muchas de infligir un golpe crítico si acierta."
+1113,165,ES-ES,Hacha paralizadora,"Un ataque cortante que inflige daño grave a un solo enemigo y, en ocasiones, lo paraliza de 2 a 5 turnos."
+1551,133,FR-FR,Haleine empoisonnée,Émet une haleine faite de vapeurs toxiques qui provoque l'empoisonnement de tous les ennemis.
+1533,131,FR-FR,Haleine fraîche,Émet une haleine soporifique qui provoque le sommeil de tous les ennemis pendant 2 à 5 tours.
+1037,86,EN-GB,Hatchet Man,"A slashing attack that targets a single enemy. The attack has a high likelihood of missing, but an increased chance of inflicting a critical hit when it succeeds."
+335,27,EN-GB,Heal,Restores 28 or more HP to a single ally.
+1118,94,EN-GB,Heart Breaker,A slashing attack that inflicts damage on a single enemy and occasionally stuns it for 1 turn.
+338,27,DE-DE,Heilung,Gibt einem Verbündeten mindestens 28<nbsp>LP zurück.
+1058,88,DE-DE,Heilungshieb,"Ein Hieb, der einem Gegner Schaden zufügt und den Ausführenden heilt. Dieser erhält pro Hieb ca. die Hälfte der Schadensmenge in LP (bis zu max. 200<nbsp>LP)."
+1625,138,DE-DE,Heißer Tanz,"Ein faszinierender Tanz, der sämtliche Gegner für 1<nbsp>Runde betäubt."
+195,17,ES-ES,Helada,Inflige daño medio de conjuro elemental de hielo a todos los enemigos.
+1508,128,DE-DE,Heller Hauch,Fügt sämtlichen Gegnern erheblichen Odem-Lichtschaden zu und verwirrt sie gelegentlich für 2 bis 5<nbsp>Runden.
+1442,164,EN-GB,Hellitosis,Inflicts outrageous fire-elemental breath damage on all enemies and occasionally stuns them for 1 turn.
+1073,90,EN-GB,Helm Splitter,Damages a single enemy and occasionally lowers its defence for 4 to 7 turns.
+1076,90,DE-DE,Helmspalter,Fügt einem Gegner Schaden zu und reduziert seine Abwehr gelegentlich für 4 bis 7<nbsp>Runden.
+1121,94,DE-DE,Herzensbrecher,Fügt einem Gegner Schaden zu und betäubt ihn gelegentlich für 1<nbsp>Runde.
+951,206,ES-ES,Hielo picado,Una técnica pugilística que inflige daño elemental de hielo a enemigos al azar 4 veces en total.
+806,72,DE-DE,Himmelsspalter,"Ein Hieb, der sämtlichen Gegnern mittleren Windschaden zufügt."
+1436,122,DE-DE,Hitzewelle,Fügt sämtlichen Gegnern extremen Odem-Feuerschaden zu.
+1005,213,ES-ES,Hoja propulsora,Una técnica pugilística que inflige daño leve elemental de viento a un enemigo 2 veces seguidas.
+1445,164,DE-DE,Höllitosis,Fügt sämtlichen Gegnern ungeheuerlichen Odem-Feuerschaden zu und betäubt sie gelegentlich für 1<nbsp>Runde.
+1203,99,ES-ES,Hoz eólica,Inflige daño leve elemental de viento a un solo enemigo.
+1577,166,EN-GB,Hustle Dance,"A dance that heals allies at random, 2 to 6 times in total. The higher the user's level, the greater the healing amount."
+1308,109,FR-FR,Hygiaphone,Couvre la bouche d'un ennemi pour l'empêcher d'utiliser des attaques de souffle pendant 4 à 7 tours.
+1487,175,EN-GB,Ice Age,Inflicts outrageous ice-elemental breath damage on all enemies and occasionally stuns them for 1 turn.
+193,17,IT-IT,Iceberg,Infligge moderati danni da incantesimo di ghiaccio a tutti i nemici.
+40,5,IT-IT,Idro,Infligge lievi danni da incantesimo d'acqua a un nemico.
+67,141,IT-IT,Idrocatastrofe,Infligge ingenti danni da incantesimo d'acqua a un nemico.
+49,7,IT-IT,Idrofragore,Infligge moderati danni da incantesimo d'acqua a un nemico.
+58,140,IT-IT,Idrosconquasso,Infligge grandi danni da incantesimo d'acqua a un nemico.
+606,53,FR-FR,Illusion,Sort provoquant l'éblouissement de tous les ennemis pendant 2 à 5 tours. Sa réussite est proportionnelle à la sagesse du monstre incantateur.
+607,53,IT-IT,Illusyo,"Abbaglia tutti i nemici per 2-5 turni. Quanto più è alta la Saggezza di chi lancia l'incantesimo, tanto maggiori saranno le probabilità che la magia abbia successo."
+267,23,ES-ES,Incendio,Inflige daño medio de conjuro elemental de luz a todos los enemigos.
+265,23,IT-IT,Incendio,Infligge moderati danni da incantesimo di luce a tutti i nemici.
+1374,115,ES-ES,Indignación,"Internaliza la rabia para aumentar el daño del siguiente ataque. Además, hace que los enemigos tengan más dificultades para esquivar los ataques de quien lo lanza."
+707,61,DE-DE,Infektion,"Vergiftet einen Gegner. Je höher der Weisheitswert des Wirkers, desto wahrscheinlicher ist es, dass der Zauber erfolgreich ist."
+1426,121,IT-IT,Inferi,Infligge grandi danni da respiro di fuoco a tutti i nemici.
+1427,121,DE-DE,Inferno,Fügt sämtlichen Gegnern erheblichen Odem-Feuerschaden zu.
+1424,121,EN-GB,Inferno,Inflicts major fire-elemental breath damage on all enemies.
+1425,121,FR-FR,Inferno,Inflige de grands dégâts de souffle de feu à tous les ennemis.
+283,154,IT-IT,Inferno,Infligge ingenti danni da incantesimo di luce a tutti i nemici.
+1428,121,ES-ES,Infierno,Inflige daño grave de aliento elemental de fuego a todos los enemigos.
+1527,130,ES-ES,Inspiración,Inspira profundamente y aumenta el daño infligido por quien lo use en el siguiente ataque de aliento.
+578,51,EN-GB,Insulate,Greatly reduces the damage received from breath attacks by a single ally for 4 to 7 turns.
+587,52,EN-GB,Insulatle,Reduces the damage received from breath attacks by all allies for 4 to 7 turns.
+546,48,ES-ES,Intelecto,Aumenta mucho la sabiduría de un solo aliado de 4 a 7 turnos.
+544,48,IT-IT,Intellygo,Aumenta di molto la Saggezza di un alleato per 4-7 turni.
+1631,139,EN-GB,Intense Defence,"Tightens defences to the extreme, reducing most damage received by 9/10. Can only be used once per battle."
+1066,89,IT-IT,Intoccabile,"Infligge danni a un nemico e, a volte, può ridurre il suo Attacco per 2-5 turni."
+688,60,IT-IT,Intorpidimento,"Paralizza un nemico per 2-5 turni. Quanto più è alta la Saggezza di chi lancia l'incantesimo, tanto maggiori saranno le probabilità che la magia abbia successo."
+705,61,FR-FR,Intoxication,"Sort provoquant l'empoisonnement d'un ennemi.
+Sa réussite est proportionnelle à la sagesse du monstre incantateur."
+463,142,IT-IT,Ipercalattacco,"Riduce l'Attacco di tutti i nemici per 2-5 turni. Quanto più è alta la Saggezza di chi lancia l'incantesimo, tanto maggiori saranno le probabilità che la magia abbia successo."
+355,194,IT-IT,Ipercura,Fa recuperare 285 o più PV a un solo alleato.
+499,43,IT-IT,Iperdebilis,"Riduce la Difesa di tutti i nemici per 4-7 turni. Quanto più è alta la Saggezza di chi lancia l'incantesimo, tanto maggiori saranno le probabilità che la magia abbia successo."
+589,52,IT-IT,Isolamento termico,Riduce i danni da respiro subiti da tutti gli alleati per 4-7 turni.
+579,51,FR-FR,Isolation,Sort réduisant grandement les dégâts infligés à un allié par les attaques de souffle pendant 4 à 7 tours.
+1173,202,FR-FR,Jet de magma,Inflige des dégâts moyens de feu à tous les ennemis.
+1227,101,FR-FR,Jet de pierres,Inflige de légers dégâts de terre à un ennemi.
+1182,211,FR-FR,Jet d'eau,Inflige de légers dégâts d'eau à un ennemi.
+894,77,FR-FR,Joug contre joug,Attaque tranchante infligeant de grands dégâts aux monstres de la famille des bêtes.
+461,142,EN-GB,Kablunt,"Decreases the attack of all enemies for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed."
+164,146,EN-GB,Kaboom,Inflicts major explosive spell damage on all enemies.
+173,147,EN-GB,Kaboomle,Inflicts extreme explosive spell damage on all enemies.
+479,41,EN-GB,Kabuff,Increases the defence of all allies for 4 to 7 turns.
+200,18,EN-GB,Kacrack,Inflicts major ice-elemental spell damage on all enemies.
+209,19,EN-GB,Kacrackle,Inflicts extreme ice-elemental spell damage on all enemies.
+128,143,EN-GB,Kacrag,"Inflicts major earth-elemental spell damage on all enemies, but not until the following round."
+137,144,EN-GB,Kacraggle,"Inflicts extreme earth-elemental spell damage on all enemies, but not until the following round."
+569,50,EN-GB,Kadim,"Decreases the wisdom of all enemies for 4 to 7 turns. The higher the caster's wisdom, the more likely the spell is to succeed."
+20,3,EN-GB,Kafrizz,Inflicts major fire-elemental spell damage on a single enemy.
+29,4,EN-GB,Kafrizzle,Inflicts extreme fire-elemental spell damage on a single enemy.
+659,160,EN-GB,Kafuddle,"Confuses all enemies for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed."
+950,206,DE-DE,Kältekombo,"Eine Schlagtechnik, die zufällig ausgewählten Gegnern insgesamt 4-mal Eisschaden zufügt."
+1463,124,DE-DE,Kalter Odem,Fügt sämtlichen Gegnern mittleren Odem-Eisschaden zu.
+1472,125,DE-DE,Kältesturm,Fügt sämtlichen Gegnern erheblichen Odem-Eisschaden zu.
+732,64,FR-FR,Kamikaze,"Sort sacrifiant le monstre afin de tuer tous les ennemis. Sa réussite est proportionnelle aux PM restants du monstre incantateur.
+Le monstre incantateur ne peut pas être ressuscité pendant le reste du combat."
+733,64,IT-IT,Kamikaze,"Quest'incantesimo elimina tutti i nemici, ma chi lo lancia finisce fuori combattimento e non può essere rimesso in piedi nel corso della battaglia. Quanto più sono alti i PM di chi lancia l'incantesimo, tanto maggiori saranno le probabilità che la magia abbia successo."
+734,64,DE-DE,Kamikaze,"Befördert sämtliche Gegner ins Jenseits. Der Benutzer stirbt jedoch ebenfalls und kann bis zum Ende des Kampfes nicht wiederbelebt werden. Je höher die MP-Menge des Wirkers, desto wahrscheinlicher ist es, dass der Zauber erfolgreich ist."
+735,64,ES-ES,Kamikaze,"Acaba con todos los enemigos, pero a cambio de la vida de quien lo lanza, que no podrá ser resucitado en el mismo combate. Cuanto más PM tenga quien lo lance, más probable es que el conjuro tenga éxito."
+731,64,EN-GB,Kamikazee,"Kills all enemies, but at the cost of the caster's life. If used, the caster cannot be resurrected in the same battle. Higher MP increases the likelihood of the spell succeeding."
+695,150,EN-GB,Kanumb,"Paralyses all enemies for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed."
+551,152,EN-GB,Kaping,Increases the wisdom of all allies for 4 to 7 turns.
+497,43,EN-GB,Kasap,"Decreases the defence of all enemies for 4 to 7 turns. The higher the caster's wisdom, the more likely the spell is to succeed."
+272,153,EN-GB,Kasizz,Inflicts major light-elemental spell damage on all enemies.
+281,154,EN-GB,Kasizzle,Inflicts extreme light-elemental spell damage on all enemies.
+677,59,EN-GB,Kasnooze,"Puts all enemies to sleep for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed."
+56,140,EN-GB,Kasplash,Inflicts major water-elemental spell damage on a single enemy.
+65,141,EN-GB,Kasplashle,Inflicts extreme water-elemental spell damage on a single enemy.
+92,10,EN-GB,Kaswoosh,Inflicts major wind-elemental spell damage on all enemies.
+101,11,EN-GB,Kaswooshle,Inflicts extreme wind-elemental spell damage on all enemies.
+713,62,EN-GB,Katox,"Poisons all enemies. The higher the caster's wisdom, the more likely the spell is to succeed."
+176,147,DE-DE,Kawumm,Fügt sämtlichen Gegnern extremen magischen Explosionsschaden zu.
+308,155,EN-GB,Kazam,Inflicts major dark-elemental spell damage on a single enemy.
+317,156,EN-GB,Kazammle,Inflicts extreme dark-elemental spell damage on a single enemy.
+236,149,EN-GB,Kazap,Inflicts major electrical spell damage on all enemies.
+245,151,EN-GB,Kazapple,Inflicts extreme electrical spell damage on all enemies.
+380,30,EN-GB,Kazing,Resurrects a fallen ally without fail.
+389,159,EN-GB,Kerplunk,"Heals or resurrects all allies, including reserves, but at the cost of the caster's life. If used, the caster cannot be resurrected in the same battle."
+1586,170,EN-GB,Kerplunk Dance,"A dance that heals or resurrects all allies, including reserves, but at the cost of the caster's life. If used, the caster cannot be resurrected in the same battle."
+940,158,IT-IT,Kick boxing,Una tecnica a base di pugni che infligge danni per 4 volte a dei nemici a caso.
+428,34,DE-DE,Kikeriki,Weckt sämtliche schlafende Verbündete auf.
+429,34,ES-ES,Kikirikí,Cura el sueño de todos los aliados.
+723,63,FR-FR,Kill,"Sort provoquant la mort subite d'un ennemi.
+Sa réussite est proportionnelle à la sagesse du monstre incantateur."
+1067,89,DE-DE,Klingenbrecher,Fügt einem Gegner Schaden zu und reduziert seinen Angriff gelegentlich für 2 bis 5<nbsp>Runden.
+203,18,DE-DE,Klirr,Fügt sämtlichen Gegnern erheblichen magischen Eisschaden zu.
+194,17,DE-DE,Knack,Fügt sämtlichen Gegnern mittleren magischen Eisschaden zu.
+1382,205,DE-DE,"Knick, Knack, Knall",Schützt mit Funkelkraft einen Verbündeten für 2 bis 5<nbsp>Runden vor Statusleiden.
+185,16,DE-DE,Knirsch,Fügt einem Gegner geringen magischen Eisschaden zu.
+257,22,DE-DE,Knister,Fügt sämtlichen Gegnern geringen magischen Lichtschaden zu.
+1012,84,IT-IT,Knock out,"Una tecnica a base di pugni che concentra tutta la forza per infliggere moderati danni a un nemico nel turno successivo, indipendentemente dal valore della sua Difesa."
+1010,84,EN-GB,Knuckle Sandwich,"Focusses strength in order to inflict medium damage on a single enemy in the next action, ignoring their defence attribute."
+275,153,DE-DE,Knusper,Fügt sämtlichen Gegnern erheblichen magischen Lichtschaden zu.
+1337,111,DE-DE,Konfuselnebel,"Annulliert sämtlichen Schaden, aber nur 1-mal. Wirkungslos gegen bestimmte Angriffe."
+158,15,DE-DE,Krach,Fügt sämtlichen Gegnern mittleren magischen Explosionsschaden zu.
+212,19,DE-DE,Krack,Fügt sämtlichen Gegnern extremen magischen Eisschaden zu.
+1346,112,DE-DE,Kriegsschrei,"Ein ohrenbetäubender Schrei, der sämtliche Gegner für 1<nbsp>Runde betäubt."
+1454,123,DE-DE,Kühler Odem,Fügt sämtlichen Gegnern geringen Odem-Eisschaden zu.
+1156,98,IT-IT,Lama ipnotica,Infligge danni a un nemico. Molto efficace contro i mostri addormentati o confusi.
+1003,213,IT-IT,Lama rotante,Una tecnica a base di pugni che infligge lievi danni di vento per 2 volte a un nemico.
+795,215,FR-FR,Lame aquatique,Attaque tranchante infligeant des dégâts moyens d'eau à tous les ennemis.
+741,65,FR-FR,Lame de feu,Attaque tranchante infligeant de légers dégâts de feu à un ennemi.
+930,209,FR-FR,Lame de métal,"Attaque tranchante de puissance normale, mais infligeant au moins 1 point de dégâts aux monstres métalliques."
+750,67,FR-FR,Lame de vent,Attaque tranchante infligeant de légers dégâts de vent à un ennemi.
+777,70,FR-FR,Lame d'éclair,Attaque tranchante infligeant de légers dégâts de foudre à un ennemi.
+759,214,FR-FR,Lame des glaciers,Attaque tranchante infligeant de légers dégâts de glace à un ennemi.
+876,75,FR-FR,Lame du dragon,Attaque tranchante infligeant de grands dégâts aux monstres de la famille des dragons.
+1002,213,FR-FR,Lame-hélice,Technique de pugilat infligeant 2 fois de suite de légers dégâts de vent à un ennemi.
+1365,114,ES-ES,Lametón,"Salpica salvajemente a un solo enemigo con saliva limosa, lo aturde y reduce su defensa a 1."
+220,20,IT-IT,Lampo,Infligge lievi danni da incantesimo di elettricità a un nemico.
+1300,108,IT-IT,Lampo illusorio,Emette una luce abbagliante che riduce la Precisione degli attacchi nemici per 2-5 turni.
+1230,101,ES-ES,Lapidación,Inflige daño leve elemental de tierra a un solo enemigo.
+1228,101,IT-IT,Lapidazione,Infligge lievi danni di terra a un nemico.
+373,29,IT-IT,Lazzaro,"Spesso, ma non sempre, riesce a riportare in vita un alleato caduto in battaglia."
+1353,113,FR-FR,Léchouille,"Enduit un ennemi d'une bave visqueuse, qui l'empêche de bouger et réduit sa défense."
+1356,113,ES-ES,Lengüetazo,"Salpica a un solo enemigo con saliva limosa, lo aturde y reduce su defensa."
+1244,148,EN-GB,Lightning,"Inflicts medium electrical damage on all enemies. The higher the user's level, the greater the damage that will be inflicted."
+776,70,EN-GB,Lightning Slash,A slashing attack that inflicts minor electrical damage on a single enemy.
+960,157,ES-ES,Lluvia brillante,Inflige daño elemental de luz a enemigos al azar de 4 a 12 veces en total.
+1266,105,ES-ES,Lluvia de justicia,Realiza un rito para invocar un chaparrón curativo. Devuelve una cantidad de PV al azar a todos los aliados en el siguiente turno.
+326,26,EN-GB,Magic Pop,"Uses 1/4 of remaining MP to inflict light-elemental spell damage on a single enemy, for a weaker rendition of a more extreme spell. The more MP the monster has at the time of casting, the greater the damage will be."
+635,56,DE-DE,Magieentzug,Raubt einem Gegner einige MP.
+329,26,DE-DE,Magieknaller,"Verbraucht 25<nbsp>% der übrigen MP, um einem Gegner Lichtschaden zuzufügen. Schwächere Variante eines mächtigeren Zaubers. Je mehr MP das Monster zum Zeitpunkt des Wirkens hat, desto größer der Schaden."
+1172,202,EN-GB,Magma Blast,Inflicts medium fire-elemental damage on all enemies.
+1175,202,DE-DE,Magmawelle,Fügt sämtlichen Gegnern mittleren Feuerschaden zu.
+131,143,DE-DE,Malm,"Fügt sämtlichen Gegnern erheblichen magischen Erdschaden zu, aber erst in der nächsten Runde."
+1032,217,ES-ES,Martillo armadura,"Un ataque cortante que inflige daño medio a todos los enemigos y, en ocasiones, reduce su defensa de 4 a 7 turnos."
+924,80,ES-ES,Matamuertos,Un ataque cortante que inflige mucho daño a los monstruos de la familia de los no muertos.
+904,78,IT-IT,Materia sformata,Un fendente che infligge grandi danni ai mostri appartenenti alla famiglia dei materiali.
+905,78,DE-DE,Materialmalträtierer,"Ein Hieb, der Monstern der Materialfamilie schweren Schaden zufügt."
+902,78,EN-GB,Matter Scatterer,A slashing attack that inflicts sizeable slashing damage on monsters in the material family.
+464,142,DE-DE,Mau,"Reduziert den Angriff sämtlicher Gegner für 2 bis 5<nbsp>Runden. Je höher der Weisheitswert des Wirkers, desto wahrscheinlicher ist es, dass der Zauber erfolgreich ist."
+1310,109,DE-DE,Maulkorb,"Hält einen Gegner davon ab, sein Maul zu öffnen, und hindert ihn so für 4 bis 7<nbsp>Runden daran, Odemangriffe einzusetzen."
+346,28,IT-IT,Medicura,Fa recuperare 76 o più PV a un solo alleato.
+1257,104,ES-ES,Meditación,Devuelve 300 PV o más a quien lo usa.
+1256,104,DE-DE,Meditation,Gibt dem Benutzer mindestens 300<nbsp>LP zurück.
+1253,104,EN-GB,Meditation,Restores 300 or more HP to the user.
+1254,104,FR-FR,Méditation,Restaure au moins 300 PV au monstre.
+1255,104,IT-IT,Meditazione,Chi esegue questa tecnica recupera 300 o più PV.
+797,215,DE-DE,Meeresspalter,"Ein Hieb, der sämtlichen Gegnern mittleren Wasserschaden zufügt."
+645,172,ES-ES,Megaabsorción de magia,Absorbe PM de enemigos al azar 4 veces en total.
+698,150,DE-DE,Megaanästhesie,"Lähmt sämtliche Gegner für 2 bis 5<nbsp>Runden. Je höher der Weisheitswert des Wirkers, desto wahrscheinlicher ist es, dass der Zauber erfolgreich ist."
+33,4,ES-ES,Megaataque ígneo,Inflige daño extremo de conjuro elemental de fuego a un solo enemigo.
+165,146,FR-FR,Mégabang,Inflige de grands dégâts de sort d'explosion à tous les ennemis.
+660,160,FR-FR,Mégaconfusion,"Sort provoquant la confusion de tous les ennemis pendant 2 à 5 tours.
+Sa réussite est proportionnelle à la sagesse du monstre incantateur."
+843,161,ES-ES,Megacorte profundo,"Inflige daño brutal eléctrico a todos los enemigos. Cuanto mayor sea el nivel de quien lo use, más daño causará."
+273,153,FR-FR,Mégacrame,Inflige de grands dégâts de sort de lumière à tous les ennemis.
+852,162,ES-ES,Megacruz,"Un ataque de espada devastador que inflige daño extremo eléctrico a todos los enemigos 2 veces seguidas. Cuanto mayor sea el nivel de quien lo use, más daño causará."
+249,151,ES-ES,Megadescarga,Inflige daño extremo de conjuro eléctrico a todos los enemigos.
+309,155,FR-FR,Mégaélec,Inflige de grands dégâts de sort de ténèbres à un ennemi.
+310,155,IT-IT,Megaelektron,Infligge grandi danni da incantesimo di oscurità a un nemico.
+177,147,ES-ES,Megaexplosión,Inflige daño extremo de conjuro de explosión a todos los enemigos.
+22,3,IT-IT,Megafiamma,Infligge grandi danni da incantesimo di fuoco a un nemico.
+21,3,FR-FR,Mégaflamme,Inflige de grands dégâts de sort de feu à un ennemi.
+237,149,FR-FR,Mégafoudre,Inflige de grands dégâts de sort de foudre à tous les ennemis.
+202,18,IT-IT,Megagelo,Infligge grandi danni da incantesimo di ghiaccio a tutti i nemici.
+201,18,FR-FR,Mégaglace,Inflige de grands dégâts de sort de glace à tous les ennemis.
+213,19,ES-ES,Megahelada,Inflige daño extremo de conjuro elemental de hielo a todos los enemigos.
+285,154,ES-ES,Megaincendio,Inflige daño extremo de conjuro elemental de luz a todos los enemigos.
+716,62,DE-DE,Megainfektion,"Vergiftet sämtliche Gegner. Je höher der Weisheitswert des Wirkers, desto wahrscheinlicher ist es, dass der Zauber erfolgreich ist."
+714,62,FR-FR,Méga-intoxication,"Sort provoquant l'empoisonnement de tous les ennemis.
+Sa réussite est proportionnelle à la sagesse du monstre incantateur."
+498,43,FR-FR,Mégaltération,"Sort réduisant grandement la défense de tous les ennemis pendant 4 à 7 tours.
+Sa réussite est proportionnelle à la sagesse du monstre incantateur."
+57,140,FR-FR,Mégaplouf,Inflige de grands dégâts de sort d'eau à un ennemi.
+480,41,FR-FR,Mégaprotection,Sort augmentant la défense de tous les alliés pendant 4 à 7 tours.
+274,153,IT-IT,Megapyro,Infligge grandi danni da incantesimo di luce a tutti i nemici.
+462,142,FR-FR,Mégaramollo,"Sort réduisant grandement l'attaque de tous les ennemis pendant 2 à 5 tours.
+Sa réussite est proportionnelle à la sagesse du monstre incantateur."
+130,143,IT-IT,Megaroccia,"Infligge grandi danni da incantesimo di terra a tutti i nemici, ma non prima del round successivo."
+139,144,IT-IT,Megaroccia suprema,"Infligge ingenti danni da incantesimo di terra a tutti i nemici, ma non prima del round successivo."
+696,150,FR-FR,Mégaroideur,"Sort provoquant la paralysie de tous les ennemis pendant 2 à 5 tours.
+Sa réussite est proportionnelle à la sagesse du monstre incantateur."
+321,156,ES-ES,Megarrayo,Inflige daño extremo de conjuro elemental de oscuridad a un solo enemigo.
+141,144,ES-ES,Megarrisco,"Inflige daño extremo de conjuro elemental de tierra a todos los enemigos, pero en la siguiente ronda."
+500,43,DE-DE,Megaschwächung,"Reduziert die Abwehr sämtlicher Gegner für 4 bis 7<nbsp>Runden. Je höher der Weisheitswert des Wirkers, desto wahrscheinlicher ist es, dass der Zauber erfolgreich ist."
+129,143,FR-FR,Mégaséisme,"Inflige de grands dégâts de sort de terre à tous les ennemis.
+L'attaque se déclenche au round suivant."
+69,141,ES-ES,Megaspersión,Inflige daño extremo de conjuro elemental de agua a un solo enemigo.
+482,41,DE-DE,Megastärkung,Erhöht die Abwehr aller Verbündeten für 4 bis 7<nbsp>Runden.
+93,10,FR-FR,Mégatornade,Inflige de grands dégâts de sort de vent à tous les ennemis.
+105,11,ES-ES,Megatornado,Inflige daño extremo de conjuro elemental de viento a todos los enemigos.
+356,194,DE-DE,Mehrheilung,Gibt einem Verbündeten mindestens 285<nbsp>LP zurück.
+418,33,IT-IT,Mentefresca,Guarisce tutti gli alleati dalla confusione.
+983,82,EN-GB,Mercurial Thrust,"A punching technique that lets the user attack first each round, but reduces the damage they can inflict."
+986,82,DE-DE,Merkurstoß,"Eine Schlagtechnik, die nur geringen Schaden verursacht, dafür greift der Benutzer vor allen anderen in der Runde an."
+929,209,EN-GB,Metal Slash,A slashing attack with the same power as a normal attack but which always does at least 1 HP of damage to metal enemies.
+932,209,DE-DE,Metallhieb,"Ein Hiebangriff mit derselben Kraft wie ein normaler Angriff, der Metallgegnern jedoch mindestens 1<nbsp>LP Schaden zufügt."
+31,4,IT-IT,Meteorite di fuoco,Infligge ingenti danni da incantesimo di fuoco a un nemico.
+1139,96,DE-DE,Meuchelmörder,Fügt einem Gegner Schaden zu und befördert ihn gelegentlich sofort ins Jenseits.
+344,28,EN-GB,Midheal,Restores 76 or more HP to a single ally.
+42,5,ES-ES,Miniaspersión,Inflige daño leve de conjuro elemental de agua a un solo enemigo.
+6,1,ES-ES,Miniataque ígneo,Inflige daño leve de conjuro elemental de fuego a un solo enemigo.
+339,27,ES-ES,Minicuración,Devuelve 28 PV o más a un solo aliado.
+222,20,ES-ES,Minidescarga,Inflige daño leve de conjuro eléctrico a un solo enemigo.
+438,35,ES-ES,Minidoble potencia,Aumenta mucho el ataque de un solo aliado de 2 a 5 turnos.
+150,14,ES-ES,Miniexplosión,Inflige daño leve de conjuro de explosión a todos los enemigos.
+186,16,ES-ES,Minihelada,Inflige daño leve de conjuro elemental de hielo a un solo enemigo.
+258,22,ES-ES,Miniincendio,Inflige daño leve de conjuro elemental de luz a todos los enemigos.
+294,24,ES-ES,Minirrayo,Inflige daño leve de conjuro elemental de oscuridad a un solo enemigo.
+114,12,ES-ES,Minirrisco,"Inflige daño leve de conjuro elemental de tierra a todos los enemigos, pero en la siguiente ronda."
+78,8,ES-ES,Minitornado,Inflige daño leve de conjuro elemental de viento a todos los enemigos.
+1055,88,EN-GB,Miracle Slash,A slashing attack that inflicts damage on a single enemy. Approximately half the amount of damage inflicted is restored to the user as HP. Can heal up to a maximum of 200 HP per hit.
+1334,111,EN-GB,Mist Me,Negates all damage 1 time only. Ineffective against certain attacks.
+347,28,DE-DE,Mittelheilung,Gibt einem Verbündeten mindestens 76<nbsp>LP zurück.
+580,51,IT-IT,Monoisolamento termico,Riduce di molto i danni da respiro subiti da un alleato per 4-7 turni.
+996,83,ES-ES,Monstruancla,Una técnica pugilística que actúa después del resto para infligir daño extremo al enemigo.
+353,194,EN-GB,Moreheal,Restores 285 or more HP to a single ally.
+921,80,FR-FR,Morozombie,Attaque tranchante infligeant de grands dégâts aux monstres de la famille des morts-vivants.
+724,63,IT-IT,Morte istantanea,"Elimina un nemico istantaneamente. Quanto più è alta la Saggezza di chi lancia l'incantesimo, tanto maggiori saranno le probabilità che la magia abbia successo."
+726,63,ES-ES,Muerte,"Acaba con un solo enemigo al instante. Cuanta más sabiduría tenga quien lo lance, más probable es que el conjuro tenga éxito."
+590,52,DE-DE,Multi-Abschirmung,"Reduziert bei allen Verbündeten für 4 bis 7<nbsp>Runden den Schaden, den ihnen Odemangriffe zufügen."
+573,50,ES-ES,Multiatontamiento,"Reduce la sabiduría de todos los enemigos de 4 a 7 turnos. Cuanta más sabiduría tenga quien lo lance, más probable es que el conjuro tenga éxito."
+518,45,DE-DE,Multibeschleunigung,Erhöht die Flinkheit aller Verbündeten für 4 bis 7<nbsp>Runden.
+661,160,IT-IT,Multicaos,"Confonde tutti i nemici per 2-5 turni. Quanto più è alta la Saggezza di chi lancia l'incantesimo, tanto maggiori saranno le probabilità che la magia abbia successo."
+364,189,IT-IT,Multicura,Fa recuperare 76 o più PV a tutti gli alleati.
+366,189,ES-ES,Multicuración,Devuelve 76 PV o más a todos los aliados.
+501,43,ES-ES,Multidebilitación,"Reduce la defensa de todos los enemigos de 4 a 7 turnos. Cuanta más sabiduría tenga quien lo lance, más probable es que el conjuro tenga éxito."
+699,150,ES-ES,Multientumecimiento,"Paraliza a todos los enemigos de 2 a 5 turnos. Cuanta más sabiduría tenga quien lo lance, más probable es que el conjuro tenga éxito."
+978,81,ES-ES,Multiestocada,Un ataque cortante que inflige daño a todos los enemigos. Los enemigos que estén en el extremo derecho del campo de batalla recibirán menos daño.
+976,81,IT-IT,Multifendente,"Un fendente che infligge danni a tutti i nemici. Più l'avversario si trova a destra sul campo di battaglia, meno danni subisce."
+938,158,EN-GB,Multifists,"A punching technique that damages enemies at random, 4 times in total."
+483,41,ES-ES,Multifortalecimiento,Aumenta la defensa de todos los aliados de 4 a 7 turnos.
+362,189,EN-GB,Multiheal,Restores 76 or more HP to all allies.
+365,189,DE-DE,Multiheilung,Gibt allen Verbündeten mindestens 76<nbsp>LP zurück.
+977,81,DE-DE,Multihieb,"Ein Hieb, der sämtlichen Gegnern Schaden zufügt. Gegner weiter rechts auf dem Schlachtfeld erleiden weniger Schaden."
+975,81,FR-FR,Multi-lame,"Attaque tranchante infligeant des dégâts à tous les ennemis.
+Plus les ennemis sont sur la droite, moins ils subissent de dégâts."
+555,152,ES-ES,Multintelecto,Aumenta la sabiduría de todos los aliados de 4 a 7 turnos.
+553,152,IT-IT,Multintellygo,Aumenta la Saggezza di tutti gli alleati per 4-7 turni.
+445,38,IT-IT,Multiooomph,Aumenta l'Attacco di tutti gli alleati per 2-5 turni.
+939,158,FR-FR,Multipoing,Technique de pugilat infligeant 4 fois de suite des dégâts à un ennemi au hasard.
+942,158,ES-ES,Multipuñetazo,Una técnica pugilística que inflige daño a enemigos al azar 4 veces en total.
+974,81,EN-GB,Multislash,A slashing attack that inflicts damage on all enemies. Enemies that are further to the right-hand side of the battlefield receive less damage.
+363,189,FR-FR,Multisoin,Restaure au moins 76 PV à tous les alliés.
+717,62,ES-ES,Multitox,"Envenena a todos los enemigos. Cuanta más sabiduría tenga quien lo lance, más probable es que el conjuro tenga éxito."
+536,47,DE-DE,Multiverlangsamung,"Reduziert die Flinkheit sämtlicher Gegner für 4 bis 7<nbsp>Runden. Je höher der Weisheitswert des Wirkers, desto wahrscheinlicher ist es, dass der Zauber erfolgreich ist."
+1580,166,DE-DE,Muntermacher,"Ein Tanz, der insgesamt 2- bis 6-mal zufällig ausgewählte Verbündete heilt. Je höher die Stufe des Benutzers, desto größer die wiederhergestellte LP-Menge."
+993,83,FR-FR,Mutancre,"Technique de pugilat infligeant de grands dégâts contondants à l'ennemi, en choisissant d'agir en dernier."
+833,36,DE-DE,Nachtspalter,"Ein Hieb, der sämtlichen Gegnern mittleren Dunkelheitsschaden zufügt."
+884,76,EN-GB,Nature Nerfer,A slashing attack that inflicts sizeable damage on monsters in the nature family.
+887,76,DE-DE,Naturzerstörer,"Ein Hieb, der Monstern der Naturfamilie schweren Schaden zufügt."
+1336,111,IT-IT,Nebbiamica,Annulla tutti i danni per una sola volta. È però inefficace contro certi tipi di attacchi.
+618,55,ES-ES,Negación mágica,"Impide a todos los enemigos lanzar conjuros de 4 a 7 turnos. Cuanta más sabiduría tenga quien lo lance, más probable es que el conjuro tenga éxito."
+374,29,DE-DE,Neue Chance,Belebt einen gefallenen Verbündeten wieder. Funktioniert nicht immer.
+1338,111,ES-ES,Niebla,Invalida todo el daño una sola vez. No es eficaz contra determinados ataques.
+670,58,IT-IT,Ninnananna,"Addormenta un nemico per 2-5 turni. Quanto più è alta la Saggezza di chi lancia l'incantesimo, tanto maggiori saranno le probabilità che la magia abbia successo."
+1515,129,FR-FR,Noir soupir,"Inflige de grands dégâts de souffle de ténèbres à tous les ennemis, et les empêche parfois d'utiliser des sorts pendant 4 à 7 tours."
+686,60,EN-GB,Numb,"Paralyses a single enemy for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed."
+663,160,ES-ES,Omniconfusión,"Confunde a todos los enemigos de 2 a 5 turnos. Cuanta más sabiduría tenga quien lo lance, más probable es que el conjuro tenga éxito."
+697,150,IT-IT,Omnintorpidimento,"Paralizza tutti i nemici per 2-5 turni. Quanto più è alta la Saggezza di chi lancia l'incantesimo, tanto maggiori saranno le probabilità che la magia abbia successo."
+571,50,IT-IT,Omnistoopid,"Riduce la Saggezza di tutti i nemici per 4-7 turni. Quanto più è alta la Saggezza di chi lancia l'incantesimo, tanto maggiori saranno le probabilità che la magia abbia successo."
+1284,200,ES-ES,Onda de pánico,Debilita a todos los enemigos.
+1273,106,IT-IT,Onda guaritrice,Guarisce tutti gli alleati dalle alterazioni di stato da cui sono afflitti.
+1275,106,ES-ES,Onda purificadora,Cura los estados perniciosos de todos los aliados.
+434,35,EN-GB,Oomph,Greatly increases the attack of a single ally for 2 to 5 turns.
+443,38,EN-GB,Oomphle,Increases the attack of all allies for 2 to 5 turns.
+436,35,IT-IT,Ooomph,Aumenta di molto l'Attacco di un alleato per 2-5 turni.
+1589,170,DE-DE,Opfertanz,"Ein Tanz, der alle Verbündeten heilt oder wiederbelebt, auch Reservemonster. Der Benutzer stirbt und kann bis zum Ende des Kampfes nicht wiederbelebt werden."
+1218,216,FR-FR,Orbe de neige,Inflige de légers dégâts de glace à un ennemi.
+1221,216,ES-ES,Orbe de nieve,Inflige daño leve elemental de hielo a un solo enemigo.
+1219,216,IT-IT,Palla di neve,Infligge lievi danni di ghiaccio a un nemico.
+1110,165,FR-FR,Paralhache,"Attaque tranchante infligeant de grands dégâts à un ennemi, et provoquant parfois sa paralysie pendant 2 à 5 tours."
+1111,165,IT-IT,Parallax,"Un fendente che infligge ingenti danni a un nemico e, a volte, può paralizzarlo per 2-5 turni."
+1109,165,EN-GB,Parallax,A slashing attack that inflicts major damage on a single enemy and occasionally paralyses it for 2 to 5 turns.
+1100,93,EN-GB,Paralysing Punch,Damages a single enemy and occasionally paralyses it for 2 to 5 turns.
+1634,139,DE-DE,Parieren und Blocken,"Nimmt eine nahezu undurchdringliche Abwehrhaltung an, die den meisten erlittenen Schaden um 90<nbsp>% reduziert. Kann nur 1-mal pro Kampf eingesetzt werden."
+807,72,ES-ES,Partecielos,Un ataque cortante que inflige daño medio elemental de viento a todos los enemigos.
+1023,85,ES-ES,Patada giratoria,Una técnica de patadas que inflige daño a todos los enemigos independientemente de su defensa. Los enemigos que estén en el extremo derecho del campo de batalla recibirán menos daño.
+149,14,DE-DE,Peng,Fügt sämtlichen Gegnern geringen magischen Explosionsschaden zu.
+1154,98,EN-GB,Persecutter,Damages a single enemy. Highly effective against enemies that are asleep or confused.
+1155,98,FR-FR,Persécutter,Inflige des dégâts à un ennemi. Les dégâts sont augmentés si l'ennemi subit le sommeil ou la confusion.
+1237,103,IT-IT,Pestone,"Infligge moderati danni di terra a tutti i nemici. Quanto più è alto il livello di chi usa questa tecnica, tanto maggiori saranno i danni inflitti."
+1383,205,ES-ES,Pimpampún,Cubre a un solo aliado con un manto resplandeciente e impide que padezca estados perniciosos de 2 a 5 turnos.
+542,48,EN-GB,Ping,Greatly increases the wisdom of a single ally for 4 to 7 turns.
+545,48,DE-DE,Ping,Erhöht die Weisheit eines Verbündeten für 4 bis 7<nbsp>Runden erheblich.
+554,152,DE-DE,Pingeling,Erhöht die Weisheit aller Verbündeten für 4 bis 7<nbsp>Runden.
+1264,105,IT-IT,Pioggia dei giusti,Questo rito che propizia la pioggia fa cadere nel turno successivo uno scroscio curativo che fa recuperare a tutti gli alleati una quantità casuale di PV.
+1167,208,ES-ES,Pira ígnea,Inflige daño leve elemental de fuego a un solo enemigo.
+1239,103,ES-ES,Pisotón,"Inflige daño medio elemental de tierra a todos los enemigos. Cuanto mayor sea el nivel de quien lo use, más daño causará."
+39,5,FR-FR,Plouf,Inflige de légers dégâts de sort d'eau à un ennemi.
+1263,105,FR-FR,Pluie bénéfique,Effectue un rituel de la pluie pour faire tomber au tour suivant une averse bienfaisante qui restaure une quantité aléatoire de PV à tous les alliés.
+1236,103,FR-FR,Poids lourd,"Inflige des dégâts moyens de terre à tous les ennemis.
+Les dégâts sont proportionnels au niveau du monstre utilisateur."
+1127,95,EN-GB,Poison Attack,Damages a single enemy and occasionally poisons it.
+1550,133,EN-GB,Poison Breath,Exhales toxic fumes that poison all enemies.
+336,27,FR-FR,Premiers secours,Restaure au moins 28 PV à un allié.
+1004,213,DE-DE,Propeller,"Ein Schlag, der einem Gegner 2-mal geringen Windschaden zufügt."
+1001,213,EN-GB,Propeller Blade,A punching technique that inflicts minor wind-elemental damage 2 times in a row on a single enemy.
+1401,117,ES-ES,protección de aliados,"Recibe todos los ataques en lugar de los aliados durante 1 ronda, pero sufre más daño."
+471,40,FR-FR,Protection,Sort augmentant grandement la défense d'un allié pendant 4 à 7 tours.
+1140,96,ES-ES,Puñalada asesina,"Inflige daño a un solo enemigo y, en ocasiones, le provoca la muerte instantánea."
+1014,84,ES-ES,Puñodillo,"Se centra en la fuerza para infligir daño medio a un solo enemigo en el siguiente turno, independientemente de su defensa."
+1163,208,EN-GB,Pyre o' Fire,Inflicts minor fire-elemental damage on one enemy.
+816,145,ES-ES,Quebrantaterrenos,Un ataque cortante que inflige daño medio elemental de tierra a todos los enemigos.
+1437,122,ES-ES,Quemadura,Inflige daño extremo de aliento elemental de fuego a todos los enemigos.
+140,144,DE-DE,Quetsch,"Fügt sämtlichen Gegnern extremen magischen Erdschaden zu, aber erst in der nächsten Runde."
+1391,116,DE-DE,Quick-und-weg-Step,Erhöht die Ausweichchance des Benutzers für 4 bis 7<nbsp>Runden.
+1311,109,ES-ES,Quitaalientos,Impide que un solo enemigo utilice la boca y evita que lance ataques de aliento de 4 a 7 turnos.
+1212,100,ES-ES,Ráfaga,"Inflige daño medio elemental de viento a todos los enemigos. Cuanto mayor sea el nivel de quien lo use, más daño causará."
+453,39,FR-FR,Ramollo,"Sort réduisant grandement l'attaque d'un ennemi pendant 2 à 5 tours.
+Sa réussite est proportionnelle à la sagesse du monstre incantateur."
+372,29,FR-FR,Rappel,Sort ressuscitant un allié tombé au combat. Peut échouer.
+303,25,ES-ES,Rayo,Inflige daño medio de conjuro elemental de oscuridad a un solo enemigo.
+411,32,ES-ES,Reactivación,Cura la parálisis de todos los aliados.
+627,174,ES-ES,Rebote,Refleja la mayoría de conjuros contra quien los lanza de 4 a 7 turnos.
+624,174,FR-FR,Réflexion,Sort renvoyant la plupart des sorts à l'ennemi pendant 4 à 7 tours.
+1194,212,ES-ES,Refrescón,"Inflige daño medio elemental de agua a todos los enemigos. Cuanto mayor sea el nivel de quien lo use, más daño causará."
+1248,148,ES-ES,Relámpagos,"Inflige daño medio eléctrico a todos los enemigos. Cuanto mayor sea el nivel de quien lo use, más daño causará."
+1185,211,ES-ES,Remojón,Inflige daño leve elemental de agua a un solo enemigo.
+1408,118,IT-IT,Respiro ardente,Infligge lievi danni da respiro di fuoco a tutti i nemici.
+1462,124,IT-IT,Respiro congelante,Infligge moderati danni da respiro di ghiaccio a tutti i nemici.
+1543,132,IT-IT,Respiro di fuoco,Emette un respiro immobilizzante che paralizza tutti i nemici per 2-5 turni.
+1480,126,IT-IT,Respiro g-ghiacciato,Infligge ingenti danni da respiro di ghiaccio a tutti i nemici.
+1417,120,IT-IT,Respiro incendiario,Infligge moderati danni da respiro di fuoco a tutti i nemici.
+1516,129,IT-IT,Respiro nero,"Infligge grandi danni da respiro di oscurità a tutti i nemici e, di quando in quando, può impedire loro di lanciare incantesimi per 4-7 turni."
+1525,130,IT-IT,Respiro profondo,Una lunga e profonda inalazione incrementa i danni inflitti dal prossimo attacco da respiro che sferrerà chi esegue questa tecnica.
+1507,128,IT-IT,Respiro sacro,"Infligge grandi danni da respiro di luce a tutti i nemici e, di quando in quando, può confonderli per 2-5 turni."
+382,30,IT-IT,Resurge,Riporta in vita un alleato caduto in battaglia.
+384,30,ES-ES,Resurrección plena,Resucita con total seguridad a un aliado caído.
+381,30,FR-FR,Résurrection,Sort ressuscitant à coup sûr un allié tombé au combat.
+1262,105,EN-GB,Right as Rain,Performs a rainmaking ritual that invokes a healing shower. Restores a random amount of HP to all allies in the next turn.
+132,143,ES-ES,Risco,"Inflige daño grave de conjuro elemental de tierra a todos los enemigos, pero en la siguiente ronda."
+112,12,IT-IT,Roccia,"Infligge lievi danni da incantesimo di terra a tutti i nemici, ma non prima del round successivo."
+121,13,IT-IT,Roccia suprema,"Infligge moderati danni da incantesimo di terra a tutti i nemici, ma non prima del round successivo."
+687,60,FR-FR,Roideur,"Sort provoquant la paralysie d'un ennemi pendant 2 à 5 tours.
+Sa réussite est proportionnelle à la sagesse du monstre incantateur."
+789,71,ES-ES,Rompellamas,Un ataque cortante que inflige daño medio elemental de fuego a todos los enemigos.
+825,73,ES-ES,Rompeluces,Un ataque cortante que inflige daño medio elemental de luz a todos los enemigos.
+798,215,ES-ES,Rompemares,Un ataque cortante que inflige daño medio elemental de agua a todos los enemigos.
+834,36,ES-ES,Rompesombras,Un ataque cortante que inflige daño medio elemental de oscuridad a todos los enemigos.
+1019,85,EN-GB,Roundhouse Kick,"A kicking technique that inflicts damage on all enemies, ignoring their defence. Enemies that are further to the right-hand side of the battlefield receive less damage."
+634,56,IT-IT,Rubamagia,Assorbe PM da un nemico.
+599,207,DE-DE,Rundumschutz,Erhöht die Resistenzen aller Verbündeten für 2 bis 5<nbsp>Runden.
+1022,85,DE-DE,Rundumtritt,"Eine Tritttechnik, die sämtlichen Gegnern Schaden zufügt, unabhängig von ihrer Abwehr. Gegner weiter rechts auf dem Schlachtfeld erleiden weniger Schaden."
+858,163,FR-FR,Rupture obscure,"Inflige 2 fois de suite de très grands dégâts de ténèbres à tous les ennemis.
+Les dégâts sont proportionnels au niveau du monstre utilisateur."
+391,159,IT-IT,Sacrificio finale,"Quest'incantesimo guarisce o riporta in vita tutti gli alleati, incluse le riserve, ma chi lo lancia finisce fuori combattimento e non può essere rimesso in piedi nel corso della battaglia."
+1499,127,DE-DE,Sandiger Seufzer,"Wirbelt eine Staubwolke auf, die sämtlichen Gegnern erheblichen Odem-Erdschaden zufügt und ihre Genauigkeit für 2 bis 5<nbsp>Runden senkt."
+1289,107,EN-GB,Sandstorm,Whips up a dense cloud of dust that lowers the accuracy of enemy attacks for 2 to 5 turns.
+1292,107,DE-DE,Sandsturm,"Wirbelt eine dichte Staubwolke auf, die für 2 bis 5<nbsp>Runden die Genauigkeit gegnerischer Angriffe senkt."
+1496,127,EN-GB,Sandy Sigh,Whips up a cloud of dust that inflicts major earth-elemental breath damage on all enemies and lowers their accuracy for 2 to 5 turns.
+488,42,EN-GB,Sap,"Greatly decreases the defence of a single enemy for 4 to 7 turns. The higher the caster's wisdom, the more likely the spell is to succeed."
+86,9,DE-DE,Saus,Fügt sämtlichen Gegnern mittleren magischen Windschaden zu.
+77,8,DE-DE,Säusel,Fügt sämtlichen Gegnern geringen magischen Windschaden zu.
+913,79,IT-IT,Scacciademoni,Un fendente che infligge grandi danni ai mostri appartenenti alla famiglia dei demoni.
+860,163,DE-DE,Schattenschlitzer,"Fügt sämtlichen Gegnern 2-mal hintereinander extremen Dunkelheitsschaden zu. Je höher die Stufe des Benutzers, desto größer der zugefügte Schaden."
+868,74,IT-IT,Schiacciaslime,Un impatto che infligge grandi danni ai mostri appartenenti alla famiglia degli Slime.
+1103,93,DE-DE,Schierlingsschlag,Fügt einem Gegner Schaden zu und lähmt ihn gelegentlich für 2 bis 5<nbsp>Runden.
+959,157,DE-DE,Schimmernder Schuss,Fügt zufällig ausgewählten Gegnern insgesamt 4- bis 12-mal Lichtschaden zu.
+1363,114,IT-IT,Schiocco di lingua,"Ricopre di viscida bava un nemico, stordendolo e riducendo a 1 il valore della sua Difesa."
+1183,211,IT-IT,Schizzetto,Infligge lievi danni d'acqua a un nemico.
+1192,212,IT-IT,Schizzo,"Infligge moderati danni d'acqua a tutti i nemici. Quanto più è alto il livello di chi usa questa tecnica, tanto maggiori saranno i danni inflitti."
+1094,92,DE-DE,Schlafmütze,Fügt einem Gegner Schaden zu und lässt ihn gelegentlich für 2 bis 5<nbsp>Runden einschlummern.
+869,74,DE-DE,Schleimstampfer,"Ein wuchtiger Angriff, der Monstern der Schleimfamilie schweren Schaden zufügt."
+284,154,DE-DE,Schmor,Fügt sämtlichen Gegnern extremen magischen Lichtschaden zu.
+32,4,DE-DE,Schmurgel,Fügt einem Gegner extremen magischen Feuerschaden zu.
+680,59,DE-DE,Schnarch,"Lässt sämtliche Gegner für 2 bis 5<nbsp>Runden einschlummern. Je höher der Weisheitswert des Wirkers, desto wahrscheinlicher ist es, dass der Zauber erfolgreich ist."
+1220,216,DE-DE,Schneekugel,Fügt einem Gegner geringen Eisschaden zu.
+995,83,DE-DE,Schreckensanker,Tritt nach allen anderen in Aktion und fügt mit einem wuchtigen Angriff einem Gegner schweren Schaden zu.
+572,50,DE-DE,Schussel,"Reduziert die Weisheit sämtlicher Gegner für 4 bis 7<nbsp>Runden. Je höher der Weisheitswert des Wirkers, desto wahrscheinlicher ist es, dass der Zauber erfolgreich ist."
+50,7,DE-DE,Schütt,Fügt einem Gegner mittleren magischen Wasserschaden zu.
+491,42,DE-DE,Schwächung,"Reduziert die Abwehr eines Gegners für 4 bis 7<nbsp>Runden erheblich. Je höher der Weisheitswert des Wirkers, desto wahrscheinlicher ist es, dass der Zauber erfolgreich ist."
+68,141,DE-DE,Schwall,Fügt einem Gegner extremen magischen Wasserschaden zu.
+59,140,DE-DE,Schwemm,Fügt einem Gegner erheblichen magischen Wasserschaden zu.
+1562,134,DE-DE,Schwerttanz,"Ein Tanz, der zufällig ausgewählten Gegnern insgesamt 3- bis 7-mal Schaden zufügt."
+328,26,IT-IT,Scoppio magico,"Usa il 25% dei PM rimanenti per infliggere danni di luce a un nemico. Questa è una versione indebolita di un incantesimo estremo. Quanti più PM ha il mostro al momento del lancio della magia, tanto maggiori saranno i danni provocati."
+1433,122,EN-GB,Scorch,Inflicts extreme fire-elemental breath damage on all enemies.
+794,215,EN-GB,Seasplitter,A slashing attack that inflicts medium water-elemental damage on all enemies.
+1370,115,EN-GB,Seethe,Internalises rage in order to raise the damage of the next attack. The user's attacks also become more difficult for the enemy to dodge.
+111,12,FR-FR,Séisme,"Inflige de légers dégâts de sort de terre à tous les ennemis.
+L'attaque se déclenche au round suivant."
+1400,117,DE-DE,Selbstlosigkeit,"Fängt für 1<nbsp>Runde sämtliche Angriffe auf Verbündete ab, erleidet aber erhöhten Schaden dabei."
+1397,117,EN-GB,Selflessness,"Receives all incoming attacks in place of allies for 1 round, but suffers greater damage in doing so."
+348,28,ES-ES,Semicuración,Devuelve 76 PV o más a un solo aliado.
+375,29,ES-ES,Semirresurrección,Resucita a un aliado caído. Existe la posibilidad de que no funcione.
+857,163,EN-GB,Shadow Blast,"Inflicts extreme dark-elemental damage 2 times in a row on all enemies. The higher the user's level, the greater the damage that will be inflicted."
+956,157,EN-GB,Shining Shot,"Inflicts light-elemental damage on enemies at random, 4 to 12 times in total."
+561,49,FR-FR,Simplet,"Sort réduisant grandement la sagesse d'un ennemi pendant 4 à 7 tours.
+Sa réussite est proportionnelle à la sagesse du monstre incantateur."
+254,22,EN-GB,Sizz,Inflicts minor light-elemental spell damage on all enemies.
+263,23,EN-GB,Sizzle,Inflicts medium light-elemental spell damage on all enemies.
+803,72,EN-GB,Skysplitter,A slashing attack that inflicts medium wind-elemental damage on all enemies.
+1091,92,EN-GB,Sleep Attack,Damages a single enemy and occasionally puts it to sleep for 2 to 5 turns.
+866,74,EN-GB,Slime Squisher,A smashing attack that inflicts sizeable damage on monsters in the slime family.
+867,74,FR-FR,Slurpvérisation,Attaque contondante infligeant de grands dégâts aux monstres de la famille des gluants.
+1379,205,EN-GB,"Snap, Crackle, Poof",Uses the power of a healthy glow to protect one ally from status ailments for 2 to 5 turns.
+668,58,EN-GB,Snooze,"Puts a single enemy to sleep for 2 to 5 turns. The higher the caster's wisdom, the more likely the spell is to succeed."
+1217,216,EN-GB,Snow Globe,Inflicts minor ice-elemental damage on one enemy.
+354,194,FR-FR,Soins avancés,Restaure au moins 285 PV à un allié.
+345,28,FR-FR,Soins partiels,Restaure au moins 76 PV à un allié.
+409,32,IT-IT,Solletico,Guarisce tutti gli alleati dalla paralisi.
+681,59,ES-ES,Somnolencia,"Duerme a todos los enemigos de 2 a 5 turnos. Cuanta más sabiduría tenga quien lo lance, más probable es que el conjuro tenga éxito."
+824,73,DE-DE,Sonnenspalter,"Ein Hieb, der sämtlichen Gegnern mittleren Lichtschaden zufügt."
+1498,127,IT-IT,Sospiro sabbioso,Genera una nube di polvere che infligge grandi danni da respiro di terra a tutti i nemici e riduce la loro Precisione per 2-5 turni.
+1506,128,FR-FR,Souffle béni,"Inflige de grands dégâts de souffle de lumière à tous les ennemis, et provoque parfois leur confusion pendant 2 à 5 tours."
+1542,132,FR-FR,Souffle brûlant,Émet une haleine engourdissante qui provoque la paralysie de tous les ennemis pendant 2 à 5 tours.
+1407,118,FR-FR,Souffle de feu,Inflige de légers dégâts de souffle de feu à tous les ennemis.
+1470,125,FR-FR,Souffle de givre,Inflige de grands dégâts de souffle de glace à tous les ennemis.
+1452,123,FR-FR,Souffle frais,Inflige de légers dégâts de souffle de glace à tous les ennemis.
+1461,124,FR-FR,Souffle froid,Inflige des dégâts moyens de souffle de glace à tous les ennemis.
+1479,126,FR-FR,Souffle gla-glacial,Inflige de très grands dégâts de souffle de glace à tous les ennemis.
+1497,127,FR-FR,Souffle karstique,"Inflige de grands dégâts de souffle de terre à tous les ennemis, et provoque un nuage de sable qui réduit leur précision pendant 2 à 5 tours."
+1443,164,FR-FR,Soupir pyrique,"Inflige des dégâts extrêmes de souffle de feu à tous les ennemis, et les empêche parfois de bouger pendant 1 tour."
+1075,90,IT-IT,Spaccaelmi,"Infligge danni a un nemico e, a volte, può ridurre la sua Difesa per 4-7 turni."
+931,209,IT-IT,Spaccametallo,Un fendente di potenza pari a un attacco base che infligge sempre un danno minimo di 1 ai mostri metallici.
+625,174,IT-IT,Specchio riflesso,La maggior parte degli incantesimi viene riflessa contro chi li ha lanciati per 4-7 turni.
+1120,94,IT-IT,Spezzacuori,"Un fendente che infligge danni a un nemico e, a volte, può stordirlo per un turno."
+47,7,EN-GB,Splash,Inflicts medium water-elemental spell damage on a single enemy.
+1190,212,EN-GB,Splash Damage,"Inflicts medium water-elemental damage on all enemies. The higher the user's level, the greater the damage that will be inflicted."
+38,5,EN-GB,Splish,Inflicts minor water-elemental spell damage on a single enemy.
+41,5,DE-DE,Spritz,Fügt einem Gegner geringen magischen Wasserschaden zu.
+398,31,EN-GB,Squelch,Cures all allies of poison or severe poison.
+1238,103,DE-DE,Stampfer,"Fügt sämtlichen Gegnern mittleren Erdschaden zu. Je höher die Stufe des Benutzers, desto größer der zugefügte Schaden."
+473,40,DE-DE,Stärkung,Erhöht die Abwehr eines Verbündeten für 4 bis 7<nbsp>Runden erheblich.
+1229,101,DE-DE,Steinschleuder,Fügt einem Gegner geringen Erdschaden zu.
+1607,136,DE-DE,Stepptanz,"Ein Tanz, der einem Gegner einige MP raubt."
+408,32,FR-FR,Stimulation,Sort soignant tous les alliés de la paralysie.
+1235,103,EN-GB,Stomp,"Inflicts medium earth-elemental damage on all enemies. The higher the user's level, the greater the damage that will be inflicted."
+1226,101,EN-GB,Stone's Throw,Inflicts minor earth-elemental damage on a single enemy.
+562,49,IT-IT,Stoopid,"Riduce di molto la Saggezza di un nemico per 4-7 turni. Quanto più è alta la Saggezza di chi lancia l'incantesimo, tanto maggiori saranno le probabilità che la magia abbia successo."
+1597,135,IT-IT,Strandanza,Questa danza riduce i PM di un nemico.
+672,58,ES-ES,Sueño,"Duerme a un solo enemigo de 2 a 5 turnos. Cuanta más sabiduría tenga quien lo lance, más probable es que el conjuro tenga éxito."
+1622,138,EN-GB,Sultry Dance,A bewitching dance that stuns all enemies for 1 turn.
+679,59,IT-IT,Super ninnananna,"Addormenta tutti i nemici per 2-5 turni. Quanto più è alta la Saggezza di chi lancia l'incantesimo, tanto maggiori saranno le probabilità che la magia abbia successo."
+516,45,FR-FR,Superaccéléro,Sort augmentant l'agilité de tous les alliés pendant 4 à 7 tours.
+465,142,ES-ES,Superalicaimiento,"Reduce el ataque de todos los enemigos de 2 a 5 turnos. Cuanta más sabiduría tenga quien lo lance, más probable es que el conjuro tenga éxito."
+60,140,ES-ES,Superaspersión,Inflige daño grave de conjuro elemental de agua a un solo enemigo.
+24,3,ES-ES,Superataque ígneo,Inflige daño grave de conjuro elemental de fuego a un solo enemigo.
+156,15,FR-FR,Superbang,Inflige des dégâts moyens de sort d'explosion à tous les ennemis.
+264,23,FR-FR,Supercrame,Inflige des dégâts moyens de sort de lumière à tous les ennemis.
+534,47,FR-FR,Superdécéléro,"Sort réduisant grandement l'agilité de tous les ennemis pendant 4 à 7 tours.
+Sa réussite est proportionnelle à la sagesse du monstre incantateur."
+444,38,FR-FR,Superdécuplo,Sort augmentant l'attaque de tous les alliés pendant 2 à 5 tours.
+240,149,ES-ES,Superdescarga,Inflige daño grave de conjuro eléctrico a todos los enemigos.
+481,41,IT-IT,Superdifesa multipla,Aumenta la Difesa di tutti gli alleati per 4-7 turni.
+472,40,IT-IT,Superdifesa singola,Aumenta di molto la Difesa di un alleato per 4-7 turni.
+300,25,FR-FR,Superélec,Inflige des dégâts moyens de sort de ténèbres à un ennemi.
+301,25,IT-IT,Superelektron,Infligge moderati danni da incantesimo di oscurità a un nemico.
+168,146,ES-ES,Superexplosión,Inflige daño grave de conjuro de explosión a todos los enemigos.
+12,2,FR-FR,Superflamme,Inflige des dégâts moyens de sort de feu à un ennemi.
+228,21,FR-FR,Superfoudre,Inflige des dégâts moyens de sort de foudre à tous les ennemis.
+229,21,IT-IT,Superfulmine,Infligge moderati danni da incantesimo di elettricità a tutti i nemici.
+192,17,FR-FR,Superglace,Inflige des dégâts moyens de sort de glace à tous les ennemis.
+204,18,ES-ES,Superhelada,Inflige daño grave de conjuro elemental de hielo a todos los enemigos.
+276,153,ES-ES,Superincendio,Inflige daño grave de conjuro elemental de luz a todos los enemigos.
+588,52,FR-FR,Superisolation,Sort réduisant les dégâts infligés à tous les alliés par les attaques de souffle pendant 4 à 7 tours.
+48,7,FR-FR,Superplouf,Inflige des dégâts moyens de sort d'eau à un ennemi.
+312,155,ES-ES,Superrayo,Inflige daño grave de conjuro elemental de oscuridad a un solo enemigo.
+123,13,ES-ES,Superrisco,"Inflige daño medio de conjuro elemental de tierra a todos los enemigos, pero en la siguiente ronda."
+120,13,FR-FR,Superséisme,"Inflige des dégâts moyens de sort de terre à tous les ennemis.
+L'attaque se déclenche au round suivant."
+570,50,FR-FR,Supersimplet,"Sort réduisant grandement la sagesse de tous les ennemis pendant 4 à 7 tours.
+Sa réussite est proportionnelle à la sagesse du monstre incantateur."
+427,34,IT-IT,Supersveglia,Guarisce tutti gli alleati dal sonno.
+552,152,FR-FR,Supertilt,Sort augmentant la sagesse de tous les alliés pendant 4 à 7 tours.
+84,9,FR-FR,Supertornade,Inflige des dégâts moyens de sort de vent à tous les ennemis.
+96,10,ES-ES,Supertornado,Inflige daño grave de conjuro elemental de viento a todos los enemigos.
+1535,131,DE-DE,Süßer Odem,"Atmet einen beruhigenden Odem aus, der sämtliche Gegner für 2 bis 5<nbsp>Runden einschlummern lässt."
+1532,131,EN-GB,Sweet Breath,Lets out an exhalation of relaxation that puts all enemies to sleep for 2 to 5 turns.
+83,9,EN-GB,Swoosh,Inflicts medium wind-elemental spell damage on all enemies.
+1559,134,EN-GB,Sword Dance,"A dance that damages enemies at random, 3 to 7 times in total."
+1604,136,EN-GB,Tap Dance,A dance that absorbs some MP from a single enemy.
+1291,107,IT-IT,Tempesta di sabbia,Innalza una nube di polvere che riduce la Precisione degli attacchi nemici per 2-5 turni.
+1471,125,IT-IT,Tempesta gelida,Infligge grandi danni da respiro di ghiaccio a tutti i nemici.
+238,149,IT-IT,Tempesta magnetica,Infligge grandi danni da incantesimo di elettricità a tutti i nemici.
+1290,107,FR-FR,Tempête de sable,Provoque un nuage de sable aveuglant qui réduit la précision des attaques ennemies pendant 2 à 5 tours.
+885,76,FR-FR,Terminature,Attaque tranchante infligeant de grands dégâts aux monstres de la famille des naturels.
+1040,86,DE-DE,Teufelsbeil,"Ein Hieb, der einem Gegner Schaden zufügt. Der Angriff geht oft daneben, doch wenn er landet, ist die Chance auf einen kritischen Treffer höher als normal."
+1148,97,DE-DE,Thanatos-Terror,"Fügt einem Gegner Schaden zu. Sehr effektiv gegen vergiftete, schwer vergiftete oder gelähmte Gegner."
+1208,100,EN-GB,Thin Air,"Inflicts medium wind-elemental damage on all enemies. The higher the user's level, the greater the damage that will be inflicted."
+543,48,FR-FR,Tilt,Sort augmentant grandement la sagesse d'un allié pendant 4 à 7 tours.
+407,32,EN-GB,Tingle,Cures all allies of paralysis.
+1606,136,IT-IT,Tip Tap Top,Questa danza assorbe un po' di PM da un nemico.
+957,157,FR-FR,Tir de lumière,Inflige 4 à 12 fois de suite des dégâts de lumière à un ennemi au hasard.
+1191,212,FR-FR,Tir d'eau,"Inflige des dégâts moyens d'eau à tous les ennemis.
+Les dégâts sont proportionnels au niveau du monstre utilisateur."
+1129,95,IT-IT,Tocco velenoso,"Infligge danni a un nemico e, a volte, può avvelenarlo."
+662,160,DE-DE,Tohuwabohu,"Verwirrt sämtliche Gegner für 2 bis 5<nbsp>Runden. Je höher der Weisheitswert des Wirkers, desto wahrscheinlicher ist es, dass der Zauber erfolgreich ist."
+1361,114,EN-GB,Tongue Bashing,"Savagely slathers a single enemy with slimy saliva, stunning it and reducing its defence attribute to 1."
+1352,113,EN-GB,Tongue Lashing,"Slathers a single enemy with slimy saliva, stunning it and lowering its defence."
+1293,107,ES-ES,Tormenta de arena,Crea una densa nube de polvo que disminuye la precisión de los ataques enemigos de 2 a 5 turnos.
+1473,125,ES-ES,Tormenta heladora,Inflige daño grave de aliento elemental de hielo a todos los enemigos.
+75,8,FR-FR,Tornade,Inflige de légers dégâts de sort de vent à tous les ennemis.
+87,9,ES-ES,Tornado,Inflige daño medio de conjuro elemental de viento a todos los enemigos.
+94,10,IT-IT,Tornado,Infligge grandi danni da incantesimo di vento a tutti i nemici.
+669,58,FR-FR,Torpeur,"Sort provoquant le sommeil d'un ennemi pendant 2 à 5 tours.
+Sa réussite  est proportionnelle à la sagesse du monstre incantateur."
+678,59,FR-FR,Torpeur ciblée,"Sort provoquant le sommeil de tous les ennemis pendant 2 à 5 tours.
+Sa réussite est proportionnelle à la sagesse du monstre incantateur."
+715,62,IT-IT,Tossiveleno,"Avvelena tutti i nemici. Quanto più è alta la Saggezza di chi lancia l'incantesimo, tanto maggiori saranno le probabilità che la magia abbia successo."
+708,61,ES-ES,Tox,"Envenena a un solo enemigo. Cuanta más sabiduría tenga quien lo lance, más probable es que el conjuro tenga éxito."
+704,61,EN-GB,Tox,"Poisons a single enemy. The higher the caster's wisdom, the more likely the spell is to succeed."
+949,206,IT-IT,Tritaghiaccio,Una tecnica a base di pugni che infligge danni di ghiaccio per 4 volte a dei nemici a caso.
+1209,100,FR-FR,Trou d'air,"Inflige des dégâts moyens de vent à tous les ennemis.
+Les dégâts sont proportionnels au niveau du monstre utilisateur."
+920,80,EN-GB,Undead Undoer,A slashing attack that inflicts sizeable damage on monsters in the undead family.
+1319,37,DE-DE,Unpräzise Krise,"Hindert einen Gegner für 4 bis 7<nbsp>Runden daran, kritische Treffer zu landen."
+923,80,DE-DE,Untotentöter,"Ein Hieb, der Monstern der Untotenfamilie schweren Schaden zufügt."
+1281,200,FR-FR,Vague de panique,Provoque l'affaiblissement de tous les ennemis.
+1272,106,FR-FR,Vague de soulagement,Soigne tous les alliés de leurs altérations d'état.
+706,61,IT-IT,Veleno,"Avvelena un nemico. Quanto più è alta la Saggezza di chi lancia l'incantesimo, tanto maggiori saranno le probabilità che la magia abbia successo."
+526,46,IT-IT,Velocimeno,"Riduce di molto l'Agilità di un nemico per 4-7 turni. Quanto più è alta la Saggezza di chi lancia l'incantesimo, tanto maggiori saranno le probabilità che la magia abbia successo."
+508,44,IT-IT,Velocipiù,Aumenta di molto l'Agilità di un alleato per 4-7 turni.
+1570,171,IT-IT,Vendanza,"Questa danza infligge danni per 3-4 volte a dei nemici a caso. Quanto maggiore è l'Agilità di chi esegue la danza, tanto più gravi saranno i danni inflitti."
+1326,110,FR-FR,Vent contraire,Permet à tous les alliés de renvoyer une attaque de souffle à l'ennemi une seule fois.
+1200,99,FR-FR,Vent coupant,Inflige de légers dégâts de vent à un ennemi.
+76,8,IT-IT,Vento,Infligge lievi danni da incantesimo di vento a tutti i nemici.
+1201,99,IT-IT,Vento di lame,Infligge lievi danni di vento a un nemico.
+1282,200,IT-IT,Vento di terrore,Indebolisce tutti i nemici.
+103,11,IT-IT,Vento supremo,Infligge ingenti danni da incantesimo di vento a tutti i nemici.
+1327,110,IT-IT,Ventofresh,Rispedisce contro il nemico gli attacchi da respiro. Protegge tutti gli alleati una volta sola.
+527,46,DE-DE,Verlangsamung,"Reduziert die Flinkheit eines Gegners für 4 bis 7<nbsp>Runden erheblich. Je höher der Weisheitswert des Wirkers, desto wahrscheinlicher ist es, dass der Zauber erfolgreich ist."
+1085,91,DE-DE,Verwirrangriff,Fügt einem Gegner Schaden zu und verwirrt ihn gelegentlich für 2 bis 5<nbsp>Runden.
+1145,97,EN-GB,Victimiser,"Damages a single enemy. Highly effective against enemies that are poisoned, severely poisoned or paralysed."
+1149,97,ES-ES,Victimización,"Inflige daño a un solo enemigo. Es muy eficaz contra los enemigos envenenados, envenenados gravemente o paralizados."
+1343,112,EN-GB,War Cry,An ear-popping shout that stuns all enemies for 1 turn.
+1184,211,DE-DE,Wasserspeier,Fügt einem Gegner geringen Wasserschaden zu.
+1193,212,DE-DE,Wasserstrahl,"Fügt sämtlichen Gegnern mittleren Wasserschaden zu. Je höher die Stufe des Benutzers, desto größer der zugefügte Schaden."
+1181,211,EN-GB,Waterspout,Inflicts minor water-elemental damage on one enemy.
+1280,200,EN-GB,Wave of Panic,Debilitates all enemies.
+1271,106,EN-GB,Wave of Relief,Cures all allies of their status ailments.
+1571,171,DE-DE,Wedelwalzer,"Ein Tanz, der zufällig ausgewählten Gegnern insgesamt 3- bis 4-mal Schaden zufügt. Je höher der Flinkheitswert des Benutzers, desto größer der zugefügte Schaden."
+1595,135,EN-GB,Weird Dance,A dance that decreases the MP of a single enemy.
+1274,106,DE-DE,Welle der Erleichterung,Befreit alle Verbündeten von ihren Statusleiden.
+1283,200,DE-DE,Welle der Panik,Entkräftet sämtliche Gegner.
+722,63,EN-GB,Whack,"Kills a single enemy instantly. The higher the caster's wisdom, the more likely the spell is to succeed."
+383,30,DE-DE,Wiedergeburt,Belebt einen gefallenen Verbündeten garantiert wieder.
+1199,99,EN-GB,Wind Sickles,Inflicts minor wind-elemental damage on a single enemy.
+1328,110,DE-DE,Windbrecher,"Wirft Odemangriffe auf den Gegner zurück. Schützt alle Verbündeten, aber nur 1-mal."
+1202,99,DE-DE,Windsichel,Fügt einem Gegner geringen Windschaden zu.
+752,67,DE-DE,Windstoßhieb,"Ein Hieb, der einem Gegner geringen Windschaden zufügt."
+1616,137,DE-DE,Wirrer Walzer,"Ein Tanz, der sämtliche Gegner für 2 bis 5<nbsp>Runden verwirrt."
+653,57,DE-DE,Wirrwarr,"Verwirrt einen Gegner für 2 bis 5<nbsp>Runden. Je höher der Weisheitswert des Wirkers, desto wahrscheinlicher ist es, dass der Zauber erfolgreich ist."
+74,8,EN-GB,Woosh,Inflicts minor wind-elemental spell damage on all enemies.
+725,63,DE-DE,Wupp,"Befördert einen Gegner sofort ins Jenseits. Je höher der Weisheitswert des Wirkers, desto wahrscheinlicher ist es, dass der Zauber erfolgreich ist."
+230,21,DE-DE,Zack,Fügt sämtlichen Gegnern mittleren magischen Blitzschaden zu.
+290,24,EN-GB,Zam,Inflicts minor dark-elemental spell damage on a single enemy.
+299,25,EN-GB,Zammle,Inflicts medium dark-elemental spell damage on a single enemy.
+218,20,EN-GB,Zap,Inflicts minor electrical spell damage on a single enemy.
+227,21,EN-GB,Zapple,Inflicts medium electrical spell damage on all enemies.
+221,20,DE-DE,Zick,Fügt einem Gegner geringen magischen Blitzschaden zu.
+239,149,DE-DE,Zickzack,Fügt sämtlichen Gegnern erheblichen magischen Blitzschaden zu.
+248,151,DE-DE,Zickzackzuck,Fügt sämtlichen Gegnern extremen magischen Blitzschaden zu.
+371,29,EN-GB,Zing,Resurrects a fallen ally. Has a chance of failure.
+23,3,DE-DE,Zisch,Fügt einem Gegner erheblichen magischen Feuerschaden zu.
+14,2,DE-DE,Zischel,Fügt einem Gegner mittleren magischen Feuerschaden zu.
+1157,98,DE-DE,Züchtiger,Fügt einem Gegner Schaden zu. Sehr effektiv gegen eingeschlafene oder verwirrte Gegner.
+1355,113,DE-DE,Zungenpeitscher,"Überzieht einen Gegner mit schleimigem Speichel, was ihn betäubt und seine Abwehr reduziert."
+1364,114,DE-DE,Zungenschlag,"Beschmiert einen Gegner auf brutale Weise mit schleimigem Speichel, was ihn betäubt und seine Abwehr auf 1 senkt."
+910,79,JP-JP,あくま斬り,"悪魔系のモンスターに
+大きめのダメージを与える斬撃"
+1135,96,JP-JP,アサシンアタック,"敵１体に　ダメージを与え
+さらに　ときどき
+即死させる"
+1531,131,JP-JP,あまい息,"眠気を誘う　あまい息で
+２～５ターンの間
+敵全体を　眠らせる"
+991,83,JP-JP,アンカーナックル,"行動順を最後にすることで
+敵に　ダメージ（大）を与える拳術"
+145,14,JP-JP,イオ,"敵全体に　爆発属性の
+呪文ダメージ（小）を与える"
+172,147,JP-JP,イオグランデ,"敵全体に　爆発属性の
+呪文ダメージ（特大）を与える"
+163,146,JP-JP,イオナズン,"敵全体に　爆発属性の
+呪文ダメージ（大）を与える"
+154,15,JP-JP,イオラ,"敵全体に　爆発属性の
+呪文ダメージ（中）を与える"
+1243,148,JP-JP,いなずま,"敵全体に　電撃属性の
+ダメージ（中）を与える
+使う仲間モンスターの
+レベルが高いほど　ダメージも上がる"
+775,70,JP-JP,いなずま斬り,"敵１体に　電撃属性の
+ダメージ（小）を与える斬撃"
+1261,105,JP-JP,いやしの雨,"雨乞いをして　いやしの雨を降らせ
+次のターンで
+仲間全体のＨＰを回復する
+回復量は　ランダムで決まる"
+1225,101,JP-JP,いわなげ,"敵１体に　地属性の
+ダメージ（小）を与える"
+541,48,JP-JP,インテ,"４～７ターンの間　仲間１体の
+かしこさを　かなり上げる呪文"
+550,152,JP-JP,インテラ,"４～７ターンの間　仲間全体の
+かしこさを上げる呪文"
+1000,213,JP-JP,ウィングブロウ,"敵１体に２回連続で
+風属性ダメージ（小）を与える拳術"
+703,61,JP-JP,ヴェレ,"敵１体を毒状態にする呪文
+使う仲間モンスターの
+かしこさが高いほど　成功しやすい"
+712,62,JP-JP,ヴェレーノ,"敵全体を毒状態にする呪文
+使う仲間モンスターの
+かしこさが高いほど　成功しやすい"
+1567,171,JP-JP,おうぎのまい,"敵を選ばず
+３～４回連続でダメージを与える踊り
+使う仲間モンスターの
+すばやさが高いほど　ダメージも上がる"
+1342,112,JP-JP,おたけび,"耳をつんざくおたけびで　ひるませて
+敵全体を　１ターン動けなくする"
+739,65,JP-JP,かえん斬り,"敵１体に　火属性の
+ダメージ（小）を与える斬撃"
+1477,126,JP-JP,かがやく息,"敵全体に　氷結属性の
+ブレスダメージ（特大）を与える"
+1072,90,JP-JP,かぶとわり,"敵１体に　ダメージを与え
+さらに　ときどき
+４～７ターン　守備力を下げる"
+1198,99,JP-JP,かまいたち,"敵１体に　風属性の
+ダメージ（小）を与える"
+415,33,JP-JP,キアラル,"仲間全体の
+混乱を治す呪文"
+397,31,JP-JP,キアリー,"仲間全体の
+毒や　猛毒を治す呪文"
+406,32,JP-JP,キアリク,"仲間全体の
+マヒを治す呪文"
+847,162,JP-JP,ギガクロスブレイク,"敵全体に２回連続で
+電撃属性のダメージ（特大）を与える
+究極の剣技
+使う仲間モンスターの
+レベルが高いほど　ダメージも上がる"
+235,149,JP-JP,ギガデイン,"敵全体に　電撃属性の
+呪文ダメージ（大）を与える"
+838,161,JP-JP,ギガブレイク,"敵全体に　電撃属性の
+ダメージ（極大）を与える
+使う仲間モンスターの
+レベルが高いほど　ダメージも上がる"
+640,172,JP-JP,ギガマホトラ,"敵の誰かから
+ＭＰを４回奪って　自分のＭＰにする呪文"
+1324,110,JP-JP,ぎゃくふう,"仲間全員が　一度だけ
+ブレスをはね返せる"
+253,22,JP-JP,ギラ,"敵全体に　光属性の
+呪文ダメージ（小）を与える"
+1378,205,JP-JP,キラキラポーン,"キラキラパワーで
+２～５ターン　仲間１体を
+悪い状態にならなくする"
+280,154,JP-JP,ギラグレイド,"敵全体に　光属性の
+呪文ダメージ（特大）を与える"
+1027,217,JP-JP,キングダムソード,"敵全体に　ダメージ（中）を与え
+さらに　ときどき
+４～７ターン　守備力を下げる斬撃"
+1306,109,JP-JP,くちをふさぐ,"相手のクチをおさえつけて
+４～７ターン
+ブレス攻撃を封じる"
+892,77,JP-JP,けもの斬り,"魔獣系のモンスターに
+大きめのダメージを与える斬撃"
+1459,124,JP-JP,こおりの息,"敵全体に　氷結属性の
+ブレスダメージ（中）を与える"
+1468,125,JP-JP,こごえる吹雪,"敵全体に　氷結属性の
+ブレスダメージ（大）を与える"
+1081,91,JP-JP,こんらんこうげき,"敵１体に　ダメージを与え
+さらに　ときどき
+２～５ターン　混乱させる"
+370,29,JP-JP,ザオラル,"死んでいる仲間１体を復活させる呪文
+失敗することもある"
+379,30,JP-JP,ザオリク,死んでいる仲間１体を必ず復活させる呪文
+721,63,JP-JP,ザキ,"敵１体を即死させる呪文
+使う仲間モンスターの
+かしこさが高いほど　成功しやすい"
+1621,138,JP-JP,さそう踊り,"楽しげなダンスに誘って
+１ターンの間
+敵全体を動けなくする"
+37,5,JP-JP,ザバ,"敵１体に　水属性の
+呪文ダメージ（小）を与える"
+64,141,JP-JP,ザバトローム,"敵１体に　水属性の
+呪文ダメージ（特大）を与える"
+46,7,JP-JP,ザバラ,"敵１体に　水属性の
+呪文ダメージ（中）を与える"
+55,140,JP-JP,ザバラーン,"敵１体に　水属性の
+呪文ダメージ（大）を与える"
+973,81,JP-JP,さみだれ斬り,"敵全体に　ダメージを与える斬撃
+右にいる敵ほど　ダメージが下がる"
+424,34,JP-JP,ザメハ,"仲間全体の
+眠りを治す呪文"
+1495,127,JP-JP,サンドブレス,"敵全体に　地属性の
+ブレスダメージ（大）を与え
+砂煙を巻き起こし
+２～５ターンの間　命中率を下げる"
+244,151,JP-JP,ジゴデイン,"敵全体に　電撃属性の
+呪文ダメージ（特大）を与える"
+883,76,JP-JP,しぜん斬り,"自然系のモンスターに
+大きめのダメージを与える斬撃"
+982,82,JP-JP,しっぷうづき,"ラウンドの最初に攻撃できる拳術
+そのかわり　ダメージは小さくなる"
+109,12,JP-JP,ジバリア,"敵全体に　地属性の
+呪文ダメージ（小）を与える
+攻撃は　次のラウンドに発動する"
+127,143,JP-JP,ジバリーナ,"敵全体に　地属性の
+呪文ダメージ（大）を与える
+攻撃は　次のラウンドに発動する"
+118,13,JP-JP,ジバリカ,"敵全体に　地属性の
+呪文ダメージ（中）を与える
+攻撃は　次のラウンドに発動する"
+136,144,JP-JP,ジバルンバ,"敵全体に　地属性の
+呪文ダメージ（特大）を与える
+攻撃は　次のラウンドに発動する"
+685,60,JP-JP,シビー,"２～５ターンの間
+敵１体をマヒさせる呪文
+使う仲間モンスターの
+かしこさが高いほど　成功しやすい"
+1234,103,JP-JP,じひびき,"敵全体に　地属性の
+ダメージ（中）を与える
+使う仲間モンスターの
+レベルが高いほど　ダメージも上がる"
+694,150,JP-JP,シビリーニョ,"２～５ターンの間
+敵全体をマヒさせる呪文
+使う仲間モンスターの
+かしこさが高いほど　成功しやすい"
+955,157,JP-JP,シャイニングボウ,"敵を選ばず　４～１２回連続で
+光属性のダメージを与える"
+1432,122,JP-JP,しゃくねつ,"敵全体に　火属性の
+ブレスダメージ（特大）を与える"
+1207,100,JP-JP,しんくうは,"敵全体に　風属性の
+ダメージ（中）を与える
+使う仲間モンスターの
+レベルが高いほど　ダメージも上がる"
+748,67,JP-JP,しんくう斬り,"敵１体に　風属性の
+ダメージ（小）を与える斬撃"
+469,40,JP-JP,スカラ,"４～７ターンの間　仲間１体の
+守備力を　かなり上げる呪文"
+478,41,JP-JP,スクルト,"４～７ターンの間　仲間全体の
+守備力を上げる呪文"
+1288,107,JP-JP,すなけむり,"砂煙で視界を悪くし
+２～５ターン
+敵の攻撃の命中率を下げる"
+865,74,JP-JP,スライムたたき,"スライム系のモンスターに
+大きめのダメージを与える打撃"
+1009,84,JP-JP,せいけんづき,"チカラをためて　次のターンで
+敵１体に　ダメージ（中）を与える拳術
+敵の守備力の　影響を受けない"
+595,207,JP-JP,セイハーバ,"２～５ターンの間　仲間全体の
+耐性を上げる呪文"
+919,80,JP-JP,ゾンビ斬り,"ゾンビ系のモンスターに
+大きめのダメージを与える斬撃"
+856,163,JP-JP,ダークブレイク,"敵全体に２回連続で
+闇属性のダメージ（特大）を与える
+使う仲間モンスターの
+レベルが高いほど　ダメージも上がる"
+901,78,JP-JP,だいせつだん,"物質系のモンスターに
+大きめのダメージを与える斬撃"
+1630,139,JP-JP,だいぼうぎょ,"究極の防御の姿勢で
+ほとんどのダメージを１／１０にする
+１回の戦闘に　一度しか使えない"
+1369,115,JP-JP,たぎる,"心をたぎらせ　次の攻撃での
+ダメージを高めつつ　しかも
+相手に回避もされにくくする"
+1144,97,JP-JP,タナトスハント,"敵１体に　ダメージを与える
+毒　猛毒　マヒ状態の敵には
+より大きなダメージを与えられる"
+1450,123,JP-JP,つめたい息,"敵全体に　氷結属性の
+ブレスダメージ（小）を与える"
+1558,134,JP-JP,つるぎのまい,"敵を選ばず
+３～７回連続でダメージを与える踊り"
+217,20,JP-JP,デイン,"敵１体に　電撃属性の
+呪文ダメージ（小）を与える"
+1189,212,JP-JP,てっぽう水,"敵全体に　水属性の
+ダメージ（中）を与える
+使う仲間モンスターの
+レベルが高いほど　ダメージも上がる"
+1126,95,JP-JP,どくこうげき,"敵１体に　ダメージを与え
+さらに　ときどき
+毒状態にする"
+1549,133,JP-JP,どくの息,"毒の煙の息で
+敵全体を　毒状態にする"
+874,75,JP-JP,ドラゴン斬り,"ドラゴン系のモンスターに
+大きめのダメージを与える斬撃"
+298,25,JP-JP,ドルクマ,"敵１体に　闇属性の
+呪文ダメージ（中）を与える"
+289,24,JP-JP,ドルマ,"敵１体に　闇属性の
+呪文ダメージ（小）を与える"
+316,156,JP-JP,ドルマドン,"敵１体に　闇属性の
+呪文ダメージ（特大）を与える"
+307,155,JP-JP,ドルモーア,"敵１体に　闇属性の
+呪文ダメージ（大）を与える"
+1351,113,JP-JP,なめまわし,"ぬめぬめの舌でなめまわし
+敵１体を身ぶるいさせて　動けなくする
+さらに　守備力も下げる"
+1090,92,JP-JP,ねむりこうげき,"敵１体に　ダメージを与え
+さらに　ときどき
+２～５ターン　眠らせる"
+1117,94,JP-JP,ハートブレイク,"敵１体に　ダメージを与え
+さらに　ときどき
+１ターン動けなくする"
+577,51,JP-JP,バーハ,"４～７ターンの間　仲間１体の
+ブレスダメージを　かなり減らす呪文"
+433,35,JP-JP,バイキルト,"２～５ターンの間　仲間１体の
+攻撃力を　かなり上げる呪文"
+442,38,JP-JP,バイシオン,"２～５ターンの間　仲間全体の
+攻撃力を上げる呪文"
+73,8,JP-JP,バギ,"敵全体に　風属性の
+呪文ダメージ（小）を与える"
+91,10,JP-JP,バギクロス,"敵全体に　風属性の
+呪文ダメージ（大）を与える"
+82,9,JP-JP,バギマ,"敵全体に　風属性の
+呪文ダメージ（中）を与える"
+100,11,JP-JP,バギムーチョ,"敵全体に　風属性の
+呪文ダメージ（特大）を与える"
+937,158,JP-JP,ばくれつけん,"敵を選ばず
+４回連続でダメージを与える拳術"
+1423,121,JP-JP,はげしい炎,"敵全体に　火属性の
+ブレスダメージ（大）を与える"
+1576,166,JP-JP,ハッスルダンス,"仲間の誰かを
+２～６回　ＨＰ回復する踊り
+使う仲間モンスターの
+レベルが高いほど　回復量も上がる"
+964,210,JP-JP,はやぶさ斬り,"敵１体に２回連続で
+ダメージ（小）を与える斬撃"
+505,44,JP-JP,ピオラ,"４～７ターンの間　仲間１体の
+すばやさを　かなり上げる呪文"
+514,45,JP-JP,ピオリム,"４～７ターンの間　仲間全体の
+すばやさを上げる呪文"
+1270,106,JP-JP,ひかりのはどう,"仲間全体の
+悪い状態を治す"
+1504,128,JP-JP,ひかりの息,"敵全体に　光属性の
+ブレスダメージ（大）を与え
+さらに　ときどき
+２～５ターン　混乱させる"
+1162,208,JP-JP,ひばしら,"敵１体に　火属性の
+ダメージ（小）を与える"
+1360,114,JP-JP,ひゃくれつなめ,"ぬめぬめの舌で　激しくなめまわし
+敵１体を身ぶるいさせて　動けなくする
+さらに　守備力を１にする"
+190,17,JP-JP,ヒャダルコ,"敵全体に　氷結属性の
+呪文ダメージ（中）を与える"
+181,16,JP-JP,ヒャド,"敵１体に　氷結属性の
+呪文ダメージ（小）を与える"
+1153,98,JP-JP,ヒュプノスハント,"敵１体に　ダメージを与える
+眠り　混乱状態の敵には
+より大きなダメージを与えられる"
+559,49,JP-JP,フール,"４～７ターンの間　敵１体の
+かしこさを　かなり下げる呪文
+使う仲間モンスターの
+かしこさが高いほど　成功しやすい"
+1594,135,JP-JP,ふしぎな踊り,敵１体のＭＰを失わせる踊り
+586,52,JP-JP,フバーハ,"４～７ターンの間　仲間全体の
+ブレスダメージを減らす呪文"
+766,218,JP-JP,フリーズブレード,"敵全体に　氷結属性の
+ダメージ（中）を与え
+ときどき　１ターン動けなくする斬撃"
+271,153,JP-JP,ベギラゴン,"敵全体に　光属性の
+呪文ダメージ（大）を与える"
+262,23,JP-JP,ベギラマ,"敵全体に　光属性の
+呪文ダメージ（中）を与える"
+460,142,JP-JP,ヘナトール,"２～５ターンの間　敵全体の
+攻撃力を下げる呪文
+使う仲間モンスターの
+かしこさが高いほど　成功しやすい"
+451,39,JP-JP,ヘナトス,"２～５ターンの間　敵１体の
+攻撃力を　かなり下げる呪文
+使う仲間モンスターの
+かしこさが高いほど　成功しやすい"
+343,28,JP-JP,ベホイミ,仲間１体のＨＰを　７６～回復する
+352,194,JP-JP,ベホイム,仲間１体のＨＰを　２８５～回復する
+361,189,JP-JP,ベホマラー,仲間全体のＨＰを　７６～回復する
+334,27,JP-JP,ホイミ,仲間１体のＨＰを　２８～回復する
+523,46,JP-JP,ボミエ,"４～７ターンの間　敵１体の
+すばやさを　かなり下げる呪文
+使う仲間モンスターの
+かしこさが高いほど　成功しやすい"
+532,47,JP-JP,ボミオス,"４～７ターンの間　敵全体の
+すばやさを下げる呪文
+使う仲間モンスターの
+かしこさが高いほど　成功しやすい"
+1171,202,JP-JP,マグマ,"敵全体に　火属性の
+ダメージ（中）を与える"
+325,26,JP-JP,マダンチョ,"究極呪文を　ちょっとだけ発動して
+１／４のＭＰを使って　敵１体に
+光属性の呪文ダメージを与える
+ＭＰが高いほど　ダメージも上がる"
+604,53,JP-JP,マヌーサ,"２～５ターンの間
+敵全体を幻惑状態にさせる呪文
+使う仲間モンスターの
+かしこさが高いほど　成功しやすい"
+1099,93,JP-JP,マヒこうげき,"敵１体に　ダメージを与え
+さらに　ときどき
+２～５ターン　マヒさせる"
+208,19,JP-JP,マヒャデドス,"敵全体に　氷結属性の
+呪文ダメージ（特大）を与える"
+199,18,JP-JP,マヒャド,"敵全体に　氷結属性の
+呪文ダメージ（大）を与える"
+757,214,JP-JP,マヒャド斬り,"敵１体に　氷結属性の
+ダメージ（小）を与える斬撃"
+568,50,JP-JP,マフール,"４～７ターンの間　敵全体の
+かしこさを下げる呪文
+使う仲間モンスターの
+かしこさが高いほど　成功しやすい"
+1297,108,JP-JP,まぶしい光,"まばゆい光でくらませて
+２～５ターン
+敵の攻撃の命中率を下げる"
+622,174,JP-JP,マホカンタ,"４～７ターンの間
+敵のほとんどの呪文をはね返す呪文"
+613,55,JP-JP,マホトーン,"４～７ターンの間
+敵全体の呪文を封じる呪文
+使う仲間モンスターの
+かしこさが高いほど　成功しやすい"
+631,56,JP-JP,マホトラ,"敵１体からＭＰを奪って
+自分のＭＰにする呪文"
+1603,136,JP-JP,マホトラ踊り,敵１体から　ＭＰを吸収する踊り
+1333,111,JP-JP,まもりの霧,"一度だけ　ダメージを無効にする
+ただし　一部の攻撃には効かない"
+1018,85,JP-JP,まわしげり,"敵全体に　ダメージを与える足技
+敵の守備力の　影響を受けない
+右にいる敵ほど　ダメージが下がる"
+1387,116,JP-JP,みかわしきゃく,"４～７ターンの間
+自分の回避率を上げる"
+1396,117,JP-JP,みがわり,"１ラウンドの間
+仲間の身代わりとなって
+すべての攻撃を受け止める
+受けるダメージは　通常より大きくなる"
+1180,211,JP-JP,みずしぶき,"敵１体に　水属性の
+ダメージ（小）を与える"
+1045,87,JP-JP,みなごろし,"敵か仲間の　誰か１体に
+会心のいちげきを与える
+危険な技"
+1054,88,JP-JP,ミラクルソード,"敵１体に　ダメージを与え
+そのダメージの半分くらいの
+ＨＰを回復する斬撃
+回復量は　１ヒットにつき　最大２００まで"
+1252,104,JP-JP,めいそう,自分のＨＰを　３００～回復する
+388,159,JP-JP,メガザル,"自分の命と引き替えに　スタンバイを含む
+仲間全員を回復・復活させる呪文
+一度使ってしまうと
+その戦闘中は　復活できなくなる"
+1585,170,JP-JP,メガザルダンス,"自分の命と引き替えに　スタンバイを含む
+仲間全員を回復・復活させる
+命をかけた踊り
+一度使ってしまうと
+その戦闘中は　復活できなくなる"
+730,64,JP-JP,メガンテ,"自分の命と引き替えに
+敵全体に死の効果を与える呪文
+一度使ってしまうと
+その戦闘中は　復活できなくなる
+ＭＰが高いほど　成功しやすい"
+658,160,JP-JP,メダパーニャ,"２～５ターンの間
+敵全体を混乱させる呪文
+使う仲間モンスターの
+かしこさが高いほど　成功しやすい"
+649,57,JP-JP,メダパニ,"２～５ターンの間
+敵１体を混乱させる呪文
+使う仲間モンスターの
+かしこさが高いほど　成功しやすい"
+1612,137,JP-JP,メダパニダンス,"２～５ターンの間
+敵全体を混乱させる踊り"
+928,209,JP-JP,メタル斬り,"通常攻撃と　同じ威力だが
+メタル系に対して
+必ず１以上のダメージを与える斬撃"
+1,1,JP-JP,メラ,"敵１体に　火属性の
+呪文ダメージ（小）を与える"
+28,4,JP-JP,メラガイアー,"敵１体に　火属性の
+呪文ダメージ（特大）を与える"
+19,3,JP-JP,メラゾーマ,"敵１体に　火属性の
+呪文ダメージ（大）を与える"
+10,2,JP-JP,メラミ,"敵１体に　火属性の
+呪文ダメージ（中）を与える"
+1063,89,JP-JP,やいばくだき,"敵１体に　ダメージを与え
+さらに　ときどき
+２～５ターン　攻撃力を下げる"
+1540,132,JP-JP,やけつく息,"身体をしびれさせる息で
+２～５ターンの間
+敵全体を　マヒさせる"
+1279,200,JP-JP,やみのはどう,敵全体を　弱体化させる
+1513,129,JP-JP,やみの息,"敵全体に　闇属性の
+ブレスダメージ（大）を与え
+さらに　ときどき
+４～７ターン　呪文を封じる"
+1216,216,JP-JP,ゆきだま,"敵１体に　氷結属性の
+ダメージ（小）を与える"
+226,21,JP-JP,ライデイン,"敵全体に　電撃属性の
+呪文ダメージ（中）を与える"
+667,58,JP-JP,ラリホー,"２～５ターンの間
+敵１体を眠らせる呪文
+使う仲間モンスターの
+かしこさが高いほど　成功しやすい"
+676,59,JP-JP,ラリホーマ,"２～５ターンの間
+敵全体を眠らせる呪文
+使う仲間モンスターの
+かしこさが高いほど　成功しやすい"
+496,43,JP-JP,ルカナン,"４～７ターンの間　敵全体の
+守備力を下げる呪文
+使う仲間モンスターの
+かしこさが高いほど　成功しやすい"
+487,42,JP-JP,ルカニ,"４～７ターンの間　敵１体の
+守備力を　かなり下げる呪文
+使う仲間モンスターの
+かしこさが高いほど　成功しやすい"
+1431,121,KO-KR,거센 불꽃,"적 전체에 불 속성
+브레스 대미지(대)를 가한다."
+1566,134,KO-KR,검무,"적을 특정하지 않고
+3~7회 연속으로 대미지를 가하는 춤."
+1350,112,KO-KR,고함,"귀청을 찢는 고함을 질러
+적 전체를 1턴 동안 움직일 수 없게 한다."
+810,72,KO-KR,공렬참,"적 전체에 바람 속성
+대미지(중)를 가하는 참격."
+1359,113,KO-KR,구석구석 핥기,"미끈미끈한 혀로 핥아서
+몸서리치는 적 1체를 움직일 수 없게 하고
+수비력도 감소시킨다."
+1197,212,KO-KR,급류,"적 전체에 물 속성
+대미지(중)를 가한다.
+사용하는 동료 몬스터의
+레벨이 높을수록 대미지도 증가한다."
+648,172,KO-KR,기가 마호토라,"적 중 하나로부터
+MP를 4회 빼앗아 자신의 MP를 회복하는 주문."
+846,161,KO-KR,기가 브레이크,"적 전체에 전격 속성
+대미지(극대)를 가한다.
+사용하는 동료 몬스터의
+레벨이 높을수록 대미지도 증가한다."
+855,162,KO-KR,기가 크로스 브레이크,"적 전체에 2회 연속으로
+전격 속성 대미지(특대)를 가하는
+궁극의 검기.
+사용하는 동료 몬스터의
+레벨이 높을수록 대미지도 증가한다."
+243,149,KO-KR,기가데인,"적 전체에 전격 속성
+주문 대미지(대)를 가한다."
+261,22,KO-KR,기라,"적 전체에 빛 속성
+주문 대미지(소)를 가한다."
+288,154,KO-KR,기라그레이드,"적 전체에 빛 속성
+주문 대미지(특대)를 가한다."
+1224,216,KO-KR,눈덩이,"적 1체에 빙결 속성
+대미지(소)를 가한다."
+1305,108,KO-KR,눈부신 빛,"눈부신 빛을 발해
+2~5턴 동안
+적의 공격 명중률을 감소시킨다."
+864,163,KO-KR,다크 브레이크,"적 전체에 2회 연속으로
+어둠 속성 대미지(특대)를 가한다.
+사용하는 동료 몬스터의
+레벨이 높을수록 대미지도 증가한다."
+1539,131,KO-KR,달콤한 숨결,"졸음을 부르는 달콤한 숨결로
+2~5턴 동안
+적 전체를 수면 상태로 만든다."
+1404,117,KO-KR,대신 맞기,"1라운드 동안
+동료를 대신하여
+모든 공격을 받아 낸다
+입는 대미지는 평소보다 증가한다."
+909,78,KO-KR,대절단,"물질계 몬스터에게
+큰 대미지를 가하는 참격."
+819,145,KO-KR,대지참,"적 전체에 땅 속성
+대미지(중)를 가하는 참격."
+225,20,KO-KR,데인,"적 1체에 전격 속성
+주문 대미지(소)를 가한다."
+297,24,KO-KR,도르마,"적 1체에 어둠 속성
+주문 대미지(소)를 가한다."
+324,156,KO-KR,도르마돈,"적 1체에 어둠 속성
+주문 대미지(특대)를 가한다."
+315,155,KO-KR,도르모아,"적 1체에 어둠 속성
+주문 대미지(대)를 가한다."
+306,25,KO-KR,도르크마,"적 1체에 어둠 속성
+주문 대미지(중)를 가한다."
+1134,95,KO-KR,독 공격,"적 1체에 대미지를 가하고
+때때로 독 상태로 만든다."
+1557,133,KO-KR,독 숨결,"독 연기 숨결로
+적 전체를 독 상태로 만든다."
+1026,85,KO-KR,돌려 차기,"적 전체에 대미지를 가하는 발차기.
+적의 수비력에 영향을 받지 않는다.
+오른쪽에 있는 적일수록 대미지가 감소한다."
+882,75,KO-KR,드래곤 베기,"드래곤계 몬스터에게
+큰 대미지를 가하는 참격."
+1242,103,KO-KR,땅 울리기,"적 전체에 땅 속성
+대미지(중)를 가한다.
+사용하는 동료 몬스터의
+레벨이 높을수록 대미지도 증가한다."
+675,58,KO-KR,라리호,"2~5턴 동안
+적 1체를 수면 상태로 만드는 주문.
+사용하는 동료 몬스터의
+총명함이 높을수록 성공 확률이 증가한다."
+684,59,KO-KR,라리호마,"2~5턴 동안
+적 전체를 수면 상태로 만드는 주문.
+사용하는 동료 몬스터의
+총명함이 높을수록 성공 확률이 증가한다."
+234,21,KO-KR,라이데인,"적 전체에 전격 속성
+주문 대미지(중)를 가한다."
+504,43,KO-KR,루카난,"4~7턴 동안 적 전체의
+수비력을 감소시키는 주문.
+사용하는 동료 몬스터의
+총명함이 높을수록 성공 확률이 증가한다."
+495,42,KO-KR,루카니,"4~7턴 동안 적 1체의
+수비력을 상당히 감소시키는 주문.
+사용하는 동료 몬스터의
+총명함이 높을수록 성공 확률이 증가한다."
+981,81,KO-KR,마구 베기,"적 전체에 대미지를 가하는 참격.
+오른쪽에 있는 적일수록 대미지가 감소한다."
+1179,202,KO-KR,마그마,"적 전체에 불 속성
+대미지(중)를 가한다."
+612,53,KO-KR,마누사,"2~5턴 동안
+적 전체를 환혹 상태로 만드는 주문.
+사용하는 동료 몬스터의
+총명함이 높을수록 성공 확률이 증가한다."
+333,26,KO-KR,마단초,"궁극 주문을 맛보기로 발동해
+1/4의 MP로 적 1체에
+빛 속성 주문 대미지를 가한다.
+MP가 많을수록 대미지도 증가한다."
+1107,93,KO-KR,마비 공격,"적 1체에 대미지를 가하고
+때때로 2~5턴 동안
+마비 상태로 만든다."
+1044,86,KO-KR,마신 베기,"적 1체에 대미지를 가하는 참격.
+회심의 일격이 나올 확률이 높지만
+빗나갈 확률도 높아진다."
+576,50,KO-KR,마푸울,"4~7턴 동안 적 전체의
+총명함을 감소시키는 주문.
+사용하는 동료 몬스터의
+총명함이 높을수록 성공 확률이 증가한다."
+216,19,KO-KR,마햐데도스,"적 전체에 빙결 속성
+주문 대미지(특대)를 가한다."
+207,18,KO-KR,마햐드,"적 전체에 빙결 속성
+주문 대미지(대)를 가한다."
+630,174,KO-KR,마호칸타,"4~7턴 동안
+적 대부분의 주문을 반사하는 주문."
+639,56,KO-KR,마호토라,"적 1체로부터 MP를 빼앗아
+자신의 MP를 회복하는 주문."
+1611,136,KO-KR,마호토라 춤,적 1체로부터 MP를 흡수하는 춤.
+621,55,KO-KR,마호톤,"4~7턴 동안
+적 전체의 주문을 봉인하는 주문.
+사용하는 동료 몬스터의
+총명함이 높을수록 성공 확률이 증가한다."
+972,210,KO-KR,매 베기,"적 1체에 2회 연속으로
+대미지(소)를 가하는 참격."
+396,159,KO-KR,메가잘,"자신의 목숨과 맞바꿔 대기조를 포함한
+동료 전원을 회복 및 부활시키는 주문.
+한 번 사용하면
+그 전투 중에는 부활할 수 없게 된다."
+1593,170,KO-KR,메가잘 댄스,"자신의 목숨과 맞바꿔 대기조를 포함한
+동료 전원을 회복 및 부활시키는
+목숨을 건 춤.
+한 번 사용하면
+그 전투 중에는 부활할 수 없게 된다."
+738,64,KO-KR,메간테,"자신의 목숨과 맞바꿔
+적 전체에 죽음 효과를 부여하는 주문.
+한 번 사용하면
+그 전투 중에는 부활할 수 없게 된다.
+MP가 많을수록 성공 확률이 증가한다."
+666,160,KO-KR,메다파냐,"2~5턴 동안
+적 전체를 혼란 상태로 만드는 주문.
+사용하는 동료 몬스터의
+총명함이 높을수록 성공 확률이 증가한다."
+657,57,KO-KR,메다파니,"2~5턴 동안
+적 1체를 혼란 상태로 만드는 주문.
+사용하는 동료 몬스터의
+총명함이 높을수록 성공 확률이 증가한다."
+1620,137,KO-KR,메다파니 댄스,"2~5턴 동안
+적 전체를 혼란 상태로 만드는 춤."
+9,1,KO-KR,메라,"적 1체에 불 속성
+주문 대미지(소)를 가한다."
+36,4,KO-KR,메라가이아,"적 1체에 불 속성
+주문 대미지(특대)를 가한다."
+18,2,KO-KR,메라미,"적 1체에 불 속성
+주문 대미지(중)를 가한다."
+27,3,KO-KR,메라조마,"적 1체에 불 속성
+주문 대미지(대)를 가한다."
+936,209,KO-KR,메탈 베기,"기본 공격과 같은 위력이지만
+메탈계에 반드시 1 이상의
+대미지를 가하는 참격."
+1260,104,KO-KR,명상,자신의 HP를 300 이상 회복한다.
+1296,107,KO-KR,모래 연기,"모래 연기로 시야를 가려
+2~5턴 동안
+적의 공격 명중률을 감소시킨다."
+1053,87,KO-KR,몰살,"적 또는 동료 1체에
+회심의 일격을 가하는
+위험한 기술."
+1188,211,KO-KR,물보라,"적 1체에 물 속성
+대미지(소)를 가한다."
+603,207,KO-KR,미라클 배리어,"2~5턴 동안 동료 전체의
+내성을 증가시키는 주문."
+1062,88,KO-KR,미라클 소드,"적 1체에 대미지를 가하는 참격.
+그 대미지의 절반 정도
+HP를 회복한다.
+히트당 최대 200까지 회복할 수 있다."
+81,8,KO-KR,바기,"적 전체에 바람 속성
+주문 대미지(소)를 가한다."
+90,9,KO-KR,바기마,"적 전체에 바람 속성
+주문 대미지(중)를 가한다."
+108,11,KO-KR,바기무초,"적 전체에 바람 속성
+주문 대미지(특대)를 가한다."
+99,10,KO-KR,바기크로스,"적 전체에 바람 속성
+주문 대미지(대)를 가한다."
+1233,101,KO-KR,바위 던지기,"적 1체에 땅 속성
+대미지(소)를 가한다."
+450,38,KO-KR,바이시온,"2~5턴 동안 동료 전체의
+공격력을 증가시키는 주문."
+441,35,KO-KR,바이킬트,"2~5턴 동안 동료 1체의
+공격력을 상당히 증가시키는 주문."
+585,51,KO-KR,바하,"4~7턴 동안 동료 1체의
+브레스 대미지를 상당히 경감시키는 주문."
+1386,205,KO-KR,반짝반짝 폰,"반짝반짝 파워로
+2~5턴 동안 동료 1체를
+나쁜 상태가 되지 않게 만든다."
+1368,114,KO-KR,백렬 핥기,"미끈미끈한 혀로 격렬하게 핥아서
+몸서리치는 적 1체를 움직일 수 없게 하고
+수비력을 1로 만든다."
+1251,148,KO-KR,번개,"적 전체에 전격 속성
+대미지(중)를 가한다.
+사용하는 동료 몬스터의
+레벨이 높을수록 대미지도 증가한다."
+783,70,KO-KR,번개 베기,"적 1체에 전격 속성
+대미지(소)를 가하는 참격."
+279,153,KO-KR,베기라곤,"적 전체에 빛 속성
+주문 대미지(대)를 가한다."
+270,23,KO-KR,베기라마,"적 전체에 빛 속성
+주문 대미지(중)를 가한다."
+711,61,KO-KR,베레,"적 1체를 독 상태로 만드는 주문.
+사용하는 동료 몬스터의
+총명함이 높을수록 성공 확률이 증가한다."
+720,62,KO-KR,베레노,"적 전체를 독 상태로 만드는 주문.
+사용하는 동료 몬스터의
+총명함이 높을수록 성공 확률이 증가한다."
+369,189,KO-KR,베호마라,동료 전체의 HP를 76 이상 회복한다.
+351,28,KO-KR,베호이미,동료 1체의 HP를 76 이상 회복한다.
+360,194,KO-KR,베호임,동료 1체의 HP를 285 이상 회복한다.
+531,46,KO-KR,보미에,"4~7턴 동안 적 1체의
+민첩함을 상당히 감소시키는 주문.
+사용하는 동료 몬스터의
+총명함이 높을수록 성공 확률이 증가한다."
+540,47,KO-KR,보미오스,"4~7턴 동안 적 전체의
+민첩함을 감소시키는 주문.
+사용하는 동료 몬스터의
+총명함이 높을수록 성공 확률이 증가한다."
+1575,171,KO-KR,부채춤,"적을 특정하지 않고
+3~4회 연속으로 대미지를 가하는 춤.
+사용하는 동료 몬스터의
+민첩함이 높을수록 대미지도 증가한다."
+1413,118,KO-KR,불 숨결,"적 전체에 불 속성
+브레스 대미지(소)를 가한다."
+1170,208,KO-KR,불기둥,"적 1체에 불 속성
+대미지(소)를 가한다."
+1548,132,KO-KR,불타는 숨결,"몸을 마비시키는 숨결로
+2~5턴 동안
+적 전체를 마비 상태로 만든다."
+954,206,KO-KR,빙결 난격,"적을 특정하지 않고
+4회 연속으로 빙결 속성 대미지를 가하는 권술."
+765,214,KO-KR,빙결 베기,"적 1체에 빙결 속성
+대미지(소)를 가하는 참격."
+1512,128,KO-KR,빛 숨결,"적 전체에 빛 속성
+브레스 대미지(대)를 가하고
+때때로 2~5턴
+혼란 상태로 만든다."
+1485,126,KO-KR,빛나는 숨결,"적 전체에 빙결 속성
+브레스 대미지(특대)를 가한다."
+1278,106,KO-KR,빛의 파동,"동료 전체의
+나쁜 상태를 회복한다."
+1503,127,KO-KR,샌드 브레스,"적 전체에 땅 속성
+브레스 대미지(대)를 가하고
+모래 연기를 일으켜
+2~5턴 동안 명중률을 감소시킨다."
+963,157,KO-KR,샤이닝 보우,"적을 특정하지 않고 4~12회 연속으로
+빛 속성 대미지를 가한다."
+828,73,KO-KR,섬광참,"적 전체에 빛 속성
+대미지(중)를 가하는 참격."
+1098,92,KO-KR,수면 공격,"적 1체에 대미지를 가하고
+때때로 2~5턴 동안
+수면 상태로 만든다."
+1341,111,KO-KR,수호의 안개,"딱 한 번 대미지를 무효화한다.
+단, 일부 공격에는 효과가 없다."
+1530,130,KO-KR,숨 들이마시기,"크게 숨을 들이마셔
+다음 브레스 공격의
+대미지를 증가시킨다."
+477,40,KO-KR,스카라,"4~7턴 동안 동료 1체의
+수비력을 상당히 증가시키는 주문."
+486,41,KO-KR,스쿨트,"4~7턴 동안 동료 전체의
+수비력을 증가시키는 주문."
+873,74,KO-KR,슬라임 치기,"슬라임계 몬스터에게
+큰 대미지를 가하는 타격."
+693,60,KO-KR,시비,"2~5턴 동안
+적 1체를 마비 상태로 만드는 주문.
+사용하는 동료 몬스터의
+총명함이 높을수록 성공 확률이 증가한다."
+702,150,KO-KR,시비리뇨,"2~5턴 동안
+적 전체를 마비 상태로 만드는 주문.
+사용하는 동료 몬스터의
+총명함이 높을수록 성공 확률이 증가한다."
+918,79,KO-KR,악마 베기,"악마계 몬스터에게
+큰 대미지를 가하는 참격."
+837,36,KO-KR,암흑참,"적 전체에 어둠 속성
+대미지(중)를 가하는 참격."
+999,83,KO-KR,앵커 너클,"행동 순서를 마지막으로 하고
+적에게 대미지(대)를 가하는 권술."
+1521,129,KO-KR,어둠 숨결,"적 전체에 어둠 속성
+브레스 대미지(대)를 가하고
+때때로 4~7턴
+주문을 봉인한다."
+1287,200,KO-KR,어둠의 파동,적 전체를 약체화시킨다.
+1143,96,KO-KR,어새신 어택,"적 1체에 대미지를 가하고
+때때로 즉사시킨다."
+1476,125,KO-KR,얼어붙는 눈보라,"적 전체에 빙결 속성
+브레스 대미지(대)를 가한다."
+1467,124,KO-KR,얼음 숨결,"적 전체에 빙결 속성
+브레스 대미지(중)를 가한다."
+1332,110,KO-KR,역풍,"동료 전원이 딱 한 번
+브레스를 반사한다."
+1449,164,KO-KR,연옥 화염,"적 전체에 불 속성
+브레스 대미지(극대)를 가하고
+때때로 1턴 동안 움직일 수 없게 한다."
+1206,99,KO-KR,요괴 바람,"적 1체에 바람 속성
+대미지(소)를 가한다."
+1377,115,KO-KR,용솟음치기,"끓어오르는 마음으로 다음 공격의
+대미지를 증가시키고
+상대가 회피하기 어렵게 한다."
+1008,213,KO-KR,윙 블로,"적 1체에 2회 연속으로
+바람 속성 대미지(소)를 가하는 권술."
+1629,138,KO-KR,유혹의 춤,"신나는 댄스에 끌어들여
+1턴 동안
+적 전체를 움직일 수 없게 한다."
+1602,135,KO-KR,이상한 춤,적 1체의 MP를 잃게 하는 춤.
+153,14,KO-KR,이오,"적 전체에 폭발 속성
+주문 대미지(소)를 가한다."
+180,147,KO-KR,이오그란데,"적 전체에 폭발 속성
+주문 대미지(특대)를 가한다."
+171,146,KO-KR,이오나즌,"적 전체에 폭발 속성
+주문 대미지(대)를 가한다."
+162,15,KO-KR,이오라,"적 전체에 폭발 속성
+주문 대미지(중)를 가한다."
+549,48,KO-KR,인테,"4~7턴 동안 동료 1체의
+총명함을 상당히 증가시키는 주문."
+558,152,KO-KR,인테라,"4~7턴 동안 동료 전체의
+총명함을 증가시키는 주문."
+1314,109,KO-KR,입 막기,"상대의 입을 막아
+4~7턴 동안
+브레스 공격을 봉인한다."
+432,34,KO-KR,자메하,"동료 전체의
+수면을 회복하는 주문."
+45,5,KO-KR,자바,"적 1체에 물 속성
+주문 대미지(소)를 가한다."
+54,7,KO-KR,자바라,"적 1체에 물 속성
+주문 대미지(중)를 가한다."
+63,140,KO-KR,자바란,"적 1체에 물 속성
+주문 대미지(대)를 가한다."
+72,141,KO-KR,자바트롬,"적 1체에 물 속성
+주문 대미지(특대)를 가한다."
+891,76,KO-KR,자연 베기,"자연계 몬스터에게
+큰 대미지를 가하는 참격."
+378,29,KO-KR,자오랄,"사망한 동료 1체를 부활시키는 주문.
+실패할 수도 있다."
+387,30,KO-KR,자오리크,사망한 동료 1체를 반드시 부활시키는 주문.
+729,63,KO-KR,자키,"적 1체를 즉사시키는 주문.
+사용하는 동료 몬스터의
+총명함이 높을수록 성공 확률이 증가한다."
+1440,122,KO-KR,작열,"적 전체에 불 속성
+브레스 대미지(특대)를 가한다."
+792,71,KO-KR,작열참,"적 전체에 불 속성
+대미지(중)를 가하는 참격."
+1494,175,KO-KR,절대 영도,"적 전체에 빙결 속성
+브레스 대미지(극대)를 가하고
+때때로 1턴 동안 움직일 수 없게 한다."
+1017,84,KO-KR,정권 지르기,"힘을 모아 다음 턴에
+적 1체에 대미지(중)를 가하는 권술.
+적의 수비력에 영향을 받지 않는다."
+927,80,KO-KR,좀비 베기,"좀비계 몬스터에게
+큰 대미지를 가하는 참격."
+980,81,ZH-CN,乱斩,"对所有敌人造成伤害的斩击
+位置越右方的敌人受到的伤害越低"
+979,81,ZH-TW,亂斬,"對所有敵人造成傷害的斬擊
+位置越右方的敵人受到的傷害越低"
+144,144,KO-KR,지바룬바,"적 전체에 땅 속성
+주문 대미지(특대)를 가한다.
+공격은 다음 라운드에 발동한다."
+135,143,KO-KR,지바리나,"적 전체에 땅 속성
+주문 대미지(대)를 가한다.
+공격은 다음 라운드에 발동한다."
+117,12,KO-KR,지바리아,"적 전체에 땅 속성
+주문 대미지(소)를 가한다.
+공격은 다음 라운드에 발동한다."
+126,13,KO-KR,지바리카,"적 전체에 땅 속성
+주문 대미지(중)를 가한다.
+공격은 다음 라운드에 발동한다."
+252,151,KO-KR,지오 데인,"적 전체에 전격 속성
+주문 대미지(특대)를 가한다."
+756,67,KO-KR,진공 베기,"적 1체에 바람 속성
+대미지(소)를 가하는 참격."
+1215,100,KO-KR,진공파,"적 전체에 바람 속성
+대미지(중)를 가한다.
+사용하는 동료 몬스터의
+레벨이 높을수록 대미지도 증가한다."
+990,82,KO-KR,질풍 찌르기,"라운드 중 가장 먼저 공격할 수 있는 권술.
+그 대신 대미지는 감소한다."
+900,77,KO-KR,짐승 베기,"마수계 몬스터에게
+큰 대미지를 가하는 참격."
+152,14,ZH-CN,伊奥,"对所有敌人造成爆炸属性的
+咒文伤害（小）"
+179,147,ZH-CN,伊奥古兰迪,"对所有敌人造成爆炸属性的
+咒文伤害（特大）"
+161,15,ZH-CN,伊奥拉,"对所有敌人造成爆炸属性的
+咒文伤害（中）"
+170,146,ZH-CN,伊奥纳曾,"对所有敌人造成爆炸属性的
+咒文伤害（大）"
+151,14,ZH-TW,伊奧,"對所有敵人造成爆炸屬性的
+咒文傷害（小）"
+178,147,ZH-TW,伊奧古蘭迪,"對所有敵人造成爆炸屬性的
+咒文傷害（特大）"
+160,15,ZH-TW,伊奧拉,"對所有敵人造成爆炸屬性的
+咒文傷害（中）"
+169,146,ZH-TW,伊奧納曾,"對所有敵人造成爆炸屬性的
+咒文傷害（大）"
+1315,37,JP-JP,会心封じ,"敵１体がくりだす会心のいちげきを
+４～７ターン　封じる"
+1322,37,ZH-CN,会心封印,"４～７回合内
+封印一个敌人发动的会心一击"
+926,80,ZH-CN,僵尸斩,"对僵尸系怪物造成
+较大伤害的斩击"
+1458,123,KO-KR,차가운 숨결,"적 전체에 빙결 속성
+브레스 대미지(소)를 가한다."
+1116,165,KO-KR,창천마참,"적 1체에 강한 대미지(대)를 가하는 참격.
+때때로 2~5턴 동안
+마비 상태로 만든다."
+1511,128,ZH-CN,光之气息,"对所有敌人造成光属性的
+吐息伤害（大）
+并不时使目标陷入混乱
+持续２～５回合"
+1510,128,ZH-TW,光之氣息,"對所有敵人造成光屬性的
+吐息傷害（大）
+並不時使目標陷入混亂
+持續２～５回合"
+1277,106,ZH-CN,光之波动,"治愈全体伙伴的
+异常状态"
+1276,106,ZH-TW,光之波動,"治療所有夥伴的
+負面狀態"
+854,162,ZH-CN,光刃十字斩,"对所有敌人连续造成２次
+电击属性的伤害（特大）
+终极的剑技
+发动技能的怪物伙伴
+等级越高伤害量越高"
+853,162,ZH-TW,光刃十字斬,"對所有敵人連續造成２次
+電擊屬性的傷害（特大）
+終極的劍技
+發動技能的怪物夥伴
+等級越高傷害量越高"
+961,157,ZH-TW,光明之弓,"對隨機敵人連續造成
+４～１２次光屬性的傷害"
+1384,205,ZH-TW,光閃波動,"使用閃亮之力保護一位夥伴
+不會陷入負面狀態
+持續２～５回合"
+1385,205,ZH-CN,光闪波动,"使用闪亮之力保护一位伙伴
+不会陷入负面状态
+持续２～５回合"
+1638,139,KO-KR,철벽 방어,"궁극의 방어 자세로
+대부분의 대미지를 1/10로 줄인다.
+1회의 전투에서 한 번만 사용 가능."
+1258,104,ZH-TW,冥想,恢復自己３００點以上的ＨＰ
+1259,104,ZH-CN,冥想,恢复自己３００点以上的ＨＰ
+1474,125,ZH-TW,冰凍暴風雪,"對所有敵人造成冰結屬性的
+吐息傷害（大）"
+773,218,ZH-CN,冰封之刃,"对所有敌人造成
+冰结属性的伤害（中）
+并不时使目标
+无法行动１回合的斩击"
+952,206,ZH-TW,冰結亂擊,"對隨機敵人連續造成
+４次冰結屬性傷害的拳術"
+763,214,ZH-TW,冰結斬,"對一個敵人造成
+冰結屬性傷害（小）的斬擊"
+1465,124,ZH-TW,冰結氣息,"對所有敵人造成冰結屬性的
+吐息傷害（中）"
+953,206,ZH-CN,冰结乱击,"对随机敌人连续造成
+４次冰结属性伤害的拳术"
+764,214,ZH-CN,冰结斩,"对一个敌人造成
+冰结属性伤害（小）的斩击"
+1466,124,ZH-CN,冰结气息,"对所有敌人造成冰结属性的
+吐息伤害（中）"
+1475,125,ZH-CN,冰雨,"对所有敌人造成冰结属性的
+吐息伤害（大）"
+772,218,ZH-TW,凍結刃,"對所有敵人造成
+冰結屬性的傷害（中）
+並不時使目標
+無法行動１回合的斬擊"
+1142,96,ZH-CN,刺客突袭,"对一个敌人造成伤害
+并且有时会使目标
+即死"
+1141,96,ZH-TW,刺客突襲,"對一個敵人造成傷害
+並不時造成即死效果"
+1303,108,ZH-TW,刺目之光,"以耀眼光芒隱蔽身影
+２～５回合內
+降低敵人的攻擊命中率"
+1304,108,ZH-CN,刺目之光,"通过耀眼的光芒令对手眼花缭乱
+降低敌人攻击的命中率
+持续时间为２～５回合"
+1565,134,ZH-CN,剑舞,"对随机敌人
+造成连续３～７次伤害的舞蹈"
+1564,134,ZH-TW,劍舞,"對隨機敵人連續造成
+３～７次傷害的舞蹈"
+1269,105,KO-KR,치유의 비,"치유의 비를 불러
+다음 턴에
+동료 전체의 HP를 회복한다.
+회복량은 랜덤으로 정해진다."
+1071,89,KO-KR,칼날 부수기,"적 1체에 대미지를 가하고
+때때로 2~5턴 동안
+공격력을 감소시킨다."
+872,74,ZH-CN,史莱姆敲击,"对史莱姆系怪物造成
+较大伤害的打击"
+871,74,ZH-TW,史萊姆敲擊,"對史萊姆系怪物造成
+較大傷害的打擊"
+143,144,ZH-CN,吉巴伦巴,"对所有敌人造成地属性的
+咒文伤害（特大）
+于下个回合发动攻击"
+142,144,ZH-TW,吉巴倫巴,"對所有敵人造成地屬性的
+咒文傷害（特大）
+於下個回合發動攻擊"
+116,12,ZH-CN,吉巴利亚,"对所有敌人造成地属性的
+咒文伤害（小）
+于下个回合发动攻击"
+115,12,ZH-TW,吉巴利亞,"對所有敵人造成地屬性的
+咒文傷害（小）
+於下個回合發動攻擊"
+124,13,ZH-TW,吉巴利卡,"對所有敵人造成地屬性的
+咒文傷害（中）
+於下個回合發動攻擊"
+125,13,ZH-CN,吉巴利卡,"对所有敌人造成地属性的
+咒文伤害（中）
+于下个回合发动攻击"
+133,143,ZH-TW,吉巴利納,"對所有敵人造成地屬性的
+咒文傷害（大）
+於下個回合發動攻擊"
+134,143,ZH-CN,吉巴利那,"对所有敌人造成地属性的
+咒文伤害（大）
+于下个回合发动攻击"
+250,151,ZH-TW,吉格迪恩,"對所有敵人造成電擊屬性的
+咒文傷害（特大）"
+251,151,ZH-CN,吉格迪恩,"对所有敌人造成电击属性的
+咒文伤害（特大）"
+1529,130,ZH-CN,吸气,"深深吸气
+提升下一次
+吐息攻击的伤害"
+1528,130,ZH-TW,吸氣,"深吸一口氣
+提升下次發動
+吐息攻擊的傷害"
+1348,112,ZH-TW,吼叫,"發出刺耳的吼叫引發畏懼
+使所有敵人無法行動１回合"
+1349,112,ZH-CN,吼叫,"发出震耳欲聋的吼叫让对手变得畏缩
+全体敌人１回合无法动弹"
+423,33,KO-KR,키어랄,"동료 전체의
+혼란을 회복하는 주문."
+405,31,KO-KR,키어리,"동료 전체의
+독, 맹독을 회복하는 주문."
+414,32,KO-KR,키어리크,"동료 전체의
+마비를 회복하는 주문."
+1035,217,KO-KR,킹덤 소드,"적 전체에 대미지(중)를 가하는 참격.
+때때로 4~7턴 동안
+수비력을 감소시킨다."
+1152,97,KO-KR,타나토스 헌트,"적 1체에 대미지를 가한다.
+독, 맹독, 마비 상태인 적에게는
+더 큰 대미지를 가할 수 있다."
+1358,113,ZH-CN,四处乱舔,"用滑腻的舌头四处乱舔
+使一个敌人瑟瑟发抖并陷入无法动弹的状态
+还会降低敌人的防御力"
+1357,113,ZH-TW,四處亂舔,"用濕滑的舌頭四處亂舔
+使一個敵人顫抖而無法行動
+並使其守備力下降"
+1025,85,ZH-CN,回旋脚,"对所有敌人造成伤害的足技
+不受敌人的防御力影响
+位置越右方的敌人受到伤害越小"
+547,48,ZH-TW,因忒,"４～７回合內大幅提升
+一個夥伴智力的咒文"
+548,48,ZH-CN,因忒,"在４～７回合内
+大幅提升一个伙伴智力的咒文"
+556,152,ZH-TW,因忒拉,"４～７回合內提升
+所有夥伴智力的咒文"
+557,152,ZH-CN,因忒拉,"在４～７回合内
+提升全体伙伴智力的咒文"
+1080,90,KO-KR,투구 깨기,"적 1체에 대미지를 가하고
+때때로 4~7턴 동안
+수비력을 감소시킨다."
+1240,103,ZH-TW,地鳴,"對所有敵人造成
+地屬性的傷害（中）
+發動技能的怪物夥伴
+等級越高傷害量越高"
+1241,103,ZH-CN,地鸣,"对所有敌人造成
+地属性的伤害（中）
+发动技能的怪物伙伴
+等级越高伤害量越高"
+647,172,ZH-CN,基加玛霍托拉,"从某个敌人身上夺取４次ＭＰ
+并转换为自己ＭＰ的咒文"
+646,172,ZH-TW,基加瑪霍托拉,"以隨機敵人為目標
+奪取４次ＭＰ並轉化為自身ＭＰ的咒文"
+241,149,ZH-TW,基加迪恩,"對所有敵人造成電擊屬性的
+咒文傷害（大）"
+242,149,ZH-CN,基加迪恩,"对所有敌人造成电击属性的
+咒文伤害（大）"
+259,22,ZH-TW,基拉,"對所有敵人造成光屬性的
+咒文傷害（小）"
+260,22,ZH-CN,基拉,"对所有敌人造成光属性的
+咒文伤害（小）"
+286,154,ZH-TW,基拉格雷德,"對所有敵人造成光屬性的
+咒文傷害（特大）"
+287,154,ZH-CN,基拉格雷德,"对所有敌人造成光属性的
+咒文伤害（特大）"
+945,158,KO-KR,폭렬권,"적을 특정하지 않고
+4회 연속으로 대미지를 가하는 권술."
+187,16,ZH-TW,夏德,"對一個敵人造成冰結屬性的
+咒文傷害（小）"
+188,16,ZH-CN,夏德,"对一个敌人造成冰结属性的
+咒文伤害（小）"
+197,17,ZH-CN,夏达尔克,"对所有敌人造成冰结属性的
+咒文伤害（中）"
+196,17,ZH-TW,夏達爾克,"對所有敵人造成冰結屬性的
+咒文傷害（中）"
+818,145,ZH-CN,大地斩,"对所有敌人造成
+地属性伤害（中）的斩击"
+817,145,ZH-TW,大地斬,"對所有敵人造成
+地屬性傷害（中）的斬擊"
+811,145,JP-JP,大地斬,"敵全体に　地属性の
+ダメージ（中）を与える斬撃"
+908,78,ZH-CN,大斩断,"对物质系怪物造成
+较大伤害的斩击"
+907,78,ZH-TW,大斬斷,"對物質系怪物造成
+較大傷害的斬擊"
+1637,139,ZH-CN,大防御,"采取终极的防御姿势
+使大部分伤害降为１/１０
+一场战斗中仅能使用一次"
+1636,139,ZH-TW,大防禦,"採取終極的防禦姿勢
+使大部分傷害降為１/１０
+一場戰鬥中僅能使用一次"
+566,49,ZH-CN,夫尔,"在４～７回合内
+大幅降低一个敌人智力的咒文
+施展咒文的怪物伙伴智力越高
+咒文越容易成功"
+565,49,ZH-TW,夫爾,"４～７回合內大幅降低
+一個敵人智力的咒文
+發動咒文的怪物夥伴
+智力越高越容易成功"
+567,49,KO-KR,푸울,"4~7턴 동안 적 1체의
+총명함을 상당히 감소시키는 주문.
+사용하는 동료 몬스터의
+총명함이 높을수록 성공 확률이 증가한다."
+1601,135,ZH-CN,奇异之舞,使一个敌人失去ＭＰ的舞蹈
+1600,135,ZH-TW,奇異之舞,使一個敵人失去ＭＰ的舞蹈
+1060,88,ZH-TW,奇蹟劍技,"對一個敵人造成傷害
+並依該次傷害的一半
+恢復自己ＨＰ的斬擊
+每次命中的恢復量上限為２００點"
+601,207,ZH-TW,奇蹟屏障,"２～５回合內提升
+所有夥伴抗性的咒文"
+1061,88,ZH-CN,奇迹剑技,"对一个敌人造成伤害
+并依该次伤害的一半
+恢复自己ＨＰ的斩击
+每次命中的恢复量上限为２００点"
+602,207,ZH-CN,奇迹屏障,"２～５回合内提升
+所有伙伴抗性的咒文"
+422,33,ZH-CN,奇阿拉尔,"治愈全体伙伴
+混乱状态的咒文"
+421,33,ZH-TW,奇阿拉爾,"治療所有夥伴
+混亂的咒文"
+403,31,ZH-TW,奇阿里,"治療所有夥伴
+中毒和猛毒的咒文"
+404,31,ZH-CN,奇阿里,"治愈全体伙伴
+中毒以及猛毒状态的咒文"
+412,32,ZH-TW,奇阿里克,"治療所有夥伴
+麻痺的咒文"
+413,32,ZH-CN,奇阿里克,"治愈全体伙伴
+麻痹状态的咒文"
+774,218,KO-KR,프리즈 블레이드,"적 전체에 빙결 속성
+대미지(중)를 가하고
+때때로 1턴 동안 움직일 수 없게 하는 참격."
+513,44,KO-KR,피오라,"4~7턴 동안 동료 1체의
+민첩함을 상당히 증가시키는 주문."
+522,45,KO-KR,피오림,"4~7턴 동안 동료 전체의
+민첩함을 증가시키는 주문."
+1125,94,KO-KR,하트 브레이크,"적 1체에 대미지를 가하는 참격.
+때때로 1턴 동안
+움직일 수 없게 한다."
+801,215,KO-KR,해파참,"적 전체에 물 속성
+대미지(중)를 가하는 참격."
+198,17,KO-KR,햐달코,"적 전체에 빙결 속성
+주문 대미지(중)를 가한다."
+189,16,KO-KR,햐드,"적 1체에 빙결 속성
+주문 대미지(소)를 가한다."
+1584,166,KO-KR,허슬 댄스,"동료 중 하나의 HP를
+2~6회 회복하는 춤.
+사용하는 동료 몬스터의
+레벨이 높을수록 회복량도 증가한다."
+459,39,KO-KR,헤나토스,"2~5턴 동안 적 1체의
+공격력을 상당히 감소시키는 주문.
+사용하는 동료 몬스터의
+총명함이 높을수록 성공 확률이 증가한다."
+468,142,KO-KR,헤나톨,"2~5턴 동안 적 전체의
+공격력을 감소시키는 주문.
+사용하는 동료 몬스터의
+총명함이 높을수록 성공 확률이 증가한다."
+342,27,KO-KR,호이미,동료 1체의 HP를 28 이상 회복한다.
+1089,91,KO-KR,혼란 공격,"적 1체에 대미지를 가하고
+때때로 2~5턴 동안
+혼란 상태로 만든다."
+747,65,KO-KR,화염 베기,"적 1체에 불 속성
+대미지(소)를 가하는 참격."
+1422,120,KO-KR,화염 숨결,"적 전체에 불 속성
+브레스 대미지(중)를 가한다."
+1323,37,KO-KR,회심 봉인,"적 1체가 가하는 회심의 일격을
+4~7턴 동안 봉인한다."
+1395,116,KO-KR,회피 스텝,"4~7턴 동안
+자신의 회피율을 증가시킨다."
+594,52,KO-KR,후바하,"4~7턴 동안 동료 전체의
+브레스 대미지를 경감시키는 주문."
+1340,111,ZH-CN,守护之雾,"使敌人造成的伤害无效一次
+但部分攻击不在此限"
+1339,111,ZH-TW,守護之霧,"使敵人造成的傷害無效一次
+但部分攻擊不在此限"
+1457,123,ZH-CN,寒冷气息,"对所有敌人造成冰结属性的
+吐息伤害（小）"
+1456,123,ZH-TW,寒冷氣息,"對所有敵人造成冰結屬性的
+吐息傷害（小）"
+1161,98,KO-KR,휘프노스 헌트,"적 1체에 대미지를 가한다.
+수면, 혼란 상태인 적에게는
+더 큰 대미지를 가할 수 있다."
+1051,87,ZH-TW,屠戮,"對任一個敵人或夥伴
+發動會心一擊
+是危險的技能"
+1052,87,ZH-CN,屠戮,"对一个敌人或伙伴
+使出会心一击的
+危险技能"
+1178,202,ZH-CN,岩浆,"对所有敌人造成
+火属性的伤害（中）"
+1177,202,ZH-TW,岩漿,"對所有敵人造成
+火屬性的傷害（中）"
+440,35,ZH-CN,巴依奇尔托,"在２～５回合内
+大幅提升一个伙伴攻击力的咒文"
+439,35,ZH-TW,巴依奇爾托,"２～５回合內大幅提升
+一個夥伴攻擊力的咒文"
+449,38,ZH-CN,巴依希奥恩,"在２～５回合内
+提升全体伙伴攻击力的咒文"
+448,38,ZH-TW,巴依希奧恩,"２～５回合內提升
+所有夥伴攻擊力的咒文"
+583,51,ZH-TW,巴哈,"４～７回合內大幅減輕一個夥伴
+所承受的吐息傷害的咒文"
+584,51,ZH-CN,巴哈,"在４～７回合内
+大幅减少一个伙伴所受吐息伤害的咒文"
+79,8,ZH-TW,巴基,"對所有敵人造成風屬性的
+咒文傷害（小）"
+80,8,ZH-CN,巴基,"对所有敌人造成风属性的
+咒文伤害（小）"
+98,10,ZH-CN,巴基克罗斯,"对所有敌人造成风属性的
+咒文伤害（大）"
+97,10,ZH-TW,巴基克羅斯,"對所有敵人造成風屬性的
+咒文傷害（大）"
+107,11,ZH-CN,巴基姆乔,"对所有敌人造成风属性的
+咒文伤害（特大）"
+106,11,ZH-TW,巴基姆喬,"對所有敵人造成風屬性的
+咒文傷害（特大）"
+89,9,ZH-CN,巴基玛,"对所有敌人造成风属性的
+咒文伤害（中）"
+88,9,ZH-TW,巴基瑪,"對所有敵人造成風屬性的
+咒文傷害（中）"
+691,60,ZH-TW,席比,"２～５回合內
+使一個敵人麻痺的咒文
+發動咒文的怪物夥伴
+智力越高越容易成功"
+692,60,ZH-CN,席比,"在２～５回合内
+使一个敌人陷入麻痹状态的咒文
+施展咒文的怪物伙伴智力越高
+咒文越容易成功"
+700,150,ZH-TW,席比利紐,"２～５回合內
+使所有敵人麻痺的咒文
+發動咒文的怪物夥伴
+智力越高越容易成功"
+701,150,ZH-CN,席比利纽,"在２～５回合内
+使全体敌人陷入麻痹状态的咒文
+施展咒文的怪物伙伴智力越高
+咒文越容易成功"
+305,25,ZH-CN,德尔库玛,"对一个敌人造成暗属性的
+咒文伤害（中）"
+314,155,ZH-CN,德尔摩尔,"对一个敌人造成暗属性的
+咒文伤害（大）"
+296,24,ZH-CN,德尔玛,"对一个敌人造成暗属性的
+咒文伤害（小）"
+323,156,ZH-CN,德尔玛顿,"对一个敌人造成暗属性的
+咒文伤害（特大）"
+304,25,ZH-TW,德爾庫瑪,"對一個敵人造成闇屬性的
+咒文傷害（中）"
+313,155,ZH-TW,德爾摩爾,"對一個敵人造成闇屬性的
+咒文傷害（大）"
+295,24,ZH-TW,德爾瑪,"對一個敵人造成闇屬性的
+咒文傷害（小）"
+322,156,ZH-TW,德爾瑪頓,"對一個敵人造成闇屬性的
+咒文傷害（特大）"
+1124,94,ZH-CN,心灵打击,"对一个敌人造成伤害
+并不时使其无法行动１回合"
+1123,94,ZH-TW,心靈打擊,"對一個敵人造成傷害
+並不時使其無法行動１回合"
+1522,130,JP-JP,息をすいこむ,"息を大きく吸い込んで
+次に行うブレス攻撃の
+ダメージを上げる"
+917,79,ZH-CN,恶魔斩,"对恶魔系怪物造成
+较大伤害的斩击"
+916,79,ZH-TW,惡魔斬,"對惡魔系怪物造成
+較大傷害的斬擊"
+1573,171,ZH-TW,扇舞,"對隨機敵人連續造成
+３～４次傷害的舞蹈
+發動技能的怪物夥伴
+速度越高傷害量越高"
+1574,171,ZH-CN,扇舞,"对随机敌人
+造成连续３～４次伤害的舞蹈
+施展攻击的怪物伙伴敏捷越高
+伤害越高"
+727,63,ZH-TW,扎奇,"對一個敵人造成即死效果的咒文
+發動咒文的怪物夥伴
+智力越高越容易成功"
+728,63,ZH-CN,扎奇,"使一个敌人即死的咒文
+施展咒文的怪物伙伴智力越高
+咒文越容易成功"
+377,29,ZH-CN,扎奥拉尔,"复活一个已死伙伴的咒文
+有可能会失败"
+386,30,ZH-CN,扎奥里库,必定复活一个已死伙伴的咒文
+376,29,ZH-TW,扎奧拉爾,"復活一個陣亡夥伴的咒文
+有可能失敗"
+385,30,ZH-TW,扎奧里庫,確實復活一個陣亡夥伴的咒文
+430,34,ZH-TW,扎美哈,"治療所有夥伴
+睡眠的咒文"
+431,34,ZH-CN,扎美哈,"治愈全体伙伴
+沉睡状态的咒文"
+1231,101,ZH-TW,投石,"對一個敵人造成
+地屬性的傷害（小）"
+232,21,ZH-TW,拉伊迪恩,"對所有敵人造成電擊屬性的
+咒文傷害（中）"
+233,21,ZH-CN,拉伊迪恩,"对所有敌人造成电击属性的
+咒文伤害（中）"
+673,58,ZH-TW,拉里霍,"２～５回合內
+使一個敵人陷入沉睡的咒文
+發動咒文的怪物夥伴
+智力越高越容易成功"
+674,58,ZH-CN,拉里霍,"在２～５回合内
+使一个敌人陷入沉睡状态的咒文
+施展咒文的怪物伙伴智力越高
+咒文越容易成功"
+683,59,ZH-CN,拉里霍玛,"在２～５回合内
+使全体敌人陷入沉睡状态的咒文
+施展咒文的怪物伙伴智力越高
+咒文越容易成功"
+682,59,ZH-TW,拉里霍瑪,"２～５回合內
+使所有敵人陷入沉睡的咒文
+發動咒文的怪物夥伴
+智力越高越容易成功"
+1583,166,ZH-CN,振奋之舞,"恢复随机伙伴
+２～６次ＨＰ的舞蹈
+施展技能的怪物伙伴等级越高
+恢复量越高"
+1582,166,ZH-TW,振奮之舞,"２～６次隨機
+恢復夥伴ＨＰ的舞蹈
+發動技能的怪物夥伴
+等級越高恢復量越高"
+1313,109,ZH-CN,捂住嘴巴,"封住对手的嘴巴
+封印吐息攻击
+持续时间为４～７回合"
+1232,101,ZH-CN,掷岩,"对一个敌人造成
+地属性的伤害（小）"
+1312,109,ZH-TW,摀住嘴巴,"摀住敵人的嘴巴
+４～７回合內
+封印對方的吐息攻擊"
+1070,89,ZH-CN,断刃,"对一个敌人造成伤害
+并且有时会降低目标的攻击力
+持续时间为２～５回合"
+475,40,ZH-TW,斯卡拉,"４～７回合內大幅提升
+一個夥伴守備力的咒文"
+476,40,ZH-CN,斯卡拉,"在４～７回合内
+大幅提升一个伙伴防御力的咒文"
+485,41,ZH-CN,斯库尔托,"在４～７回合内
+提升全体伙伴防御力的咒文"
+484,41,ZH-TW,斯庫爾托,"４～７回合內提升
+所有夥伴守備力的咒文"
+1069,89,ZH-TW,斷刃,"對一個敵人造成傷害
+並不時降低其攻擊力
+持續２～５回合"
+1133,95,ZH-CN,施毒攻击,"对一个敌人造成伤害
+并且有时会使目标
+陷入中毒状态"
+1520,129,ZH-CN,暗之气息,"对所有敌人造成暗属性的
+吐息伤害（大）
+并不时施加封咒
+持续４～７回合"
+1286,200,ZH-CN,暗之波动,弱化全体敌人
+836,36,ZH-CN,暗黑斩,"对所有敌人造成
+暗属性伤害（中）的斩击"
+835,36,ZH-TW,暗黑斬,"對所有敵人造成
+闇屬性傷害（中）的斬擊"
+829,36,JP-JP,暗黒斬,"敵全体に　闇属性の
+ダメージ（中）を与える斬撃"
+1402,117,ZH-TW,替身,"１回合內
+代替夥伴承受
+所有的攻擊
+但受到的傷害會比平常大增"
+1403,117,ZH-CN,替身,"在１回合内
+成为伙伴的替身
+挡下所有攻击
+受到的伤害会比平时更高"
+1321,37,ZH-TW,會心封印,"４～７回合內
+封印一個敵人發動的會心一擊"
+1016,84,ZH-CN,正拳突击,"蓄力并在下一回合对一个敌人
+造成伤害（中）的拳术
+不受敌人的防御力影响"
+1015,84,ZH-TW,正拳突擊,"蓄力並在下一回合對一個敵人
+造成傷害（中）的拳術
+不受敵人的守備力影響"
+1151,97,ZH-CN,死神狩猎,"对一个敌人造成伤害
+如果敌人处于中毒、猛毒、麻痹状态
+则能造成更高伤害"
+1150,97,ZH-TW,死神狩獵,"對一個敵人造成傷害
+對陷入中毒、猛毒、麻痺狀態的敵人
+造成更高的傷害"
+925,80,ZH-TW,殭屍斬,"對喪屍系怪物造成
+較大傷害的斬擊"
+1556,133,ZH-CN,毒之气息,"利用毒烟吐息
+使全体敌人陷入中毒状态"
+1555,133,ZH-TW,毒之氣息,"以毒煙霧的氣息
+使所有敵人中毒"
+1132,95,ZH-TW,毒性攻擊,"對一個敵人造成傷害
+並不時使其陷入中毒狀態"
+521,45,ZH-CN,比奥利姆,"在４～７回合内
+提升全体伙伴敏捷的咒文"
+512,44,ZH-CN,比奥拉,"在４～７回合内
+大幅提升一个伙伴敏捷的咒文"
+520,45,ZH-TW,比奧利姆,"４～７回合內提升
+所有夥伴速度的咒文"
+511,44,ZH-TW,比奧拉,"４～７回合內大幅提升
+一個夥伴速度的咒文"
+1196,212,ZH-CN,水枪,"对所有敌人造成
+水属性的伤害（中）
+发动技能的怪物伙伴
+等级越高伤害量越高"
+1195,212,ZH-TW,水槍,"對所有敵人造成
+水屬性的傷害（中）
+發動技能的怪物夥伴
+等級越高傷害量越高"
+946,206,JP-JP,氷結らんげき,"敵を選ばず　４回連続で
+氷結属性のダメージを与える拳術"
+1097,92,ZH-CN,沉睡攻击,"对一个敌人造成伤害
+并且有时会使目标陷入沉睡状态
+持续时间为２～５回合"
+1501,127,ZH-TW,沙之吐息,"對所有敵人造成地屬性的
+吐息傷害（大）
+並引發沙塵且降低敵人的命中率
+持續２～５回合"
+1502,127,ZH-CN,沙之吐息,"对所有敌人造成地属性的
+吐息伤害（大）
+并引发沙尘降低敌人的命中率
+持续２～５回合"
+1294,107,ZH-TW,沙塵,"引發沙塵阻礙視線
+２～５回合內
+降低敵人的攻擊命中率"
+1295,107,ZH-CN,沙尘,"利用沙尘阻碍视线
+降低敌人攻击的命中率
+持续时间为２～５回合"
+1268,105,ZH-CN,治愈之雨,"进行祈雨使天空降下治愈之雨
+下回合将会
+恢复全体伙伴的ＨＰ
+恢复量随机"
+1267,105,ZH-TW,治癒之雨,"祈求降下治癒之雨
+下一回合將會
+恢復所有夥伴的ＨＰ
+恢復量為隨機決定"
+529,46,ZH-TW,波米埃,"４～７回合內大幅降低
+一個敵人速度的咒文
+發動咒文的怪物夥伴
+智力越高越容易成功"
+530,46,ZH-CN,波米埃,"在４～７回合内
+大幅降低一个敌人敏捷的咒文
+施展咒文的怪物伙伴智力越高
+咒文越容易成功"
+539,47,ZH-CN,波米奥斯,"在４～７回合内
+降低全体敌人敏捷的咒文
+施展咒文的怪物伙伴智力越高
+咒文越容易成功"
+538,47,ZH-TW,波米奧斯,"４～７回合內降低
+所有敵人速度的咒文
+發動咒文的怪物夥伴
+智力越高越容易成功"
+44,5,ZH-CN,洒帕,"对一个敌人造成水属性的
+咒文伤害（小）"
+71,141,ZH-CN,洒帕托洛姆,"对一个敌人造成水属性的
+咒文伤害（特大）"
+53,7,ZH-CN,洒帕拉,"对一个敌人造成水属性的
+咒文伤害（中）"
+62,140,ZH-CN,洒帕拉恩,"对一个敌人造成水属性的
+咒文伤害（大）"
+800,215,ZH-CN,海波斩,"对所有敌人造成
+水属性伤害（中）的斩击"
+799,215,ZH-TW,海波斬,"對所有敵人造成
+水屬性傷害（中）的斬擊"
+793,215,JP-JP,海波斬,"敵全体に　水属性の
+ダメージ（中）を与える斬撃"
+457,39,ZH-TW,海納托斯,"２～５回合內大幅降低
+一個敵人攻擊力的咒文
+發動咒文的怪物夥伴
+智力越高越容易成功"
+466,142,ZH-TW,海納托爾,"２～５回合內降低
+所有敵人攻擊力的咒文
+發動咒文的怪物夥伴
+智力越高越容易成功"
+467,142,ZH-CN,海纳托尔,"在２～５回合内
+降低全体敌人攻击力的咒文
+施展咒文的怪物伙伴智力越高
+咒文越容易成功"
+458,39,ZH-CN,海纳托斯,"在２～５回合内
+大幅降低一个敌人攻击力的咒文
+施展咒文的怪物伙伴智力越高
+咒文越容易成功"
+1088,91,ZH-CN,混乱攻击,"对一个敌人造成伤害
+并且有时会使目标陷入混乱状态
+持续时间为２～５回合"
+1087,91,ZH-TW,混亂攻擊,"對一個敵人造成傷害
+並不時使其陷入混亂
+持續２～５回合"
+43,5,ZH-TW,灑帕,"對一個敵人造成水屬性的
+咒文傷害（小）"
+70,141,ZH-TW,灑帕托洛姆,"對一個敵人造成水屬性的
+咒文傷害（特大）"
+52,7,ZH-TW,灑帕拉,"對一個敵人造成水屬性的
+咒文傷害（中）"
+61,140,ZH-TW,灑帕拉恩,"對一個敵人造成水屬性的
+咒文傷害（大）"
+1405,118,JP-JP,火の息,"敵全体に　火属性の
+ブレスダメージ（小）を与える"
+1412,118,ZH-CN,火之气息,"对所有敌人造成火属性的
+吐息伤害（小）"
+1411,118,ZH-TW,火之氣息,"對所有敵人造成火屬性的
+吐息傷害（小）"
+1168,208,ZH-TW,火柱,"對一個敵人造成
+火屬性的傷害（小）"
+1169,208,ZH-CN,火柱,"对一个敌人造成
+火属性的伤害（小）"
+1414,120,JP-JP,火炎の息,"敵全体に　火属性の
+ブレスダメージ（中）を与える"
+746,65,ZH-CN,火炎斩,"对一个敌人造成
+火属性伤害（小）的斩击"
+745,65,ZH-TW,火炎斬,"對一個敵人造成
+火屬性傷害（小）的斬擊"
+1421,120,ZH-CN,火焰气息,"对所有敌人造成火属性的
+吐息伤害（中）"
+1420,120,ZH-TW,火焰氣息,"對所有敵人造成火屬性的
+吐息傷害（中）"
+1547,132,ZH-CN,灼烧气息,"利用令身体发麻的吐息
+使全体敌人在２～５回合内
+陷入麻痹状态"
+1439,122,ZH-CN,灼热之焰,"对所有敌人造成火属性的
+吐息伤害（特大）"
+791,71,ZH-CN,灼热斩,"对所有敌人造成
+火属性伤害（中）的斩击"
+1438,122,ZH-TW,灼熱,"對所有敵人造成火屬性的
+吐息傷害（特大）"
+790,71,ZH-TW,灼熱斬,"對所有敵人造成
+火屬性傷害（中）的斬擊"
+784,71,JP-JP,灼熱斬,"敵全体に　火属性の
+ダメージ（中）を与える斬撃"
+1546,132,ZH-TW,灼燒氣息,"以讓人身體麻痺的氣息
+使所有敵人麻痺
+持續２～５回合"
+1448,164,ZH-CN,炼狱火焰,"对所有敌人造成火属性的
+吐息伤害（极大）
+并不时使目标无法行动１回合"
+1429,121,ZH-TW,烈焰,"對所有敵人造成火屬性的
+吐息傷害（大）"
+1430,121,ZH-CN,烈焰,"对所有敌人造成火属性的
+吐息伤害（大）"
+1376,115,ZH-CN,热血沸腾,"振奋内心
+提高下一次攻击的伤害
+并且令对手难以闪避"
+1441,164,JP-JP,煉獄火炎,"敵全体に　火属性の
+ブレスダメージ（極大）を与え
+ときどき　１ターン動けなくする"
+1447,164,ZH-TW,煉獄火焰,"對所有敵人造成火屬性的
+吐息傷害（極大）
+並不時使目標無法行動１回合"
+1375,115,ZH-TW,熱血沸騰,"燃起鬥志的同時
+提升下次攻擊所造成的傷害
+且使敵人難以閃避"
+943,158,ZH-TW,爆裂拳,"對隨機敵人連續造成
+４次傷害的拳術"
+944,158,ZH-CN,爆裂拳,"对随机敌人
+造成连续４次伤害的拳术"
+1034,217,ZH-CN,王国之剑,"对所有敌人造成伤害（中）的斩击
+并不时降低其防御力４～７回合"
+1033,217,ZH-TW,王國之劍,"對所有敵人造成傷害（中）
+並不時降低其守備力
+持續４～７回合的斬擊"
+611,53,ZH-CN,玛努撒,"在２～５回合内
+使全体敌人陷入迷惑状态的咒文
+施展咒文的怪物伙伴智力越高
+咒文越容易成功"
+206,18,ZH-CN,玛夏德,"对所有敌人造成冰结属性的
+咒文伤害（大）"
+215,19,ZH-CN,玛夏迪德斯,"对所有敌人造成冰结属性的
+咒文伤害（特大）"
+575,50,ZH-CN,玛夫尔,"在４～７回合内
+降低全体敌人智力的咒文
+施展咒文的怪物伙伴智力越高
+咒文越容易成功"
+332,26,ZH-CN,玛达恩乔,"发挥究极咒文的一小部分威力
+消耗１／４ＭＰ
+对一个敌人造成光属性咒文伤害
+ＭＰ越高伤害越高"
+629,174,ZH-CN,玛霍卡恩塔,"４～７回合内
+可将大多数敌方咒文反弹的咒文"
+620,55,ZH-CN,玛霍托恩,"在４～７回合内
+封印全体敌人咒文的咒文
+施展咒文的怪物伙伴智力越高
+咒文越容易成功"
+638,56,ZH-CN,玛霍托拉,"夺取一个敌人的ＭＰ
+转换为自己ＭＰ的咒文"
+1610,136,ZH-CN,玛霍托拉之舞,吸收一个敌人ＭＰ的舞蹈
+610,53,ZH-TW,瑪努撒,"２～５回合內使所有敵人
+陷入迷幻狀態的咒文
+發動咒文的怪物夥伴
+智力越高越容易成功"
+205,18,ZH-TW,瑪夏德,"對所有敵人造成冰結屬性的
+咒文傷害（大）"
+214,19,ZH-TW,瑪夏迪德斯,"對所有敵人造成冰結屬性的
+咒文傷害（特大）"
+574,50,ZH-TW,瑪夫爾,"４～７回合內降低
+所有敵人智力的咒文
+發動咒文的怪物夥伴
+智力越高越容易成功"
+331,26,ZH-TW,瑪達恩喬,"略微發動終極咒文
+消耗１／４的ＭＰ
+對１名敵人造成光屬性的咒文傷害
+ＭＰ越高傷害量越高"
+628,174,ZH-TW,瑪霍卡恩塔,"４～７回合內
+可將大多數敵方咒文反彈的咒文"
+637,56,ZH-TW,瑪霍托拉,"從一個敵人身上奪取ＭＰ
+並轉化為自身ＭＰ的咒文"
+1609,136,ZH-TW,瑪霍托拉之舞,從一個敵人身上吸收ＭＰ的舞蹈
+619,55,ZH-TW,瑪霍頓,"４～７回合內
+對所有敵人施加封咒的咒文
+發動咒文的怪物夥伴
+智力越高越容易成功"
+1538,131,ZH-CN,甜蜜气息,"以诱人入睡的甜蜜气息
+使所有敌人陷入沉睡
+持续２～５回合"
+1537,131,ZH-TW,甜蜜氣息,"以誘人入睡的甜蜜氣息
+使所有敵人陷入沉睡
+持續２～５回合"
+988,82,ZH-TW,疾風突刺,"能夠在回合中最先發動攻擊的拳術
+但相對地造成的傷害變小"
+989,82,ZH-CN,疾风突击,"能够在回合中最先发动攻击的拳术
+但相对地造成的伤害变小"
+1366,114,ZH-TW,百裂舔,"用濕滑的舌頭瘋狂四處亂舔
+使一個敵人顫抖而無法行動
+並使其守備力降為１"
+1367,114,ZH-CN,百裂舔,"用滑腻的舌头用力地四处乱舔
+使一个敌人瑟瑟发抖并陷入无法动弹的状态
+还会令敌人的防御力降低至１"
+755,67,ZH-CN,真空斩,"对一个敌人造成
+风属性伤害（小）的斩击"
+754,67,ZH-TW,真空斬,"對一個敵人造成
+風屬性傷害（小）的斬擊"
+1213,100,ZH-TW,真空波,"對所有敵人造成
+風屬性的傷害（中）
+發動技能的怪物夥伴
+等級越高傷害量越高"
+1214,100,ZH-CN,真空波,"对所有敌人造成
+风属性的伤害（中）
+发动技能的怪物伙伴
+等级越高伤害量越高"
+1096,92,ZH-TW,睡眠攻擊,"對一個敵人造成傷害
+並不時使其陷入沉睡
+持續２～５回合"
+1160,98,ZH-CN,睡神狩猎,"对一个敌人造成伤害
+如果敌人处于沉睡、混乱状态
+则能造成更高伤害"
+1159,98,ZH-TW,睡神狩獵,"對一個敵人造成傷害
+對陷入睡眠、混亂狀態的敵人
+造成更高的傷害"
+592,52,ZH-TW,福巴哈,"４～７回合內減輕所有夥伴
+所承受的吐息傷害的咒文"
+593,52,ZH-CN,福巴哈,"在４～７回合内
+减少全体伙伴所受吐息伤害的咒文"
+809,72,ZH-CN,空裂斩,"对所有敌人造成
+风属性伤害（中）的斩击"
+808,72,ZH-TW,空裂斬,"對所有敵人造成
+風屬性傷害（中）的斬擊"
+802,72,JP-JP,空裂斬,"敵全体に　風属性の
+ダメージ（中）を与える斬撃"
+1492,175,ZH-TW,絕對零度,"對所有敵人造成冰結屬性的
+吐息傷害（極大）
+並不時使目標無法行動１回合"
+1486,175,JP-JP,絶対零度,"敵全体に　氷結属性の
+ブレスダメージ（極大）を与え
+ときどき　１ターン動けなくする"
+709,61,ZH-TW,維勒,"使一個敵人陷入中毒狀態的咒文
+發動咒文的怪物夥伴
+智力越高越容易成功"
+718,62,ZH-TW,維勒諾,"使所有敵人陷入中毒狀態的咒文
+發動咒文的怪物夥伴
+智力越高越容易成功"
+1493,175,ZH-CN,绝对零度,"对所有敌人造成冰结属性的
+吐息伤害（极大）
+并不时使目标无法行动１回合"
+710,61,ZH-CN,维勒,"使一个敌人陷入中毒状态的咒文
+施展咒文的怪物伙伴智力越高
+咒文越容易成功"
+719,62,ZH-CN,维勒诺,"使全体敌人陷入中毒状态的咒文
+施展咒文的怪物伙伴智力越高
+咒文越容易成功"
+736,64,ZH-TW,美加恩特,"以自己的生命為代價
+對所有敵人造成即死效果的咒文
+使用者將無法在該場戰鬥中復活
+ＭＰ越高成功率越高"
+737,64,ZH-CN,美加恩特,"以自己的生命为代价
+对所有敌人造成即死效果的咒文
+使用者将无法在该场战斗中复活
+ＭＰ越高成功率越高"
+395,159,ZH-CN,美加扎尔,"以自己的生命为代价
+复活并恢复包含后备成员在内
+所有伙伴的咒文
+使用者将无法在该场战斗中复活"
+1592,170,ZH-CN,美加扎尔之舞,"以自己的生命为代价
+复活并恢复包含后备成员在内
+所有伙伴的舍命舞蹈
+使用者将无法在该场战斗中复活"
+394,159,ZH-TW,美加扎爾,"以自己的生命為代價
+復活並恢復包含後備成員在內
+所有夥伴的咒文
+使用者將無法在該場戰鬥中復活"
+1591,170,ZH-TW,美加扎爾之舞,"以自己的生命為代價
+復活並恢復包含後備成員在內
+所有夥伴的捨命舞蹈
+使用者將無法在該場戰鬥中復活"
+7,1,ZH-TW,美拉,"對一個敵人造成火屬性的
+咒文傷害（小）"
+8,1,ZH-CN,美拉,"对一个敌人造成火属性的
+咒文伤害（小）"
+26,3,ZH-CN,美拉佐玛,"对一个敌人造成火属性的
+咒文伤害（大）"
+25,3,ZH-TW,美拉佐瑪,"對一個敵人造成火屬性的
+咒文傷害（大）"
+35,4,ZH-CN,美拉盖亚,"对一个敌人造成火属性的
+咒文伤害（特大）"
+16,2,ZH-TW,美拉米,"對一個敵人造成火屬性的
+咒文傷害（中）"
+17,2,ZH-CN,美拉米,"对一个敌人造成火属性的
+咒文伤害（中）"
+34,4,ZH-TW,美拉蓋亞,"對一個敵人造成火屬性的
+咒文傷害（特大）"
+656,57,ZH-CN,美达帕尼,"在２～５回合内
+使一个敌人陷入混乱状态的咒文
+施展咒文的怪物伙伴智力越高
+咒文越容易成功"
+1619,137,ZH-CN,美达帕尼之舞,"在２～５回合内
+使全体敌人陷入混乱状态的舞蹈"
+665,160,ZH-CN,美达帕尼亚,"在２～５回合内
+使全体敌人陷入混乱状态的咒文
+施展咒文的怪物伙伴智力越高
+咒文越容易成功"
+655,57,ZH-TW,美達帕尼,"２～５回合內
+使一個敵人陷入混亂的咒文
+發動咒文的怪物夥伴
+智力越高越容易成功"
+1618,137,ZH-TW,美達帕尼之舞,"２～５回合內
+使所有敵人陷入混亂的舞蹈"
+664,160,ZH-TW,美達帕尼亞,"２～５回合內
+使所有敵人陷入混亂的咒文
+發動咒文的怪物夥伴
+智力越高越容易成功"
+1006,213,ZH-TW,羽翼打,"對１個敵人連續造成
+２次風屬性傷害（小）的拳術"
+1007,213,ZH-CN,羽翼打,"对１个敌人连续造成
+２次风属性伤害（小）的拳术"
+890,76,ZH-CN,自然斩,"对自然系怪物造成
+较大伤害的斩击"
+889,76,ZH-TW,自然斬,"對自然系怪物造成
+較大傷害的斬擊"
+1115,165,ZH-CN,苍天魔斩,"对一个敌人造成伤害（大）的斩击
+并不时使其陷入麻痹２～５回合"
+1114,165,ZH-TW,蒼天魔斬,"對一個敵人造成傷害（大）
+並不時使其陷入麻痺
+持續２～５回合的斬擊"
+1108,165,JP-JP,蒼天魔斬,"敵１体に　ダメージ（大）を与え
+さらに　ときどき
+２～５ターン　マヒさせる斬撃"
+1079,90,ZH-CN,裂盔斩,"对一个敌人造成伤害
+并且有时会降低目标的防御力
+持续时间为４～７回合"
+1078,90,ZH-TW,裂盔斬,"對一個敵人造成傷害
+並不時降低其守備力
+持續４～７回合"
+1627,138,ZH-TW,誘惑之舞,"以快活的舞蹈施以誘惑
+使所有敵人無法行動１回合"
+1628,138,ZH-CN,诱惑之舞,"邀请敌人一起欢快舞蹈
+令全体敌人
+１回合无法动弹"
+277,153,ZH-TW,貝基拉格恩,"對所有敵人造成光屬性的
+咒文傷害（大）"
+268,23,ZH-TW,貝基拉瑪,"對所有敵人造成光屬性的
+咒文傷害（中）"
+358,194,ZH-TW,貝霍伊姆,恢復一個夥伴２８５點以上的ＨＰ
+349,28,ZH-TW,貝霍伊米,恢復一個夥伴７６點以上的ＨＰ
+367,189,ZH-TW,貝霍瑪拉,恢復所有夥伴７６點以上的ＨＰ
+278,153,ZH-CN,贝基拉格恩,"对所有敌人造成光属性的
+咒文伤害（大）"
+269,23,ZH-CN,贝基拉玛,"对所有敌人造成光属性的
+咒文伤害（中）"
+359,194,ZH-CN,贝霍伊姆,恢复一个伙伴２８５点以上的ＨＰ
+350,28,ZH-CN,贝霍伊米,恢复一个伙伴７６点以上的ＨＰ
+368,189,ZH-CN,贝霍玛拉,恢复所有伙伴７６点以上的ＨＰ
+223,20,ZH-TW,迪恩,"對一個敵人造成電擊屬性的
+咒文傷害（小）"
+224,20,ZH-CN,迪恩,"对一个敌人造成电击属性的
+咒文伤害（小）"
+1024,85,ZH-TW,迴旋腳,"對所有敵人造成傷害的足技
+不受敵人的守備力影響
+位置越右方的敵人受到傷害越低"
+1330,110,ZH-TW,逆風,"賦予所有夥伴一次
+反彈吐息的效果"
+1331,110,ZH-CN,逆风,"赋予所有伙伴一次
+反弹吐息的效果"
+899,77,ZH-CN,野兽斩,"对魔兽系怪物造成
+较大伤害的斩击"
+898,77,ZH-TW,野獸斬,"對魔獸系怪物造成
+較大傷害的斬擊"
+935,209,ZH-CN,金属斩,"威力和普通攻击相同
+但必定能对金属系怪物
+造成１点以上伤害的斩击"
+934,209,ZH-TW,金屬斬,"威力和普通攻擊相同
+但必定能對金屬系怪物
+造成１點以上傷害的斬擊"
+997,83,ZH-TW,錨之爪,"等到最後才行動
+對敵人造成傷害（大）的拳術"
+1204,99,ZH-TW,鐮鼬,"對一個敵人造成
+風屬性的傷害（小）"
+998,83,ZH-CN,钩锚拳击,"等到最后才行动
+对敌人造成伤害（大）的拳术"
+1205,99,ZH-CN,镰鼬,"对一个敌人造成
+风属性的伤害（小）"
+820,73,JP-JP,閃光斬,"敵全体に　光属性の
+ダメージ（中）を与える斬撃"
+826,73,ZH-TW,閃光斬,"對所有敵人造成
+光屬性傷害（中）的斬擊"
+1483,126,ZH-TW,閃耀氣息,"對所有敵人造成冰結屬性的
+吐息傷害（特大）"
+1393,116,ZH-TW,閃避腳,"４～７回合內
+提升自己的閃避率"
+1249,148,ZH-TW,閃電,"對所有敵人造成
+電擊屬性的傷害（中）
+發動技能的怪物夥伴
+等級越高傷害量越高"
+781,70,ZH-TW,閃電斬,"對一個敵人造成
+電擊屬性傷害（小）的斬擊"
+1519,129,ZH-TW,闇之氣息,"對所有敵人造成闇屬性的
+吐息傷害（大）
+並不時施加封咒
+持續４～７回合"
+1285,200,ZH-TW,闇之波動,使所有敵人弱化
+962,157,ZH-CN,闪光弓矢,"对随机敌人
+造成连续４～１２次光属性伤害"
+827,73,ZH-CN,闪光斩,"对所有敌人造成
+光属性伤害（中）的斩击"
+1250,148,ZH-CN,闪电,"对所有敌人造成
+电击属性的伤害（中）
+发动技能的怪物伙伴
+等级越高伤害量越高"
+782,70,ZH-CN,闪电斩,"对一个敌人造成
+电击属性伤害（小）的斩击"
+1484,126,ZH-CN,闪耀气息,"对所有敌人造成冰结属性的
+吐息伤害（特大）"
+1394,116,ZH-CN,闪避脚,"在４～７回合内
+提升自己的闪避率"
+971,210,ZH-CN,隼斩,"对１个敌人连续造成
+２次伤害（小）的斩击"
+970,210,ZH-TW,隼斬,"對１個敵人連續造成
+２次傷害（小）的斬擊"
+1222,216,ZH-TW,雪球,"對一個敵人造成
+冰結屬性的傷害（小）"
+1223,216,ZH-CN,雪球,"对一个敌人造成
+冰结属性的伤害（小）"
+845,161,ZH-CN,雷光斩,"对所有敌人造成
+电击属性的伤害（极大）
+发动技能的怪物伙伴
+等级越高伤害量越高"
+844,161,ZH-TW,雷光斬,"對所有敵人造成
+電擊屬性的傷害（極大）
+發動技能的怪物夥伴
+等級越高傷害量越高"
+340,27,ZH-TW,霍伊米,恢復一個夥伴２８點以上的ＨＰ
+341,27,ZH-CN,霍伊米,恢复一个伙伴２８点以上的ＨＰ
+1186,211,ZH-TW,飛沫,"對一個敵人造成
+水屬性的傷害（小）"
+1187,211,ZH-CN,飞沫,"对一个敌人造成
+水属性的伤害（小）"
+1043,86,ZH-CN,魔神斩,"对一个敌人造成伤害的斩击
+容易触发会心一击
+但相对地也容易发生失误"
+1042,86,ZH-TW,魔神斬,"對一個敵人造成傷害的斬擊
+容易觸發會心一擊
+但相對地也容易發生失誤"
+1036,86,JP-JP,魔神斬り,"敵１体に　ダメージを与える斬撃
+会心のいちげきも出やすいが
+反面　ミスも多くなる"
+502,43,ZH-TW,魯卡南,"４～７回合內降低
+所有敵人守備力的咒文
+發動咒文的怪物夥伴
+智力越高越容易成功"
+493,42,ZH-TW,魯卡尼,"４～７回合內大幅降低
+一個敵人守備力的咒文
+發動咒文的怪物夥伴
+智力越高越容易成功"
+503,43,ZH-CN,鲁卡南,"在４～７回合内
+降低全体敌人防御力的咒文
+施展咒文的怪物伙伴智力越高
+咒文越容易成功"
+494,42,ZH-CN,鲁卡尼,"在４～７回合内
+大幅降低一个敌人防御力的咒文
+施展咒文的怪物伙伴智力越高
+咒文越容易成功"
+1106,93,ZH-CN,麻痹攻击,"对一个敌人造成伤害
+并且有时会使目标陷入麻痹状态
+持续时间为２～５回合"
+1105,93,ZH-TW,麻痺攻擊,"對一個敵人造成傷害
+並不時使其陷入麻痺
+持續２～５回合"
+863,163,ZH-CN,黑暗打击,"对所有敌人连续造成２次
+暗属性的伤害（特大）
+发动技能的怪物伙伴
+等级越高伤害量越高"
+862,163,ZH-TW,黑暗打擊,"對所有敵人連續造成２次
+闇屬性的傷害（特大）
+發動技能的怪物夥伴
+等級越高傷害量越高"
+880,75,ZH-TW,龍斬,"對龍系怪物造成
+較大傷害的斬擊"
+881,75,ZH-CN,龙斩,"对龙系怪物造成
+较大伤害的斩击"

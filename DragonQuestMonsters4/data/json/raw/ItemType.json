@@ -28,5 +28,10 @@
     "ItemTypeId": 4,
     "Name": "Treasure",
     "Identifier": "treasure"
+  },
+  {
+    "ItemTypeId": 7,
+    "Name": "Unknown",
+    "Identifier": "unknown"
   }
 ]

@@ -1,0 +1,920 @@
+[
+  {
+    "LocationLocalizationId": 122,
+    "LocationId": 14,
+    "LanguageCode": "DE-DE",
+    "Name": "Arenalobby"
+  },
+  {
+    "LocationLocalizationId": 130,
+    "LocationId": 15,
+    "LanguageCode": "IT-IT",
+    "Name": "Banco di scambio delle minimedaglie"
+  },
+  {
+    "LocationLocalizationId": 119,
+    "LocationId": 14,
+    "LanguageCode": "EN-GB",
+    "Name": "Battle Arena Lobby"
+  },
+  {
+    "LocationLocalizationId": 101,
+    "LocationId": 12,
+    "LanguageCode": "EN-GB",
+    "Name": "Boughborough"
+  },
+  {
+    "LocationLocalizationId": 105,
+    "LocationId": 12,
+    "LanguageCode": "ES-ES",
+    "Name": "Capital de Yermavida"
+  },
+  {
+    "LocationLocalizationId": 67,
+    "LocationId": 8,
+    "LanguageCode": "IT-IT",
+    "Name": "Castel Vizzalbero"
+  },
+  {
+    "LocationLocalizationId": 69,
+    "LocationId": 8,
+    "LanguageCode": "ES-ES",
+    "Name": "Castillo de Yermavida"
+  },
+  {
+    "LocationLocalizationId": 31,
+    "LocationId": 3,
+    "LanguageCode": "IT-IT",
+    "Name": "Caverna delle terre desolate"
+  },
+  {
+    "LocationLocalizationId": 66,
+    "LocationId": 8,
+    "LanguageCode": "FR-FR",
+    "Name": "Château de Boisflétri"
+  },
+  {
+    "LocationLocalizationId": 129,
+    "LocationId": 15,
+    "LanguageCode": "FR-FR",
+    "Name": "Comptoir de mini médailles"
+  },
+  {
+    "LocationLocalizationId": 3,
+    "LocationId": 2,
+    "LanguageCode": "FR-FR",
+    "Name": "Désert desséché"
+  },
+  {
+    "LocationLocalizationId": 6,
+    "LocationId": 2,
+    "LanguageCode": "ES-ES",
+    "Name": "Desierto Calima"
+  },
+  {
+    "LocationLocalizationId": 5,
+    "LocationId": 2,
+    "LanguageCode": "DE-DE",
+    "Name": "Dörrland"
+  },
+  {
+    "LocationLocalizationId": 60,
+    "LocationId": 7,
+    "LanguageCode": "ES-ES",
+    "Name": "Ermita del Silencio - Jardín de los Sacralíferos"
+  },
+  {
+    "LocationLocalizationId": 51,
+    "LocationId": 6,
+    "LanguageCode": "ES-ES",
+    "Name": "Ermita del Silencio - Patio sepulcral"
+  },
+  {
+    "LocationLocalizationId": 42,
+    "LocationId": 5,
+    "LanguageCode": "ES-ES",
+    "Name": "Ermita del Silencio - PB"
+  },
+  {
+    "LocationLocalizationId": 147,
+    "LocationId": 17,
+    "LanguageCode": "FR-FR",
+    "Name": "Ferme"
+  },
+  {
+    "LocationLocalizationId": 22,
+    "LocationId": 4,
+    "LanguageCode": "IT-IT",
+    "Name": "Fradìcia"
+  },
+  {
+    "LocationLocalizationId": 33,
+    "LocationId": 3,
+    "LanguageCode": "ES-ES",
+    "Name": "Gruta Sedimento"
+  },
+  {
+    "LocationLocalizationId": 120,
+    "LocationId": 14,
+    "LanguageCode": "FR-FR",
+    "Name": "Hall de l'arène"
+  },
+  {
+    "LocationLocalizationId": 14,
+    "LocationId": 1,
+    "LanguageCode": "DE-DE",
+    "Name": "Immerwelk-Ebene"
+  },
+  {
+    "LocationLocalizationId": 110,
+    "LocationId": 13,
+    "LanguageCode": "EN-GB",
+    "Name": "Item Shop"
+  },
+  {
+    "LocationLocalizationId": 149,
+    "LocationId": 17,
+    "LanguageCode": "DE-DE",
+    "Name": "Koppel"
+  },
+  {
+    "LocationLocalizationId": 113,
+    "LocationId": 13,
+    "LanguageCode": "DE-DE",
+    "Name": "Kramladen"
+  },
+  {
+    "LocationLocalizationId": 4,
+    "LocationId": 2,
+    "LanguageCode": "IT-IT",
+    "Name": "Landa Essiccata"
+  },
+  {
+    "LocationLocalizationId": 15,
+    "LocationId": 1,
+    "LanguageCode": "ES-ES",
+    "Name": "Llanuras de Yermavida"
+  },
+  {
+    "LocationLocalizationId": 121,
+    "LocationId": 14,
+    "LanguageCode": "IT-IT",
+    "Name": "Lobby dell'Arena"
+  },
+  {
+    "LocationLocalizationId": 23,
+    "LocationId": 4,
+    "LanguageCode": "DE-DE",
+    "Name": "Matschmoor"
+  },
+  {
+    "LocationLocalizationId": 131,
+    "LocationId": 15,
+    "LanguageCode": "DE-DE",
+    "Name": "Medaillenkiosk"
+  },
+  {
+    "LocationLocalizationId": 128,
+    "LocationId": 15,
+    "LanguageCode": "EN-GB",
+    "Name": "Mini Medal Swap Shop"
+  },
+  {
+    "LocationLocalizationId": 132,
+    "LocationId": 15,
+    "LanguageCode": "ES-ES",
+    "Name": "Minimercado Minimedallas"
+  },
+  {
+    "LocationLocalizationId": 112,
+    "LocationId": 13,
+    "LanguageCode": "IT-IT",
+    "Name": "Negozio"
+  },
+  {
+    "LocationLocalizationId": 32,
+    "LocationId": 3,
+    "LanguageCode": "DE-DE",
+    "Name": "Öde Höhle"
+  },
+  {
+    "LocationLocalizationId": 146,
+    "LocationId": 17,
+    "LanguageCode": "EN-GB",
+    "Name": "Paddock"
+  },
+  {
+    "LocationLocalizationId": 24,
+    "LocationId": 4,
+    "LanguageCode": "ES-ES",
+    "Name": "Pantanos babosos"
+  },
+  {
+    "LocationLocalizationId": 13,
+    "LocationId": 1,
+    "LanguageCode": "IT-IT",
+    "Name": "Piane di Vizzalbero"
+  },
+  {
+    "LocationLocalizationId": 12,
+    "LocationId": 1,
+    "LanguageCode": "FR-FR",
+    "Name": "Plaines du Boisflétri"
+  },
+  {
+    "LocationLocalizationId": 87,
+    "LocationId": 10,
+    "LanguageCode": "ES-ES",
+    "Name": "Portales pétalo"
+  },
+  {
+    "LocationLocalizationId": 86,
+    "LocationId": 10,
+    "LanguageCode": "DE-DE",
+    "Name": "Portalkammer"
+  },
+  {
+    "LocationLocalizationId": 111,
+    "LocationId": 13,
+    "LanguageCode": "FR-FR",
+    "Name": "Quincaillerie"
+  },
+  {
+    "LocationLocalizationId": 123,
+    "LocationId": 14,
+    "LanguageCode": "ES-ES",
+    "Name": "Recepción de la arena"
+  },
+  {
+    "LocationLocalizationId": 148,
+    "LocationId": 17,
+    "LanguageCode": "IT-IT",
+    "Name": "Recinto dei mostri"
+  },
+  {
+    "LocationLocalizationId": 150,
+    "LocationId": 17,
+    "LanguageCode": "ES-ES",
+    "Name": "Redil"
+  },
+  {
+    "LocationLocalizationId": 85,
+    "LocationId": 10,
+    "LanguageCode": "IT-IT",
+    "Name": "Sala dei portali"
+  },
+  {
+    "LocationLocalizationId": 76,
+    "LocationId": 9,
+    "LanguageCode": "IT-IT",
+    "Name": "Sala del trono"
+  },
+  {
+    "LocationLocalizationId": 75,
+    "LocationId": 9,
+    "LanguageCode": "FR-FR",
+    "Name": "Salle du trône"
+  },
+  {
+    "LocationLocalizationId": 78,
+    "LocationId": 9,
+    "LanguageCode": "ES-ES",
+    "Name": "Salón del trono"
+  },
+  {
+    "LocationLocalizationId": 39,
+    "LocationId": 5,
+    "LanguageCode": "FR-FR",
+    "Name": "Sanctuaire de la Sérénité - 1er sous-sol"
+  },
+  {
+    "LocationLocalizationId": 48,
+    "LocationId": 6,
+    "LanguageCode": "FR-FR",
+    "Name": "Sanctuaire de la Sérénité - Clos du Calme"
+  },
+  {
+    "LocationLocalizationId": 57,
+    "LocationId": 7,
+    "LanguageCode": "FR-FR",
+    "Name": "Sanctuaire de la Sérénité - Éden des Archaigles"
+  },
+  {
+    "LocationLocalizationId": 93,
+    "LocationId": 11,
+    "LanguageCode": "FR-FR",
+    "Name": "Sanctuaire stellaire"
+  },
+  {
+    "LocationLocalizationId": 59,
+    "LocationId": 7,
+    "LanguageCode": "DE-DE",
+    "Name": "Sanktuarium der Schwingen"
+  },
+  {
+    "LocationLocalizationId": 96,
+    "LocationId": 11,
+    "LanguageCode": "ES-ES",
+    "Name": "Santuario Sideral"
+  },
+  {
+    "LocationLocalizationId": 68,
+    "LocationId": 8,
+    "LanguageCode": "DE-DE",
+    "Name": "Schloss Immerwelk"
+  },
+  {
+    "LocationLocalizationId": 41,
+    "LocationId": 5,
+    "LanguageCode": "DE-DE",
+    "Name": "Schrein der Einkehr – 1. UG"
+  },
+  {
+    "LocationLocalizationId": 50,
+    "LocationId": 6,
+    "LanguageCode": "DE-DE",
+    "Name": "Schrein der Einkehr – Stillehort"
+  },
+  {
+    "LocationLocalizationId": 38,
+    "LocationId": 5,
+    "LanguageCode": "EN-GB",
+    "Name": "Shrine of Serenity, Interior"
+  },
+  {
+    "LocationLocalizationId": 56,
+    "LocationId": 7,
+    "LanguageCode": "EN-GB",
+    "Name": "Shrine of Serenity, the Avian Haven"
+  },
+  {
+    "LocationLocalizationId": 47,
+    "LocationId": 6,
+    "LanguageCode": "EN-GB",
+    "Name": "Shrine of Serenity, the Place of Peace"
+  },
+  {
+    "LocationLocalizationId": 30,
+    "LocationId": 3,
+    "LanguageCode": "FR-FR",
+    "Name": "Spélonque"
+  },
+  {
+    "LocationLocalizationId": 95,
+    "LocationId": 11,
+    "LanguageCode": "DE-DE",
+    "Name": "Sternenschrein"
+  },
+  {
+    "LocationLocalizationId": 141,
+    "LocationId": 16,
+    "LanguageCode": "ES-ES",
+    "Name": "Taberna"
+  },
+  {
+    "LocationLocalizationId": 137,
+    "LocationId": 16,
+    "LanguageCode": "EN-GB",
+    "Name": "Tavern"
+  },
+  {
+    "LocationLocalizationId": 139,
+    "LocationId": 16,
+    "LanguageCode": "IT-IT",
+    "Name": "Taverna"
+  },
+  {
+    "LocationLocalizationId": 138,
+    "LocationId": 16,
+    "LanguageCode": "FR-FR",
+    "Name": "Taverne"
+  },
+  {
+    "LocationLocalizationId": 84,
+    "LocationId": 10,
+    "LanguageCode": "FR-FR",
+    "Name": "Téléportail"
+  },
+  {
+    "LocationLocalizationId": 49,
+    "LocationId": 6,
+    "LanguageCode": "IT-IT",
+    "Name": "Tempio del silenzio - Culla del silenzio"
+  },
+  {
+    "LocationLocalizationId": 58,
+    "LocationId": 7,
+    "LanguageCode": "IT-IT",
+    "Name": "Tempio del silenzio - Giardino dei Saggi"
+  },
+  {
+    "LocationLocalizationId": 40,
+    "LocationId": 5,
+    "LanguageCode": "IT-IT",
+    "Name": "Tempio del silenzio - S1"
+  },
+  {
+    "LocationLocalizationId": 94,
+    "LocationId": 11,
+    "LanguageCode": "IT-IT",
+    "Name": "Tempio delle stelle"
+  },
+  {
+    "LocationLocalizationId": 2,
+    "LocationId": 2,
+    "LanguageCode": "EN-GB",
+    "Name": "The Parchland"
+  },
+  {
+    "LocationLocalizationId": 83,
+    "LocationId": 10,
+    "LanguageCode": "EN-GB",
+    "Name": "The Petal Portals"
+  },
+  {
+    "LocationLocalizationId": 20,
+    "LocationId": 4,
+    "LanguageCode": "EN-GB",
+    "Name": "The Sogswamp"
+  },
+  {
+    "LocationLocalizationId": 29,
+    "LocationId": 3,
+    "LanguageCode": "EN-GB",
+    "Name": "The Spelunk"
+  },
+  {
+    "LocationLocalizationId": 92,
+    "LocationId": 11,
+    "LanguageCode": "EN-GB",
+    "Name": "The Starry Shrine"
+  },
+  {
+    "LocationLocalizationId": 74,
+    "LocationId": 9,
+    "LanguageCode": "EN-GB",
+    "Name": "Throne Hall"
+  },
+  {
+    "LocationLocalizationId": 77,
+    "LocationId": 9,
+    "LanguageCode": "DE-DE",
+    "Name": "Thronsaal"
+  },
+  {
+    "LocationLocalizationId": 114,
+    "LocationId": 13,
+    "LanguageCode": "ES-ES",
+    "Name": "Tienda de objetos"
+  },
+  {
+    "LocationLocalizationId": 21,
+    "LocationId": 4,
+    "LanguageCode": "FR-FR",
+    "Name": "Tourbières trempées"
+  },
+  {
+    "LocationLocalizationId": 102,
+    "LocationId": 12,
+    "LanguageCode": "FR-FR",
+    "Name": "Ville de Boisflétri"
+  },
+  {
+    "LocationLocalizationId": 103,
+    "LocationId": 12,
+    "LanguageCode": "IT-IT",
+    "Name": "Vizzalbero"
+  },
+  {
+    "LocationLocalizationId": 140,
+    "LocationId": 16,
+    "LanguageCode": "DE-DE",
+    "Name": "Wirtshaus"
+  },
+  {
+    "LocationLocalizationId": 65,
+    "LocationId": 8,
+    "LanguageCode": "EN-GB",
+    "Name": "Witherwood Castle"
+  },
+  {
+    "LocationLocalizationId": 11,
+    "LocationId": 1,
+    "LanguageCode": "EN-GB",
+    "Name": "Witherwood Plains"
+  },
+  {
+    "LocationLocalizationId": 104,
+    "LocationId": 12,
+    "LanguageCode": "DE-DE",
+    "Name": "Zweiglstett"
+  },
+  {
+    "LocationLocalizationId": 10,
+    "LocationId": 1,
+    "LanguageCode": "JP-JP",
+    "Name": "カレキ - 平原"
+  },
+  {
+    "LocationLocalizationId": 28,
+    "LocationId": 3,
+    "LanguageCode": "JP-JP",
+    "Name": "カレキ - 洞窟ダンジョン"
+  },
+  {
+    "LocationLocalizationId": 19,
+    "LocationId": 4,
+    "LanguageCode": "JP-JP",
+    "Name": "カレキ - 湿原"
+  },
+  {
+    "LocationLocalizationId": 37,
+    "LocationId": 5,
+    "LanguageCode": "JP-JP",
+    "Name": "カレキ - 祠ダンジョンB1F"
+  },
+  {
+    "LocationLocalizationId": 46,
+    "LocationId": 6,
+    "LanguageCode": "JP-JP",
+    "Name": "カレキ - 祠ダンジョンB2F"
+  },
+  {
+    "LocationLocalizationId": 55,
+    "LocationId": 7,
+    "LanguageCode": "JP-JP",
+    "Name": "カレキ - 祠ダンジョン祭壇"
+  },
+  {
+    "LocationLocalizationId": 1,
+    "LocationId": 2,
+    "LanguageCode": "JP-JP",
+    "Name": "カレキ - 荒野"
+  },
+  {
+    "LocationLocalizationId": 27,
+    "LocationId": 4,
+    "LanguageCode": "KO-KR",
+    "Name": "눅눅 습지"
+  },
+  {
+    "LocationLocalizationId": 117,
+    "LocationId": 13,
+    "LanguageCode": "KO-KR",
+    "Name": "도구점"
+  },
+  {
+    "LocationLocalizationId": 108,
+    "LocationId": 12,
+    "LanguageCode": "KO-KR",
+    "Name": "메마른 마을"
+  },
+  {
+    "LocationLocalizationId": 18,
+    "LocationId": 1,
+    "LanguageCode": "KO-KR",
+    "Name": "메마른 평원"
+  },
+  {
+    "LocationLocalizationId": 72,
+    "LocationId": 8,
+    "LanguageCode": "KO-KR",
+    "Name": "메마른성"
+  },
+  {
+    "LocationLocalizationId": 153,
+    "LocationId": 17,
+    "LanguageCode": "KO-KR",
+    "Name": "목장"
+  },
+  {
+    "LocationLocalizationId": 90,
+    "LocationId": 10,
+    "LanguageCode": "KO-KR",
+    "Name": "문의 방"
+  },
+  {
+    "LocationLocalizationId": 9,
+    "LocationId": 2,
+    "LanguageCode": "KO-KR",
+    "Name": "바싹 황야"
+  },
+  {
+    "LocationLocalizationId": 99,
+    "LocationId": 11,
+    "LanguageCode": "KO-KR",
+    "Name": "별내림 사당"
+  },
+  {
+    "LocationLocalizationId": 81,
+    "LocationId": 9,
+    "LanguageCode": "KO-KR",
+    "Name": "알현실"
+  },
+  {
+    "LocationLocalizationId": 135,
+    "LocationId": 15,
+    "LanguageCode": "KO-KR",
+    "Name": "작은 메달 교환소"
+  },
+  {
+    "LocationLocalizationId": 144,
+    "LocationId": 16,
+    "LanguageCode": "KO-KR",
+    "Name": "주점"
+  },
+  {
+    "LocationLocalizationId": 7,
+    "LocationId": 2,
+    "LanguageCode": "ZH-TW",
+    "Name": "乾巴荒野"
+  },
+  {
+    "LocationLocalizationId": 63,
+    "LocationId": 7,
+    "LanguageCode": "KO-KR",
+    "Name": "침묵의 사당 성조의 정원"
+  },
+  {
+    "LocationLocalizationId": 45,
+    "LocationId": 5,
+    "LanguageCode": "KO-KR",
+    "Name": "침묵의 사당 지하 1층"
+  },
+  {
+    "LocationLocalizationId": 54,
+    "LocationId": 6,
+    "LanguageCode": "KO-KR",
+    "Name": "침묵의 사당 침묵의 정원"
+  },
+  {
+    "LocationLocalizationId": 126,
+    "LocationId": 14,
+    "LanguageCode": "KO-KR",
+    "Name": "투기장 로비"
+  },
+  {
+    "LocationLocalizationId": 36,
+    "LocationId": 3,
+    "LanguageCode": "KO-KR",
+    "Name": "황무지의 동굴"
+  },
+  {
+    "LocationLocalizationId": 133,
+    "LocationId": 15,
+    "LanguageCode": "ZH-TW",
+    "Name": "小徽章兌換處"
+  },
+  {
+    "LocationLocalizationId": 134,
+    "LocationId": 15,
+    "LanguageCode": "ZH-CN",
+    "Name": "小徽章兑换处"
+  },
+  {
+    "LocationLocalizationId": 8,
+    "LocationId": 2,
+    "LanguageCode": "ZH-CN",
+    "Name": "干巴荒野"
+  },
+  {
+    "LocationLocalizationId": 127,
+    "LocationId": 15,
+    "LanguageCode": "JP-JP",
+    "Name": "拠点 - メダル交換所"
+  },
+  {
+    "LocationLocalizationId": 82,
+    "LocationId": 10,
+    "LanguageCode": "JP-JP",
+    "Name": "拠点 - 扉の間"
+  },
+  {
+    "LocationLocalizationId": 91,
+    "LocationId": 11,
+    "LanguageCode": "JP-JP",
+    "Name": "拠点 - 星降りのほこら"
+  },
+  {
+    "LocationLocalizationId": 145,
+    "LocationId": 17,
+    "LanguageCode": "JP-JP",
+    "Name": "拠点 - 牧場"
+  },
+  {
+    "LocationLocalizationId": 73,
+    "LocationId": 9,
+    "LanguageCode": "JP-JP",
+    "Name": "拠点 - 玉座の間"
+  },
+  {
+    "LocationLocalizationId": 64,
+    "LocationId": 8,
+    "LanguageCode": "JP-JP",
+    "Name": "拠点 - 王城"
+  },
+  {
+    "LocationLocalizationId": 100,
+    "LocationId": 12,
+    "LanguageCode": "JP-JP",
+    "Name": "拠点 - 街"
+  },
+  {
+    "LocationLocalizationId": 109,
+    "LocationId": 13,
+    "LanguageCode": "JP-JP",
+    "Name": "拠点 - 道具屋"
+  },
+  {
+    "LocationLocalizationId": 136,
+    "LocationId": 16,
+    "LanguageCode": "JP-JP",
+    "Name": "拠点 - 酒場"
+  },
+  {
+    "LocationLocalizationId": 118,
+    "LocationId": 14,
+    "LanguageCode": "JP-JP",
+    "Name": "拠点 - 闘技場ロビー"
+  },
+  {
+    "LocationLocalizationId": 125,
+    "LocationId": 14,
+    "LanguageCode": "ZH-CN",
+    "Name": "斗技场大厅"
+  },
+  {
+    "LocationLocalizationId": 97,
+    "LocationId": 11,
+    "LanguageCode": "ZH-TW",
+    "Name": "星夜祠堂"
+  },
+  {
+    "LocationLocalizationId": 98,
+    "LocationId": 11,
+    "LanguageCode": "ZH-CN",
+    "Name": "星夜祠堂"
+  },
+  {
+    "LocationLocalizationId": 70,
+    "LocationId": 8,
+    "LanguageCode": "ZH-TW",
+    "Name": "枯木城"
+  },
+  {
+    "LocationLocalizationId": 71,
+    "LocationId": 8,
+    "LanguageCode": "ZH-CN",
+    "Name": "枯木城"
+  },
+  {
+    "LocationLocalizationId": 16,
+    "LocationId": 1,
+    "LanguageCode": "ZH-TW",
+    "Name": "枯木平原"
+  },
+  {
+    "LocationLocalizationId": 17,
+    "LocationId": 1,
+    "LanguageCode": "ZH-CN",
+    "Name": "枯木平原"
+  },
+  {
+    "LocationLocalizationId": 106,
+    "LocationId": 12,
+    "LanguageCode": "ZH-TW",
+    "Name": "枯木鎮"
+  },
+  {
+    "LocationLocalizationId": 107,
+    "LocationId": 12,
+    "LanguageCode": "ZH-CN",
+    "Name": "枯木镇"
+  },
+  {
+    "LocationLocalizationId": 62,
+    "LocationId": 7,
+    "LanguageCode": "ZH-CN",
+    "Name": "沉默祠堂·圣鸟之园"
+  },
+  {
+    "LocationLocalizationId": 44,
+    "LocationId": 5,
+    "LanguageCode": "ZH-CN",
+    "Name": "沉默祠堂·地下１楼"
+  },
+  {
+    "LocationLocalizationId": 53,
+    "LocationId": 6,
+    "LanguageCode": "ZH-CN",
+    "Name": "沉默祠堂·沉默之园"
+  },
+  {
+    "LocationLocalizationId": 43,
+    "LocationId": 5,
+    "LanguageCode": "ZH-TW",
+    "Name": "沉默祠堂‧地下１樓"
+  },
+  {
+    "LocationLocalizationId": 52,
+    "LocationId": 6,
+    "LanguageCode": "ZH-TW",
+    "Name": "沉默祠堂‧沉默之園"
+  },
+  {
+    "LocationLocalizationId": 61,
+    "LocationId": 7,
+    "LanguageCode": "ZH-TW",
+    "Name": "沉默祠堂‧聖鳥之園"
+  },
+  {
+    "LocationLocalizationId": 26,
+    "LocationId": 4,
+    "LanguageCode": "ZH-CN",
+    "Name": "漉漉湿原"
+  },
+  {
+    "LocationLocalizationId": 25,
+    "LocationId": 4,
+    "LanguageCode": "ZH-TW",
+    "Name": "漉漉濕原"
+  },
+  {
+    "LocationLocalizationId": 152,
+    "LocationId": 17,
+    "LanguageCode": "ZH-CN",
+    "Name": "牧场"
+  },
+  {
+    "LocationLocalizationId": 151,
+    "LocationId": 17,
+    "LanguageCode": "ZH-TW",
+    "Name": "牧場"
+  },
+  {
+    "LocationLocalizationId": 79,
+    "LocationId": 9,
+    "LanguageCode": "ZH-TW",
+    "Name": "王座之間"
+  },
+  {
+    "LocationLocalizationId": 80,
+    "LocationId": 9,
+    "LanguageCode": "ZH-CN",
+    "Name": "王座之间"
+  },
+  {
+    "LocationLocalizationId": 34,
+    "LocationId": 3,
+    "LanguageCode": "ZH-TW",
+    "Name": "荒地洞窟"
+  },
+  {
+    "LocationLocalizationId": 35,
+    "LocationId": 3,
+    "LanguageCode": "ZH-CN",
+    "Name": "荒地洞窟"
+  },
+  {
+    "LocationLocalizationId": 115,
+    "LocationId": 13,
+    "LanguageCode": "ZH-TW",
+    "Name": "道具店"
+  },
+  {
+    "LocationLocalizationId": 116,
+    "LocationId": 13,
+    "LanguageCode": "ZH-CN",
+    "Name": "道具店"
+  },
+  {
+    "LocationLocalizationId": 142,
+    "LocationId": 16,
+    "LanguageCode": "ZH-TW",
+    "Name": "酒館"
+  },
+  {
+    "LocationLocalizationId": 143,
+    "LocationId": 16,
+    "LanguageCode": "ZH-CN",
+    "Name": "酒馆"
+  },
+  {
+    "LocationLocalizationId": 88,
+    "LocationId": 10,
+    "LanguageCode": "ZH-TW",
+    "Name": "門扉之室"
+  },
+  {
+    "LocationLocalizationId": 89,
+    "LocationId": 10,
+    "LanguageCode": "ZH-CN",
+    "Name": "门扉之室"
+  },
+  {
+    "LocationLocalizationId": 124,
+    "LocationId": 14,
+    "LanguageCode": "ZH-TW",
+    "Name": "鬥技場大廳"
+  }
+]
