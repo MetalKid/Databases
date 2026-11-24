@@ -1,0 +1,2561 @@
+TraitLocalizationId,TraitId,LanguageCode,Name,Description
+9,1,KO-KR,1~2회 행동,"가끔 2회 연속으로 행동한다.
+행동 횟수는 명령 여부에
+영향을 받지 않는다.
+능력치 상한이 약간 감소한다."
+8,1,ZH-CN,１～２次行动,"偶尔会连续２次行动
+不论是否下达命令
+都不会改变行动次数
+能力值上限微幅下降"
+27,3,KO-KR,1~3회 행동,"가끔 2~3회 연속으로 행동한다.
+행동 횟수는 명령 여부에
+영향을 받지 않는다.
+능력치 상한이 약간 감소한다."
+26,3,ZH-CN,１～３次行动,"偶尔会连续２～３次行动
+不论是否下达命令
+都不会改变行动次数
+能力值上限小幅下降"
+36,4,KO-KR,2~3회 행동,"2~3회 연속으로 행동한다.
+행동 횟수는 명령 여부에
+영향을 받지 않는다.
+능력치 상한이 감소한다."
+35,4,ZH-CN,２～３次行动,"连续２～３次行动
+不论是否下达命令
+行动次数都不会改变
+能力值上限下降"
+18,2,KO-KR,2회 행동,"2회 연속으로 행동한다.
+행동 횟수는 명령 여부에
+영향을 받지 않는다.
+능력치 상한이 감소한다."
+17,2,ZH-CN,２次行动,"连续２次行动
+不论是否下达命令
+行动次数都不会改变
+能力值上限小幅下降"
+870,92,ES-ES,A pelo,Aumenta la probabilidad de ejecutar golpes críticos y conjuros críticos si no se lleva equipado ningún accesorio.
+383,41,DE-DE,Aalglatter Akrobat,"Macht es erheblich leichter, Angriffen auszuweichen."
+806,87,DE-DE,Abschiedsgeschenk,"Wenn dieses Monster einen tödlichen Treffer einsteckt, fügt es allen Gegnern ebenfalls Schaden zu. Dessen Höhe hängt davon ab, wie viel mehr Schaden das Monster erlitten hat, als nötig gewesen wäre, um seine LP auf null zu reduzieren."
+651,69,FR-FR,Absorbéite,Permet parfois aux attaques ordinaires d'absorber des PM à l'ennemi.
+650,69,EN-GB,Absorbent Touch,Regular attacks sometimes absorb a portion of the enemy's MP.
+653,69,DE-DE,Absorbierender Angriff,Reguläre Angriffe rauben dem Gegner manchmal einen Teil seiner MP.
+1427,152,DE-DE,Abwehr +16,Erhöht die Abwehr um 16.
+1436,153,DE-DE,Abwehr +24,Erhöht die Abwehr um 24.
+1445,154,DE-DE,Abwehr +32,Erhöht die Abwehr um 32.
+1409,149,DE-DE,Abwehr +4,Erhöht die Abwehr um 4.
+1454,155,DE-DE,Abwehr +40,Erhöht die Abwehr um 40.
+1463,156,DE-DE,Abwehr +48,Erhöht die Abwehr um 48.
+1472,215,DE-DE,Abwehr +60,Erhöht die Abwehr um 60.
+1481,216,DE-DE,Abwehr +72,Erhöht die Abwehr um 72.
+1418,150,DE-DE,Abwehr +8,Erhöht die Abwehr um 8.
+1490,217,DE-DE,Abwehr +96,Erhöht die Abwehr um 96.
+887,94,DE-DE,Abwehrinstinkt,"Reduziert den erlittenen Schaden, wenn die LP auf die Hälfte sinken."
+102,12,FR-FR,Accéléro aléatoire,Utilise parfois Accéléro sur soi-même en cours de combat.
+57,7,FR-FR,Accéléro liminaire,Utilise parfois Accéléro sur soi-même en début de combat.
+371,40,EN-GB,Ace Evader,Makes it somewhat easier to avoid enemy attacks.
+105,12,ES-ES,Aceleración ocasional,A veces lanza Acelerar sobre sí mismo durante el combate.
+938,100,EN-GB,Adrenaline Rush,Greatly increases attack after inflicting a critical hit.
+696,77,FR-FR,Agent du chaos,"Attaque l'ennemi même quand le monstre subit la confusion, et inflige un coup critique en cas d'attaque réussie."
+695,77,EN-GB,Agent of Chaos,Always attacks an enemy when the monster is confused. Successful strikes inflict critical hits.
+699,77,ES-ES,Agente del caos,Ataca a un enemigo cuando el monstruo está confuso. Los ataques certeros siempre infligen golpes críticos.
+697,77,IT-IT,Agente del caos,"Attacca sempre un nemico anche quando il mostro è confuso. Se gli attacchi vanno a segno, infliggono colpi critici."
+1527,160,ES-ES,Agilidad +12,Aumenta la agilidad en 12.
+1536,161,ES-ES,Agilidad +16,Aumenta la agilidad en 16.
+1500,211,ES-ES,Agilidad +2,Aumenta la agilidad en 2.
+1545,206,ES-ES,Agilidad +20,Aumenta la agilidad en 20.
+1554,162,ES-ES,Agilidad +24,Aumenta la agilidad en 24.
+1563,213,ES-ES,Agilidad +30,Aumenta la agilidad en 30.
+1572,214,ES-ES,Agilidad +36,Aumenta la agilidad en 36.
+1509,158,ES-ES,Agilidad +4,Aumenta la agilidad en 4.
+1581,165,ES-ES,Agilidad +48,Aumenta la agilidad en 48.
+1518,159,ES-ES,Agilidad +8,Aumenta la agilidad en 8.
+1525,160,IT-IT,Agilità +12,Aumenta l'Agilità di 12.
+1534,161,IT-IT,Agilità +16,Aumenta l'Agilità di 16.
+1498,211,IT-IT,Agilità +2,Aumenta l'Agilità di 2.
+1543,206,IT-IT,Agilità +20,Aumenta l'Agilità di 20.
+1552,162,IT-IT,Agilità +24,Aumenta l'Agilità di 24.
+1561,213,IT-IT,Agilità +30,Aumenta l'Agilità di 30.
+1570,214,IT-IT,Agilità +36,Aumenta l'Agilità di 36.
+1507,158,IT-IT,Agilità +4,Aumenta l'Agilità di 4.
+1579,165,IT-IT,Agilità +48,Aumenta l'Agilità di 48.
+1516,159,IT-IT,Agilità +8,Aumenta l'Agilità di 8.
+1524,160,FR-FR,Agilité +12,Augmente l'agilité de 12 points.
+1533,161,FR-FR,Agilité +16,Augmente l'agilité de 16 points.
+1497,211,FR-FR,Agilité +2,Augmente l'agilité de 2 points.
+1542,206,FR-FR,Agilité +20,Augmente l'agilité de 20 points.
+1551,162,FR-FR,Agilité +24,Augmente l'agilité de 24 points.
+1560,213,FR-FR,Agilité +30,Augmente l'agilité de 30 points.
+1569,214,FR-FR,Agilité +36,Augmente l'agilité de 36 points.
+1506,158,FR-FR,Agilité +4,Augmente l'agilité de 4 points.
+1578,165,FR-FR,Agilité +48,Augmente l'agilité de 48 points.
+1515,159,FR-FR,Agilité +8,Augmente l'agilité de 8 points.
+1523,160,EN-GB,Agility +12,Raises agility by 12.
+1532,161,EN-GB,Agility +16,Raises agility by 16.
+1496,211,EN-GB,Agility +2,Raises agility by 2.
+1541,206,EN-GB,Agility +20,Raises agility by 20.
+1550,162,EN-GB,Agility +24,Raises agility by 24.
+1559,213,EN-GB,Agility +30,Raises agility by 30.
+1568,214,EN-GB,Agility +36,Raises agility by 36.
+1505,158,EN-GB,Agility +4,Raises agility by 4.
+1577,165,EN-GB,Agility +48,Raises agility by 48.
+1514,159,EN-GB,Agility +8,Raises agility by 8.
+1121,121,DE-DE,Allround-Profi,Reduziert alle Resistenzen ein wenig.
+807,87,ES-ES,Amarga despedida,"Cuando el monstruo muere, devuelve el daño a todos los enemigos. La cantidad de daño infligido es proporcional al exceso de daño recibido una vez los PV del monstruo se reducen a cero."
+435,238,FR-FR,Analyse critique,Augmente grandement les chances de lancer des sorts critiques.
+1346,142,DE-DE,Angriff +12,Erhöht den Angriff um 12.
+1355,143,DE-DE,Angriff +16,Erhöht den Angriff um 16.
+1319,226,DE-DE,Angriff +2,Erhöht den Angriff um 2.
+1364,222,DE-DE,Angriff +20,Erhöht den Angriff um 20.
+1373,144,DE-DE,Angriff +24,Erhöht den Angriff um 24.
+1382,228,DE-DE,Angriff +30,Erhöht den Angriff um 30.
+1391,229,DE-DE,Angriff +36,Erhöht den Angriff um 36.
+1328,140,DE-DE,Angriff +4,Erhöht den Angriff um 4.
+1400,147,DE-DE,Angriff +48,Erhöht den Angriff um 48.
+1337,141,DE-DE,Angriff +8,Erhöht den Angriff um 8.
+878,93,DE-DE,Angriffsinstinkt,"Erhöht den verursachten Schaden, wenn die LP auf die Hälfte sinken."
+391,42,IT-IT,Annienta-schivata,Impedisce al nemico di schivare attacchi.
+390,42,FR-FR,Anti-esquive,Rend les esquives impossibles pour les ennemis.
+393,42,ES-ES,Antihuidas,Impide que el enemigo pueda evitar los ataques.
+482,51,DE-DE,Arkanes Sparpaket,Halbiert den MP-Verbrauch.
+1347,142,ES-ES,Ataque +12,Aumenta el ataque en 12.
+1356,143,ES-ES,Ataque +16,Aumenta el ataque en 16.
+1320,226,ES-ES,Ataque +2,Aumenta el ataque en 2.
+1365,222,ES-ES,Ataque +20,Aumenta el ataque en 20.
+1374,144,ES-ES,Ataque +24,Aumenta el ataque en 24.
+1383,228,ES-ES,Ataque +30,Aumenta el ataque en 30.
+1392,229,ES-ES,Ataque +36,Aumenta el ataque en 36.
+1329,140,ES-ES,Ataque +4,Aumenta el ataque en 4.
+1401,147,ES-ES,Ataque +48,Aumenta el ataque en 48.
+1338,141,ES-ES,Ataque +8,Aumenta el ataque en 8.
+1345,142,IT-IT,Attacco +12,Aumenta l'Attacco di 12.
+1354,143,IT-IT,Attacco +16,Aumenta l'Attacco di 16.
+1318,226,IT-IT,Attacco +2,Aumenta l'Attacco di 2.
+1363,222,IT-IT,Attacco +20,Aumenta l'Attacco di 20.
+1372,144,IT-IT,Attacco +24,Aumenta l'Attacco di 24.
+1381,228,IT-IT,Attacco +30,Aumenta l'Attacco di 30.
+1390,229,IT-IT,Attacco +36,Aumenta l'Attacco di 36.
+1327,140,IT-IT,Attacco +4,Aumenta l'Attacco di 4.
+1399,147,IT-IT,Attacco +48,Aumenta l'Attacco di 48.
+1336,141,IT-IT,Attacco +8,Aumenta l'Attacco di 8.
+490,265,IT-IT,Attacco doppio,"Gli attacchi diretti colpiscono in successione.
+Tuttavia, il danno di ogni singolo colpo diminuisce in base al numero di attacchi consecutivi."
+508,262,IT-IT,Attacco quadruplo,"Gli attacchi diretti colpiscono in successione.
+Tuttavia, il danno di ogni singolo colpo diminuisce in base al numero di attacchi consecutivi."
+517,266,IT-IT,Attacco sestuplo,"Gli attacchi diretti colpiscono in successione.
+Tuttavia, il danno di ogni singolo colpo diminuisce in base al numero di attacchi consecutivi."
+499,264,IT-IT,Attacco triplo,"Gli attacchi diretti colpiscono in successione.
+Tuttavia, il danno di ogni singolo colpo diminuisce in base al numero di attacchi consecutivi."
+1343,142,EN-GB,Attack +12,Raises attack by 12.
+1352,143,EN-GB,Attack +16,Raises attack by 16.
+1316,226,EN-GB,Attack +2,Raises attack by 2.
+1361,222,EN-GB,Attack +20,Raises attack by 20.
+1370,144,EN-GB,Attack +24,Raises attack by 24.
+1379,228,EN-GB,Attack +30,Raises attack by 30.
+1388,229,EN-GB,Attack +36,Raises attack by 36.
+1325,140,EN-GB,Attack +4,Raises attack by 4.
+1397,147,EN-GB,Attack +48,Raises attack by 48.
+1334,141,EN-GB,Attack +8,Raises attack by 8.
+875,93,EN-GB,Attacking Impulse,Increases damage inflicted when HP drop to 1/2.
+1344,142,FR-FR,Attaque +12,Augmente l'attaque de 12 points.
+1353,143,FR-FR,Attaque +16,Augmente l'attaque de 16 points.
+1317,226,FR-FR,Attaque +2,Augmente l'attaque de 2 points.
+1362,222,FR-FR,Attaque +20,Augmente l'attaque de 20 points.
+1371,144,FR-FR,Attaque +24,Augmente l'attaque de 24 points.
+1380,228,FR-FR,Attaque +30,Augmente l'attaque de 30 points.
+1389,229,FR-FR,Attaque +36,Augmente l'attaque de 36 points.
+1326,140,FR-FR,Attaque +4,Augmente l'attaque de 4 points.
+1398,147,FR-FR,Attaque +48,Augmente l'attaque de 48 points.
+1335,141,FR-FR,Attaque +8,Augmente l'attaque de 8 points.
+1119,121,FR-FR,Attaque imparable,Réduit toutes les résistances de l'ennemi.
+363,272,FR-FR,Aura étincelante,Annule parfois les effets néfastes infligés par les ennemis.
+374,40,DE-DE,Ausweich-Ass,"Macht es ein wenig leichter, Angriffen auszuweichen."
+474,50,ES-ES,Autocadabra,Restablece una pequeña parte del PM después de cada acción.
+470,50,EN-GB,Auto-Cadabra,Restores a small amount of MP after each action.
+463,49,IT-IT,Autocura,Fa recuperare una piccola quantità di PV dopo ogni azione.
+471,50,FR-FR,Automagication,Restaure légèrement les PM après chaque action.
+462,49,FR-FR,Automédication,Restaure légèrement les PV après chaque action.
+461,49,EN-GB,Auto-Restora,Restores a small amount of HP after each action.
+472,50,IT-IT,Autoristoro magico,Fa recuperare una piccola quantità di PM dopo ogni azione.
+465,49,ES-ES,Autorrecuperación,Restablece una pequeña parte de los PV después de cada acción.
+3,1,FR-FR,Avantage tactique,Agit parfois 2 fois de suite. Donner ou non des ordres n'affecte pas le nombre d'actions. Réduit très légèrement la valeur maximale des caractéristiques.
+841,89,IT-IT,Avvio poderoso,"Aumenta i danni inflitti ai nemici fino al round 3, riducendoli dal round 4 in poi."
+931,99,IT-IT,Aziorifrazione,A volte lancia lo stesso incantesimo due volte di fila. Consuma un po' più PM del solito.
+236,26,EN-GB,Bangmeister,Increases the potency of explosive attacks and decreases their MP consumption.
+553,70,IT-IT,Battimetallo,"Infligge danni aggiuntivi ai nemici. Più il livello è alto, maggiore sarà l'effetto. È efficace anche sui nemici dotati della capacità Pelle metallica."
+812,88,EN-GB,Benefaction,"Massively increases the attack, defence, agility and wisdom of allies when the monster dies."
+814,88,IT-IT,Benevolenza,"Aumenta di tantissimo l'Attacco, la Difesa, l'Agilità e la Saggezza degli alleati quando riceve un colpo di grazia."
+578,73,EN-GB,Big Bully,Increases damage inflicted on L-size monsters.
+758,82,EN-GB,Bigger Upper,"Extends the duration of skills that raise the strength, defence, agility or wisdom of allies to 5 turns. In addition, randomly grants invincibility, the ability to reflect spells or breath attacks, or raises evasion."
+726,80,ES-ES,Bofetón a tiempo,A veces cura la confusión y el sueño de todos los aliados.
+183,20,FR-FR,Bourrasque magique,Redonne parfois 5 PM ou plus à tous les alliés au cours du combat. La quantité de PM restaurés est proportionnelle au niveau du monstre utilisateur.
+174,205,FR-FR,Brise magique,Restaure parfois au moins 1 PM à tous les alliés en cours de combat. La quantité de points restaurés est proportionnelle au niveau du monstre utilisateur.
+230,25,DE-DE,Bröckelexperte,Verstärkt die Wirkung von Erdangriffen und senkt ihre MP-Kosten.
+120,14,FR-FR,Brume de bataille aléatoire,Utilise parfois Brume de bataille sur soi-même en cours de combat.
+527,56,DE-DE,Brutaler Bestienspalter,Fügt Monstern der Bestienfamilie erheblich höheren Schaden zu und reduziert alle Resistenzen ein wenig.
+1847,273,EN-GB,Bubbling Rage,Sometimes raises the Rage Gauge during battle.
+708,78,ES-ES,Cabezada mortal,Ataca a todos los enemigos cuando el monstruo está dormido.
+525,56,FR-FR,Calamité des bêtes,"Augmente grandement les dégâts infligés aux monstres de la famille des bêtes, et réduit toutes leurs résistances."
+543,242,FR-FR,Calamité des démons,"Augmente grandement les dégâts infligés aux monstres de la famille des démons, et réduit toutes leurs résistances."
+534,57,FR-FR,Calamité des naturels,"Augmente grandement les dégâts infligés aux monstres de la famille des naturels, et réduit toutes leurs résistances."
+823,268,IT-IT,Capriccio del cielo,A volte permette di tornare in vita dopo la morte.
+825,268,ES-ES,Capricho divino,El monstruo a veces resucita justo después de morir.
+915,97,ES-ES,Castigo colectivo,Los ataques que infligen más daño a medida que se incrementa el atributo ataque alcanzarán a todos los enemigos en lugar de a un único objetivo.
+479,51,EN-GB,Castslasher,Reduces MP consumption by 1/2.
+921,98,FR-FR,Claque de fin,"Empêche l'ennemi qui a vaincu le monstre d'agir au tour suivant, et réduit grandement son attaque, sa défense, son agilité et sa sagesse. Ne s'active qu'une fois par combat."
+776,84,EN-GB,Close Scraper,Sometimes allows the monster to survive at 1 HP after suffering an attack that would otherwise kill it.
+911,97,EN-GB,Collective Punishment,Attacks that do more damage as the attack attribute increases and strike a single target will strike all enemies instead.
+706,78,IT-IT,Colpo di sonno,Attacca tutti i nemici quando il mostro è addormentato.
+15,2,ES-ES,Comandante táctico,Ejecuta 2 acciones seguidas. El número de acciones no se verá afectado si no se dan órdenes específicas. Reduce ligeramente los atributos máx. del monstruo.
+843,89,ES-ES,Comienzo explosivo,"Aumenta el daño infligido a los enemigos hasta la tercera ronda, pero lo reduce a partir de la cuarta."
+831,269,FR-FR,Compassion salvatrice,Utilise Prérappel sur un allié au hasard si le monstre meurt.
+147,17,FR-FR,Concentration de force,Utilise parfois Concentration de force en cours de combat.
+614,65,EN-GB,Confusing Touch,Regular attacks sometimes confuse the enemy.
+615,65,FR-FR,Confusite,Permet parfois aux attaques ordinaires de provoquer la confusion de l'ennemi.
+723,80,FR-FR,Coup de fouet,Soigne parfois les alliés du sommeil et de la confusion.
+768,83,FR-FR,Coup de rabot,"Étend à 5 tours la durée des compétences qui réduisent la force, la défense, l'agilité ou la sagesse des ennemis. Par ailleurs, inflige aléatoirement un effet empêchant les attaques de souffle, les coups critiques ou les sorts, ou provoquant l'éblouissement."
+849,90,FR-FR,Course de fond,"Augmente l'attaque, la défense, l'agilité et la sagesse à partir du 3e round, et encore davantage à partir du 6e."
+245,27,EN-GB,Crackmeister,Increases the potency of ice-elemental attacks and decreases their MP consumption.
+1118,121,EN-GB,Crafty Devil,Lowers all of an enemy monster's resistances.
+227,25,EN-GB,Cragmeister,Increases the potency of earth-elemental attacks and decreases their MP consumption.
+434,238,EN-GB,Critical Mastermind,Makes it much easier to cast critical spells.
+416,45,EN-GB,Critical Moment,"Makes it easier to inflict critical hits when HP drops to 1/2, and even more so when HP drops to 1/4."
+407,44,EN-GB,Critical Sensation,Makes it much easier to inflict critical hits.
+425,46,EN-GB,Critical Theorist,Makes it somewhat easier to cast critical spells.
+398,43,EN-GB,Critical Triumph,Makes it somewhat easier to inflict critical hits.
+771,83,ES-ES,Cuanto peor mejor,"Amplía la duración de las destrezas que reducen la fuerza, defensa, agilidad o sabiduría de los enemigos a 5 turnos. Además, evita al azar los ataques de aliento, golpes críticos o el uso de la magia, o deslumbra al enemigo."
+366,272,ES-ES,Cuerpo centelleante,A veces anula los efectos perniciosos que infligen los enemigos.
+354,39,FR-FR,Cuir absorbant,Absorbe parfois des PM aux ennemis qui lui portent des attaques directes.
+300,33,FR-FR,Cuir clouté,Renvoie un quart des dégâts aux ennemis qui lui portent des attaques directes.
+336,37,FR-FR,Cuir déroutant,Provoque parfois la confusion des ennemis qui lui portent des attaques directes.
+318,35,FR-FR,Cuir étourdissant,Empêche parfois de bouger pendant 1 tour les ennemis qui lui portent des attaques directes.
+345,38,FR-FR,Cuir paralysant,Provoque parfois la paralysie des ennemis qui lui portent des attaques directes.
+327,36,FR-FR,Cuir soporifique,Provoque parfois le sommeil des ennemis qui lui portent des attaques directes.
+309,34,FR-FR,Cuir toxique,Empoisonne parfois les ennemis qui lui portent des attaques directes.
+291,32,FR-FR,Cuir verni,Annule parfois les attaques directes des ennemis.
+744,230,ES-ES,Cúralo-casi-todo,"A veces cura el sueño, la confusión, el envenenamiento, el envenenamiento grave, la parálisis y el aturdimiento de todos los aliados."
+166,19,IT-IT,Curasaggia maggiore,"A volte fa recuperare 80 o più PV a tutti gli alleati durante la battaglia. Quanto più è alta la Saggezza di chi esegue questa tecnica, tanto maggiore sarà l'efficacia dell'effetto curativo."
+157,18,IT-IT,Curasaggia minore,"A volte fa recuperare 30 o più PV a tutti gli alleati durante la battaglia. Quanto più è alta la Saggezza di chi esegue questa tecnica, tanto maggiore sarà l'efficacia dell'effetto curativo."
+168,19,ES-ES,Curaza,"A veces devuelve 80 PV o más a todos los aliados durante el combate. Cuanta más sabiduría, más potente será el efecto curativo."
+741,230,FR-FR,Cure de jouvence,"Soigne parfois les alliés du sommeil, de la confusion, de l'empoisonnement, de l'empoisonnement sévère, de la paralysie et de l'étourdissement."
+159,18,ES-ES,Curita,"A veces devuelve 30 PV o más a todos los aliados durante el combate. Cuanta más sabiduría, más potente será el efecto curativo."
+670,74,IT-IT,Danno e beffa,"Aumenta i danni inflitti ai nemici avvelenati, gravemente avvelenati, storditi, addormentati, confusi o paralizzati."
+632,67,EN-GB,Deadly Touch,Regular attacks sometimes kill the enemy instantly.
+714,79,FR-FR,Décharge statique,"Provoque parfois la paralysie des ennemis qui lui portent des attaques directes, quand le monstre subit lui-même la paralysie."
+740,230,EN-GB,Decontaminate,"Sometimes cures allies of sleep, confusion, poison, severe poison, paralysis and stun."
+742,230,IT-IT,Decontaminazione,"A volte cura gli alleati da sonno, confusione, avvelenamento, avvelenamento grave, paralisi e stordimento."
+84,10,FR-FR,Décuplo aléatoire,Utilise parfois Décuplo sur soi-même en cours de combat.
+39,5,FR-FR,Décuplo initial,Utilise parfois Décuplo sur soi-même en début de combat.
+1424,152,EN-GB,Defence +16,Raises defence by 16.
+1433,153,EN-GB,Defence +24,Raises defence by 24.
+1442,154,EN-GB,Defence +32,Raises defence by 32.
+1406,149,EN-GB,Defence +4,Raises defence by 4.
+1451,155,EN-GB,Defence +40,Raises defence by 40.
+1460,156,EN-GB,Defence +48,Raises defence by 48.
+1469,215,EN-GB,Defence +60,Raises defence by 60.
+1478,216,EN-GB,Defence +72,Raises defence by 72.
+1415,150,EN-GB,Defence +8,Raises defence by 8.
+1487,217,EN-GB,Defence +96,Raises defence by 96.
+1428,152,ES-ES,Defensa +16,Aumenta la defensa en 16.
+1437,153,ES-ES,Defensa +24,Aumenta la defensa en 24.
+1446,154,ES-ES,Defensa +32,Aumenta la defensa en 32.
+1410,149,ES-ES,Defensa +4,Aumenta la defensa en 4.
+1455,155,ES-ES,Defensa +40,Aumenta la defensa en 40.
+1464,156,ES-ES,Defensa +48,Aumenta la defensa en 48.
+1473,215,ES-ES,Defensa +60,Aumenta la defensa en 60.
+1482,216,ES-ES,Defensa +72,Aumenta la defensa en 72.
+1419,150,ES-ES,Defensa +8,Aumenta la defensa en 8.
+1491,217,ES-ES,Defensa +96,Aumenta la defensa en 96.
+1425,152,FR-FR,Défense +16,Augmente la défense de 16 points.
+1434,153,FR-FR,Défense +24,Augmente la défense de 24 points.
+1443,154,FR-FR,Défense +32,Augmente la défense de 32 points.
+1407,149,FR-FR,Défense +4,Augmente la défense de 4 points.
+1452,155,FR-FR,Défense +40,Augmente la défense de 40 points.
+1461,156,FR-FR,Défense +48,Augmente la défense de 48 points.
+1470,215,FR-FR,Défense +60,Augmente la défense de 60 points.
+1479,216,FR-FR,Défense +72,Augmente la défense de 72 points.
+1416,150,FR-FR,Défense +8,Augmente la défense de 8 points.
+1488,217,FR-FR,Défense +96,Augmente la défense de 96 points.
+884,94,EN-GB,Defensive Impulse,Reduces damage received when HP drop to 1/2.
+743,230,DE-DE,Dekontaminierung,"Weckt manchmal während des Kampfes schlafende Gefährten und heilt sie von Verwirrung, Vergiftung, schwerer Vergiftung, Lähmung und Betäubung."
+408,44,FR-FR,Déluge de critiques,Augmente grandement les chances d'effectuer des coups critiques.
+840,89,FR-FR,Démarrage en force,"Augmente les dégâts infligés aux ennemis jusqu'au 3e round, puis les réduit à partir du 4e."
+1122,121,ES-ES,Demonio hábil,Facilita infligir estados perniciosos al enemigo.
+192,21,FR-FR,Dernier souffle,Ressuscite un allié tombé au combat. Utilisable une fois par combat.
+717,79,ES-ES,Descarga estática,A veces paraliza a los enemigos que ejecutan ataques directos cuando el monstruo también está paralizado.
+452,48,EN-GB,Desperate Measures,Negates all damage suffered from critical hits and critical spells.
+731,81,EN-GB,Detox,"Sometimes cures allies of poison, severe poison, paralysis and stun."
+735,81,ES-ES,Detox,"A veces cura el envenenamiento, el envenenamiento grave, la parálisis y el aturdimiento de todos los aliados."
+732,81,FR-FR,Détox,"Soigne parfois les alliés de l'empoisonnement, de l'empoisonnement sévère, de la paralysie et de l'étourdissement."
+545,242,DE-DE,Diabolischer Dämonenspalter,Fügt Monstern der Dämonenfamilie erheblich höheren Schaden zu und reduziert alle Resistenzen ein wenig.
+365,272,DE-DE,Dicke Haut,"Schützt manchmal vor Statusleiden, die der Gegner wirkt."
+861,91,ES-ES,Diente por diente,"Cuando a un monstruo se le inflija un estado pernicioso, el enemigo que realizó el ataque sufrirá el mismo estado pernicioso."
+1426,152,IT-IT,Difesa +16,Aumenta la Difesa di 16.
+1435,153,IT-IT,Difesa +24,Aumenta la Difesa di 24.
+1444,154,IT-IT,Difesa +32,Aumenta la Difesa di 32.
+1408,149,IT-IT,Difesa +4,Aumenta la Difesa di 4.
+1453,155,IT-IT,Difesa +40,Aumenta la Difesa di 40.
+1462,156,IT-IT,Difesa +48,Aumenta la Difesa di 48.
+1471,215,IT-IT,Difesa +60,Aumenta la Difesa di 60.
+1480,216,IT-IT,Difesa +72,Aumenta la Difesa di 72.
+1417,150,IT-IT,Difesa +8,Aumenta la Difesa di 8.
+1489,217,IT-IT,Difesa +96,Aumenta la Difesa di 96.
+733,81,IT-IT,Disintossicazione,"A volte fa guarire gli alleati da avvelenamento, avvelenamento grave, paralisi e stordimento."
+42,5,ES-ES,Doble instapotencia,A veces lanza Minidoble potencia sobre sí mismo al comienzo del combate.
+87,10,ES-ES,Doble potencia ocasional,A veces lanza Minidoble potencia sobre sí mismo durante el combate.
+389,42,EN-GB,Dodge Denier,Ensures the enemy cannot avoid attacks.
+481,51,IT-IT,Doppio sconto,Riduce il consumo di PM del 50%.
+606,64,FR-FR,Dormite,Permet parfois aux attaques ordinaires de provoquer le sommeil de l'ennemi.
+500,264,DE-DE,Dreierschlagsalve,"Direkte Angriffe treffen mehrmals hintereinander, wobei der Schaden mit jedem Treffer sinkt."
+663,267,ES-ES,Drenaje energético,"Los ataques normales a veces roban parte del ataque, defensa, agilidad, sabiduría o resistencia del enemigo."
+930,99,FR-FR,Écho favorable,Lance parfois 2 fois le même sort. Augmente légèrement le coût en PM.
+932,99,DE-DE,Echoeffekt,Zauber werden manchmal zweifach gewirkt. Der MP-Verbrauch ist geringfügig höher.
+929,99,EN-GB,Echonomist,Sometimes casts the same spell twice. Consumes slightly more MP than usual.
+933,99,ES-ES,"Eco, eco",A veces lanza el mismo conjuro dos veces. Consume algo más de PM de lo normal.
+798,86,ES-ES,Efecto rebote,"Cuando el monstruo muere, devuelve el daño a un enemigo. La cantidad de daño infligido es proporcional al exceso de daño recibido una vez los PV del monstruo se reducen a cero."
+31,4,IT-IT,Egemonia tattica,Eseguire questa tecnica fa compiere 2 o 3 azioni consecutive. Il numero di azioni non varia neanche impartendo ordini specifici. Abbassa i valori delle caratteristiche dei mostri.
+329,36,DE-DE,Einschläfernde Haut,"Lässt Gegner, die direkt angreifen, manchmal einschlummern."
+680,75,DE-DE,Einschüchternd,Betäubt den Gegner manchmal während des Kampfes für 1<nbsp>Runde.
+789,85,ES-ES,En las últimas,"Permite que el monstruo sobreviva con 1 PV después de sufrir un ataque que, de otro modo, habría acabado con él."
+690,76,ES-ES,Encanto extraño,A veces aturde al enemigo en el combate durante 1 turno.
+833,269,DE-DE,Engelschöre,"Wenn dieses Monster einen tödlichen Treffer einsteckt, wirkt es <DE99>Vorsorge<DE66> auf einen Verbündeten."
+672,74,ES-ES,Ensañamiento y alevosía,"Aumenta el daño infligido a enemigos envenenados, envenenados gravemente, aturdidos, dormidos, confusos o paralizados."
+662,267,DE-DE,Entkräfter,"Reguläre Angriffe rauben dem Gegner manchmal etwas seines Angriffs, seiner Abwehr, Flinkheit, Weisheit oder Resistenz und addieren sie zum eigenen entsprechenden Attributwert."
+734,81,DE-DE,Entschlackung,"Heilt manchmal während des Kampfes Gefährten von Vergiftung, schwerer Vergiftung, Lähmung und Betäubung."
+778,84,IT-IT,Esperienza premiante,A volte permette al mostro di sopravvivere con 1 PV dopo aver subito un attacco che l'avrebbe ucciso.
+381,41,FR-FR,Esquive exclusive,Augmente grandement les chances d'esquiver les attaques ennemies.
+951,101,ES-ES,Estado de trance,Aumenta mucho la sabiduría tras lanzar un conjuro crítico.
+948,101,FR-FR,État de transe,Augmente grandement la sagesse après avoir lancé un sort critique.
+597,63,FR-FR,Étourdite,Permet parfois aux attaques ordinaires d'empêcher l'ennemi de bouger pendant 1 tour.
+893,95,EN-GB,Evasive Impulse,Sometimes increases evasion and greatly increases agility during battle when HP has dropped to 1/2. Only activates once per battle.
+375,40,ES-ES,Evasor maestro,Permite evitar bastante más fácilmente los ataques enemigos.
+384,41,ES-ES,Evasor supremo,Permite evitar mucho más fácilmente los ataques enemigos.
+372,40,FR-FR,Exquise esquive,Augmente les chances d'esquiver les attaques ennemies.
+411,44,ES-ES,Éxtasis crítico,Permite ejecutar golpes críticos mucho más fácilmente.
+688,76,IT-IT,Fascino abbagliante,A volte stordisce il nemico per un turno durante la battaglia.
+203,22,DE-DE,Fauchexperte,Verstärkt die Wirkung von Feuerangriffen und senkt ihre MP-Kosten.
+1526,160,DE-DE,Flinkheit +12,Erhöht die Flinkheit um 12.
+1535,161,DE-DE,Flinkheit +16,Erhöht die Flinkheit um 16.
+1499,211,DE-DE,Flinkheit +2,Erhöht die Flinkheit um 2.
+1544,206,DE-DE,Flinkheit +20,Erhöht die Flinkheit um 20.
+1553,162,DE-DE,Flinkheit +24,Erhöht die Flinkheit um 24.
+1562,213,DE-DE,Flinkheit +30,Erhöht die Flinkheit um 30.
+1571,214,DE-DE,Flinkheit +36,Erhöht die Flinkheit um 36.
+1508,158,DE-DE,Flinkheit +4,Erhöht die Flinkheit um 4.
+1580,165,DE-DE,Flinkheit +48,Erhöht die Flinkheit um 48.
+1517,159,DE-DE,Flinkheit +8,Erhöht die Flinkheit um 8.
+399,43,FR-FR,Flot de critiques,Augmente les chances d'effectuer des coups critiques.
+896,95,DE-DE,Fluchtinstinkt,"Erhöht manchmal während des Kampfes die Ausweichchance normal und die Flinkheit erheblich. Wird zu Beginn einer Runde ausgelöst, wenn die LP auf die Hälfte gefallen sind, aber nur ein Mal pro Kampf."
+555,70,ES-ES,Forjador,"Inflige daño eléctrico adicional a los enemigos. Cuanto mayor sea el nivel, mayor será el efecto. Funciona con enemigos que tienen el rasgo Piel de acero."
+96,11,ES-ES,Fortalecimiento ocasional,A veces lanza Fortalecimiento sobre sí mismo durante el combate.
+724,80,IT-IT,Freddura fatale,A volte cura gli alleati da sonno e confusione.
+200,22,EN-GB,Frizzmeister,Increases the potency of fire-elemental attacks and decreases their MP consumption.
+444,47,FR-FR,Génie critique,"Augmente les chances de lancer des sorts critiques quand les PV sont réduits de moitié, et encore davantage lorsque les PV sont réduits de 3/4."
+21,3,FR-FR,Génie tactique,Agit parfois 2 à 3 fois de suite. Donner ou non des ordres n'affecte pas le nombre d'actions. Réduit légèrement la valeur maximale des caractéristiques.
+436,238,IT-IT,Genio critico,Rende molto più facile lanciare incantesimi critici.
+24,3,ES-ES,Genio táctico,A veces ejecuta 2 o 3 acciones seguidas. El número de acciones no se verá afectado si no se dan órdenes específicas. Reduce ligeramente los atributos máx. del monstruo.
+22,3,IT-IT,Genio tattico,Eseguire questa tecnica può far compiere 2 o 3 azioni consecutive. Il numero di azioni non varia neanche impartendo ordini specifici. Abbassa di poco i valori delle caratteristiche dei mostri.
+752,233,DE-DE,Geschenk des Himmels,"Erhöht manchmal während des Kampfes den Angriff, die Abwehr oder die Weisheit erheblich."
+590,62,DE-DE,Giftangriff,Reguläre Angriffe vergiften manchmal den Gegner.
+311,34,DE-DE,Giftige Haut,"Vergiftet manchmal Gegner, die direkt angreifen."
+573,72,ES-ES,Gigafobia,Aumenta el daño infligido a los monstruos de tamaño pequeño (P).
+860,91,DE-DE,Gleiches mit Gleichem,"Wenn einem Monster ein Statusleiden zugefügt wird, wird der angreifende Gegner vom gleichen Statusleiden betroffen."
+293,32,DE-DE,Glitschige Haut,"Bewirkt, dass direkte Angriffe des Gegners manchmal wirkungslos verpuffen."
+362,272,EN-GB,Glowing Skin,Sometimes nullifies status ailments inflicted by enemies.
+822,268,FR-FR,Grâce salvatrice,Ressuscite parfois après avoir été tué.
+275,30,DE-DE,Gritzexperte,Verstärkt die Wirkung von Dunkelheitsangriffen und senkt ihre MP-Kosten.
+579,73,FR-FR,Gros méchant,Augmente les dégâts infligés aux monstres de taille G.
+211,23,IT-IT,Guru dei Fluidi,Aumenta la potenza degli attacchi d'acqua e ne riduce il consumo di PM.
+238,26,IT-IT,Guru del Bang,Aumenta la potenza degli attacchi esplosivi e ne riduce il consumo di PM.
+256,28,IT-IT,Guru del Fulmine,Aumenta la potenza degli attacchi elettrici e ne riduce il consumo di PM.
+265,29,IT-IT,Guru del Fuoco,Aumenta la potenza degli attacchi di luce e ne riduce il consumo di PM.
+247,27,IT-IT,Guru del Gelo,Aumenta la potenza degli attacchi di ghiaccio e ne riduce il consumo di PM.
+220,24,IT-IT,Guru del Vento,Aumenta la potenza degli attacchi di vento e ne riduce il consumo di PM.
+202,22,IT-IT,Guru della Fiamma,Aumenta la potenza degli attacchi di fuoco e ne riduce il consumo di PM.
+229,25,IT-IT,Guru della Roccia,Aumenta la potenza degli attacchi di terra e ne riduce il consumo di PM.
+274,30,IT-IT,Guru dell'Elektron,Aumenta la potenza degli attacchi di oscurità e ne riduce il consumo di PM.
+281,31,EN-GB,Health Professional,Increases the potency of healing skills and decreases their MP consumption.
+749,233,EN-GB,Heaven-Sent,"Sometimes greatly increases attack, defence, agility or wisdom."
+30,4,FR-FR,Hégémonie tactique,Agit 2 à 3 fois de suite. Donner ou non des ordres n'affecte pas le nombre d'actions. Réduit la valeur maximale des caractéristiques.
+644,68,DE-DE,Heilender Angriff,Reguläre Angriffe heilen den Angreifer um die Hälfte des verursachten Schadens.
+284,31,DE-DE,Heilprofi,Verstärkt die Wirkung von Heiltalenten und senkt ihre MP-Kosten.
+816,88,ES-ES,Herencia generosa,"Cuando el monstruo muere, aumenta en gran medida el ataque, la defensa, la agilidad y la sabiduría de todos los aliados."
+164,19,EN-GB,High Heal,Sometimes restores 80 or more HP to all allies during battle. Higher wisdom makes the healing effect more powerful.
+488,265,EN-GB,Hit Squad x2,"Direct attacks hit multiple times, but the damage per hit decreases as the number of hits increases."
+497,264,EN-GB,Hit Squad x3,"Direct attacks hit multiple times, but the damage per hit decreases as the number of hits increases."
+506,262,EN-GB,Hit Squad x4,"Direct attacks hit multiple times, but the damage per hit decreases as the number of hits increases."
+515,266,EN-GB,Hit Squad x6,"Direct attacks hit multiple times, but the damage per hit decreases as the number of hits increases."
+678,75,FR-FR,Hors pair,"Empêche parfois l'ennemi d'agir pendant 1 tour, en cours de combat."
+467,49,ZH-CN,ＨＰ自动恢复,行动后少量恢复ＨＰ
+466,49,ZH-TW,ＨＰ自動恢復,行動後少量恢復ＨＰ
+581,73,DE-DE,Immer auf die Großen,Fügt großen Monstern erhöhten Schaden zu.
+572,72,DE-DE,Immer auf die Kleinen,Fügt kleinen Monstern erhöhten Schaden zu.
+770,83,DE-DE,Immer schlimmer,"Verlängert die Wirkungsdauer von Talenten, die den Angriff, die Abwehr, Flinkheit oder Weisheit von Gegnern verringern, auf 5<nbsp>Runden. Verhindert außerdem nach dem Zufallsprinzip entweder Odemangriffe, kritische Treffer, den Einsatz von Magie oder blendet den Gegner."
+687,76,FR-FR,Impair et manque,"Empêche parfois l'ennemi d'agir pendant 1 tour, en cours de combat."
+409,44,IT-IT,Impulso critico,Rende molto più facile sferrare colpi critici.
+888,94,ES-ES,Impulso defensivo,Reduce el daño recibido si los PV caen por debajo de la mitad.
+886,94,IT-IT,Impulso difensivo,Riduce i danni subiti quando i PV rimasti scendono sotto al 50%.
+895,95,IT-IT,Impulso elusivo,A volte migliora la Schivata e aumenta di molto l'Agilità durante il combattimento se i PV rimasti scendono sotto al 50%. Si attiva una volta sola per battaglia.
+897,95,ES-ES,Impulso evasivo,A veces aumenta la evasión y aumenta mucho la agilidad durante el combate si los PV están a la mitad. Solo se activa una vez por combate.
+879,93,ES-ES,Impulso ofensivo,Aumenta el daño que se inflige si los PV caen por debajo de la mitad.
+877,93,IT-IT,Impulso offensivo,Aumenta i danni inflitti quando i PV rimasti scendono sotto al 50%.
+786,85,FR-FR,In extremis,Permet 1 fois au monstre de survivre avec 1 PV restant après avoir subi des dégâts qui auraient dû le faire tomber au combat.
+769,83,IT-IT,Indebolimento apprezzabile,"Porta a 5 turni la durata di abilità che riducono l'Attacco, la Difesa, l'Agilità o la Saggezza dei nemici. Inoltre, blocca in modo casuale gli attacchi da respiro, i colpi critici o il lancio di magie, oppure abbaglia il nemico."
+308,34,EN-GB,Infected Skin,Sometimes poisons enemies that inflict direct attacks.
+1120,121,IT-IT,Ingegno Maximo,Rende più facile infliggere alterazioni di stato al nemico.
+924,98,ES-ES,Inquina personal,"Reduce mucho el ataque, la defensa, la agilidad y la sabiduría de un enemigo que ejecuta un golpe final y lo aturde durante el siguiente turno. Solo se activa una vez por combate."
+344,38,EN-GB,Insensitive Skin,Sometimes paralyses enemies that inflict direct attacks.
+56,7,EN-GB,Insta-Accel,Monster sometimes casts Accelerate on itself at the start of battle.
+60,7,ES-ES,Instaaceleración,A veces lanza Acelerar sobre sí mismo al comienzo del combate.
+74,9,EN-GB,Insta-Bounce,Monster sometimes casts Bounce on itself at the start of battle.
+47,6,EN-GB,Insta-Buff,Monster sometimes casts Buff on itself at the start of battle.
+51,6,ES-ES,Instafortalecimiento,A veces lanza Fortalecimiento sobre sí mismo al comienzo del combate.
+69,8,ES-ES,Instaintelecto,A veces lanza Intelecto sobre sí mismo al comienzo del combate.
+417,45,FR-FR,Instant critique,"Augmente les chances d'effectuer des coups critiques quand les PV sont réduits de moitié, et encore davantage lorsque les PV sont réduits de 3/4."
+38,5,EN-GB,Insta-Oomph,Monster sometimes casts Oomph on itself at the start of battle.
+65,8,EN-GB,Insta-Ping,Monster sometimes casts Ping on itself at the start of battle.
+78,9,ES-ES,Instarrebote,A veces lanza Rebote sobre sí mismo al comienzo del combate.
+668,74,EN-GB,Insult to Injury,"Increases damage inflicted on enemies that are poisoned, severely poisoned, stunned, asleep, confused or paralysed."
+114,13,ES-ES,Intelecto ocasional,A veces lanza Intelecto sobre sí mismo durante el combate.
+112,13,IT-IT,Intellygo casuale,A volte il mostro lancia Intellygo su se stesso durante la battaglia.
+67,8,IT-IT,Intellygo istantaneo,A volte il mostro lancia Intellygo su se stesso all'inizio della battaglia.
+681,75,ES-ES,Intimidación,A veces aturde al enemigo en el combate durante 1 turno.
+677,75,EN-GB,Intimidating,Sometimes stuns the enemy during battle for 1 turn.
+679,75,IT-IT,Intimidazione,A volte stordisce il nemico per un turno durante la battaglia.
+526,56,IT-IT,Iper Ammazzabelve,Aumenta di molto i danni inflitti ai mostri appartenenti alla famiglia delle belve e riduce tutte le resistenze.
+544,242,IT-IT,Iper Ammazzademoni,Aumenta di molto i danni inflitti ai mostri appartenenti alla famiglia dei demoni e riduce tutte le resistenze.
+535,57,IT-IT,Iper Ammazzanaturali,Aumenta di molto i danni inflitti ai mostri appartenenti alla famiglia dei naturali e riduce tutte le resistenze.
+1849,273,IT-IT,Irascibilità,A volta aumenta la Furia durante la battaglia.
+760,82,IT-IT,Irrobustimento notevole,"Porta a 5 turni la durata di abilità che incrementano l'Attacco, la Difesa, l'Agilità o la Saggezza degli alleati. Inoltre, conferisce in modo casuale invincibilità, la capacità di riflettere gli incantesimi o gli attacchi di respiro, oppure migliora la Schivata."
+248,27,DE-DE,Knirschexperte,Verstärkt die Wirkung von Eisangriffen und senkt ihre MP-Kosten.
+266,29,DE-DE,Knisterexperte,Verstärkt die Wirkung von Lichtangriffen und senkt ihre MP-Kosten.
+1850,273,DE-DE,Kochender Zorn,Füllt manchmal während des Kampfes den Raserei-Balken.
+914,97,DE-DE,Kollektivstrafe,"Angriffe, die mit steigendem Angriffswert mehr Schaden verursachen, treffen alle Gegner und nicht nur ein Ziel."
+149,17,DE-DE,Kraftsammeln,Benutzt manchmal während des Kampfes <DE99>Kraft sammeln<DE66>.
+473,50,DE-DE,Kreatives Comeback,Stellt nach jeder Aktion eine kleine Menge MP wieder her.
+437,238,DE-DE,Kreuzfeuer der Kritik,"Macht es erheblich leichter, kritische Zauber zu wirken."
+401,43,DE-DE,Kritische Klasse,"Macht es ein wenig leichter, kritische Treffer zu landen."
+410,44,DE-DE,Kritische Masse,"Macht es erheblich leichter, kritische Treffer zu landen."
+419,45,DE-DE,Kritischer Moment,"Macht es leichter, kritische Treffer zu landen, wenn die LP auf die Hälfte sinken, und noch leichter, wenn sie auf ein Viertel sinken."
+347,38,DE-DE,Lähmende Haut,"Lähmt manchmal Gegner, die direkt angreifen."
+626,66,DE-DE,Lähmungsangriff,Reguläre Angriffe lähmen manchmal den Gegner.
+552,70,FR-FR,Laminage,Augmente les dégâts infligés à l'ennemi proportionnellement au niveau du monstre attaquant. Efficace aussi contre les ennemis dotés de l'attribut Cuir d'acier.
+191,21,EN-GB,Last Gasp,Revives a single ally after it falls in battle. Only works once per battle.
+785,85,EN-GB,Last Legs,Allows the monster to survive at 1 HP after suffering an attack that would otherwise kill it.
+848,90,EN-GB,Late Bloomer,"Increases attack, defence, agility and wisdom from round 3 onwards, and even more so from round 6."
+194,21,DE-DE,Letztes Aufbäumen,Belebt einen gefallenen Mitstreiter wieder. Funktioniert nur ein Mal pro Kampf.
+571,72,IT-IT,Lieve minaccia,Aumenta i danni inflitti ai mostri di taglia piccola (P).
+158,18,DE-DE,Linderung,"Gibt manchmal während des Kampfes allen Verbündeten mindestens 30<nbsp>LP zurück. Je höher der Weisheitswert, desto wirksamer die Heilung."
+569,72,EN-GB,Little Menace,Increases damage inflicted on S-size monsters.
+903,96,FR-FR,Loi du plus faible,Augmente les dégâts infligés à l'ennemi proportionnellement aux PV manquant au monstre.
+155,18,EN-GB,Low Heal,Sometimes restores 30 or more HP to all allies during battle. Higher wisdom makes the healing effect more powerful.
+6,1,ES-ES,Lucha táctica,A veces ejecuta 2 acciones seguidas. El número de acciones no se verá afectado si no se dan órdenes específicas. Reduce muy ligeramente los atributos máx. del monstruo.
+167,19,DE-DE,Mächtige Linderung,"Gibt manchmal während des Kampfes allen Verbündeten mindestens 80<nbsp>LP zurück. Je höher der Weisheitswert, desto wirksamer die Heilung."
+185,20,DE-DE,Mächtiger Aufwind,"Gibt manchmal während des Kampfes allen Verbündeten mindestens 5<nbsp>MP zurück. Je höher die Stufe, desto mehr MP."
+258,28,ES-ES,Maese eléctrico,Aumenta la potencia de los ataques eléctricos y reduce el consumo de PM.
+222,24,ES-ES,Maese eólico,Aumenta la potencia de los ataques elementales de viento y reduce el consumo de PM.
+240,26,ES-ES,Maese explosivo,Aumenta la potencia de los ataques explosivos y reduce el consumo de PM.
+249,27,ES-ES,Maese helado,Aumenta la potencia de los ataques elementales de hielo y reduce el consumo de PM.
+204,22,ES-ES,Maese ígneo,Aumenta la potencia de los ataques elementales de fuego y reduce el consumo de PM.
+267,29,ES-ES,Maese incendiario,Aumenta la potencia de los ataques elementales de luz y reduce el consumo de PM.
+231,25,ES-ES,Maese riscoso,Aumenta la potencia de los ataques elementales de tierra y reduce el consumo de PM.
+213,23,ES-ES,Maese salpicador,Aumenta la potencia de los ataques elementales de agua y reduce el consumo de PM.
+276,30,ES-ES,Maese tormentoso,Aumenta la potencia de los ataques elementales de oscuridad y reduce el consumo de PM.
+237,26,FR-FR,Maestrobang,Renforce les attaques d'explosion et réduit leur coût en PM.
+264,29,FR-FR,Maestrocrame,Renforce les attaques de lumière et réduit leur coût en PM.
+273,30,FR-FR,Maestroélec,Renforce les attaques de ténèbres et réduit leur coût en PM.
+201,22,FR-FR,Maestroflamme,Renforce les attaques de feu et réduit leur coût en PM.
+255,28,FR-FR,Maestrofoudre,Renforce les attaques de foudre et réduit leur coût en PM.
+246,27,FR-FR,Maestroglace,Renforce les attaques de glace et réduit leur coût en PM.
+210,23,FR-FR,Maestroplouf,Renforce les attaques d'eau et réduit leur coût en PM.
+228,25,FR-FR,Maestroséisme,Renforce les attaques de terre et réduit leur coût en PM.
+219,24,FR-FR,Maestrotornade,Renforce les attaques de vent et réduit leur coût en PM.
+443,47,EN-GB,Magical Moment,Makes it easier to cast critical spells when HP drops to 1/2 or less<--->even more so when HP drops to 1/4 or less!
+176,205,DE-DE,Magischer Aufwind,"Gibt manchmal während des Kampfes allen Verbündeten mindestens 1<nbsp>MP zurück. Je höher die Stufe, desto mehr MP."
+446,47,DE-DE,Magischer Moment,"Macht es leichter, kritische Zauber zu wirken, wenn die LP auf die Hälfte sinken, und noch leichter, wenn sie auf ein Viertel sinken."
+767,83,EN-GB,Major Downer,"Extends the duration of skills that lower the strength, defence, agility or wisdom of enemies to 5 turns. In addition, randomly prevents breath attacks, critical hits or the casting of magic, or bedazzles the enemy."
+669,74,FR-FR,Mal en pis,"Augmente les dégâts infligés aux ennemis subissant l'empoisonnement, l'empoisonnement sévère, l'étourdissement, le sommeil, la confusion ou la paralysie."
+751,233,IT-IT,Manna dal cielo,"A volte aumenta di molto l'Attacco, la Difesa, l'Agilità o la Saggezza."
+852,90,ES-ES,Más vale tarde,"Aumenta el ataque, la defensa, la agilidad y la sabiduría a partir de la tercera ronda, y más aún a partir de la sexta."
+1154,124,EN-GB,Max. HP +12,Raises max. HP by 12.
+1163,125,EN-GB,Max. HP +16,Raises max. HP by 16.
+1127,220,EN-GB,Max. HP +2,Raises max. HP by 2.
+1172,209,EN-GB,Max. HP +20,Raises max. HP by 20.
+1181,126,EN-GB,Max. HP +24,Raises max. HP by 24.
+1190,221,EN-GB,Max. HP +30,Raises max. HP by 30.
+1199,210,EN-GB,Max. HP +36,Raises max. HP by 36
+1136,122,EN-GB,Max. HP +4,Raises max. HP by 4.
+1208,129,EN-GB,Max. HP +48,Raises max. HP by 48.
+1145,123,EN-GB,Max. HP +8,Raises max. HP by 8.
+1157,124,DE-DE,Max. LP +12,Erhöht das LP-Maximum um 12.
+1166,125,DE-DE,Max. LP +16,Erhöht das LP-Maximum um 16.
+1130,220,DE-DE,Max. LP +2,Erhöht das LP-Maximum um 2.
+1175,209,DE-DE,Max. LP +20,Erhöht das LP-Maximum um 20.
+1184,126,DE-DE,Max. LP +24,Erhöht das LP-Maximum um 24.
+1193,221,DE-DE,Max. LP +30,Erhöht das LP-Maximum um 30.
+1202,210,DE-DE,Max. LP +36,Erhöht das LP-Maximum um 36.
+1139,122,DE-DE,Max. LP +4,Erhöht das LP-Maximum um 4.
+1211,129,DE-DE,Max. LP +48,Erhöht das LP-Maximum um 48.
+1148,123,DE-DE,Max. LP +8,Erhöht das LP-Maximum um 8.
+1235,133,EN-GB,Max. MP +12,Raises max. MP by 12.
+1238,133,DE-DE,Max. MP +12,Erhöht das MP-Maximum um 12.
+1244,134,EN-GB,Max. MP +16,Raises max. MP by 16.
+1247,134,DE-DE,Max. MP +16,Erhöht das MP-Maximum um 16.
+1256,135,DE-DE,Max. MP +24,Erhöht das MP-Maximum um 24.
+1253,135,EN-GB,Max. MP +24,Raises max. MP by 24.
+1262,136,EN-GB,Max. MP +32,Raises max. MP by 32.
+1265,136,DE-DE,Max. MP +32,Erhöht das MP-Maximum um 32.
+1220,131,DE-DE,Max. MP +4,Erhöht das MP-Maximum um 4.
+1217,131,EN-GB,Max. MP +4,Raises max. MP by 4.
+1271,137,EN-GB,Max. MP +40,Raises max. MP by 40.
+1274,137,DE-DE,Max. MP +40,Erhöht das MP-Maximum um 40.
+1280,138,EN-GB,Max. MP +48,Raises max. MP by 48.
+1283,138,DE-DE,Max. MP +48,Erhöht das MP-Maximum um 48.
+1292,218,DE-DE,Max. MP +60,Erhöht das MP-Maximum um 60.
+1289,218,EN-GB,Max. MP +60,Raises max. MP by 60.
+1298,208,EN-GB,Max. MP +72,Raises max. MP by 72.
+1301,208,DE-DE,Max. MP +72,Erhöht das MP-Maximum um 72.
+1226,132,EN-GB,Max. MP +8,Raises max. MP by 8.
+1229,132,DE-DE,Max. MP +8,Erhöht das MP-Maximum um 8.
+1307,219,EN-GB,Max. MP +96,Raises max. MP by 96.
+1310,219,DE-DE,Max. MP +96,Erhöht das MP-Maximum um 96.
+456,48,ES-ES,Medidas desesperadas,Anula todo el daño sufrido por golpes y conjuros críticos.
+834,269,ES-ES,Melodía angelical,"Cuando el monstruo muere, invoca Prerresurreción en un aliado."
+438,238,ES-ES,Mente crítica,Permite lanzar conjuros críticos mucho más fácilmente.
+453,48,FR-FR,Mesures désespérées,Annule tous les dégâts infligés par des coups critiques et des sorts critiques.
+564,71,ES-ES,Metal a muerte,Ignora el efecto reductor de daño que proporciona el rasgo Piel de acero.
+551,70,EN-GB,Metal Beater,Inflicts additional damage on enemies. A higher level increases the effect. Works on enemies with the Metal Skin trait.
+561,71,FR-FR,Métal hurlant,Ignore la réduction des dégâts dont bénéficient les ennemis dotés de l'attribut Cuir d'acier.
+560,71,EN-GB,Metal Medley,Ignores the damage-reducing effect that the Metal Skin trait provides.
+554,70,DE-DE,Metallbeuler,"Fügt Gegnern zusätzlichen Schaden zu. Je höher die Stufe, desto stärker der Effekt. Funktioniert auch bei Gegnern mit der Eigenschaft Metallhaut."
+563,71,DE-DE,Metallmassaker,Ignoriert die schadensmindernde Wirkung der Eigenschaft Metallhaut.
+562,71,IT-IT,Metallurgia,Ignora l'effetto di riduzione dei danni dato dalla capacità Pelle metallica.
+580,73,IT-IT,Minaccia pesante,Aumenta i danni inflitti ai mostri di taglia grande (G).
+642,68,FR-FR,Miraculite,Permet aux attaques ordinaires de restaurer en PV l'équivalent de la moitié des dégâts infligés.
+641,68,EN-GB,Miraculous Touch,Regular attacks restore 1/2 of the damage they inflict on the enemy as HP.
+454,48,IT-IT,Misure disperate,Nega tutti i danni subiti da colpi e incantesimi critici.
+777,84,FR-FR,Moins une,Permet parfois au monstre de survivre avec 1 PV restant après avoir subi des dégâts qui auraient dû le faire tomber au combat.
+418,45,IT-IT,Momento critico,Rende più facile sferrare colpi critici quando i PV scendono al 50% e la facilità aumenta ancora quando si riducono al 25%.
+420,45,ES-ES,Momento crítico,"Permite ejecutar golpes críticos más fácilmente cuando los PV se reducen a la mitad o menos, y más aún cuando se reducen a un cuarto o menos."
+445,47,IT-IT,Momento magico,Rende più facile lanciare incantesimi critici quando i PV scendono al 50% e la facilità aumenta ancora quando si riducono al 25%.
+447,47,ES-ES,Momento mágico,"Permite lanzar conjuros críticos más fácilmente cuando los PV se reducen a la mitad o menos, y más aún cuando se reducen a un cuarto o menos."
+633,67,FR-FR,Morsubite,Permet parfois aux attaques ordinaires de provoquer la mort subite de l'ennemi.
+1791,204,KO-KR,MP 흡수 가드(대),MP가 흡수될 확률이 상당히 감소한다.
+1062,114,KO-KR,MP 흡수 브레이크(대),"MP를 흡수하는 공격의
+성공 확률이 상당히 증가한다."
+1783,204,JP-JP,MP吸収ガード大,ＭＰを　かなり吸収されにくくなる
+1054,114,JP-JP,MP吸収ブレイク大,"ＭＰを吸収する攻撃が
+かなり　効きやすくなる"
+1060,114,ZH-TW,ＭＰ吸收破‧大,"吸收ＭＰ的攻擊
+其效果大幅提升"
+1061,114,ZH-CN,ＭＰ吸收破防大,"吸收ＭＰ的攻击
+其效果大幅提升"
+1790,204,ZH-CN,ＭＰ吸收防护大,对ＭＰ吸收的抗性大幅提升
+1789,204,ZH-TW,ＭＰ吸收防護‧大,對ＭＰ吸收的抗性大幅提升
+485,51,ZH-CN,ＭＰ消耗减半,消耗ＭＰ减半
+476,50,ZH-CN,ＭＰ自动恢复,行动后少量恢复ＭＰ
+475,50,ZH-TW,ＭＰ自動恢復,行動後少量恢復ＭＰ
+866,92,EN-GB,Naked Ambition,Increases the likelihood of critical hits and critical spells if no accessory is equipped.
+464,49,DE-DE,Natürliche Gesundung,Stellt nach jeder Aktion eine kleine Menge LP wieder her.
+121,14,IT-IT,Nebbiamica casuale,A volte il mostro lancia Nebbiamica su se stesso durante la battaglia.
+123,14,ES-ES,Niebla ocasional,A veces usa Niebla sobre sí mismo durante el combate.
+536,57,DE-DE,Notorischer Naturspalter,Fügt Monstern der Naturfamilie erheblich höheren Schaden zu und reduziert alle Resistenzen ein wenig.
+813,88,FR-FR,Œuvre de bienfaisance,"Augmente énormément l'attaque, la défense, l'agilité et la sagesse des alliés si le monstre meurt."
+483,51,ES-ES,Ofertón mágico,Reduce a la mitad el consumo de PM.
+132,15,ES-ES,Onda de pánico ocasional,A veces usa Onda purificadora durante el combate.
+130,15,IT-IT,Onda guaritrice casuale,A volte usa Onda guaritrice durante la battaglia.
+141,16,ES-ES,Onda perjudicial ocasional,A veces usa Onda de pánico durante el combate.
+85,10,IT-IT,Ooomph casuale,A volte il mostro lancia Ooomph su se stesso durante la battaglia.
+40,5,IT-IT,Ooomph istantaneo,A volte il mostro lancia Ooomph su se stesso all'inizio della battaglia.
+671,74,DE-DE,Opportunist,"Fügt vergifteten, schwer vergifteten, betäubten, schlafenden, verwirrten oder gelähmten Gegnern erhöhten Schaden zu."
+859,91,IT-IT,Pan per focaccia,"Quando subisce un'alterazione di stato, infligge a quel nemico la stessa alterazione."
+623,66,EN-GB,Paralysing Touch,Regular attacks sometimes paralyse the enemy.
+624,66,FR-FR,Paralysite,Permet parfois aux attaques ordinaires de provoquer la paralysie de l'ennemi.
+803,87,EN-GB,Parting Gift,Inflicts damage back on all enemies when the monster dies. The amount inflicted is proportional to the excess damage suffered after the monster's HP are reduced to zero.
+492,265,ES-ES,Patrulla apalizadora x2,"Los ataques directos aciertan varias veces. A mayor número de golpes, menor es el daño que inflige cada uno."
+501,264,ES-ES,Patrulla apalizadora x3,"Los ataques directos aciertan varias veces. A mayor número de golpes, menor es el daño que inflige cada uno."
+510,262,ES-ES,Patrulla apalizadora x4,"Los ataques directos aciertan varias veces. A mayor número de golpes, menor es el daño que inflige cada uno."
+519,266,ES-ES,Patrulla apalizadora x6,"Los ataques directos aciertan varias veces. A mayor número de golpes, menor es el daño que inflige cada uno."
+301,33,IT-IT,Pelle aguzza,Restituisce il 25% dei danni subiti al nemico che ha sferrato un attacco diretto.
+310,34,IT-IT,Pelle infettante,A volte avvelena i nemici che sferrano attacchi diretti.
+346,38,IT-IT,Pelle paralizzante,A volte paralizza i nemici che sferrano attacchi diretti.
+292,32,IT-IT,Pelle protetta,A volte fa sì che gli attacchi diretti del nemico non funzionino.
+364,272,IT-IT,Pelle scintillante,A volte previene gli effetti negativi inflitti dall'avversario.
+328,36,IT-IT,Pelle soporifera,A volte addormenta i nemici che sferrano attacchi diretti.
+337,37,IT-IT,Pelle sorprendente,A volte confonde i nemici che sferrano attacchi diretti.
+355,39,IT-IT,Pelle spugnosa,A volte assorbe PM dai nemici che sferrano attacchi diretti.
+319,35,IT-IT,Pelle stordente,A volte stordisce i nemici che sferrano attacchi diretti per un turno.
+239,26,DE-DE,Pengexperte,Verstärkt die Wirkung explosiver Angriffe und senkt ihre MP-Kosten.
+582,73,ES-ES,Pequefobia,Aumenta el daño infligido a los monstruos de tamaño grande (G).
+920,98,EN-GB,Personal Grudge,"Greatly decreases the attack, defence, agility and wisdom of an enemy that lands a killer blow, and stuns them for the next turn. Only activates once per battle."
+923,98,DE-DE,Persönlicher Groll,"Wenn dieses Monster durch einen tödlichen Treffer stirbt, reduziert es den Angriff, die Abwehr, die Flinkheit und die Weisheit des Angreifers erheblich und betäubt ihn in der nächsten Runde. Wird nur ein Mal pro Kampf ausgelöst."
+570,72,FR-FR,Petite frappe,Augmente les dégâts infligés aux monstres de taille P.
+156,18,FR-FR,Petits soins,Restaure parfois au moins 30 PV à tous les alliés en cours de combat. La quantité de PV restaurés est proportionnelle à la sagesse du monstre utilisateur.
+357,39,ES-ES,Piel absorbente,A veces absorbe PM de los enemigos que ejecutan ataques directos.
+321,35,ES-ES,Piel aturdidora,A veces aturde a los enemigos que ejecutan ataques directos durante 1 turno.
+294,32,ES-ES,Piel escurridiza,A veces provoca que fallen ataques directos recibidos.
+339,37,ES-ES,Piel hipnótica,A veces confunde a los enemigos que ejecutan ataques directos.
+312,34,ES-ES,Piel infectada,A veces envenena a los enemigos que ejecutan ataques directos.
+348,38,ES-ES,Piel insensible,A veces paraliza a los enemigos que ejecutan ataques directos.
+303,33,ES-ES,Piel puntiaguda,Devuelve un cuarto del daño sufrido por ataques directos al enemigo atacante.
+330,36,ES-ES,Piel somnoliente,A veces duerme a los enemigos que ejecutan ataques directos.
+832,269,IT-IT,Pietà del cielo,"Quando muore, lancia Prevital su un alleato."
+1237,133,IT-IT,PM max +12,Aumenta i PM max di 12.
+1246,134,IT-IT,PM max +16,Aumenta i PM max di 16.
+1255,135,IT-IT,PM max +24,Aumenta i PM max di 24.
+1264,136,IT-IT,PM max +32,Aumenta i PM max di 32.
+1219,131,IT-IT,PM max +4,Aumenta i PM max di 4.
+1273,137,IT-IT,PM max +40,Aumenta i PM max di 40.
+1282,138,IT-IT,PM max +48,Aumenta i PM max di 48.
+1291,218,IT-IT,PM max +60,Aumenta i PM max di 60.
+1300,208,IT-IT,PM max +72,Aumenta i PM max di 72.
+1228,132,IT-IT,PM max +8,Aumenta i PM max di 8.
+1309,219,IT-IT,PM max +96,Aumenta i PM max di 96.
+1236,133,FR-FR,PM max. +12,Augmente les PM max. de 12 points.
+1239,133,ES-ES,PM máx. +12,Aumenta el PM máximo en 12.
+1245,134,FR-FR,PM max. +16,Augmente les PM max. de 16 points.
+1248,134,ES-ES,PM máx. +16,Aumenta el PM máximo en 16.
+1254,135,FR-FR,PM max. +24,Augmente les PM max. de 24 points.
+1257,135,ES-ES,PM máx. +24,Aumenta el PM máximo en 24.
+1263,136,FR-FR,PM max. +32,Augmente les PM max. de 32 points.
+1266,136,ES-ES,PM máx. +32,Aumenta el PM máximo en 32.
+1218,131,FR-FR,PM max. +4,Augmente les PM max. de 4 points.
+1221,131,ES-ES,PM máx. +4,Aumenta el PM máximo en 4.
+1272,137,FR-FR,PM max. +40,Augmente les PM max. de 40 points.
+1275,137,ES-ES,PM máx. +40,Aumenta el PM máximo en 40.
+1281,138,FR-FR,PM max. +48,Augmente les PM max. de 48 points.
+1284,138,ES-ES,PM máx. +48,Aumenta el PM máximo en 48.
+1290,218,FR-FR,PM max. +60,Augmente les PM max. de 60 points.
+1293,218,ES-ES,PM máx. +60,Aumenta el PM máximo en 60.
+1299,208,FR-FR,PM max. +72,Augmente les PM max. de 72 points.
+1302,208,ES-ES,PM máx. +72,Aumenta el PM máximo en 72.
+1227,132,FR-FR,PM max. +8,Augmente les PM max. de 8 points.
+1230,132,ES-ES,PM máx. +8,Aumenta el PM máximo en 8.
+1308,219,FR-FR,PM max. +96,Augmente les PM max. de 96 points.
+1311,219,ES-ES,PM máx. +96,Aumenta el PM máximo en 96.
+587,62,EN-GB,Poisonous Touch,Regular attacks sometimes poison the enemy.
+780,84,ES-ES,Por los pelos,"A veces permite que el monstruo sobreviva con 1 PV después de sufrir un ataque que, de otro modo, habría acabado con él."
+939,100,FR-FR,Poussée d'adrénaline,Augmente grandement l'attaque après avoir donné un coup critique.
+858,91,FR-FR,Prêté pour un rendu,"Inflige la même altération d'état à l'ennemi, quand le monstre en subit une."
+285,31,ES-ES,Profesional de la salud,Aumenta la potencia de las destrezas curativas y reduce el consumo de PM.
+282,31,FR-FR,Professionnel de santé,Renforce l'effet des compétences de soin et réduit leur coût en PM.
+762,82,ES-ES,Prórroga,"Amplía la duración de las destrezas que aumentan la fuerza, defensa, agilidad o sabiduría de los aliados a 5 turnos. Además, otorga al azar invencibilidad, la habilidad para reflejar conjuros o ataques de aliento, o aumenta la evasión."
+93,11,FR-FR,Protection aléatoire,Utilise parfois Protection sur soi-même en cours de combat.
+48,6,FR-FR,Protection initiale,Utilise parfois Protection sur soi-même en début de combat.
+876,93,FR-FR,Pulsion d'attaque,Augmente les dégâts infligés quand les PV sont réduits de moitié.
+885,94,FR-FR,Pulsion de défense,Réduit les dégâts subis quand les PV sont réduits de moitié.
+894,95,FR-FR,Pulsion d'esquive,"Augmente parfois l'esquive, et grandement l'agilité, quand les PV sont réduits de moitié en cours de combat. Ne s'active qu'une fois par combat."
+1848,273,FR-FR,Pulsion furieuse,Remplit parfois la jauge de furie en cours de combat.
+912,97,FR-FR,Punition collective,Permet aux attaques à cible unique basées sur la caractéristique attaque de frapper tous les ennemis.
+913,97,IT-IT,Punizione globale,Le abilità che infliggono più danni all'aumentare del valore dell'Attacco colpiscono tutti i nemici invece di un solo bersaglio.
+922,98,IT-IT,Puro rancore,"Riduce di molto l'Attacco, la Difesa, l'Agilità e la Saggezza di un nemico che sferra un colpo di grazia e lo stordisce per il turno successivo. Si attiva una volta sola per battaglia."
+1156,124,IT-IT,PV max +12,Aumenta i PV max di 12.
+1165,125,IT-IT,PV max +16,Aumenta i PV max di 16.
+1129,220,IT-IT,PV max +2,Aumenta i PV max di 2.
+1174,209,IT-IT,PV max +20,Aumenta i PV max di 20.
+1183,126,IT-IT,PV max +24,Aumenta i PV max di 24.
+1192,221,IT-IT,PV max +30,Aumenta i PV max di 30.
+1201,210,IT-IT,PV max +36,Aumenta i PV max di 36.
+1138,122,IT-IT,PV max +4,Aumenta i PV max di 4.
+1210,129,IT-IT,PV max +48,Aumenta i PV max di 48.
+1147,123,IT-IT,PV max +8,Aumenta i PV max di 8.
+1155,124,FR-FR,PV max. +12,Augmente les PV max. de 12 points.
+1158,124,ES-ES,PV máx. +12,Aumenta los PV máximos en 12.
+1164,125,FR-FR,PV max. +16,Augmente les PV max. de 16 points.
+1167,125,ES-ES,PV máx. +16,Aumenta los PV máximos en 16.
+1128,220,FR-FR,PV max. +2,Augmente les PV max. de 2 points.
+1131,220,ES-ES,PV máx. +2,Aumenta los PV máximos en 2.
+1173,209,FR-FR,PV max. +20,Augmente les PV max. de 20 points.
+1176,209,ES-ES,PV máx. +20,Aumenta los PV máximos en 20.
+1182,126,FR-FR,PV max. +24,Augmente les PV max. de 24 points.
+1185,126,ES-ES,PV máx. +24,Aumenta los PV máximos en 24.
+1191,221,FR-FR,PV max. +30,Augmente les PV max. de 30 points.
+1194,221,ES-ES,PV máx. +30,Aumenta los PV máximos en 30.
+1200,210,FR-FR,PV max. +36,Augmente les PV max. de 36 points.
+1203,210,ES-ES,PV máx. +36,Aumenta los PV máximos en 36.
+1137,122,FR-FR,PV max. +4,Augmente les PV max. de 4 points.
+1140,122,ES-ES,PV máx. +4,Aumenta los PV máximos en 4.
+1209,129,FR-FR,PV max. +48,Augmente les PV max. de 48 points.
+1212,129,ES-ES,PV máx. +48,Aumenta los PV máximos en 48.
+1146,123,FR-FR,PV max. +8,Augmente les PV max. de 8 points.
+1149,123,ES-ES,PV máx. +8,Aumenta los PV máximos en 8.
+148,17,IT-IT,Raccogliforze casuale,A volte usa Raccogli le forze durante la battaglia.
+186,20,ES-ES,Ráfaga mágica,"A veces devuelve 5 PM o más a todos los aliados durante el combate. Cuanto mayor sea el nivel, más PM restablecerá."
+759,82,FR-FR,Rallonge,"Étend à 5 tours la durée des compétences qui augmentent la force, la défense, l'agilité ou la sagesse des alliés. Par ailleurs, octroie aléatoirement l'invincibilité, la capacité de renvoyer les sorts ou les attaques de souffle, ou une augmentation de l'esquive."
+101,12,EN-GB,Rando-Accel,Monster sometimes casts Accelerate on itself during battle.
+92,11,EN-GB,Rando-Buff,Monster sometimes casts Buff on itself during battle.
+119,14,EN-GB,Rando-Mister,Monster sometimes uses Mist Me on itself during battle.
+146,17,EN-GB,Rando-Muster,Sometimes uses Muster Strength during battle.
+83,10,EN-GB,Rando-Oomph,Monster sometimes casts Oomph on itself during battle.
+137,16,EN-GB,Rando-Panic,Sometimes uses Wave of Panic during battle.
+110,13,EN-GB,Rando-Ping,Monster sometimes casts Ping on itself during battle.
+128,15,EN-GB,Rando-Relief,Sometimes uses Wave of Relief during battle.
+283,31,IT-IT,Recupera & risparmia,Aumenta la potenza delle abilità di cura e ne riduce il consumo di PM.
+426,46,FR-FR,Réflexion critique,Augmente les chances de lancer des sorts critiques.
+75,9,FR-FR,Réflexion initiale,Utilise parfois Réflexion sur soi-même en début de combat.
+805,87,IT-IT,Regalo d'addio,Reagisce infliggendo danni a tutti i nemici quando riceve un colpo di grazia. La quantità di danni inflitta è proporzionale ai danni ulteriori subiti dopo che i PV del mostro sono stati ridotti a zero.
+753,233,ES-ES,Regalo del cielo,"A veces aumenta mucho el ataque, la defensa, la agilidad o la sabiduría."
+795,86,FR-FR,Retour de bâton,Inflige des dégâts à l'ennemi qui a causé sa mort. Les dégâts infligés sont proportionnels à la quantité de ceux subis au-delà des PV restants du monstre.
+797,86,DE-DE,Retourkutsche,"Wenn dieses Monster einen tödlichen Treffer einsteckt, fügt es dem Angreifer ebenfalls Schaden zu. Dessen Höhe hängt davon ab, wie viel mehr Schaden das Monster erlitten hat, als nötig gewesen wäre, um seine LP auf null zu reduzieren."
+788,85,DE-DE,Rettungsleine,"Überlebt Treffer, die normalerweise tödlich wären, mit 1<nbsp>LP."
+150,17,ES-ES,Reunir fuerzas ocasional,A veces usa Reunir fuerzas durante el combate.
+867,92,FR-FR,Rien dans les mains,Augmente les chances de coups et de sorts critiques si le monstre n'est équipé d'aucun accessoire.
+804,87,FR-FR,Riposte mortem,Inflige des dégâts à tous les ennemis si le monstre meurt. Les dégâts infligés sont proportionnels à la quantité de ceux subis au-delà des PV restants du monstre.
+796,86,IT-IT,Rivincita istantanea,Reagisce infliggendo danni al nemico che ha appena sferrato un colpo di grazia. La quantità di danni inflitta è proporzionale ai danni ulteriori subiti dopo che i PV del mostro sono stati ridotti a zero.
+489,265,FR-FR,Rosseur double,"Les attaques directes touchent plusieurs fois. Toutefois, les dégâts de chaque coup diminuent en fonction de leur nombre."
+507,262,FR-FR,Rosseur quadruple,"Les attaques directes touchent plusieurs fois. Toutefois, les dégâts de chaque coup diminuent en fonction de leur nombre."
+516,266,FR-FR,Rosseur sextuple,"Les attaques directes touchent plusieurs fois. Toutefois, les dégâts de chaque coup diminuent en fonction de leur nombre."
+498,264,FR-FR,Rosseur triple,"Les attaques directes touchent plusieurs fois. Toutefois, les dégâts de chaque coup diminuent en fonction de leur nombre."
+787,85,IT-IT,Rotto della cuffia,Permette una sola volta al mostro di sopravvivere con 1 PV dopo aver subito un attacco che l'avrebbe ucciso.
+905,96,DE-DE,Rücken zur Wand,"Verursacht umso mehr Schaden, je weniger LP verbleiben."
+1608,170,ES-ES,Sabiduría +16,Aumenta la sabiduría en 16.
+1617,171,ES-ES,Sabiduría +24,Aumenta la sabiduría en 24.
+1626,172,ES-ES,Sabiduría +32,Aumenta la sabiduría en 32.
+1590,167,ES-ES,Sabiduría +4,Aumenta la sabiduría en 4.
+1635,173,ES-ES,Sabiduría +40,Aumenta la sabiduría en 40.
+1644,174,ES-ES,Sabiduría +48,Aumenta la sabiduría en 48.
+1653,223,ES-ES,Sabiduría +60,Aumenta la sabiduría en 60.
+1662,224,ES-ES,Sabiduría +72,Aumenta la sabiduría en 72.
+1599,168,ES-ES,Sabiduría +8,Aumenta la sabiduría en 8.
+1671,225,ES-ES,Sabiduría +96,Aumenta la sabiduría en 96.
+1605,170,FR-FR,Sagesse +16,Augmente la sagesse de 16 points.
+1614,171,FR-FR,Sagesse +24,Augmente la sagesse de 24 points.
+1623,172,FR-FR,Sagesse +32,Augmente la sagesse de 32 points.
+1587,167,FR-FR,Sagesse +4,Augmente la sagesse de 4 points.
+1632,173,FR-FR,Sagesse +40,Augmente la sagesse de 40 points.
+1641,174,FR-FR,Sagesse +48,Augmente la sagesse de 48 points.
+1650,223,FR-FR,Sagesse +60,Augmente la sagesse de 60 points.
+1659,224,FR-FR,Sagesse +72,Augmente la sagesse de 72 points.
+1596,168,FR-FR,Sagesse +8,Augmente la sagesse de 8 points.
+1668,225,FR-FR,Sagesse +96,Augmente la sagesse de 96 points.
+1606,170,IT-IT,Saggezza +16,Aumenta la Saggezza di 16.
+1615,171,IT-IT,Saggezza +24,Aumenta la Saggezza di 24.
+1624,172,IT-IT,Saggezza +32,Aumenta la Saggezza di 32.
+1588,167,IT-IT,Saggezza +4,Aumenta la Saggezza di 4.
+1633,173,IT-IT,Saggezza +40,Aumenta la Saggezza di 40.
+1642,174,IT-IT,Saggezza +48,Aumenta la Saggezza di 48.
+1651,223,IT-IT,Saggezza +60,Aumenta la Saggezza di 60.
+1660,224,IT-IT,Saggezza +72,Aumenta la Saggezza di 72.
+1597,168,IT-IT,Saggezza +8,Aumenta la Saggezza di 8.
+1669,225,IT-IT,Saggezza +96,Aumenta la Saggezza di 96.
+660,267,FR-FR,Sangsue,"Absorbe parfois une partie de l'attaque, de la défense, de l'agilité, de la sagesse ou des résistances de l'ennemi lors des attaques directes."
+661,267,IT-IT,Sanguisuga,"A volte gli attacchi normali sottraggono parte di un parametro dell'avversario tra Attacco, Difesa, Agilità, Saggezza o Resistenza."
+221,24,DE-DE,Säuselexperte,Verstärkt die Wirkung von Windangriffen und senkt ihre MP-Kosten.
+821,268,EN-GB,Saving Grace,Monster is sometimes resurrected after it dies.
+940,100,IT-IT,Scarica di adrenalina,Aumenta di molto l'Attacco dopo aver sferrato un colpo critico.
+715,79,IT-IT,Scarica elettrostatica,A volte paralizza i nemici che sferrano attacchi diretti quando il mostro stesso è paralizzato.
+428,46,DE-DE,Scharfe Kritik,"Macht es ein wenig leichter, kritische Zauber zu wirken."
+373,40,IT-IT,Schivata intoccabile,Rende più facile schivare gli attacchi nemici.
+382,41,IT-IT,Schivata suprema,Rende molto più facile schivare gli attacchi nemici.
+608,64,DE-DE,Schlafangriff,Reguläre Angriffe lassen den Gegner manchmal einschlummern.
+491,265,DE-DE,Schlagsalve,"Direkte Angriffe treffen mehrmals hintereinander, wobei der Schaden mit jedem Treffer sinkt."
+599,63,DE-DE,Schockierender Angriff,Reguläre Angriffe betäuben den Gegner manchmal für 1<nbsp>Runde.
+824,268,DE-DE,Schutzengel,"Wenn dieses Monster einen tödlichen Treffer einsteckt, wird es manchmal direkt wiederbelebt."
+356,39,DE-DE,Schwammige Haut,"Raubt Gegnern, die direkt angreifen, manchmal MP."
+518,266,DE-DE,Sechserschlagsalve,"Direkte Angriffe treffen mehrmals hintereinander, wobei der Schaden mit jedem Treffer sinkt."
+779,84,DE-DE,Seidener Faden,"Überlebt manchmal Treffer, die normalerweise tödlich wären, mit 1<nbsp>LP."
+868,92,IT-IT,Senza fronzoli,Aumenta di poco le probabilità di sferrare colpi e incantesimi critici se non si hanno accessori nell'equipaggiamento.
+263,29,EN-GB,Sizzmeister,Increases the potency of light-elemental attacks and decreases their MP consumption.
+704,78,EN-GB,Sleep Twitch,Attacks all enemies when the monster is asleep.
+605,64,EN-GB,Sleepy Touch,Regular attacks sometimes put the enemy to sleep.
+290,32,EN-GB,Slick Skin,Sometimes renders an enemy's direct attacks ineffective.
+794,86,EN-GB,Snappy Comeback,Inflicts damage back on an enemy that lands a killer blow. The amount inflicted is proportional to the excess damage suffered after the monster's HP are reduced to zero.
+722,80,EN-GB,Sobering Slap,Sometimes cures allies of sleep and confusion.
+175,205,IT-IT,Soffio magico,"A volte fa recuperare 1 o più PM a tutti gli alleati durante la battaglia. Quanto più è alto il livello di chi esegue questa tecnica, tanto maggiore sarà la quantità recuperata."
+59,7,DE-DE,Sofortige Beschleunigung,Wirkt manchmal zu Beginn eines Kampfes <DE99>Beschleunigung<DE66> auf sich selbst.
+50,6,DE-DE,Sofortige Stärkung,Wirkt manchmal zu Beginn eines Kampfes <DE99>Stärkung<DE66> auf sich selbst.
+41,5,DE-DE,Sofortiger Energieschub,Wirkt manchmal zu Beginn eines Kampfes <DE99>Energieschub<DE66> auf sich selbst.
+77,9,DE-DE,Sofortiges Boing,Wirkt manchmal zu Beginn eines Kampfes <DE99>Boing<DE66> auf sich selbst.
+68,8,DE-DE,Sofortiges Ping,Wirkt manchmal zu Beginn eines Kampfes <DE99>Ping<DE66> auf sich selbst.
+165,19,FR-FR,Soins intensifs,Restaure parfois au moins 80 PV à tous les alliés en cours de combat. La quantité de PV restaurés est proportionnelle à la sagesse du monstre utilisateur.
+705,78,FR-FR,Somnambulisme,Attaque tous les ennemis même quand le monstre subit le sommeil.
+326,36,EN-GB,Somnolent Skin,Sometimes puts enemies that inflict direct attacks to sleep.
+177,205,ES-ES,Soplo mágico,"A veces devuelve 1 PM o más a todos los aliados durante el combate. Cuanto mayor sea el nivel, más PM restablecerá."
+904,96,IT-IT,Spalle al muro,Infligge danni crescenti man mano che i PV diminuiscono.
+851,90,DE-DE,Spätzünder,"Erhöht den Angriff, die Abwehr, die Flinkheit und die Weisheit ab der dritten Runde und nochmals ab der sechsten Runde."
+76,9,IT-IT,Specchio riflesso istantaneo,A volte il mostro lancia Specchio riflesso su se stesso all'inizio della battaglia.
+299,33,EN-GB,Spiky Skin,Returns 1/4 of the damage suffered from direct attacks back at the attacking enemy.
+209,23,EN-GB,Splishmeister,Increases the potency of water-elemental attacks and decreases their MP consumption.
+353,39,EN-GB,Spongy Skin,Sometimes absorbs MP from enemies that inflict direct attacks.
+104,12,DE-DE,Sporadische Beschleunigung,Wirkt manchmal während des Kampfes <DE99>Beschleunigung<DE66> auf sich selbst.
+95,11,DE-DE,Sporadische Stärkung,Wirkt manchmal während des Kampfes <DE99>Stärkung<DE66> auf sich selbst.
+86,10,DE-DE,Sporadischer Energieschub,Wirkt manchmal während des Kampfes <DE99>Energieschub<DE66> auf sich selbst.
+122,14,DE-DE,Sporadischer Nebel,Wirkt manchmal während des Kampfes <DE99>Konfuselnebel<DE66> auf sich selbst.
+113,13,DE-DE,Sporadisches Ping,Wirkt manchmal während des Kampfes <DE99>Ping<DE66> auf sich selbst.
+212,23,DE-DE,Spritzexperte,Verstärkt die Wirkung von Wasserangriffen und senkt ihre MP-Kosten.
+302,33,DE-DE,Stachelhaut,Ein Viertel des durch direkte Angriffe erlittenen Schadens wird zum Angreifer zurückgeschickt.
+815,88,DE-DE,Starker Abgang,"Wenn dieses Monster einen tödlichen Treffer einsteckt, gibt es dem Angriff, der Abwehr, der Flinkheit und der Weisheit aller Verbündeten einen mächtigen Schub."
+842,89,DE-DE,Starker Start,"Fügt Gegnern bis zur dritten Runde mehr Schaden zu, aber ab der vierten Runde weniger."
+713,79,EN-GB,Static Discharge,Sometimes paralyses enemies that inflict direct attacks when the monster is paralysed itself.
+716,79,DE-DE,Statische Entladung,"Wenn dieses Monster gelähmt ist, werden direkte Angreifer manchmal ebenfalls gelähmt."
+761,82,DE-DE,Stete Stütze,"Verlängert die Wirkungsdauer von Talenten, die den Anrgiff, die Abwehr, Flinkheit oder Weisheit von Verbündeten erhöhen, auf 5<nbsp>Runden. Gewährt außerdem nach dem Zufallsprinzip entweder Unverwundbarkeit oder die Fähigkeit, Zauber oder Odemangriffe zu reflektieren, oder erleichtert das Ausweichen."
+725,80,DE-DE,Stimmungstöter,Weckt manchmal während des Kampfes schlafende Gefährten und heilt sie von Verwirrung.
+686,76,EN-GB,Strangely Alluring,Sometimes stuns the enemy during battle for 1 turn.
+839,89,EN-GB,Strong Starter,"Raises damage inflicted on enemies up to round 3, but lowers it from round 4 onwards."
+317,35,EN-GB,Stunning Skin,Sometimes stuns enemies that inflict direct attacks for 1 turn.
+596,63,EN-GB,Stunning Touch,Regular attacks sometimes stun the enemy for 1 turn.
+335,37,EN-GB,Stupefying Skin,Sometimes confuses enemies that inflict direct attacks.
+942,100,ES-ES,Subidón de adrenalina,Aumenta mucho el ataque tras infligir un golpe crítico.
+750,233,FR-FR,Super manne,"Augmente parfois grandement l'attaque, la défense, l'agilité ou la sagesse."
+480,51,FR-FR,Super promo magique,Réduit de moitié les coûts en PM.
+94,11,IT-IT,Superdifesa singola casuale,A volte il mostro lancia Superdifesa singola su se stesso durante la battaglia.
+49,6,IT-IT,Superdifesa singola istantanea,A volte il mostro lancia Superdifesa singola su se stesso all'inizio della battaglia.
+13,2,IT-IT,Superiorità tattica,Eseguire questa tecnica fa compiere 2 azioni consecutive. Il numero di azioni non varia neanche impartendo ordini specifici. Abbassa di poco i valori delle caratteristiche dei mostri.
+12,2,FR-FR,Supériorité tactique,Agit 2 fois de suite. Donner ou non des ordres n'affecte pas le nombre d'actions. Réduit légèrement la valeur maximale des caractéristiques.
+380,41,EN-GB,Supreme Sidestepper,Makes it much easier to avoid enemy attacks.
+850,90,IT-IT,Sviluppo vigoroso,"Aumenta l'Attacco, la Difesa, l'Agilità e la Saggezza dal round 3 in poi e ancora di più dal round 6."
+11,2,EN-GB,Tactical Commander,Performs 2 actions in a row. The number of actions is not affected if you don't issue specific orders. Slightly lowers the monster's max. attributes.
+20,3,EN-GB,Tactical Genius,Sometimes performs 2 or 3 actions in a row. The number of actions is not affected if you don't issue specific orders. Slightly lowers the monster's max. attributes.
+29,4,EN-GB,Tactical Titan,Performs 2 or 3 actions in a row. The number of actions is not affected if you don't issue specific orders. Lowers the monster's max. attributes.
+2,1,EN-GB,Tactical Trooper,Sometimes performs 2 actions in a row. The number of actions is not affected if you don't issue specific orders. Very slightly lowers the monster's max. attributes.
+23,3,DE-DE,Tadelloser Taktiker,"Führt manchmal 2 oder 3 Aktionen nacheinander aus. Es wirkt sich nicht auf die Anzahl der Aktionen aus, wenn du keine besonderen Befehle erteilst. Senkt die Attribute des Monsters minimal."
+14,2,DE-DE,Talentierter Taktiker,"Führt 2 Aktionen nacheinander aus. Es wirkt sich nicht auf die Anzahl der Aktionen aus, wenn du keine besonderen Befehle erteilst. Senkt die Attribute des Monsters geringfügig."
+5,1,DE-DE,Tatkräftiger Taktiker,"Führt manchmal 2 Aktionen nacheinander aus. Es wirkt sich nicht auf die Anzahl der Aktionen aus, wenn du keine besonderen Befehle erteilst. Senkt die Attribute des Monsters minimal."
+427,46,IT-IT,Teoreta critico,Rende più facile lanciare incantesimi critici.
+429,46,ES-ES,Teoría crítica,Permite lanzar conjuros críticos bastante más fácilmente.
+66,8,FR-FR,Tintement instantané,Utilise parfois Tilt sur soi-même en début de combat.
+111,13,FR-FR,Tintement sporadique,Utilise parfois Tilt sur soi-même en cours de combat.
+857,91,EN-GB,Tit for Tat,"When a monster is inflicted with a status ailment, the attacking enemy will have the same ailment inflicted back on them."
+33,4,ES-ES,Titán táctico,Ejecuta 2 o 3 acciones seguidas. El número de acciones no se verá afectado si no se dan órdenes específicas. Reduce los atributos máx. del monstruo.
+616,65,IT-IT,Tocco del caos,A volte gli attacchi normali confondono il nemico.
+634,67,IT-IT,Tocco letale,A volte gli attacchi normali eliminano il nemico all'istante.
+643,68,IT-IT,Tocco miracoloso,Gli attacchi normali fanno recuperare una quantità di PV pari al 50% dei danni inflitti al nemico.
+607,64,IT-IT,Tocco narcotizzante,A volte gli attacchi normali addormentano il nemico.
+625,66,IT-IT,Tocco paralizzante,A volte gli attacchi normali paralizzano il nemico.
+652,69,IT-IT,Tocco prosciugante,A volte gli attacchi normali assorbono parte dei PM del nemico.
+598,63,IT-IT,Tocco stordente,A volte gli attacchi normali stordiscono il nemico per un turno.
+589,62,IT-IT,Tocco tossico,A volte gli attacchi normali avvelenano il nemico.
+635,67,DE-DE,Tödlicher Angriff,Reguläre Angriffe töten den Gegner manchmal sofort.
+654,69,ES-ES,Toque absorbente,Los ataques normales a veces absorben parte del PM del enemigo.
+609,64,ES-ES,Toque adormecedor,Los ataques normales a veces duermen al enemigo.
+600,63,ES-ES,Toque aturdidor,Los ataques normales a veces aturden al enemigo durante 1 turno.
+618,65,ES-ES,Toque confundidor,Los ataques normales a veces confunden al enemigo.
+645,68,ES-ES,Toque milagroso,Los ataques normales restablecen la mitad del daño que infligen al enemigo en forma de PV.
+636,67,ES-ES,Toque mortal,Los ataques normales a veces acaban con el enemigo al instante.
+627,66,ES-ES,Toque paralizador,Los ataques normales a veces paralizan al enemigo.
+591,62,ES-ES,Toque venenoso,Los ataques normales a veces envenenan al enemigo.
+588,62,FR-FR,Toxicite,Permet parfois aux attaques ordinaires de provoquer l'empoisonnement de l'ennemi.
+949,101,IT-IT,Trance,Aumenta di molto la Saggezza dopo aver lanciato un incantesimo critico.
+950,101,DE-DE,Trance,"Erhöht die Weisheit erheblich, nachdem dem Monster ein kritischer Zauber geglückt ist."
+947,101,EN-GB,Trance State,Greatly increases wisdom after casting a critical spell.
+32,4,DE-DE,Traumhafter Taktiker,"Führt 2 oder 3 Aktionen nacheinander aus. Es wirkt sich nicht auf die Anzahl der Aktionen aus, wenn du keine besonderen Befehle erteilst. Senkt die Attribute des Monsters."
+400,43,IT-IT,Trionfo critico,Rende più facile sferrare colpi critici.
+941,100,DE-DE,Triumphgefühl,"Erhöht den Angriff erheblich, nachdem das Monster einen kritischen Treffer gelandet hat."
+402,43,ES-ES,Triunfo crítico,Permite ejecutar golpes críticos bastante más fácilmente.
+524,56,EN-GB,Über Beastsbane,Greatly increases damage inflicted on monsters from the beast family and lowers all resistances.
+542,242,EN-GB,Über Demonsbane,Greatly increases damage inflicted on monsters from the demon family and lowers all resistances.
+533,57,EN-GB,Über Naturesbane,Greatly increases damage inflicted on monsters from the nature family and lowers all resistances.
+195,21,ES-ES,Último aliento,Revive a un solo aliado después de caer en combate. Solo funciona una vez por combate.
+193,21,IT-IT,Ultimo respiro,Rianima un singolo alleato caduto in combattimento. Funziona una volta sola per battaglia.
+1714,180,IT-IT,Ultra Anti-Bang,Aumenta di molto la resistenza agli attacchi esplosivi.
+1750,184,IT-IT,Ultra Anti-Elektron,Aumenta di molto la resistenza agli attacchi di oscurità.
+1678,176,IT-IT,Ultra Anti-Fiamma,Aumenta di molto la resistenza agli attacchi di fuoco.
+1687,177,IT-IT,Ultra Anti-Fluidi,Aumenta di molto la resistenza agli attacchi d'acqua.
+1732,182,IT-IT,Ultra Anti-Fulmine,Aumenta di molto la resistenza agli attacchi elettrici.
+1741,183,IT-IT,Ultra Anti-Fuoco,Aumenta di molto la resistenza agli attacchi di luce.
+1723,181,IT-IT,Ultra Anti-Gelo,Aumenta di molto la resistenza agli attacchi di ghiaccio.
+1705,179,IT-IT,Ultra Anti-Roccia,Aumenta di molto la resistenza agli attacchi di terra.
+1786,204,IT-IT,Ultra Anti-Rubamagia,Aumenta di molto la resistenza all'assorbimento di PM.
+1831,186,IT-IT,Ultra Antitossine,Aumenta di molto la resistenza all'avvelenamento e all'avvelenamento grave.
+1829,186,EN-GB,Ultra Antitoxidant,Greatly increases resistance to poison and severe poison.
+1696,178,IT-IT,Ultra Anti-Vento,Aumenta di molto la resistenza agli attacchi di vento.
+1712,180,EN-GB,Ultra Bang Ward,Greatly increases resistance to explosive attacks.
+1759,198,IT-IT,Ultra Brutto cliente,Aumenta di molto la resistenza all'indebolimento.
+1793,190,EN-GB,Ultra Clear Thinker,Greatly increases resistance to confusion.
+1840,196,IT-IT,Ultra Contro-morte,Aumenta di molto la resistenza alla morte istantanea.
+1721,181,EN-GB,Ultra Crack Ward,Greatly increases resistance to ice-elemental attacks.
+992,106,EN-GB,Ultra Crafty Banger,Greatly increases the damage inflicted by explosive attacks.
+1064,115,EN-GB,Ultra Crafty Confuser,Makes it much easier to confuse the enemy.
+1001,107,EN-GB,Ultra Crafty Cracker,Greatly increases the damage inflicted by ice-elemental attacks.
+983,105,EN-GB,Ultra Crafty Cragger,Greatly increases the damage inflicted by earth-elemental attacks.
+1037,112,EN-GB,Ultra Crafty Dazzler,Makes it much easier to bedazzle the enemy.
+1028,111,EN-GB,Ultra Crafty Debilitator,"Makes it much easier to reduce an enemy's attack, defence, agility or wisdom."
+956,102,EN-GB,Ultra Crafty Frizzer,Greatly increases the damage inflicted by fire-elemental attacks.
+1055,114,EN-GB,Ultra Crafty Magic Drainer,Makes it much easier to absorb MP.
+1082,117,EN-GB,Ultra Crafty Paralyser,Makes it much easier to paralyse the enemy.
+1100,119,EN-GB,Ultra Crafty Poisoner,Makes it much easier to poison or severely poison the enemy.
+1073,116,EN-GB,Ultra Crafty Sleeper,Makes it much easier to put the enemy to sleep.
+1046,113,EN-GB,Ultra Crafty Spellbinder,Makes it much easier to prevent spellcasting.
+965,103,EN-GB,Ultra Crafty Splasher,Greatly increases the damage inflicted by water-elemental attacks.
+1091,118,EN-GB,Ultra Crafty Stunner,Makes it much easier to stun the enemy.
+1109,120,EN-GB,Ultra Crafty Whacker,Makes it much easier to kill the enemy instantly.
+974,104,EN-GB,Ultra Crafty Woosher,Greatly increases the damage inflicted by wind-elemental attacks.
+1019,110,EN-GB,Ultra Crafty Zammer,Greatly increases the damage inflicted by dark-elemental attacks.
+1010,108,EN-GB,Ultra Crafty Zapper,Greatly increases the damage inflicted by electrical attacks.
+1703,179,EN-GB,Ultra Crag Ward,Greatly increases resistance to earth-elemental attacks.
+1838,196,EN-GB,Ultra Death Defier,Greatly increases resistance to instant death.
+1784,204,EN-GB,Ultra Drain Blocker,Greatly increases resistance to MP absorption.
+1811,194,EN-GB,Ultra Fidget,Greatly increases resistance to paralysis.
+1676,176,EN-GB,Ultra Frizz Ward,Greatly increases resistance to fire-elemental attacks.
+1820,187,EN-GB,Ultra Granite Chin,Greatly increases resistance to being stunned.
+1039,112,IT-IT,Ultra Ingegno abbagliante,Rende molto più facile abbagliare il nemico.
+1048,113,IT-IT,Ultra Ingegno antimagico,Rende molto più facile impedire di lanciare magie.
+1066,115,IT-IT,Ultra Ingegno confusionario,Rende molto più facile confondere il nemico.
+1030,111,IT-IT,Ultra Ingegno debilitante,"Rende molto più facile ridurre l'Attacco, la Difesa, l'Agilità o la Saggezza di un nemico."
+1057,114,IT-IT,Ultra Ingegno drenante,Rende molto più facile assorbire PM.
+994,106,IT-IT,Ultra Ingegno esplosivo,Aumenta di molto i danni inflitti dagli attacchi esplosivi.
+958,102,IT-IT,Ultra Ingegno fiammeggiante,Aumenta di molto i danni inflitti dagli attacchi di fuoco.
+1093,118,IT-IT,Ultra Ingegno frastornante,Rende molto più facile stordire il nemico.
+1012,108,IT-IT,Ultra Ingegno fulminante,Aumenta di molto i danni inflitti dagli attacchi elettrici.
+1003,107,IT-IT,Ultra Ingegno glaciale,Aumenta di molto i danni inflitti dagli attacchi di ghiaccio.
+1111,120,IT-IT,Ultra Ingegno letale,Rende molto più facile eliminare istantaneamente il nemico.
+976,104,IT-IT,Ultra Ingegno monsonico,Aumenta di molto i danni inflitti dagli attacchi di vento.
+967,103,IT-IT,Ultra Ingegno oceanico,Aumenta di molto i danni inflitti dagli attacchi d'acqua.
+1021,110,IT-IT,Ultra Ingegno oscuro,Aumenta di molto i danni inflitti dagli attacchi di oscurità.
+1084,117,IT-IT,Ultra Ingegno paralizzante,Rende molto più facile paralizzare il nemico.
+985,105,IT-IT,Ultra Ingegno sismico,Aumenta di molto i danni inflitti dagli attacchi di terra.
+1075,116,IT-IT,Ultra Ingegno soporifero,Rende molto più facile addormentare il nemico.
+1102,119,IT-IT,Ultra Ingegno velenoso,Rende molto più facile avvelenare o avvelenare gravemente il nemico.
+1802,192,EN-GB,Ultra Insomniac,Greatly increases resistance to being put to sleep.
+1804,192,IT-IT,Ultra Insonnia,Aumenta di molto la resistenza al sonno.
+1813,194,IT-IT,Ultra Irrequietezza,Aumenta di molto la resistenza alla paralisi.
+1777,202,IT-IT,Ultra Magia indomabile,Aumenta di molto la resistenza all'antimagia.
+1795,190,IT-IT,Ultra Pensiero lucido,Aumenta di molto la resistenza alla confusione.
+1739,183,EN-GB,Ultra Sizz Ward,Greatly increases resistance to light-elemental attacks.
+1775,202,EN-GB,Ultra Spellbinder,Greatly increases resistance to antimagic.
+1685,177,EN-GB,Ultra Splish Ward,Greatly increases resistance to water-elemental attacks.
+1822,187,IT-IT,Ultra Testa dura,Aumenta di molto la resistenza allo stordimento.
+1757,198,EN-GB,Ultra Tough Customer,Greatly increases resistance to debilitation.
+1766,200,EN-GB,Ultra Visionary,Greatly increases resistance to bedazzlement.
+1768,200,IT-IT,Ultra Visione,Aumenta di molto la resistenza all'abbagliamento.
+1694,178,EN-GB,Ultra Woosh Ward,Greatly increases resistance to wind-elemental attacks.
+1748,184,EN-GB,Ultra Zam Ward,Greatly increases resistance to dark-elemental attacks.
+1730,182,EN-GB,Ultra Zap Ward,Greatly increases resistance to electrical attacks.
+1778,202,DE-DE,Ultra-Anti-Antimagier,Erhöht die Antimagieresistenz erheblich.
+1788,204,ES-ES,Ultraantidrenaje,Aumenta mucho la resistencia a la absorción de PM.
+1833,186,ES-ES,Ultraantitóxico,Aumenta mucho la resistencia al envenenamiento y el envenenamiento grave.
+1094,118,DE-DE,Ultra-Betäubungs-Profi,"Macht es erheblich einfacher, Gegner zu betäuben."
+986,105,DE-DE,Ultra-Bröckel-Profi,"Erhöht den Schaden, den Erdangriffe verursachen, erheblich."
+1706,179,DE-DE,Ultra-Bröckelresistenz,Erhöht die Resistenz gegen Erdangriffe erheblich.
+1014,108,ES-ES,Ultraconductor hábil,Aumenta mucho el daño infligido por los ataques eléctricos.
+1068,115,ES-ES,Ultraconfundidor hábil,Facilita mucho confundir al enemigo.
+528,56,ES-ES,Ultradañabestias,Aumenta mucho el daño infligido a monstruos de la familia de las bestias y reduce todas las resistencias.
+546,242,ES-ES,Ultradañademonios,Aumenta mucho el daño infligido a monstruos de la familia de los demonios y reduce todas las resistencias.
+537,57,ES-ES,Ultradañanaturales,Aumenta mucho el daño infligido a monstruos de la familia natural y reduce todas las resistencias.
+1032,111,ES-ES,Ultradebilitante hábil,"Facilita mucho reducir el ataque, la defensa, la agilidad o la sabiduría de un enemigo."
+1029,111,FR-FR,Ultradécupleur Affaiblis.,"Rend grandement plus efficaces les attaques réduisant l'attaque, la défense, l'agilité ou la sagesse de l'ennemi."
+1056,114,FR-FR,Ultradécupleur Aspirmagie,Rend grandement plus efficaces les attaques absorbant les PM.
+993,106,FR-FR,Ultradécupleur Bang,Augmente grandement les dégâts des attaques d'explosion.
+1065,115,FR-FR,Ultradécupleur Confusion,Rend grandement plus efficaces les attaques provoquant la confusion.
+1038,112,FR-FR,Ultradécupleur Éblouiss.,Rend grandement plus efficaces les attaques provoquant l'éblouissement.
+1020,110,FR-FR,Ultradécupleur Élec,Augmente grandement les dégâts des attaques de ténèbres.
+1047,113,FR-FR,Ultradécupleur Empêchem.,Rend grandement plus efficaces les attaques provoquant l'empêchement.
+1101,119,FR-FR,Ultradécupleur Empoisonn.,Rend grandement plus efficaces les attaques provoquant l'empoisonnement ou l'empoisonnement sévère.
+1092,118,FR-FR,Ultradécupleur Étourdis.,Rend grandement plus efficaces les attaques provoquant l'étourdissement.
+957,102,FR-FR,Ultradécupleur Flamme,Augmente grandement les dégâts des attaques de feu.
+1011,108,FR-FR,Ultradécupleur Foudre,Augmente grandement les dégâts des attaques de foudre.
+1002,107,FR-FR,Ultradécupleur Glace,Augmente grandement les dégâts des attaques de glace.
+1110,120,FR-FR,Ultradécupleur Mort sub.,Rend grandement plus efficaces les attaques provoquant la mort subite.
+1083,117,FR-FR,Ultradécupleur Paralysie,Rend grandement plus efficaces les attaques provoquant la paralysie.
+966,103,FR-FR,Ultradécupleur Plouf,Augmente grandement les dégâts des attaques d'eau.
+984,105,FR-FR,Ultradécupleur Séisme,Augmente grandement les dégâts des attaques de terre.
+1074,116,FR-FR,Ultradécupleur Sommeil,Rend grandement plus efficaces les attaques provoquant le sommeil.
+975,104,FR-FR,Ultradécupleur Tornade,Augmente grandement les dégâts des attaques de vent.
+1842,196,ES-ES,Ultradesafío a la muerte,Aumenta mucho la resistencia a la muerte instantánea.
+1787,204,DE-DE,Ultra-Diebstahlsicherung,Erhöht die Resistenz gegen MP-Absorption erheblich.
+996,106,ES-ES,Ultradinamitero hábil,Aumenta mucho el daño infligido por los ataques explosivos.
+1832,186,DE-DE,Ultra-Eiserner-Magen,Erhöht die Resistenz gegen Vergiftung und schwere Vergiftung erheblich.
+1104,119,ES-ES,Ultraenvenenador hábil,Facilita mucho envenenar o envenenar gravemente al enemigo.
+1040,112,DE-DE,Ultra-Fata-Morgana-Profi,"Macht es erheblich einfacher, den Gegner zu blenden."
+959,102,DE-DE,Ultra-Fauch-Profi,"Erhöht den Schaden, den Feuerangriffe verursachen, erheblich."
+1679,176,DE-DE,Ultra-Fauchresistenz,Erhöht die Resistenz gegen Feuerangriffe erheblich.
+1824,187,ES-ES,Ultragesto imperturbable,Aumenta mucho la resistencia al aturdimiento.
+1103,119,DE-DE,Ultra-Gift-Profi,"Macht es erheblich einfacher, Gegner zu vergiften oder schwer zu vergiften."
+1022,110,DE-DE,Ultra-Gritz-Profi,"Erhöht den Schaden, den Dunkelheitsangriffe verursachen, erheblich."
+1751,184,DE-DE,Ultra-Gritzresistenz,Erhöht die Resistenz gegen Dunkelheitsangriffe erheblich.
+1823,187,DE-DE,Ultra-Hart-im-Nehmen,Erhöht die Betäubungsresistenz erheblich.
+1779,202,ES-ES,Ultrahechizador,Aumenta mucho la resistencia a la antimagia.
+1050,113,ES-ES,Ultrahechizador hábil,Facilita mucho impedir lanzar conjuros.
+1805,192,DE-DE,Ultra-Hellwach,Erhöht die Schlafresistenz erheblich.
+1077,116,ES-ES,Ultrahipnotizador hábil,Facilita mucho dormir al enemigo.
+1041,112,ES-ES,Ultrailusionista hábil,Facilita mucho deslumbrar al enemigo.
+1761,198,ES-ES,Ultrainalterable,Aumenta mucho la resistencia a la debilitación.
+960,102,ES-ES,Ultraincendiario hábil,Aumenta mucho el daño infligido por los ataques elementales de fuego.
+1806,192,ES-ES,Ultrainsomnio,Aumenta mucho la resistencia a caer presa del sueño.
+1796,190,DE-DE,Ultra-Klarer-Kopf,Erhöht die Verwirrungsresistenz erheblich.
+1004,107,DE-DE,Ultra-Knirsch-Profi,"Erhöht den Schaden, den Eisangriffe verursachen, erheblich."
+1724,181,DE-DE,Ultra-Knirschresistenz,Erhöht die Resistenz gegen Eisangriffe erheblich.
+1742,183,DE-DE,Ultra-Knisterresistenz,Erhöht die Resistenz gegen Lichtangriffe erheblich.
+1085,117,DE-DE,Ultra-Lähmungs-Profi,"Macht es erheblich einfacher, Gegner zu lähmen."
+1023,110,ES-ES,Ultralanzarrayos hábil,Aumenta mucho el daño infligido por los ataques elementales de oscuridad.
+1058,114,DE-DE,Ultra-Magieentzug-Profi,"Macht es erheblich einfacher, MP zu absorbieren."
+1797,190,ES-ES,Ultramente despejada,Aumenta mucho la resistencia a la confusión.
+1086,117,ES-ES,Ultraparalizador hábil,Facilita mucho paralizar al enemigo.
+995,106,DE-DE,Ultra-Peng-Profi,"Erhöht den Schaden, den explosive Angriffe verursachen, erheblich."
+1715,180,DE-DE,Ultra-Pengresistenz,Erhöht die Resistenz gegen explosive Angriffe erheblich.
+1734,182,ES-ES,Ultraprotección aislante,Aumenta mucho la resistencia a los ataques eléctricos.
+1698,178,ES-ES,Ultraprotección antieólica,Aumenta mucho la resistencia a los ataques elementales de viento.
+1716,180,ES-ES,Ultraprotección antiexplosiones,Aumenta mucho la resistencia a los ataques explosivos.
+1743,183,ES-ES,Ultraprotección antincendios,Aumenta mucho la resistencia a los ataques elementales de luz.
+1680,176,ES-ES,Ultraprotección ignífuga,Aumenta mucho la resistencia a los ataques elementales de fuego.
+1689,177,ES-ES,Ultraprotección impermeable,Aumenta mucho la resistencia a los ataques elementales de agua.
+1752,184,ES-ES,Ultraprotección pararrayos,Aumenta mucho la resistencia a los ataques elementales de oscuridad.
+1707,179,ES-ES,Ultraprotección telúrica,Aumenta mucho la resistencia a los ataques elementales de tierra.
+1725,181,ES-ES,Ultraprotección térmica,Aumenta mucho la resistencia a los ataques elementales de hielo.
+1758,198,FR-FR,Ultraprotection Affaibli.,Augmente grandement la résistance à l'affaiblissement.
+1785,204,FR-FR,Ultraprotection Aspirma.,Augmente grandement la résistance à l'aspirmagie.
+1713,180,FR-FR,Ultraprotection Bang,Augmente grandement la résistance aux attaques explosives.
+1794,190,FR-FR,Ultraprotection Confus.,Augmente grandement la résistance à la confusion.
+1740,183,FR-FR,Ultraprotection Crame,Augmente grandement la résistance aux attaques de lumière.
+1767,200,FR-FR,Ultraprotection Ébloui.,Augmente grandement la résistance à l'éblouissement.
+1749,184,FR-FR,Ultraprotection Élec,Augmente grandement la résistance aux attaques de ténèbres.
+1776,202,FR-FR,Ultraprotection Empêch.,Augmente grandement la résistance à l'empêchement.
+1830,186,FR-FR,Ultraprotection Empois.,Augmente grandement la résistance à l'empoisonnement et à l'empoisonnement sévère.
+1821,187,FR-FR,Ultraprotection Étourdi.,Augmente grandement la résistance à l'étourdissement.
+1677,176,FR-FR,Ultraprotection Flamme,Augmente grandement la résistance aux attaques de feu.
+1731,182,FR-FR,Ultraprotection Foudre,Augmente grandement la résistance aux attaques de foudre.
+1722,181,FR-FR,Ultraprotection Glace,Augmente grandement la résistance aux attaques de glace.
+1839,196,FR-FR,Ultraprotection Mort sub.,Augmente grandement la résistance à la mort subite.
+1812,194,FR-FR,Ultraprotection Paralysie,Augmente grandement la résistance à la paralysie.
+1686,177,FR-FR,Ultraprotection Plouf,Augmente grandement la résistance aux attaques d'eau.
+1704,179,FR-FR,Ultraprotection Séisme,Augmente grandement la résistance aux attaques de terre.
+1803,192,FR-FR,Ultraprotection Sommeil,Augmente grandement la résistance à l'endormissement.
+1695,178,FR-FR,Ultraprotection Tornade,Augmente grandement la résistance aux attaques de vent.
+1059,114,ES-ES,Ultrarobamagia hábil,Facilita mucho absorber PM.
+1005,107,ES-ES,Ultrarrefrigerador hábil,Aumenta mucho el daño infligido por los ataques elementales de hielo.
+1815,194,ES-ES,Ultrasanvito,Aumenta mucho la resistencia a la parálisis.
+977,104,DE-DE,Ultra-Säusel-Profi,"Erhöht den Schaden, den Windangriffe verursachen, erheblich."
+1697,178,DE-DE,Ultra-Säuselresistenz,Erhöht die Resistenz gegen Windangriffe erheblich.
+1769,200,DE-DE,Ultra-Scharfseher,Erhöht die Blendungsresistenz erheblich.
+1076,116,DE-DE,Ultra-Schlaf-Profi,"Macht es erheblich einfacher, Gegner in Schlaf zu versetzen."
+968,103,DE-DE,Ultra-Schütt-Profi,"Erhöht den Schaden, den Wasserangriffe verursachen, erheblich."
+1031,111,DE-DE,Ultra-Schwachmacher-Profi,"Macht es erheblich einfacher, den Anrgiff, die Abwehr, die Flinkheit oder die Weisheit eines Gegners zu reduzieren."
+1113,120,ES-ES,Ultrasesino hábil,Facilita mucho matar al instante al enemigo.
+969,103,ES-ES,Ultraspersor hábil,Aumenta mucho el daño infligido por los ataques elementales de agua.
+1688,177,DE-DE,Ultra-Spritzresistenz,Erhöht die Resistenz gegen Wasserangriffe erheblich.
+987,105,ES-ES,Ultratelúrico hábil,Aumenta mucho el daño infligido por los ataques elementales de tierra.
+1841,196,DE-DE,Ultra-Todesverweigerer,Erhöht die Soforttodresistenz erheblich.
+1095,118,ES-ES,Ultraturdidor hábil,Facilita mucho aturdir al enemigo.
+978,104,ES-ES,Ultraventilador hábil,Aumenta mucho el daño infligido por los ataques elementales de viento.
+1067,115,DE-DE,Ultra-Verwirrungs-Profi,"Macht es erheblich einfacher, Gegner zu verwirren."
+1770,200,ES-ES,Ultravisionario,Aumenta mucho la resistencia al deslumbramiento.
+1112,120,DE-DE,Ultra-Wupp-Profi,"Macht es erheblich einfacher, Gegner sofort zu töten."
+1760,198,DE-DE,Ultra-Zäher-Kunde,Erhöht die Entkräftungsresistenz erheblich.
+1814,194,DE-DE,Ultra-Zappelphilipp,Erhöht die Lähmungsresistenz erheblich.
+1049,113,DE-DE,Ultra-Zauberbanner-Profi,"Macht es erheblich einfacher, Gegner am Zaubern zu hindern."
+1013,108,DE-DE,Ultra-Zick-Profi,"Erhöht den Schaden, den Blitzangriffe verursachen, erheblich."
+1733,182,DE-DE,Ultra-Zickresistenz,Erhöht die Resistenz gegen Blitzangriffe erheblich.
+320,35,DE-DE,Umwerfende Haut,"Betäubt Gegner, die direkt angreifen, manchmal für 1<nbsp>Runde."
+392,42,DE-DE,Unausweichlichmacher,"Stellt sicher, dass der Gegner Angriffen nicht ausweichen kann."
+902,96,EN-GB,Unhealthy Advantage,Inflicts increasing amounts of damage as remaining HP gets lower.
+707,78,DE-DE,Unruhiger Schläfer,Greift im Schlaf sämtliche Gegner an.
+138,16,FR-FR,Vague de panique,Utilise parfois Vague de panique en cours de combat.
+129,15,FR-FR,Vague de soulagement,Utilise parfois Vague de soulagement en cours de combat.
+4,1,IT-IT,Vantaggio tattico,Eseguire questa tecnica può far compiere 2 azioni consecutive. Il numero di azioni non varia neanche impartendo ordini specifici. Abbassa di pochissimo i valori delle caratteristiche dei mostri.
+103,12,IT-IT,Velocipiù casuale,A volte il mostro lancia Velocipiù su se stesso durante la battaglia.
+58,7,IT-IT,Velocipiù istantaneo,A volte il mostro lancia Velocipiù su se stesso all'inizio della battaglia.
+1851,273,ES-ES,Vena hinchada,A veces carga el medidor de fiereza durante un combate.
+906,96,ES-ES,Ventaja insalubre,Inflige cada vez más daño conforme se reducen los PV restantes.
+139,16,IT-IT,Vento di terrore casuale,A volte usa Vento di terrore durante la battaglia.
+184,20,IT-IT,Vento magico,"A volte fa recuperare 5 o più PM a tutti gli alleati durante la battaglia. Quanto più è alto il livello di chi esegue questa tecnica, tanto maggiore sarà la quantità recuperata."
+689,76,DE-DE,Verführerisches Zwinkern,Betäubt den Gegner manchmal während des Kampfes für 1<nbsp>Runde.
+338,37,DE-DE,Verwirrende Haut,"Verwirrt manchmal Gegner, die direkt angreifen."
+617,65,DE-DE,Verwirrungsangriff,Reguläre Angriffe verwirren manchmal den Gegner.
+455,48,DE-DE,Verzweifelte Abwehr,Negiert sämtlichen Schaden durch kritische Treffer und kritische Zauber.
+509,262,DE-DE,Viererschlagsalve,"Direkte Angriffe treffen mehrmals hintereinander, wobei der Schaden mit jedem Treffer sinkt."
+659,267,EN-GB,Weedy Touch,"Regular attacks sometimes absorb a portion of the enemy's attack, defence, agility, wisdom, or resistance attributes."
+1607,170,DE-DE,Weisheit +16,Erhöht die Weisheit um 16.
+1616,171,DE-DE,Weisheit +24,Erhöht die Weisheit um 24.
+1625,172,DE-DE,Weisheit +32,Erhöht die Weisheit um 32.
+1589,167,DE-DE,Weisheit +4,Erhöht die Weisheit um 4.
+1634,173,DE-DE,Weisheit +40,Erhöht die Weisheit um 40.
+1643,174,DE-DE,Weisheit +48,Erhöht die Weisheit um 48.
+1652,223,DE-DE,Weisheit +60,Erhöht die Weisheit um 60.
+1661,224,DE-DE,Weisheit +72,Erhöht die Weisheit um 72.
+1598,168,DE-DE,Weisheit +8,Erhöht die Weisheit um 8.
+1670,225,DE-DE,Weisheit +96,Erhöht die Weisheit um 96.
+131,15,DE-DE,Welle der Erleichterung,Benutzt manchmal während des Kampfes <DE99>Welle der Erleichterung<DE66>.
+140,16,DE-DE,Welle der Panik,Benutzt manchmal während des Kampfes <DE99>Welle der Panik<DE66>.
+869,92,DE-DE,Weniger ist mehr,"Erhöht die Chance auf kritische Treffer und kritische Zauber, wenn das Monster nicht mit Zubehör ausgerüstet wurde."
+698,77,DE-DE,Wirrer Wüter,Greift in verwirrtem Zustand immer einen Gegner an. Bei erfolgreichen Angriffen werden kritische Treffer verursacht.
+1604,170,EN-GB,Wisdom +16,Raises wisdom by 16.
+1613,171,EN-GB,Wisdom +24,Raises wisdom by 24.
+1622,172,EN-GB,Wisdom +32,Raises wisdom by 32.
+1586,167,EN-GB,Wisdom +4,Raises wisdom by 4.
+1631,173,EN-GB,Wisdom +40,Raises wisdom by 40.
+1640,174,EN-GB,Wisdom +48,Raises wisdom by 48.
+1649,223,EN-GB,Wisdom +60,Raises wisdom by 60.
+1658,224,EN-GB,Wisdom +72,Raises wisdom by 72.
+1595,168,EN-GB,Wisdom +8,Raises wisdom by 8.
+1667,225,EN-GB,Wisdom +96,Raises wisdom by 96.
+173,205,EN-GB,Wizardly Waft,Sometimes restores 1 or more MP to all allies during battle. A higher level increases the restored amount.
+182,20,EN-GB,Wizardly Wind,Sometimes restores 5 or more MP to all allies during battle. A higher level increases the restored amount.
+218,24,EN-GB,Wooshmeister,Increases the potency of wind-elemental attacks and decreases their MP consumption.
+272,30,EN-GB,Zammeister,Increases the potency of dark-elemental attacks and decreases their MP consumption.
+254,28,EN-GB,Zapmeister,Increases the potency of electrical attacks and decreases their MP consumption.
+257,28,DE-DE,Zickexperte,Verstärkt die Wirkung von Blitzangriffen und senkt ihre MP-Kosten.
+830,269,EN-GB,Zinger Zongwriter,"If the monster dies, it casts Prezing on a single ally."
+388,42,JP-JP,アンチみかわし,敵のみかわしを無効化する
+64,8,JP-JP,いきなりインテ,"戦闘開始時　たまに
+自分に　インテを使う"
+46,6,JP-JP,いきなりスカラ,"戦闘開始時　たまに
+自分に　スカラを使う"
+37,5,JP-JP,いきなりバイキルト,"戦闘開始時　たまに
+自分に　バイキルトを使う"
+55,7,JP-JP,いきなりピオラ,"戦闘開始時　たまに
+自分に　ピオラを使う"
+73,9,JP-JP,いきなりマホカンタ,"戦闘開始時　たまに
+自分に　マホカンタを使う"
+766,83,JP-JP,いやがらせ,"敵の　攻撃力　守備力　すばやさ
+かしこさを　下げたとき
+効果が　５ターン長持ちする
+さらに　呪文封じ　息封じ　会心封じ
+幻惑状態の　どれかを与える"
+667,74,JP-JP,おいうち,"敵が　毒　猛毒　休み　眠り　混乱　マヒの
+いずれかの状態のとき
+与えるダメージが増える"
+757,82,JP-JP,おだてじょうず,"仲間の　攻撃力　守備力　すばやさ
+かしこさを　上げたとき
+効果が　５ターン長持ちする
+さらに　呪文反射　ブレス反射　全行動無効
+回避率を上げる効果の　どれかを与える"
+892,95,JP-JP,かいひほんのう,"戦闘中　ＨＰが半分以下のとき
+たまに　すばやさが　かなり上がり
+身をかわす確率も上がる
+１戦闘で　１回だけしか発動しない"
+1603,170,JP-JP,かしこさプラス１６,かしこさが　１６上がる
+1612,171,JP-JP,かしこさプラス２４,かしこさが　２４上がる
+1621,172,JP-JP,かしこさプラス３２,かしこさが　３２上がる
+1585,167,JP-JP,かしこさプラス４,かしこさが　４上がる
+1630,173,JP-JP,かしこさプラス４０,かしこさが　４０上がる
+1639,174,JP-JP,かしこさプラス４８,かしこさが　４８上がる
+1648,223,JP-JP,かしこさプラス６０,かしこさが　６０上がる
+1657,224,JP-JP,かしこさプラス７２,かしこさが　７２上がる
+1594,168,JP-JP,かしこさプラス８,かしこさが　８上がる
+1666,225,JP-JP,かしこさプラス９６,かしこさが　９６上がる
+289,32,JP-JP,ギャンブルボディ,"敵の　直接攻撃が
+たまに　無効になる"
+694,77,JP-JP,きょうせんし,"混乱したときでも　必ず敵を攻撃する
+しかも　当たれば　会心のいちげきになる"
+361,272,JP-JP,キラキラボディ,"相手から受ける　悪い効果を
+たまに　防ぐ"
+775,84,JP-JP,くじけぬ心,"死んでしまうダメージを受けたときでも
+ＨＰ１で　たまに生き残る"
+334,37,JP-JP,ぐるぐるボディ,"直接攻撃してきた敵を
+たまに　混乱状態にする"
+613,65,JP-JP,こんらん攻撃,"通常攻撃をしたとき　たまに
+相手を　混乱状態にする"
+631,67,JP-JP,ザキ攻撃,"通常攻撃をしたとき　たまに
+相手を　即死させる"
+856,91,JP-JP,しっぺがえし,"状態異常にされたとき
+その相手も　同じ状態異常にする"
+478,51,JP-JP,しょうひＭＰ半分,消費ＭＰが　半分になる
+595,63,JP-JP,ショック攻撃,"通常攻撃をしたとき　たまに
+相手を　１ターン行動不能にする"
+1522,160,JP-JP,すばやさプラス１２,すばやさが　１２上がる
+1531,161,JP-JP,すばやさプラス１６,すばやさが　１６上がる
+1495,211,JP-JP,すばやさプラス２,すばやさが　２上がる
+1540,206,JP-JP,すばやさプラス２０,すばやさが　２０上がる
+1549,162,JP-JP,すばやさプラス２４,すばやさが　２４上がる
+1558,213,JP-JP,すばやさプラス３０,すばやさが　３０上がる
+1567,214,JP-JP,すばやさプラス３６,すばやさが　３６上がる
+1504,158,JP-JP,すばやさプラス４,すばやさが　４上がる
+1576,165,JP-JP,すばやさプラス４８,すばやさが　４８上がる
+1513,159,JP-JP,すばやさプラス８,すばやさが　８上がる
+568,72,JP-JP,スモールキラー,"Ｓサイズのモンスターに
+与えるダメージが増える"
+325,36,JP-JP,スヤスヤボディ,"直接攻撃してきた敵を
+たまに　眠り状態にする"
+730,81,JP-JP,セラピー,たまに　仲間の毒　猛毒　マヒ　休みを治す
+712,79,JP-JP,たいでんたいしつ,"マヒしているとき
+直接攻撃してきた敵を
+たまに　マヒさせる"
+145,17,JP-JP,ちからため,"戦闘中　ときどき
+ちからをためる"
+721,80,JP-JP,ツッコミ,たまに　仲間の眠りと混乱を治す
+820,268,JP-JP,てんしのきまぐれ,死んでしまっても　たまに生き返る
+829,269,JP-JP,てんしの音色,"死亡したとき
+仲間の誰かに　リザオラルを使う"
+874,93,JP-JP,とうそうほんのう,"ＨＰが　半分以下のとき
+与えるダメージが増える"
+109,13,JP-JP,ときどきインテ,"戦闘中　たまに
+自分に　インテを使う"
+91,11,JP-JP,ときどきスカラ,"戦闘中　たまに
+自分に　スカラを使う"
+82,10,JP-JP,ときどきバイキルト,"戦闘中　たまに
+自分に　バイキルトを使う"
+100,12,JP-JP,ときどきピオラ,"戦闘中　たまに
+自分に　ピオラを使う"
+118,14,JP-JP,ときどきまもりの霧,"戦闘中　たまに
+自分に　まもりの霧を使う"
+307,34,JP-JP,どくどくボディ,"直接攻撃してきた敵を
+たまに　毒状態にする"
+586,62,JP-JP,どく攻撃,"通常攻撃をしたとき　たまに
+相手を　毒状態にする"
+703,78,JP-JP,ねがえり,眠っているとき　敵全体を攻撃する
+604,64,JP-JP,ねむり攻撃,"通常攻撃をしたとき　たまに
+相手を　眠り状態にする"
+658,267,JP-JP,パワードレイン,"通常攻撃をしたとき　たまに
+相手の攻撃力　守備力　すばやさ
+かしこさ　耐性の　いずれかを下げて
+自分のものにする"
+127,15,JP-JP,ひかりのはどう,"戦闘中　たまに
+ひかりのはどうを使う"
+343,38,JP-JP,ビリビリボディ,"直接攻撃してきた敵を
+たまに　マヒ状態にする"
+415,45,JP-JP,ピンチで会心,"ＨＰが　半分以下のとき
+会心のいちげきが　出やすくなる
+ＨＰが　１/４以下のときは
+さらに確率アップ！"
+442,47,JP-JP,ピンチで呪文会心,"ＨＰが　半分以下のとき
+魔力の暴走が発生しやすくなる
+ＨＰが　１/４以下のときは
+さらに確率アップ！"
+937,100,JP-JP,ファイターズハイ,"会心のいちげきを出したとき
+攻撃力が　かなり上がる"
+190,21,JP-JP,ふっかつの祈り,"チカラ尽きた仲間を　生き返らせる
+ただし　１回の戦闘で１体まで"
+676,75,JP-JP,プレッシャー,"戦闘中　たまに
+敵を　１ターン行動不能にする"
+316,35,JP-JP,ヘロヘロボディ,"直接攻撃してきた敵を
+たまに　１ターン動けなくする"
+883,94,JP-JP,ぼうえいほんのう,"ＨＰが　半分以下のとき
+受けるダメージが減る"
+946,101,JP-JP,マジシャンズハイ,"魔力が暴走したとき
+かしこさが　かなり上がる"
+1810,194,JP-JP,マヒガード大,マヒ状態に　かなり　なりにくくなる
+1081,117,JP-JP,マヒブレイク大,"マヒ状態にする攻撃が
+かなり　効きやすくなる"
+622,66,JP-JP,マヒ攻撃,"通常攻撃をしたとき　たまに
+相手を　マヒ状態にする"
+352,39,JP-JP,マホキテボディ,"直接攻撃してきた敵から
+たまに　ＭＰを吸収する"
+649,69,JP-JP,マホトラ攻撃,"通常攻撃をしたとき　たまに
+相手のＭＰを吸収する"
+370,40,JP-JP,みかわしアップ大,"敵からの攻撃を
+結構　かわしやすくなる"
+640,68,JP-JP,ミラクル攻撃,"通常攻撃をしたとき
+与えたダメージの半分だけ
+自分のＨＰが回復する"
+559,71,JP-JP,メタルキラー,"メタルボディを持つ敵への攻撃も
+与えるダメージが減らない"
+550,70,JP-JP,メタルハンター,"レベルが高いほど
+敵に与えるダメージが増える
+メタルボディを持つ敵にも有効"
+298,33,JP-JP,やいばのボディ,"直接攻撃のダメージの　１/４を
+攻撃してきた敵に　はね返す"
+928,99,JP-JP,やまびこ,"たまに　呪文が　２回発動する
+消費ＭＰは　少し増える"
+136,16,JP-JP,やみのはどう,"戦闘中　たまに
+やみのはどうを使う"
+577,73,JP-JP,ラージキラー,"Ｌサイズのモンスターに
+与えるダメージが増える"
+784,85,JP-JP,ラストスタンド,"死んでしまうダメージを受けたときでも
+１回だけ　ＨＰ１で生き残る"
+685,76,JP-JP,ラブリー,"戦闘中　たまに
+敵を　１ターン行動不能にする"
+487,265,JP-JP,れんぞく,"直接攻撃が　連続でヒットする
+ただし　１回ごとのダメージは
+連続攻撃の回数に応じて　減少する"
+496,264,JP-JP,れんぞく３,"直接攻撃が　連続でヒットする
+ただし　１回ごとのダメージは
+連続攻撃の回数に応じて　減少する"
+505,262,JP-JP,れんぞく４,"直接攻撃が　連続でヒットする
+ただし　１回ごとのダメージは
+連続攻撃の回数に応じて　減少する"
+514,266,JP-JP,れんぞく６,"直接攻撃が　連続でヒットする
+ただし　１回ごとのダメージは
+連続攻撃の回数に応じて　減少する"
+838,89,JP-JP,ロケットスタート,"敵に与えるダメージが
+３ラウンド目まで増え
+４ラウンド目以降は減ってしまう"
+793,86,JP-JP,わるあがき,"死亡したとき
+攻撃してきた相手にダメージを与える
+ＨＰ０をオーバーした分のダメージが
+大きいほど　大ダメージになる"
+297,32,KO-KR,갬블 보디,"적의 직접 공격을
+가끔 무효화한다."
+1350,142,KO-KR,공격력 +12,공격력이 12 증가한다.
+1359,143,KO-KR,공격력 +16,공격력이 16 증가한다.
+1323,226,KO-KR,공격력 +2,공격력이 2 증가한다.
+1368,222,KO-KR,공격력 +20,공격력이 20 증가한다.
+1377,144,KO-KR,공격력 +24,공격력이 24 증가한다.
+1386,228,KO-KR,공격력 +30,공격력이 30 증가한다.
+1395,229,KO-KR,공격력 +36,공격력이 36 증가한다.
+1332,140,KO-KR,공격력 +4,공격력이 4 증가한다.
+1404,147,KO-KR,공격력 +48,공격력이 48 증가한다.
+1341,141,KO-KR,공격력 +8,공격력이 8 증가한다.
+702,77,KO-KR,광전사,"혼란에 빠졌을 때에도 반드시 적을 공격하며
+공격이 명중하면 회심의 일격이 발생한다."
+783,84,KO-KR,굳건한 마음,"죽음에 이르는 대미지를 입었을 때에도
+가끔 HP 1로 살아남는다."
+81,9,KO-KR,다짜고짜 마호칸타,"전투 시작 시 가끔
+자신에게 마호칸타를 사용한다."
+45,5,KO-KR,다짜고짜 바이킬트,"전투 시작 시 가끔
+자신에게 바이킬트를 사용한다."
+54,6,KO-KR,다짜고짜 스카라,"전투 시작 시 가끔
+자신에게 스카라를 사용한다."
+72,8,KO-KR,다짜고짜 인테,"전투 시작 시 가끔
+자신에게 인테를 사용한다."
+63,7,KO-KR,다짜고짜 피오라,"전투 시작 시 가끔
+자신에게 피오라를 사용한다."
+873,92,KO-KR,도수공권,"액세서리를 장비하지 않았을 때
+회심의 일격과 마력의 폭주가
+조금 발생하기 쉬워진다."
+1836,186,KO-KR,독 가드(대),"독, 맹독 상태가 될 확률이 상당히 감소한다."
+594,62,KO-KR,독 공격,"기본 공격을 했을 때 가끔
+상대를 독 상태로 만든다."
+1107,119,KO-KR,독 브레이크(대),"독, 맹독 상태로 만드는 공격의
+성공 확률이 상당히 증가한다."
+927,98,KO-KR,뒤끝 있는 타입,"자신을 쓰러뜨린 적을 다음 턴에
+움직일 수 없게 하고 공격력, 수비력,
+민첩함, 총명함을 상당히 감소시킨다.
+1회의 전투에서 한 번만 발동한다."
+729,80,KO-KR,딴죽 걸기,가끔 동료의 수면과 혼란을 회복한다.
+1710,179,KO-KR,땅 가드(대),"땅 속성 공격에
+상당히 강해진다."
+990,105,KO-KR,땅 브레이크(대),"땅 속성 공격의 대미지가
+상당히 증가한다."
+234,25,KO-KR,땅의 비결,"땅 속성 공격이 강해지고
+소비 MP도 줄어든다."
+90,10,KO-KR,때때로 바이킬트,"전투 중 가끔
+자신에게 바이킬트를 사용한다."
+126,14,KO-KR,때때로 수호의 안개,"전투 중 가끔
+자신에게 수호의 안개를 사용한다."
+99,11,KO-KR,때때로 스카라,"전투 중 가끔
+자신에게 스카라를 사용한다."
+117,13,KO-KR,때때로 인테,"전투 중 가끔
+자신에게 인테를 사용한다."
+108,12,KO-KR,때때로 피오라,"전투 중 가끔
+자신에게 피오라를 사용한다."
+792,85,KO-KR,라스트 스탠드,"죽음에 이르는 대미지를 입었을 때에도
+한 번만 HP 1을 남기고 살아남는다."
+585,73,KO-KR,라지 킬러,"L 사이즈 몬스터에게
+가하는 대미지가 증가한다."
+693,76,KO-KR,러블리,"전투 중 가끔
+적을 1턴 움직일 수 없게 한다."
+846,89,KO-KR,로켓 스타트,"적에게 가하는 대미지가
+3라운드까지 증가하고
+4라운드부터 감소한다."
+432,46,KO-KR,마력 폭주율 UP(대),"마력의 폭주가
+발생하기 쉬워진다."
+441,238,KO-KR,마력 폭주율 UP(슈퍼),"마력의 폭주가
+상당히 발생하기 쉬워진다."
+189,20,KO-KR,마력의 강풍,"전투 중 가끔
+동료 전원의 MP를 5 이상 회복한다.
+레벨이 높을수록 회복량이 상승한다."
+180,205,KO-KR,마력의 바람,"전투 중 가끔
+동료 전원의 MP를 1 이상 회복한다.
+레벨이 높을수록 회복량이 상승한다."
+1818,194,KO-KR,마비 가드(대),마비 상태가 될 확률이 상당히 감소한다.
+630,66,KO-KR,마비 공격,"기본 공격을 했을 때 가끔
+상대를 마비 상태로 만든다."
+1089,117,KO-KR,마비 브레이크(대),"마비 상태로 만드는 공격의
+성공 확률이 상당히 증가한다."
+360,39,KO-KR,마호키테 보디,"가끔 직접 공격해 온 적의
+MP를 흡수한다."
+657,69,KO-KR,마호토라 공격,"기본 공격을 했을 때 가끔
+상대의 MP를 흡수한다."
+954,101,KO-KR,매지션스 하이,"마력이 폭주했을 때
+총명함이 상당히 증가한다."
+315,34,KO-KR,맹독 보디,"가끔 직접 공격해 온 적을
+독 상태로 만든다."
+936,99,KO-KR,메아리,"가끔 주문이 2회 발동한다
+소비 MP가 조금 증가한다."
+567,71,KO-KR,메탈 킬러,"메탈 보디를 지닌 적을 공격해도
+가하는 대미지가 감소하지 않는다."
+558,70,KO-KR,메탈 헌터,"레벨이 높을수록
+적에게 가하는 대미지가 증가한다.
+메탈 보디를 지닌 적에게도 유효."
+1125,121,KO-KR,모든 가드 브레이크,"상대의 모든 내성치를
+상당량 무시한다."
+1692,177,KO-KR,물 가드(대),"물 속성 공격에
+상당히 강해진다."
+972,103,KO-KR,물 브레이크(대),"물 속성 공격의 대미지가
+상당히 증가한다."
+216,23,KO-KR,물의 비결,"물 속성 공격이 강해지고
+소비 MP도 줄어든다."
+648,68,KO-KR,미라클 공격,"기본 공격을 했을 때
+가한 대미지의 절반만큼
+자신의 HP를 회복한다."
+1530,160,KO-KR,민첩함 +12,민첩함이 12 증가한다.
+1539,161,KO-KR,민첩함 +16,민첩함이 16 증가한다.
+1503,211,KO-KR,민첩함 +2,민첩함이 2 증가한다.
+1548,206,KO-KR,민첩함 +20,민첩함이 20 증가한다.
+1557,162,KO-KR,민첩함 +24,민첩함이 24 증가한다.
+1566,213,KO-KR,민첩함 +30,민첩함이 30 증가한다.
+1575,214,KO-KR,민첩함 +36,민첩함이 36 증가한다.
+1512,158,KO-KR,민첩함 +4,민첩함이 4 증가한다.
+1584,165,KO-KR,민첩함 +48,민첩함이 48 증가한다.
+1521,159,KO-KR,민첩함 +8,민첩함이 8 증가한다.
+1701,178,KO-KR,바람 가드(대),"바람 속성 공격에
+상당히 강해진다."
+981,104,KO-KR,바람 브레이크(대),"바람 속성 공격의 대미지가
+상당히 증가한다."
+225,24,KO-KR,바람의 비결,"바람 속성 공격이 강해지고
+소비 MP도 줄어든다."
+369,272,KO-KR,반짝반짝 보디,"상대가 부여하는 나쁜 효과를
+가끔 막는다."
+801,86,KO-KR,발버둥,"사망했을 때
+공격해 온 상대에게 대미지를 가한다.
+남은 HP를 초과한 대미지가 클수록
+가하는 대미지가 커진다."
+891,94,KO-KR,방어 본능,"HP가 절반 이하일 때
+받는 대미지가 감소한다."
+909,96,KO-KR,배수진,"남은 HP가 적을수록
+적에게 가하는 대미지가 증가한다."
+342,37,KO-KR,뱅글뱅글 보디,"가끔 직접 공격해 온 적을
+혼란 상태로 만든다."
+756,233,KO-KR,별의 선물,"가끔 공격력, 수비력, 민첩함, 총명함 중
+하나를 상당히 증가시킨다."
+1782,202,KO-KR,봉인 가드(대),봉인 상태가 될 확률이 상당히 감소한다.
+1053,113,KO-KR,봉인 브레이크(대),"봉인 상태로 만드는 공격의
+성공 확률이 상당히 증가한다."
+198,21,KO-KR,부활의 기도,"죽은 동료 1체를 되살린다.
+전투 중 한 번만 발동할 수 있다."
+1854,273,KO-KR,분노의 샘,전투 중 가끔 격노 게이지가 상승한다.
+1683,176,KO-KR,불 가드(대),"불 속성 공격에
+상당히 강해진다."
+963,102,KO-KR,불 브레이크(대),"불 속성 공격의 대미지가
+상당히 증가한다."
+207,22,KO-KR,불의 비결,"불 속성 공격이 강해지고
+소비 MP도 줄어든다."
+1728,181,KO-KR,빙결 가드(대),"빙결 속성 공격에
+상당히 강해진다."
+1008,107,KO-KR,빙결 브레이크(대),"빙결 속성 공격의 대미지가
+상당히 증가한다."
+252,27,KO-KR,빙결의 비결,"빙결 속성 공격이 강해지고
+소비 MP도 줄어든다."
+1746,183,KO-KR,빛 가드(대),"빛 속성 공격에
+상당히 강해진다."
+270,29,KO-KR,빛의 비결,"빛 속성 공격이 강해지고
+소비 MP도 줄어든다."
+135,15,KO-KR,빛의 파동,"전투 중 가끔
+빛의 파동을 사용한다."
+486,51,KO-KR,소비 MP 절반,소비 MP가 1/2로 줄어든다.
+603,63,KO-KR,쇼크 공격,"기본 공격을 했을 때 가끔
+상대를 1턴 움직일 수 없게 한다."
+1809,192,KO-KR,수면 가드(대),수면 상태가 될 확률이 상당히 감소한다.
+612,64,KO-KR,수면 공격,"기본 공격을 했을 때 가끔
+상대를 수면 상태로 만든다."
+1080,116,KO-KR,수면 브레이크(대),"수면 상태로 만드는 공격의
+성공 확률이 상당히 증가한다."
+1431,152,KO-KR,수비력 +16,수비력이 16 증가한다.
+1440,153,KO-KR,수비력 +24,수비력이 24 증가한다.
+1449,154,KO-KR,수비력 +32,수비력이 32 증가한다.
+1413,149,KO-KR,수비력 +4,수비력이 4 증가한다.
+1458,155,KO-KR,수비력 +40,수비력이 40 증가한다.
+1467,156,KO-KR,수비력 +48,수비력이 48 증가한다.
+1476,215,KO-KR,수비력 +60,수비력이 60 증가한다.
+1485,216,KO-KR,수비력 +72,수비력이 72 증가한다.
+1422,150,KO-KR,수비력 +8,수비력이 8 증가한다.
+1494,217,KO-KR,수비력 +96,수비력이 96 증가한다.
+531,56,KO-KR,슈퍼 마수 킬러,"마수계 몬스터에게
+가하는 대미지가 상당히 증가한다.
+상대의 모든 내성치를
+상당량 무시한다."
+549,242,KO-KR,슈퍼 악마 킬러,"악마계 몬스터에게
+가하는 대미지가 상당히 증가한다.
+상대의 모든 내성치를
+상당량 무시한다."
+540,57,KO-KR,슈퍼 자연 킬러,"자연계 몬스터에게
+가하는 대미지가 상당히 증가한다.
+상대의 모든 내성치를
+상당량 무시한다."
+576,72,KO-KR,스몰 킬러,"S 사이즈 몬스터에게
+가하는 대미지가 증가한다."
+774,83,KO-KR,심술쟁이,"적의 공격력, 수비력, 민첩함,
+총명함을 감소시켰을 때
+효과가 5턴 오래 유지되고
+주문 봉인, 숨결 봉인, 회심 봉인,
+환혹 상태 중 하나를 부여한다."
+765,82,KO-KR,아부쟁이,"동료의 공격력, 수비력, 민첩함,
+총명함을 증가시켰을 때
+효과가 5턴 오래 유지되고
+주문 반사, 브레스 반사, 모든 행동 무효,
+회피율 증가 효과 중 하나를 부여한다."
+396,42,KO-KR,안티 회피,적의 회피를 무효화한다.
+864,91,KO-KR,앙갚음,"상태 이상에 걸렸을 때
+상태 이상을 부여한 상대에게도
+같은 상태 이상을 부여한다."
+1764,198,KO-KR,약체화 가드(대),약체화 공격에 상당히 강해진다.
+1035,111,KO-KR,약체화 브레이크(대),"적의 공격력, 수비력, 민첩함,
+총명함을 감소시키는 공격의
+성공 확률이 상당히 증가한다."
+1755,184,KO-KR,어둠 가드(대),"어둠 속성 공격에
+상당히 강해진다."
+1026,110,KO-KR,어둠 브레이크(대),"어둠 속성 공격의 대미지가
+상당히 증가한다."
+279,30,KO-KR,어둠의 비결,"어둠 속성 공격이 강해지고
+소비 MP도 줄어든다."
+144,16,KO-KR,어둠의 파동,"전투 중 가끔
+어둠의 파동을 사용한다."
+495,265,KO-KR,연속 ×2,"직접 공격이 연속 히트한다.
+단 히트당 대미지는
+연속 공격 횟수에 따라 감소한다."
+504,264,KO-KR,연속 ×3,"직접 공격이 연속 히트한다.
+단 히트당 대미지는
+연속 공격 횟수에 따라 감소한다."
+513,262,KO-KR,연속 ×4,"직접 공격이 연속 히트한다.
+단 히트당 대미지는
+연속 공격 횟수에 따라 감소한다."
+522,266,KO-KR,연속 ×6,"직접 공격이 연속 히트한다.
+단 히트당 대미지는
+연속 공격 횟수에 따라 감소한다."
+450,47,KO-KR,위기일 때 마력 폭주,"HP가 절반 이하일 때
+마력의 폭주가 발생하기 쉬워진다.
+HP가 1/4 이하로 줄어들면
+확률이 더욱 증가!"
+423,45,KO-KR,위기일 때 회심,"HP가 절반 이하일 때
+회심의 일격이 발생하기 쉬워진다.
+HP가 1/4 이하로 줄어들면
+확률이 더욱 증가한다!"
+747,230,KO-KR,의술가,"가끔 동료의 수면, 혼란,
+독, 맹독, 마비, 휴식을 치료한다."
+468,49,KO-KR,자동 HP 회복,행동한 후 HP를 조금 회복한다.
+477,50,KO-KR,자동 MP 회복,행동한 후 MP를 조금 회복한다.
+639,67,KO-KR,자키 공격,"기본 공격을 했을 때 가끔
+상대를 즉사시킨다."
+711,78,KO-KR,잠꼬대,잠들어 버렸을 때 적 전체를 공격한다.
+855,90,KO-KR,잠재된 힘,"3라운드부터 공격력, 수비력,
+민첩함, 총명함이 증가한다.
+6라운드부터 효과가 더욱 증가한다."
+1737,182,KO-KR,전격 가드(대),"전격 속성 공격에
+상당히 강해진다."
+1017,108,KO-KR,전격 브레이크(대),"전격 속성 공격의 대미지가
+상당히 증가한다."
+261,28,KO-KR,전격의 비결,"전격 속성 공격이 강해지고
+소비 MP도 줄어든다."
+918,97,KO-KR,전체 공격,"공격력을 사용하는 적 1체 대상의 공격이
+적 전체 공격이 된다."
+1845,196,KO-KR,즉사 가드(대),즉사할 확률이 상당히 감소한다.
+1116,120,KO-KR,즉사 브레이크(대),"즉사시키는 공격의
+성공 확률이 상당히 증가한다."
+863,91,ZH-CN,以牙还牙,"被敌方施加异常状态时
+该敌人也会陷入相同的异常状态"
+862,91,ZH-TW,以牙還牙,"我方被施加異常狀態時
+該敵人也會陷入相同的異常狀態"
+1819,187,JP-JP,休みガード大,休み状態に　かなり　なりにくくなる
+1090,118,JP-JP,休みブレイク大,"休み状態にする攻撃が
+かなり　効きやすくなる"
+1096,118,ZH-TW,休息破‧大,"造成休息狀態的攻擊
+其效果大幅提升"
+1097,118,ZH-CN,休息破防大,"造成休息状态的攻击
+其效果大幅提升"
+1826,187,ZH-CN,休息防护大,对休息状态的抗性大幅提升
+1825,187,ZH-TW,休息防護‧大,對休息狀態的抗性大幅提升
+451,48,JP-JP,会心かんぜんガード,"会心のいちげきや
+魔力暴走のダメージを
+すべて無効化する"
+458,48,ZH-CN,会心完全防御,"免疫所有会心一击
+和魔力失控的攻击
+所造成的伤害"
+397,43,JP-JP,会心率アップ大,"会心のいちげきが
+結構　出やすくなる"
+404,43,ZH-CN,会心率提升大,"中幅提升触发
+会心一击的概率"
+413,44,ZH-CN,会心率提升超,"大幅提升触发
+会心一击的概率"
+116,13,ZH-CN,偶尔因忒,"战斗中偶尔会
+对自己使用因忒"
+125,14,ZH-CN,偶尔守护之雾,"战斗中偶尔会
+对自己使用守护之雾"
+89,10,ZH-CN,偶尔巴依奇尔托,"战斗中偶尔会
+对自己使用巴依奇尔托"
+98,11,ZH-CN,偶尔斯卡拉,"战斗中偶尔会
+对自己使用斯卡拉"
+107,12,ZH-CN,偶尔比奥拉,"战斗中偶尔会
+对自己使用比奥拉"
+115,13,ZH-TW,偶發因忒,"戰鬥中偶爾會
+對自己使用因忒"
+124,14,ZH-TW,偶發守護之霧,"戰鬥中偶爾會
+對自己使用守護之霧"
+88,10,ZH-TW,偶發巴依奇爾托,"戰鬥中偶爾會
+對自己使用巴依奇爾托"
+97,11,ZH-TW,偶發斯卡拉,"戰鬥中偶爾會
+對自己使用斯卡拉"
+106,12,ZH-TW,偶發比奧拉,"戰鬥中偶爾會
+對自己使用比奧拉"
+351,38,KO-KR,찌릿찌릿 보디,"가끔 직접 공격해 온 적을
+마비 상태로 만든다."
+1738,183,JP-JP,光ガード大,"光属性の攻撃に
+かなり　強くなる"
+262,29,JP-JP,光のコツ,"光属性の攻撃が強くなり
+消費ＭＰも少なくなる"
+134,15,ZH-CN,光之波动,"战斗中偶尔会
+发动光之波动"
+133,15,ZH-TW,光之波動,"戰鬥中偶爾會
+發動光之波動"
+269,29,ZH-CN,光之秘诀,"光属性攻击的威力提升
+且减少ＭＰ消耗"
+1745,183,ZH-CN,光之防护大,"对光属性攻击的
+抗性大幅提升"
+268,29,ZH-TW,光的訣竅,"光屬性攻擊的威力提升
+且減少ＭＰ消耗"
+1744,183,ZH-TW,光防護‧大,"對光屬性攻擊的
+抗性大幅提升"
+1117,121,JP-JP,全ガードブレイク,"相手のすべての耐性値を
+下げて判定する"
+917,97,ZH-CN,全体攻击,"针对１名敌人的物理攻击
+改为攻击所有敌人"
+910,97,JP-JP,全体攻撃,"攻撃力を使う敵１体が対象の攻撃が
+敵全体対象になる"
+845,89,ZH-CN,全力冲刺,"前３回合对敌人
+造成的伤害增加
+第４回合起减少"
+844,89,ZH-TW,全力衝刺,"前３回合對敵人
+造成的傷害增加
+第４回合起減少"
+1124,121,ZH-CN,全防护破防,将对手所有抗性值视为降低
+1123,121,ZH-TW,全防護破,判定對手當前所有抗性值降低
+916,97,ZH-TW,全體攻擊,"針對１名敵人的物理攻擊
+改為攻擊所有敵人"
+828,268,KO-KR,천사의 변덕,사망해도 가끔 부활한다.
+837,269,KO-KR,천사의 음색,"사망했을 때 동료 중 하나에게
+리자오랄을 사용한다."
+250,27,ZH-TW,冰結的訣竅,"冰結屬性攻擊的威力提升
+且減少ＭＰ消耗"
+1006,107,ZH-TW,冰結破‧大,"冰結屬性攻擊的傷害
+大幅提升"
+1726,181,ZH-TW,冰結防護‧大,"對冰結屬性攻擊的
+抗性大幅提升"
+1007,107,ZH-CN,冰结破防大,"冰结属性攻击的伤害
+大幅提升"
+251,27,ZH-CN,冰结秘诀,"冰结属性攻击的威力提升
+且减少ＭＰ消耗"
+1727,181,ZH-CN,冰结防护大,"对冰结属性攻击的
+抗性大幅提升"
+1611,170,KO-KR,총명함 +16,총명함이 16 증가한다.
+1620,171,KO-KR,총명함 +24,총명함이 24 증가한다.
+1629,172,KO-KR,총명함 +32,총명함이 32 증가한다.
+1593,167,KO-KR,총명함 +4,총명함이 4 증가한다.
+1638,173,KO-KR,총명함 +40,총명함이 40 증가한다.
+1647,174,KO-KR,총명함 +48,총명함이 48 증가한다.
+1656,223,KO-KR,총명함 +60,총명함이 60 증가한다.
+1665,224,KO-KR,총명함 +72,총명함이 72 증가한다.
+1602,168,KO-KR,총명함 +8,총명함이 8 증가한다.
+1674,225,KO-KR,총명함 +96,총명함이 96 증가한다.
+305,33,ZH-CN,刀刃身躯,"将承受直接攻击的１/４伤害
+反弹到攻击自己的敌人身上"
+304,33,ZH-TW,刀刃軀體,"將承受直接攻擊的１/４傷害
+反彈到攻擊自己的敵人身上"
+773,83,ZH-CN,刁难,"降低敌人的攻击力、
+防御力、敏捷、智力时
+使效果持续时间延长５回合
+且附加咒文封印、气息封印、
+会心封印、迷惑状态任一效果"
+1161,124,KO-KR,최대 HP +12,최대 HP가 12 증가한다.
+1170,125,KO-KR,최대 HP +16,최대 HP가 16 증가한다.
+1134,220,KO-KR,최대 HP +2,최대 HP가 2 증가한다.
+1179,209,KO-KR,최대 HP +20,최대 HP가 20 증가한다.
+1188,126,KO-KR,최대 HP +24,최대 HP가 24 증가한다.
+1197,221,KO-KR,최대 HP +30,최대 HP가 30 증가한다.
+1206,210,KO-KR,최대 HP +36,최대 HP가 36 증가한다.
+1143,122,KO-KR,최대 HP +4,최대 HP가 4 증가한다.
+1215,129,KO-KR,최대 HP +48,최대 HP가 48 증가한다.
+1152,123,KO-KR,최대 HP +8,최대 HP가 8 증가한다.
+1242,133,KO-KR,최대 MP +12,최대 MP가 12 증가한다.
+1251,134,KO-KR,최대 MP +16,최대 MP가 16 증가한다.
+1260,135,KO-KR,최대 MP +24,최대 MP가 24 증가한다.
+1269,136,KO-KR,최대 MP +32,최대 MP가 32 증가한다.
+1224,131,KO-KR,최대 MP +4,최대 MP가 4 증가한다.
+1278,137,KO-KR,최대 MP +40,최대 MP가 40 증가한다.
+1287,138,KO-KR,최대 MP +48,최대 MP가 48 증가한다.
+1296,218,KO-KR,최대 MP +60,최대 MP가 60 증가한다.
+1305,208,KO-KR,최대 MP +72,최대 MP가 72 증가한다.
+1233,132,KO-KR,최대 MP +8,최대 MP가 8 증가한다.
+1314,219,KO-KR,최대 MP +96,최대 MP가 96 증가한다.
+810,87,KO-KR,최후의 발버둥,"사망했을 때
+적 전체에 대미지를 가한다.
+남은 HP를 초과한 대미지가 클수록
+가하는 대미지가 커진다."
+819,88,KO-KR,최후의 숨결,"사망했을 때
+동료의 공격력, 수비력,
+민첩함, 총명함을 매우 증가시킨다."
+675,74,KO-KR,추격,"적이 독, 맹독, 휴식, 수면, 혼란, 마비 중
+하나의 상태일 때
+가하는 대미지가 증가한다."
+1106,119,ZH-CN,剧毒破防大,"造成中毒、猛毒状态的攻击
+其效果大幅提升"
+314,34,ZH-CN,剧毒身躯,"偶尔会使直接攻击自己的
+敌人陷入中毒状态"
+1835,186,ZH-CN,剧毒防护大,对中毒、猛毒状态的抗性大幅提升
+313,34,ZH-TW,劇毒軀體,"偶爾會使直接攻擊自己的
+敵人陷入中毒狀態"
+171,19,KO-KR,치유의 위력,"전투 중 가끔
+동료 전원의 HP를 80 이상 회복한다.
+총명함이 높을수록 회복량이 상승한다."
+162,18,KO-KR,치유의 힘,"전투 중 가끔
+동료 전원의 HP를 30 이상 회복한다.
+총명함이 높을수록 회복량이 상승한다."
+746,230,ZH-CN,医术师,"偶尔会替伙伴治疗
+沉睡、混乱、中毒、猛毒、麻痹、休息状态"
+739,230,JP-JP,医術士,"たまに　仲間の眠り　混乱
+毒　猛毒　マヒ　休みを治す"
+306,33,KO-KR,칼날 보디,"직접 공격 대미지의 1/4을
+공격해 온 적에게 반사한다."
+421,45,ZH-TW,危急時觸發會心,"ＨＰ在一半以下時
+更容易觸發會心一擊
+若ＨＰ在１/４以下
+則機率進一步提升！"
+448,47,ZH-TW,危急時觸發魔力失控,"ＨＰ在一半以下時
+更容易觸發魔力失控
+若ＨＰ在１/４以下
+則機率進一步提升！"
+422,45,ZH-CN,危机会心,"ＨＰ在一半以下时
+更容易触发会心一击
+若ＨＰ在１/４以下
+则概率进一步提升！"
+449,47,ZH-CN,危机时魔力失控,"ＨＰ在一半以下时
+更容易触发魔力失控
+若ＨＰ在１/４以下
+则概率进一步提升！"
+1837,196,JP-JP,即死ガード大,かなり　即死しにくくなる
+1108,120,JP-JP,即死ブレイク大,"即死させる攻撃が
+かなり　効きやすくなる"
+1114,120,ZH-TW,即死破‧大,"造成即死的攻擊
+其效果大幅提升"
+1115,120,ZH-CN,即死破防大,"造成即死的攻击
+其效果大幅提升"
+1844,196,ZH-CN,即死防护大,对即死的抗性大幅提升
+1843,196,ZH-TW,即死防護‧大,對即死的抗性大幅提升
+683,75,ZH-CN,压力,"战斗中偶尔会使敌人
+无法行动１回合"
+691,76,ZH-TW,可愛,"戰鬥中偶爾會使敵人
+無法行動１回合"
+692,76,ZH-CN,可爱,"战斗中偶尔会使敌人
+无法行动１回合"
+727,80,ZH-TW,吐槽,偶爾會替夥伴治療睡眠和混亂狀態
+728,80,ZH-CN,吐槽,偶尔会替伙伴治疗沉睡和混乱状态
+359,39,ZH-CN,吸魔身躯,"偶尔会从直接攻击自己的
+敌人身上吸收ＭＰ"
+424,46,JP-JP,呪文会心率アップ大,"魔力の暴走が
+発生しやすくなる"
+331,36,ZH-TW,呼呼大睡軀體,"偶爾會使直接攻擊自己的
+敵人陷入睡眠狀態"
+333,36,KO-KR,쿨쿨 보디,"가끔 직접 공격해 온 적을
+수면 상태로 만든다."
+738,81,KO-KR,테라피,"가끔 동료의 독, 맹독, 마비, 휴식을 치료한다."
+280,31,JP-JP,回復のコツ,"回復特技の効果が上がり
+消費ＭＰも少なくなる"
+934,99,ZH-TW,回音,"偶爾會發動２次咒文
+消耗的ＭＰ小幅增加"
+935,99,ZH-CN,回音,"偶尔会发动２次咒文
+消耗的ＭＰ小幅增加"
+882,93,KO-KR,투쟁 본능,"HP가 절반 이하일 때
+가하는 대미지가 증가한다."
+341,37,ZH-CN,圈圈身躯,"偶尔会使直接攻击自己的
+敌人陷入混乱状态"
+1702,179,JP-JP,地ガード大,"地属性の攻撃に
+かなり　強くなる"
+226,25,JP-JP,地のコツ,"地属性の攻撃が強くなり
+消費ＭＰも少なくなる"
+982,105,JP-JP,地ブレイク大,"地属性の攻撃のダメージが
+かなり　上がる"
+989,105,ZH-CN,地之破防大,"地属性攻击的伤害
+大幅提升"
+233,25,ZH-CN,地之秘诀,"地属性攻击的威力提升
+且减少ＭＰ消耗"
+1709,179,ZH-CN,地之防护大,"对地属性攻击的
+抗性大幅提升"
+232,25,ZH-TW,地的訣竅,"地屬性攻擊的威力提升
+且減少ＭＰ消耗"
+988,105,ZH-TW,地破‧大,"地屬性攻擊的傷害
+大幅提升"
+1708,179,ZH-TW,地防護‧大,"對地屬性攻擊的
+抗性大幅提升"
+808,87,ZH-TW,垂死掙扎,"死亡時對所有敵人造成傷害
+承受的傷害超過剩餘ＨＰ越多
+造成的傷害也越大"
+666,267,KO-KR,파워 드레인,"기본 공격을 했을 때 가끔
+상대의 공격력, 수비력, 민첩함,
+총명함, 내성 중 어느 하나를 낮추고
+내 것으로 만든다."
+945,100,KO-KR,파이터스 하이,"회심의 일격이 발생했을 때
+공격력이 상당히 증가한다."
+1719,180,KO-KR,폭발 가드(대),"폭발 속성 공격에
+상당히 강해진다."
+999,106,KO-KR,폭발 브레이크(대),"폭발 속성 공격의 대미지가
+상당히 증가한다."
+243,26,KO-KR,폭발의 비결,"폭발 속성 공격이 강해지고
+소비 MP도 줄어든다."
+197,21,ZH-CN,复活之愿,"使力竭的伙伴复活
+但一场战斗中仅能复活１只怪物"
+584,73,ZH-CN,大型杀手,"对Ｌ体型的怪物
+造成的伤害增加"
+583,73,ZH-TW,大型殺手,"對Ｌ體型的怪物
+造成的傷害增加"
+826,268,ZH-TW,天使的心血來潮,死亡時偶爾可復活
+827,268,ZH-CN,天使的心血来潮,死亡时偶尔可复活
+835,269,ZH-TW,天使的音色,"死亡時會對一個夥伴
+使用里扎奧拉爾"
+836,269,ZH-CN,天使的音色,"死亡时会对一个伙伴
+使用里扎奥拉尔"
+646,68,ZH-TW,奇蹟攻擊,"普通攻擊時
+以造成傷害的一半
+恢復自己ＨＰ"
+647,68,ZH-CN,奇迹攻击,"普通攻击时
+以造成伤害的一半
+恢复自己ＨＰ"
+684,75,KO-KR,프레셔,"전투 중 가끔
+적을 1턴 움직일 수 없게 한다."
+664,267,ZH-TW,威力吸取,"發動普通攻擊時
+偶爾會降低目標的攻擊力、守備力、
+速度、智力其中之一
+並將其納為己用"
+665,267,ZH-CN,威力吸取,"发动普通攻击时
+偶尔会降低目标的攻击力、防御力、
+敏捷、智力其中之一
+并将其纳为己用"
+682,75,ZH-TW,威懾,"戰鬥中偶爾會使敵人
+無法行動１回合"
+720,79,KO-KR,하전 체질,"마비됐을 때 가끔
+직접 공격해 온 적을 마비시킨다."
+324,35,KO-KR,해롱해롱 보디,"가끔 직접 공격해 온 적을
+1턴 움직일 수 없게 한다."
+1800,190,KO-KR,혼란 가드(대),혼란 상태가 될 확률이 상당히 감소한다.
+621,65,KO-KR,혼란 공격,"기본 공격을 했을 때 가끔
+상대를 혼란 상태로 만든다."
+1071,115,KO-KR,혼란 브레이크(대),"혼란 상태로 만드는 공격의
+성공 확률이 상당히 증가한다."
+1773,200,KO-KR,환혹 가드(대),환혹 상태가 될 확률이 상당히 감소한다.
+1044,112,KO-KR,환혹 브레이크(대),"환혹 상태로 만드는 공격의
+성공 확률이 상당히 증가한다."
+288,31,KO-KR,회복의 비결,"회복 특기의 효과가 증가하고
+소비 MP도 줄어든다."
+459,48,KO-KR,회심 완전 가드,"회심의 일격과
+마력 폭주 대미지를
+모두 무효화한다."
+405,43,KO-KR,회심률 UP(대),"회심의 일격이
+꽤 발생하기 쉬워진다."
+414,44,KO-KR,회심률 UP(슈퍼),"회심의 일격이
+상당히 발생하기 쉬워진다."
+378,40,KO-KR,회피 UP(대),"적의 공격을
+꽤 피하기 쉬워진다."
+387,41,KO-KR,회피 UP(슈퍼),"적의 공격을
+상당히 피하기 쉬워진다."
+900,95,KO-KR,회피 본능,"전투 중 HP가 절반 이하일 때
+가끔 민첩함이 상당히 증가하고
+회피할 확률도 증가한다.
+1회의 전투에서 한 번만 발동한다."
+1429,152,ZH-TW,守備力＋１６,守備力提升１６點
+1438,153,ZH-TW,守備力＋２４,守備力提升２４點
+1447,154,ZH-TW,守備力＋３２,守備力提升３２點
+1411,149,ZH-TW,守備力＋４,守備力提升４點
+1456,155,ZH-TW,守備力＋４０,守備力提升４０點
+1465,156,ZH-TW,守備力＋４８,守備力提升４８點
+1474,215,ZH-TW,守備力＋６０,守備力提升６０點
+1483,216,ZH-TW,守備力＋７２,守備力提升７２點
+1420,150,ZH-TW,守備力＋８,守備力提升８點
+1492,217,ZH-TW,守備力＋９６,守備力提升９６點
+1423,152,JP-JP,守備力プラス１６,守備力が　１６上がる
+1432,153,JP-JP,守備力プラス２４,守備力が　２４上がる
+1441,154,JP-JP,守備力プラス３２,守備力が　３２上がる
+1405,149,JP-JP,守備力プラス４,守備力が　４上がる
+1450,155,JP-JP,守備力プラス４０,守備力が　４０上がる
+1459,156,JP-JP,守備力プラス４８,守備力が　４８上がる
+1468,215,JP-JP,守備力プラス６０,守備力が　６０上がる
+1477,216,JP-JP,守備力プラス７２,守備力が　７２上がる
+1414,150,JP-JP,守備力プラス８,守備力が　８上がる
+1486,217,JP-JP,守備力プラス９６,守備力が　９６上がる
+332,36,ZH-CN,安眠身躯,"偶尔会使直接攻击自己的
+敌人陷入沉睡状态"
+1827,187,KO-KR,휴식 가드(대),휴식 상태가 될 확률이 상당히 감소한다.
+1098,118,KO-KR,휴식 브레이크(대),"휴식 상태로 만드는 공격의
+성공 확률이 상당히 증가한다."
+1774,202,JP-JP,封じガード大,封じ状態に　かなり　なりにくくなる
+1045,113,JP-JP,封じブレイク大,"封じ状態にする攻撃が
+かなり　効きやすくなる"
+1051,113,ZH-TW,封印破‧大,"造成封印狀態的攻擊
+其效果大幅提升"
+1052,113,ZH-CN,封印破防大,"造成封印状态的攻击
+其效果大幅提升"
+1781,202,ZH-CN,封印防护大,对封印状态的抗性大幅提升
+1780,202,ZH-TW,封印防護‧大,對封印狀態的抗性大幅提升
+575,72,ZH-CN,小型杀手,"对Ｓ体型的怪物
+造成的伤害增加"
+574,72,ZH-TW,小型殺手,"對Ｓ體型的怪物
+造成的傷害增加"
+153,17,KO-KR,힘 모으기,"전투 중 때때로
+힘을 모은다."
+719,79,ZH-CN,带电体质,"处于麻痹状态时
+偶尔会使直接攻击自己的
+敌人陷入麻痹状态"
+718,79,ZH-TW,帶電體質,"處於麻痺狀態時
+偶爾會使直接攻擊自己的
+敵人陷入麻痺狀態"
+1765,200,JP-JP,幻惑ガード大,幻惑状態に　かなり　なりにくくなる
+1036,112,JP-JP,幻惑ブレイク大,"幻惑状態にする攻撃が
+かなり　効きやすくなる"
+1756,198,JP-JP,弱体化ガード大,弱体化攻撃に　かなり　強くなる
+1027,111,JP-JP,弱体化ブレイク大,"敵の　攻撃力　守備力　すばやさ
+かしこさを下げる攻撃が
+かなり　効きやすくなる"
+1033,111,ZH-TW,弱化破‧大,"降低敵人攻擊力、守備力、
+速度、智力的攻擊
+其效果大幅提升"
+1034,111,ZH-CN,弱化破防大,"降低敌人攻击力、防御力、
+敏捷、智力的攻击
+其效果大幅提升"
+1763,198,ZH-CN,弱化防护大,对弱化攻击的抗性大幅提升
+1762,198,ZH-TW,弱化防護‧大,對弱化攻擊的抗性大幅提升
+865,92,JP-JP,徒手空拳,"アクセサリーを装備していないとき
+会心のいちげきと　魔力の暴走が
+少し　発生しやすくなる"
+196,21,ZH-TW,復活的祈禱,"使力竭的夥伴復活
+但一場戰鬥中僅能復活１隻怪物"
+1846,273,JP-JP,怒りの泉,怒りの泉　※説明文不要
+287,31,ZH-CN,恢复秘诀,"恢复特技的效果提升
+且减少ＭＰ消耗"
+286,31,ZH-TW,恢復的訣竅,"恢復特技的效果提升
+且減少ＭＰ消耗"
+1853,273,ZH-CN,愤怒之泉,战斗中暴怒量表偶尔会上升
+1852,273,ZH-TW,憤怒之泉,戰鬥中暴怒量表偶爾會上升
+925,98,ZH-TW,懷恨在心,"使打倒自己的敵人下一回合無法行動
+且攻擊力、守備力、速度、智力
+大幅降低
+一場戰鬥中只會發動一次"
+944,100,ZH-CN,战士狂热,"触发会心一击时
+攻击力大幅提升"
+943,100,ZH-TW,戰士狂熱,"觸發會心一擊時
+攻擊力大幅提升"
+638,67,ZH-CN,扎奇攻击,"普通攻击偶尔会对敌人
+造成即死效果"
+637,67,ZH-TW,扎奇攻擊,"普通攻擊偶爾會對敵人
+造成即死效果"
+394,42,ZH-TW,抗閃避,使敵人的閃避無效
+395,42,ZH-CN,抗闪避,使敌人的闪避无效
+772,83,ZH-TW,挑釁,"降低敵人的攻擊力、
+守備力、速度、智力時
+使效果持續時間延長５回合
+且附加咒文封印、氣息封印、
+會心封印、迷幻狀態任一效果"
+800,86,ZH-CN,挣扎,"死亡时对攻击自己的敌人造成伤害
+承受的伤害超过剩余ＨＰ越多
+造成的伤害也越大"
+764,82,ZH-CN,擅长嘲讽,"提升伙伴的攻击力、
+防御力、敏捷、智力时
+使效果持续时间延长５回合
+且附加咒文反射、吐息反射、
+全行动无效、闪避率提升任一效果"
+1349,142,ZH-CN,攻击力＋１２,攻击力提升１２点
+1358,143,ZH-CN,攻击力＋１６,攻击力提升１６点
+1322,226,ZH-CN,攻击力＋２,攻击力提升２点
+1367,222,ZH-CN,攻击力＋２０,攻击力提升２０点
+1376,144,ZH-CN,攻击力＋２４,攻击力提升２４点
+1385,228,ZH-CN,攻击力＋３０,攻击力提升３０点
+1394,229,ZH-CN,攻击力＋３６,攻击力提升３６点
+1331,140,ZH-CN,攻击力＋４,攻击力提升４点
+1403,147,ZH-CN,攻击力＋４８,攻击力提升４８点
+1340,141,ZH-CN,攻击力＋８,攻击力提升８点
+1342,142,JP-JP,攻撃力プラス１２,攻撃力が　１２上がる
+1351,143,JP-JP,攻撃力プラス１６,攻撃力が　１６上がる
+1315,226,JP-JP,攻撃力プラス２,攻撃力が　２上がる
+1360,222,JP-JP,攻撃力プラス２０,攻撃力が　２０上がる
+1369,144,JP-JP,攻撃力プラス２４,攻撃力が　２４上がる
+1378,228,JP-JP,攻撃力プラス３０,攻撃力が　３０上がる
+1387,229,JP-JP,攻撃力プラス３６,攻撃力が　３６上がる
+1324,140,JP-JP,攻撃力プラス４,攻撃力が　４上がる
+1396,147,JP-JP,攻撃力プラス４８,攻撃力が　４８上がる
+1333,141,JP-JP,攻撃力プラス８,攻撃力が　８上がる
+1348,142,ZH-TW,攻擊力＋１２,攻擊力提升１２點
+1357,143,ZH-TW,攻擊力＋１６,攻擊力提升１６點
+1321,226,ZH-TW,攻擊力＋２,攻擊力提升２點
+1366,222,ZH-TW,攻擊力＋２０,攻擊力提升２０點
+1375,144,ZH-TW,攻擊力＋２４,攻擊力提升２４點
+1384,228,ZH-TW,攻擊力＋３０,攻擊力提升３０點
+1393,229,ZH-TW,攻擊力＋３６,攻擊力提升３６點
+1330,140,ZH-TW,攻擊力＋４,攻擊力提升４點
+1402,147,ZH-TW,攻擊力＋４８,攻擊力提升４８點
+1339,141,ZH-TW,攻擊力＋８,攻擊力提升８點
+1529,160,ZH-CN,敏捷＋１２,敏捷提升１２点
+1538,161,ZH-CN,敏捷＋１６,敏捷提升１６点
+1502,211,ZH-CN,敏捷＋２,敏捷提升２点
+1547,206,ZH-CN,敏捷＋２０,敏捷提升２０点
+1556,162,ZH-CN,敏捷＋２４,敏捷提升２４点
+1565,213,ZH-CN,敏捷＋３０,敏捷提升３０点
+1574,214,ZH-CN,敏捷＋３６,敏捷提升３６点
+1511,158,ZH-CN,敏捷＋４,敏捷提升４点
+1583,165,ZH-CN,敏捷＋４８,敏捷提升４８点
+1520,159,ZH-CN,敏捷＋８,敏捷提升８点
+881,93,ZH-CN,斗争本能,"ＨＰ在一半以下时
+造成的伤害增加"
+593,62,ZH-CN,施毒攻击,"普通攻击偶尔会使敌人
+陷入中毒状态"
+748,233,JP-JP,星のおくりもの,"たまに　攻撃力　守備力　すばやさ　かしこさの
+いずれかが　かなり上がる"
+754,233,ZH-TW,星之餽贈,"偶爾會大幅提升攻擊力、守備力、
+速度、智力其中之一"
+755,233,ZH-CN,星之馈赠,"偶尔会大幅提升攻击力、防御力、
+敏捷、智力其中之一"
+1609,170,ZH-TW,智力＋１６,智力提升１６點
+1610,170,ZH-CN,智力＋１６,智力提升１６点
+1618,171,ZH-TW,智力＋２４,智力提升２４點
+1619,171,ZH-CN,智力＋２４,智力提升２４点
+1627,172,ZH-TW,智力＋３２,智力提升３２點
+1628,172,ZH-CN,智力＋３２,智力提升３２点
+1591,167,ZH-TW,智力＋４,智力提升４點
+1592,167,ZH-CN,智力＋４,智力提升４点
+1636,173,ZH-TW,智力＋４０,智力提升４０點
+1637,173,ZH-CN,智力＋４０,智力提升４０点
+1645,174,ZH-TW,智力＋４８,智力提升４８點
+1646,174,ZH-CN,智力＋４８,智力提升４８点
+1654,223,ZH-TW,智力＋６０,智力提升６０點
+1655,223,ZH-CN,智力＋６０,智力提升６０点
+1663,224,ZH-TW,智力＋７２,智力提升７２點
+1664,224,ZH-CN,智力＋７２,智力提升７２点
+1600,168,ZH-TW,智力＋８,智力提升８點
+1601,168,ZH-CN,智力＋８,智力提升８点
+1672,225,ZH-TW,智力＋９６,智力提升９６點
+1673,225,ZH-CN,智力＋９６,智力提升９６点
+143,16,ZH-CN,暗之波动,"战斗中偶尔会
+发动暗之波动"
+1025,110,ZH-CN,暗之破防大,"暗属性攻击的伤害
+大幅提升"
+1754,184,ZH-CN,暗之防护大,"对暗属性攻击的
+抗性大幅提升"
+818,88,ZH-CN,最后吐息,"死亡时极大幅提升伙伴的
+攻击力、防御力、敏捷、智力"
+791,85,ZH-CN,最后堡垒,"即使受到致命伤害
+也有１次机会以１点ＨＰ存活下来"
+809,87,ZH-CN,最后挣扎,"死亡时对所有敌人造成伤害
+承受的伤害超过剩余ＨＰ越多
+造成的伤害也越大"
+1159,124,ZH-TW,最大ＨＰ＋１２,最大ＨＰ提升１２點
+1160,124,ZH-CN,最大ＨＰ＋１２,最大ＨＰ提升１２点
+1168,125,ZH-TW,最大ＨＰ＋１６,最大ＨＰ提升１６點
+1169,125,ZH-CN,最大ＨＰ＋１６,最大ＨＰ提升１６点
+1132,220,ZH-TW,最大ＨＰ＋２,最大ＨＰ提升２點
+1133,220,ZH-CN,最大ＨＰ＋２,最大ＨＰ提升２点
+1177,209,ZH-TW,最大ＨＰ＋２０,最大ＨＰ提升２０點
+1178,209,ZH-CN,最大ＨＰ＋２０,最大ＨＰ提升２０点
+1186,126,ZH-TW,最大ＨＰ＋２４,最大ＨＰ提升２４點
+1187,126,ZH-CN,最大ＨＰ＋２４,最大ＨＰ提升２４点
+1195,221,ZH-TW,最大ＨＰ＋３０,最大ＨＰ提升３０點
+1196,221,ZH-CN,最大ＨＰ＋３０,最大ＨＰ提升３０点
+1204,210,ZH-TW,最大ＨＰ＋３６,最大ＨＰ提升３６點
+1205,210,ZH-CN,最大ＨＰ＋３６,最大ＨＰ提升３６点
+1141,122,ZH-TW,最大ＨＰ＋４,最大ＨＰ提升４點
+1142,122,ZH-CN,最大ＨＰ＋４,最大ＨＰ提升４点
+1213,129,ZH-TW,最大ＨＰ＋４８,最大ＨＰ提升４８點
+1214,129,ZH-CN,最大ＨＰ＋４８,最大ＨＰ提升４８点
+1150,123,ZH-TW,最大ＨＰ＋８,最大ＨＰ提升８點
+1151,123,ZH-CN,最大ＨＰ＋８,最大ＨＰ提升８点
+1153,124,JP-JP,最大HPプラス１２,最大ＨＰが　１２上がる
+1162,125,JP-JP,最大HPプラス１６,最大ＨＰが　１６上がる
+1126,220,JP-JP,最大HPプラス２,最大ＨＰが　２上がる
+1171,209,JP-JP,最大HPプラス２０,最大ＨＰが　２０上がる
+1180,126,JP-JP,最大HPプラス２４,最大ＨＰが　２４上がる
+1189,221,JP-JP,最大HPプラス３０,最大ＨＰが　３０上がる
+1198,210,JP-JP,最大HPプラス３６,最大ＨＰが　３６上がる
+1135,122,JP-JP,最大HPプラス４,最大ＨＰが　４上がる
+1207,129,JP-JP,最大HPプラス４８,最大ＨＰが　４８上がる
+1144,123,JP-JP,最大HPプラス８,最大ＨＰが　８上がる
+1240,133,ZH-TW,最大ＭＰ＋１２,最大ＭＰ提升１２點
+1241,133,ZH-CN,最大ＭＰ＋１２,最大ＭＰ提升１２点
+1249,134,ZH-TW,最大ＭＰ＋１６,最大ＭＰ提升１６點
+1250,134,ZH-CN,最大ＭＰ＋１６,最大ＭＰ提升１６点
+1258,135,ZH-TW,最大ＭＰ＋２４,最大ＭＰ提升２４點
+1259,135,ZH-CN,最大ＭＰ＋２４,最大ＭＰ提升２４点
+1267,136,ZH-TW,最大ＭＰ＋３２,最大ＭＰ提升３２點
+1268,136,ZH-CN,最大ＭＰ＋３２,最大ＭＰ提升３２点
+1222,131,ZH-TW,最大ＭＰ＋４,最大ＭＰ提升４點
+1223,131,ZH-CN,最大ＭＰ＋４,最大ＭＰ提升４点
+1276,137,ZH-TW,最大ＭＰ＋４０,最大ＭＰ提升４０點
+1277,137,ZH-CN,最大ＭＰ＋４０,最大ＭＰ提升４０点
+1285,138,ZH-TW,最大ＭＰ＋４８,最大ＭＰ提升４８點
+1286,138,ZH-CN,最大ＭＰ＋４８,最大ＭＰ提升４８点
+1294,218,ZH-TW,最大ＭＰ＋６０,最大ＭＰ提升６０點
+1295,218,ZH-CN,最大ＭＰ＋６０,最大ＭＰ提升６０点
+1303,208,ZH-TW,最大ＭＰ＋７２,最大ＭＰ提升７２點
+1304,208,ZH-CN,最大ＭＰ＋７２,最大ＭＰ提升７２点
+1231,132,ZH-TW,最大ＭＰ＋８,最大ＭＰ提升８點
+1232,132,ZH-CN,最大ＭＰ＋８,最大ＭＰ提升８点
+1312,219,ZH-TW,最大ＭＰ＋９６,最大ＭＰ提升９６點
+1313,219,ZH-CN,最大ＭＰ＋９６,最大ＭＰ提升９６点
+1234,133,JP-JP,最大MPプラス１２,最大ＭＰが　１２上がる
+1243,134,JP-JP,最大MPプラス１６,最大ＭＰが　１６上がる
+1252,135,JP-JP,最大MPプラス２４,最大ＭＰが　２４上がる
+1261,136,JP-JP,最大MPプラス３２,最大ＭＰが　３２上がる
+1216,131,JP-JP,最大MPプラス４,最大ＭＰが　４上がる
+1270,137,JP-JP,最大MPプラス４０,最大ＭＰが　４０上がる
+1279,138,JP-JP,最大MPプラス４８,最大ＭＰが　４８上がる
+1288,218,JP-JP,最大MPプラス６０,最大ＭＰが　６０上がる
+1297,208,JP-JP,最大MPプラス７２,最大ＭＰが　７２上がる
+1225,132,JP-JP,最大MPプラス８,最大ＭＰが　８上がる
+1306,219,JP-JP,最大MPプラス９６,最大ＭＰが　９６上がる
+802,87,JP-JP,最後のあがき,"死亡したとき
+敵全体にダメージを与える
+ＨＰ０をオーバーした分のダメージが
+大きいほど　大ダメージになる"
+811,88,JP-JP,最後の息吹,"死亡したとき
+仲間の　攻撃力　守備力
+すばやさ　かしこさを　すごく上げる"
+790,85,ZH-TW,最後一搏,"即使受到致命傷害
+也有１次機會以１點ＨＰ存活下來"
+817,88,ZH-TW,最後的氣息,"死亡時極大幅提升夥伴的
+攻擊力、守備力、速度、智力"
+457,48,ZH-TW,會心完全防禦,"免疫所有會心一擊
+和魔力失控的攻擊
+所造成的傷害"
+403,43,ZH-TW,會心率提升‧大,"中幅提升觸發
+會心一擊的機率"
+412,44,ZH-TW,會心率提升‧超,"大幅提升觸發
+會心一擊的機率"
+919,98,JP-JP,根に持つタイプ,"自分を倒した敵を　次のターン行動不能にし
+さらに　攻撃力　守備力　すばやさ　かしこさを
+かなり下げる
+１戦闘で　１回だけしか発動しない"
+1828,186,JP-JP,毒ガード大,毒　猛毒状態に　かなり　なりにくくなる
+1099,119,JP-JP,毒ブレイク大,"毒　猛毒状態にする攻撃が
+かなり　効きやすくなる"
+592,62,ZH-TW,毒性攻擊,"普通攻擊偶爾會使敵人
+陷入中毒狀態"
+1105,119,ZH-TW,毒破‧大,"造成中毒、猛毒狀態的攻擊
+其效果大幅提升"
+1834,186,ZH-TW,毒防護‧大,對中毒、猛毒狀態的抗性大幅提升
+1684,177,JP-JP,水ガード大,"水属性の攻撃に
+かなり　強くなる"
+208,23,JP-JP,水のコツ,"水属性の攻撃が強くなり
+消費ＭＰも少なくなる"
+964,103,JP-JP,水ブレイク大,"水属性の攻撃のダメージが
+かなり　上がる"
+971,103,ZH-CN,水之破防大,"水属性攻击的伤害
+大幅提升"
+215,23,ZH-CN,水之秘诀,"水属性攻击的威力提升
+且减少ＭＰ消耗"
+1691,177,ZH-CN,水之防护大,"对水属性攻击的
+抗性大幅提升"
+214,23,ZH-TW,水的訣竅,"水屬性攻擊的威力提升
+且減少ＭＰ消耗"
+970,103,ZH-TW,水破‧大,"水屬性攻擊的傷害
+大幅提升"
+1690,177,ZH-TW,水防護‧大,"對水屬性攻擊的
+抗性大幅提升"
+1720,181,JP-JP,氷結ガード大,"氷結属性の攻撃に
+かなり　強くなる"
+244,27,JP-JP,氷結のコツ,"氷結属性の攻撃が強くなり
+消費ＭＰも少なくなる"
+1000,107,JP-JP,氷結ブレイク大,"氷結属性の攻撃のダメージが
+かなり　上がる"
+611,64,ZH-CN,沉睡攻击,"普通攻击偶尔会使敌人
+陷入沉睡状态"
+1079,116,ZH-CN,沉睡破防大,"造成沉睡状态的攻击
+其效果大幅提升"
+1808,192,ZH-CN,沉睡防护大,对沉睡状态的抗性大幅提升
+161,18,ZH-CN,治愈之力,"战斗中偶尔会恢复
+所有伙伴３０以上的ＨＰ
+恢复量随智力提升而上升"
+170,19,ZH-CN,治愈之大力,"战斗中偶尔会恢复
+所有伙伴８０以上的ＨＰ
+恢复量随智力提升而上升"
+737,81,ZH-CN,治疗,偶尔会替伙伴治疗中毒、猛毒、麻痹、休息状态
+736,81,ZH-TW,治癒,偶爾會替夥伴治療中毒、猛毒、麻痺、休息狀態
+160,18,ZH-TW,治癒之力,"戰鬥中偶爾會恢復
+所有夥伴３０點以上的ＨＰ
+智力越高恢復量越高"
+169,19,ZH-TW,治癒偉力,"戰鬥中偶爾會恢復
+所有夥伴８０點以上的ＨＰ
+智力越高恢復量越高"
+484,51,ZH-TW,消耗ＭＰ減半,消耗ＭＰ減半
+1792,190,JP-JP,混乱ガード大,混乱状態に　かなり　なりにくくなる
+1063,115,JP-JP,混乱ブレイク大,"混乱状態にする攻撃が
+かなり　効きやすくなる"
+620,65,ZH-CN,混乱攻击,"普通攻击偶尔会使敌人
+陷入混乱状态"
+1070,115,ZH-CN,混乱破防大,"造成混乱状态的攻击
+其效果大幅提升"
+1799,190,ZH-CN,混乱防护大,对混乱状态的抗性大幅提升
+619,65,ZH-TW,混亂攻擊,"普通攻擊偶爾會使敵人
+陷入混亂狀態"
+1069,115,ZH-TW,混亂破‧大,"造成混亂狀態的攻擊
+其效果大幅提升"
+1798,190,ZH-TW,混亂防護‧大,對混亂狀態的抗性大幅提升
+854,90,ZH-CN,潜藏之力,"第３回合起攻击力、防御力、
+敏捷、智力提升
+第６回合起效果更加提升"
+1675,176,JP-JP,火ガード大,"火属性の攻撃に
+かなり　強くなる"
+199,22,JP-JP,火のコツ,"火属性の攻撃が強くなり
+消費ＭＰも少なくなる"
+955,102,JP-JP,火ブレイク大,"火属性の攻撃のダメージが
+かなり　上がる"
+962,102,ZH-CN,火之破防大,"火属性攻击的伤害
+大幅提升"
+206,22,ZH-CN,火之秘诀,"火属性攻击的威力提升
+且减少ＭＰ消耗"
+1682,176,ZH-CN,火之防护大,"对火属性攻击的
+抗性大幅提升"
+205,22,ZH-TW,火的訣竅,"火屬性攻擊的威力提升
+且減少ＭＰ消耗"
+961,102,ZH-TW,火破‧大,"火屬性攻擊的傷害
+大幅提升"
+1681,176,ZH-TW,火防護‧大,"對火屬性攻擊的
+抗性大幅提升"
+241,26,ZH-TW,爆炸的訣竅,"爆炸屬性攻擊的威力提升
+且減少ＭＰ消耗"
+997,106,ZH-TW,爆炸破‧大,"爆炸屬性攻擊的傷害
+大幅提升"
+998,106,ZH-CN,爆炸破防大,"爆炸属性攻击的伤害
+大幅提升"
+242,26,ZH-CN,爆炸秘诀,"爆炸属性攻击的威力提升
+且减少ＭＰ消耗"
+1718,180,ZH-CN,爆炸防护大,"对爆炸属性攻击的
+抗性大幅提升"
+1717,180,ZH-TW,爆炸防護‧大,"對爆炸屬性攻擊的
+抗性大幅提升"
+1711,180,JP-JP,爆発ガード大,"爆発属性の攻撃に
+かなり　強くなる"
+235,26,JP-JP,爆発のコツ,"爆発属性の攻撃が強くなり
+消費ＭＰも少なくなる"
+991,106,JP-JP,爆発ブレイク大,"爆発属性の攻撃のダメージが
+かなり　上がる"
+701,77,ZH-CN,狂战士,"即使处于混乱状态也必定会攻击敌人
+若命中则必定触发会心一击"
+700,77,ZH-TW,狂戰士,"即使處於混亂狀態也必定會攻擊敵人
+且若命中則會觸發會心一擊"
+656,69,ZH-CN,玛霍托拉攻击,"普通攻击偶尔会
+从敌人身上吸收ＭＰ"
+358,39,ZH-TW,瑪霍奇特軀體,"偶爾會從直接攻擊自己的
+敵人身上吸收ＭＰ"
+655,69,ZH-TW,瑪霍托拉攻擊,"普通攻擊偶爾會
+從敵人身上吸收ＭＰ"
+1016,108,ZH-CN,电击破防大,"电击属性攻击的伤害
+大幅提升"
+260,28,ZH-CN,电击秘诀,"电击属性攻击的威力提升
+且减少ＭＰ消耗"
+1736,182,ZH-CN,电击防护大,"对电击属性攻击的
+抗性大幅提升"
+154,18,JP-JP,癒しの力,"戦闘中　たまに
+仲間全員のＨＰを　３０～回復する
+かしこさが高いほど　回復量が上がる"
+163,19,JP-JP,癒しの大力,"戦闘中　たまに
+仲間全員のＨＰを　８０～回復する
+かしこさが高いほど　回復量が上がる"
+782,84,ZH-CN,百折不挠之心,"即使受到致命伤害
+偶尔也会以１点ＨＰ存活下来"
+781,84,ZH-TW,百折不撓之心,"即使受到致命傷害
+偶爾也會以１點ＨＰ存活下來"
+1801,192,JP-JP,眠りガード大,眠り状態に　かなり　なりにくくなる
+1072,116,JP-JP,眠りブレイク大,"眠り状態にする攻撃が
+かなり　効きやすくなる"
+610,64,ZH-TW,睡眠攻擊,"普通攻擊偶爾會使敵人
+陷入睡眠狀態"
+1078,116,ZH-TW,睡眠破‧大,"造成睡眠狀態的攻擊
+其效果大幅提升"
+1807,192,ZH-TW,睡眠防護‧大,對睡眠狀態的抗性大幅提升
+709,78,ZH-TW,睡覺翻身,處於睡眠狀態時攻擊所有敵人
+847,90,JP-JP,秘めたるチカラ,"３ラウンド目から　攻撃力　守備力
+すばやさ　かしこさが上がる
+６ラウンド目以降は　さらに効果アップ"
+71,8,ZH-CN,突发因忒,"战斗开始时偶尔会
+对自己使用因忒"
+44,5,ZH-CN,突发巴依奇尔托,"战斗开始时偶尔会
+对自己使用巴依奇尔托"
+53,6,ZH-CN,突发斯卡拉,"战斗开始时偶尔会
+对自己使用斯卡拉"
+62,7,ZH-CN,突发比奥拉,"战斗开始时偶尔会
+对自己使用比奥拉"
+80,9,ZH-CN,突发玛霍卡恩塔,"战斗开始时偶尔会
+对自己使用玛霍卡恩塔"
+70,8,ZH-TW,突發因忒,"戰鬥開始時偶爾會
+對自己使用因忒"
+43,5,ZH-TW,突發巴依奇爾托,"戰鬥開始時偶爾會
+對自己使用巴依奇爾托"
+52,6,ZH-TW,突發斯卡拉,"戰鬥開始時偶爾會
+對自己使用斯卡拉"
+61,7,ZH-TW,突發比奧拉,"戰鬥開始時偶爾會
+對自己使用比奧拉"
+79,9,ZH-TW,突發瑪霍卡恩塔,"戰鬥開始時偶爾會
+對自己使用瑪霍卡恩塔"
+322,35,ZH-TW,精疲力盡軀體,"偶爾會使直接攻擊自己的
+敵人無法動彈１回合"
+710,78,ZH-CN,翻身,处于沉睡状态时攻击所有敌人
+901,96,JP-JP,背水の陣,"残りのＨＰが少ないほど
+敵に与えるダメージが増える"
+908,96,ZH-CN,背水一战,"剩余ＨＰ越少
+对敌人造成的伤害越多"
+907,96,ZH-TW,背水一戰,"剩餘ＨＰ越少
+對敵人造成的傷害越多"
+460,49,JP-JP,自動HP回復,行動した後　少しだけＨＰが回復する
+469,50,JP-JP,自動MP回復,行動した後　少しだけＭＰが回復する
+151,17,ZH-TW,蓄力,"戰鬥中不時會
+發動蓄力"
+152,17,ZH-CN,蓄力,"战斗中不时会
+发动蓄力"
+7,1,ZH-TW,行動１～２次,"偶爾會連續２次行動
+不論是否下達命令
+都不會改變行動次數
+能力值上限微幅下降"
+25,3,ZH-TW,行動１～３次,"偶爾會連續２～３次行動
+不論是否下達命令
+都不會改變行動次數
+能力值上限小幅下降"
+34,4,ZH-TW,行動２～３次,"連續２～３次行動
+不論是否下達命令
+行動次數都不會改變
+能力值上限下降"
+16,2,ZH-TW,行動２次,"連續２次行動
+不論是否下達命令
+行動次數都不會改變
+能力值上限小幅下降"
+1,1,JP-JP,行動回数１から２,"たまに　２回連続で行動する
+命令してもしなくても
+行動回数は変わらない
+能力値の上限が　ほんの少し下がる"
+19,3,JP-JP,行動回数１から３,"たまに　２～３回連続で行動する
+命令してもしなくても
+行動回数は変わらない
+能力値の上限が　少し下がる"
+10,2,JP-JP,行動回数２,"２回連続で行動する
+命令してもしなくても
+行動回数は変わらない
+能力値の上限が　少し下がる"
+28,4,JP-JP,行動回数２から３,"２～３回連続で行動する
+命令してもしなくても
+行動回数は変わらない
+能力値の上限が下がる"
+926,98,ZH-CN,记仇类型,"使打倒自己的敌人下一回合无法行动
+且攻击力、防御力、敏捷、智力
+大幅降低
+一场战斗中只会发动一次"
+295,32,ZH-TW,豪賭軀體,"偶爾可使敵人的
+直接攻擊無效"
+296,32,ZH-CN,赌博身躯,"偶尔可使敌人的
+直接攻击无效"
+871,92,ZH-TW,赤手空拳,"未裝備飾品時小幅提升
+觸發會心一擊與魔力失控的機率"
+872,92,ZH-CN,赤手空拳,"未装备饰品时小幅提升
+触发会心一击与魔力失控的概率"
+379,41,JP-JP,超みかわしアップ,"敵からの攻撃を
+かなり　かわしやすくなる"
+406,44,JP-JP,超会心率アップ,"会心のいちげきが
+かなり　出やすくなる"
+433,238,JP-JP,超呪文会心率アップ,"魔力の暴走が
+かなり　発生しやすくなる"
+548,242,ZH-CN,超恶魔杀手,"对恶魔系怪物
+造成的伤害大幅增加
+将对手当前所有抗性值
+视为降低"
+541,242,JP-JP,超悪魔キラー,"悪魔系のモンスターに
+与えるダメージが　かなり増える
+相手のすべての耐性値を
+下げて判定する"
+547,242,ZH-TW,超惡魔剋星,"對惡魔系怪物
+造成的傷害大幅增加
+判定對手當前
+所有抗性值降低"
+532,57,JP-JP,超自然キラー,"自然系のモンスターに
+与えるダメージが　かなり増える
+相手のすべての耐性値を
+下げて判定する"
+538,57,ZH-TW,超自然剋星,"對自然系怪物
+造成的傷害大幅增加
+判定對手當前
+所有抗性值降低"
+539,57,ZH-CN,超自然杀手,"对自然系怪物
+造成的伤害大幅增加
+将对手当前所有抗性值
+视为降低"
+530,56,ZH-CN,超魔兽杀手,"对魔兽系怪物
+造成的伤害大幅增加
+将对手当前所有抗性值
+视为降低"
+523,56,JP-JP,超魔獣キラー,"魔獣系のモンスターに
+与えるダメージが　かなり増える
+相手のすべての耐性値を
+下げて判定する"
+529,56,ZH-TW,超魔獸剋星,"對魔獸系怪物
+造成的傷害大幅增加
+判定對手當前
+所有抗性值降低"
+323,35,ZH-CN,软烂身躯,"偶尔会使直接攻击自己的
+敌人无法动弹１回合"
+494,265,ZH-CN,连续×２,"直接攻击会连续命中
+但每次伤害将随
+连续攻击次数减少"
+503,264,ZH-CN,连续×３,"直接攻击会连续命中
+但每次伤害将随
+连续攻击次数减少"
+512,262,ZH-CN,连续×４,"直接攻击会连续命中
+但每次伤害将随
+连续攻击次数减少"
+521,266,ZH-CN,连续×６,"直接攻击会连续命中
+但每次伤害将随
+连续攻击次数减少"
+1042,112,ZH-TW,迷幻破‧大,"造成迷幻狀態的攻擊
+其效果大幅提升"
+1771,200,ZH-TW,迷幻防護‧大,對迷幻狀態的抗性大幅提升
+1043,112,ZH-CN,迷惑破防大,"造成迷惑状态的攻击
+其效果大幅提升"
+1772,200,ZH-CN,迷惑防护大,对迷惑状态的抗性大幅提升
+674,74,ZH-CN,追击,"毒、猛毒、休息、沉睡、混乱、麻痹
+当敌人处于上述任一状态时
+对其造成的伤害增加"
+673,74,ZH-TW,追擊,"中毒、猛毒、休息、睡眠、混亂、麻痺
+當敵人處於上述任一狀態時
+對其造成的傷害增加"
+1528,160,ZH-TW,速度＋１２,速度提升１２點
+1537,161,ZH-TW,速度＋１６,速度提升１６點
+1501,211,ZH-TW,速度＋２,速度提升２點
+1546,206,ZH-TW,速度＋２０,速度提升２０點
+1555,162,ZH-TW,速度＋２４,速度提升２４點
+1564,213,ZH-TW,速度＋３０,速度提升３０點
+1573,214,ZH-TW,速度＋３６,速度提升３６點
+1510,158,ZH-TW,速度＋４,速度提升４點
+1582,165,ZH-TW,速度＋４８,速度提升４８點
+1519,159,ZH-TW,速度＋８,速度提升８點
+763,82,ZH-TW,逢迎拍馬,"提升夥伴的攻擊力、
+守備力、速度、智力時
+使效果持續時間延長５回合
+且附加咒文反射、吐息反射、
+全行動無效、閃避率提升任一效果"
+493,265,ZH-TW,連續×２,"直接攻擊會連續命中
+但每次傷害將隨
+連續攻擊次數減少"
+502,264,ZH-TW,連續×３,"直接攻擊會連續命中
+但每次傷害將隨
+連續攻擊次數減少"
+511,262,ZH-TW,連續×４,"直接攻擊會連續命中
+但每次傷害將隨
+連續攻擊次數減少"
+520,266,ZH-TW,連續×６,"直接攻擊會連續命中
+但每次傷害將隨
+連續攻擊次數減少"
+350,38,ZH-CN,酥麻身躯,"偶尔会使直接攻击自己的
+敌人陷入麻痹状态"
+745,230,ZH-TW,醫術士,"偶爾會替夥伴治療
+睡眠、混亂、中毒、猛毒、麻痺、休息狀態"
+566,71,ZH-CN,金属杀手,"攻击金属身躯的敌人
+造成的伤害也不会减少"
+557,70,ZH-CN,金属猎人,"等级越高
+对敌人造成的伤害越多
+对金属身躯的敌人也能生效"
+565,71,ZH-TW,金屬殺手,"攻擊金屬軀體的敵人
+造成的傷害也不會減少"
+556,70,ZH-TW,金屬獵人,"等級越高
+對敵人造成的傷害越多
+對金屬軀體的敵人也能生效"
+367,272,ZH-TW,閃亮軀體,"偶爾能防止
+來自對手的負面效果"
+376,40,ZH-TW,閃避提升‧大,"中幅提升閃躲
+敵人攻擊的機率"
+385,41,ZH-TW,閃避提升‧超,"大幅提升閃躲
+敵人攻擊的機率"
+898,95,ZH-TW,閃避本能,"戰鬥中ＨＰ在一半以下時
+速度偶爾會獲得大幅提升
+閃避機率也獲得提升
+一場戰鬥中只會發動一次"
+1747,184,JP-JP,闇ガード大,"闇属性の攻撃に
+かなり　強くなる"
+271,30,JP-JP,闇のコツ,"闇属性の攻撃が強くなり
+消費ＭＰも少なくなる"
+1018,110,JP-JP,闇ブレイク大,"闇属性の攻撃のダメージが
+かなり　上がる"
+142,16,ZH-TW,闇之波動,"戰鬥中偶爾會
+發動暗之波動"
+277,30,ZH-TW,闇的訣竅,"闇屬性攻擊的威力提升
+且減少ＭＰ消耗"
+1024,110,ZH-TW,闇破‧大,"闇屬性攻擊的傷害
+大幅提升"
+1753,184,ZH-TW,闇防護‧大,"對闇屬性攻擊的
+抗性大幅提升"
+368,272,ZH-CN,闪亮身躯,"偶尔能防止
+来自对手的负面效果"
+377,40,ZH-CN,闪避提升大,"中幅提升闪躲
+敌人攻击的概率"
+386,41,ZH-CN,闪避提升超,"大幅提升闪躲
+敌人攻击的概率"
+899,95,ZH-CN,闪避本能,"战斗中ＨＰ在一半以下时
+敏捷偶尔会获得大幅提升
+闪避概率也获得提升
+一场战斗中只会发动一次"
+1430,152,ZH-CN,防御力＋１６,防御力提升１６点
+1439,153,ZH-CN,防御力＋２４,防御力提升２４点
+1448,154,ZH-CN,防御力＋３２,防御力提升３２点
+1412,149,ZH-CN,防御力＋４,防御力提升４点
+1457,155,ZH-CN,防御力＋４０,防御力提升４０点
+1466,156,ZH-CN,防御力＋４８,防御力提升４８点
+1475,215,ZH-CN,防御力＋６０,防御力提升６０点
+1484,216,ZH-CN,防御力＋７２,防御力提升７２点
+1421,150,ZH-CN,防御力＋８,防御力提升８点
+1493,217,ZH-CN,防御力＋９６,防御力提升９６点
+890,94,ZH-CN,防御本能,"ＨＰ在一半以下时
+受到的伤害减少"
+889,94,ZH-TW,防衛本能,"ＨＰ在一半以下時
+受到的傷害減少"
+853,90,ZH-TW,隱藏之力,"第３回合起攻擊力、守備力、
+速度、智力提升
+第６回合起效果更加提升"
+1729,182,JP-JP,電撃ガード大,"電撃属性の攻撃に
+かなり　強くなる"
+253,28,JP-JP,電撃のコツ,"電撃属性の攻撃が強くなり
+消費ＭＰも少なくなる"
+1009,108,JP-JP,電撃ブレイク大,"電撃属性の攻撃のダメージが
+かなり　上がる"
+259,28,ZH-TW,電擊的訣竅,"電擊屬性攻擊的威力提升
+且減少ＭＰ消耗"
+1015,108,ZH-TW,電擊破‧大,"電擊屬性攻擊的傷害
+大幅提升"
+1735,182,ZH-TW,電擊防護‧大,"對電擊屬性攻擊的
+抗性大幅提升"
+602,63,ZH-CN,震慑攻击,"普通攻击偶尔会使敌人
+无法行动１回合"
+601,63,ZH-TW,震盪攻擊,"普通攻擊偶爾會使敵人
+無法行動１回合"
+799,86,ZH-TW,頑抗,"死亡時對攻擊自己的敵人造成傷害
+承受的傷害超過剩餘ＨＰ越多
+造成的傷害也越大"
+340,37,ZH-TW,頭昏眼花軀體,"偶爾會使直接攻擊自己的
+敵人陷入混亂狀態"
+1693,178,JP-JP,風ガード大,"風属性の攻撃に
+かなり　強くなる"
+217,24,JP-JP,風のコツ,"風属性の攻撃が強くなり
+消費ＭＰも少なくなる"
+973,104,JP-JP,風ブレイク大,"風属性の攻撃のダメージが
+かなり　上がる"
+223,24,ZH-TW,風的訣竅,"風屬性攻擊的威力提升
+且減少ＭＰ消耗"
+979,104,ZH-TW,風破‧大,"風屬性攻擊的傷害
+大幅提升"
+1699,178,ZH-TW,風防護‧大,"對風屬性攻擊的
+抗性大幅提升"
+980,104,ZH-CN,风之破防大,"风属性攻击的伤害
+大幅提升"
+224,24,ZH-CN,风之秘诀,"风属性攻击的威力提升
+且减少ＭＰ消耗"
+1700,178,ZH-CN,风之防护大,"对风属性攻击的
+抗性大幅提升"
+880,93,ZH-TW,鬥爭本能,"ＨＰ在一半以下時
+造成的傷害增加"
+181,20,JP-JP,魔力の強風,"戦闘中　たまに
+仲間全員のＭＰを　５～回復する
+レベルが高いほど　回復量が上がる"
+172,205,JP-JP,魔力の風,"戦闘中　たまに
+仲間全員のＭＰを　１～回復する
+レベルが高いほど　回復量が上がる"
+188,20,ZH-CN,魔力之强风,"战斗中偶尔会恢复
+所有伙伴５以上的ＭＰ
+等级越高恢复量越高"
+178,205,ZH-TW,魔力之風,"戰鬥中偶爾會恢復
+所有夥伴１點以上的ＭＰ
+等級越高恢復量越高"
+179,205,ZH-CN,魔力之风,"战斗中偶尔会恢复
+所有伙伴１以上的ＭＰ
+等级越高恢复量越高"
+431,46,ZH-CN,魔力失控率提升大,"中幅提升触发
+魔力失控的概率"
+430,46,ZH-TW,魔力失控率提升‧大,"中幅提升觸發
+魔力失控的機率"
+440,238,ZH-CN,魔力失控率提升超,"大幅提升触发
+魔力失控的概率"
+439,238,ZH-TW,魔力失控率提升‧超,"大幅提升觸發
+魔力失控的機率"
+187,20,ZH-TW,魔力強風,"戰鬥中偶爾會恢復
+所有夥伴５點以上的ＭＰ
+等級越高恢復量越高"
+953,101,ZH-CN,魔法师狂热,"魔力失控时
+智力大幅提升"
+952,101,ZH-TW,魔術師狂熱,"魔力失控時
+智力大幅提升"
+629,66,ZH-CN,麻痹攻击,"普通攻击偶尔会使敌人
+陷入麻痹状态"
+1088,117,ZH-CN,麻痹破防大,"造成麻痹状态的攻击
+其效果大幅提升"
+1817,194,ZH-CN,麻痹防护大,对麻痹状态的抗性大幅提升
+628,66,ZH-TW,麻痺攻擊,"普通攻擊偶爾會使敵人
+陷入麻痺狀態"
+1087,117,ZH-TW,麻痺破‧大,"造成麻痺狀態的攻擊
+其效果大幅提升"
+349,38,ZH-TW,麻痺軀體,"偶爾會使直接攻擊自己的
+敵人陷入麻痺狀態"
+1816,194,ZH-TW,麻痺防護‧大,對麻痺狀態的抗性大幅提升
+278,30,ZH-CN,黑暗秘诀,"暗属性攻击的威力提升
+且减少ＭＰ消耗"

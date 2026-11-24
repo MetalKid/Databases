@@ -1,42 +1,114 @@
 [
   {
+    "SkillTargetTypeId": 10,
+    "Name": "All",
+    "Identifier": "all",
+    "JapaneseName": "敵味方全体",
+    "Map": "All"
+  },
+  {
+    "SkillTargetTypeId": 15,
+    "Name": "All Allied Party and Standby",
+    "Identifier": "all-allied-party-and-standby",
+    "JapaneseName": "スタンバイ含む味方全体",
+    "Map": "AllyAllPartyAndStandby"
+  },
+  {
     "SkillTargetTypeId": 4,
     "Name": "All Allies",
-    "Identifier": "all-allies"
+    "Identifier": "all-allies",
+    "JapaneseName": "味方全体",
+    "Map": "AllyAll"
   },
   {
     "SkillTargetTypeId": 2,
     "Name": "All Enemies",
-    "Identifier": "all-enemies"
+    "Identifier": "all-enemies",
+    "JapaneseName": "敵全体",
+    "Map": "OpponentAll"
+  },
+  {
+    "SkillTargetTypeId": 13,
+    "Name": "All Other Allied Party and Standby",
+    "Identifier": "all-other-allied-party-and-standy",
+    "JapaneseName": "自分以外スタンバイ含む味方全体",
+    "Map": "OtherAllyAllPartyAndStandby"
+  },
+  {
+    "SkillTargetTypeId": 16,
+    "Name": "All Other Allies",
+    "Identifier": "all-other-allies",
+    "JapaneseName": "自分以外味方全体",
+    "Map": "OtherAllyAll"
+  },
+  {
+    "SkillTargetTypeId": 12,
+    "Name": "Field",
+    "Identifier": "field",
+    "JapaneseName": "戦場",
+    "Map": "Field"
+  },
+  {
+    "SkillTargetTypeId": 11,
+    "Name": "Random All",
+    "Identifier": "random-all",
+    "JapaneseName": "敵味方全体ランダム",
+    "Map": "AllRandom"
   },
   {
     "SkillTargetTypeId": 8,
     "Name": "Random Allies",
-    "Identifier": "random-allies"
+    "Identifier": "random-allies",
+    "JapaneseName": "味方ランダム",
+    "Map": "AllyRandom"
   },
   {
     "SkillTargetTypeId": 7,
     "Name": "Random Enemies",
-    "Identifier": "random-enemies"
+    "Identifier": "random-enemies",
+    "JapaneseName": "敵ランダム",
+    "Map": "OpponentRandom"
   },
   {
     "SkillTargetTypeId": 6,
     "Name": "Random Enemy or Ally",
-    "Identifier": "random-enemy-or-ally"
+    "Identifier": "random-enemy-or-ally",
+    "JapaneseName": "自分以外敵味方全体ランダム",
+    "Map": "OtherAllRandom"
+  },
+  {
+    "SkillTargetTypeId": 14,
+    "Name": "Random Other Allies",
+    "Identifier": "random-other-allies",
+    "JapaneseName": "自分以外味方ランダム",
+    "Map": "OtherAllyRandom"
+  },
+  {
+    "SkillTargetTypeId": 9,
+    "Name": "Random Single Enemy",
+    "Identifier": "random-enemy",
+    "JapaneseName": "敵単体ランダム",
+    "Map": "OpponentSingleRandom"
   },
   {
     "SkillTargetTypeId": 5,
     "Name": "Self",
-    "Identifier": "self"
+    "Identifier": "self",
+    "JapaneseName": "自分",
+    "Map": "Myself"
   },
   {
     "SkillTargetTypeId": 3,
     "Name": "Single Ally",
-    "Identifier": "single-ally"
+    "Identifier": "single-ally",
+    "JapaneseName": "味方単体",
+    "Map": "AllySingle"
   },
   {
     "SkillTargetTypeId": 1,
     "Name": "Single Enemy",
-    "Identifier": "single-enemy"
+    "Identifier": "single-enemy",
+    "JapaneseName": "敵単体",
+    "Map": "OpponentSingle"
   }
 ]

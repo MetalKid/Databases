@@ -2,16 +2,57 @@
   {
     "SkillTypeId": 1,
     "Name": "Attacking",
-    "Identifier": "attacking"
+    "Identifier": "attacking",
+    "JapaneseName": "攻撃",
+    "AdditionalBondPoint": 0
+  },
+  {
+    "SkillTypeId": 5,
+    "Name": "Debuff",
+    "Identifier": "debuff",
+    "JapaneseName": "弱体",
+    "AdditionalBondPoint": 0
   },
   {
     "SkillTypeId": 2,
     "Name": "Healing",
-    "Identifier": "healing"
+    "Identifier": "healing",
+    "JapaneseName": "回復",
+    "AdditionalBondPoint": 9
+  },
+  {
+    "SkillTypeId": 8,
+    "Name": "No Effect",
+    "Identifier": "no-effect",
+    "JapaneseName": "効果なし",
+    "AdditionalBondPoint": 0
+  },
+  {
+    "SkillTypeId": 6,
+    "Name": "Other",
+    "Identifier": "other",
+    "JapaneseName": "その他",
+    "AdditionalBondPoint": 0
+  },
+  {
+    "SkillTypeId": 7,
+    "Name": "Revive",
+    "Identifier": "revive",
+    "JapaneseName": "蘇生",
+    "AdditionalBondPoint": 35
+  },
+  {
+    "SkillTypeId": 4,
+    "Name": "Status Recovery",
+    "Identifier": "status-recovery",
+    "JapaneseName": "状態回復",
+    "AdditionalBondPoint": 11
   },
   {
     "SkillTypeId": 3,
     "Name": "Support",
-    "Identifier": "support"
+    "Identifier": "support",
+    "JapaneseName": "援護",
+    "AdditionalBondPoint": 6
   }
 ]

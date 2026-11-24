@@ -1,4 +1,9 @@
-SkillTypeId,Name,Identifier
-1,Attacking,attacking
-2,Healing,healing
-3,Support,support
+SkillTypeId,Name,Identifier,JapaneseName,AdditionalBondPoint
+1,Attacking,attacking,攻撃,0
+5,Debuff,debuff,弱体,0
+2,Healing,healing,回復,9
+8,No Effect,no-effect,効果なし,0
+6,Other,other,その他,0
+7,Revive,revive,蘇生,35
+4,Status Recovery,status-recovery,状態回復,11
+3,Support,support,援護,6

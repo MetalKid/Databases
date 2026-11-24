@@ -118,7 +118,6 @@ HP Booster I,False,HP Booster II,
 HP Booster II,False,HP Booster III,HP Booster I
 HP Booster III,False,HP Booster IV,HP Booster II
 HP Booster IV,False,,HP Booster III
-Hulk,False,,
 Impactor,False,Perfect Speller,"Crag Virtuoso + Bang Virtuoso, Crag Virtuoso + Frizz Virtuoso, Crag Virtuoso + Zam Virtuoso, Frizz Virtuoso + Zam Virtuoso, Frizz Virtuoso + Bang Virtuoso, Zam Virtuoso + Bang Virtuoso"
 Irritant,False,,
 Jasper Unbound,False,,
@@ -232,8 +231,8 @@ Wisdom Booster I,False,Wisdom Booster II,
 Wisdom Booster II,False,Wisdom Booster III,Wisdom Booster I
 Wisdom Booster III,False,Wisdom Booster IV,Wisdom Booster II
 Wisdom Booster IV,False,,Wisdom Booster III
-Woosh Afficionado,False,,
-Woosh Virtuoso,False,Polariser,
+Woosh Afficionado,False,Woosh Virtuoso,
+Woosh Virtuoso,False,Polariser,Woosh Afficionado
 Woosh Ward,False,Cyclone Shield,
 Wrecker,False,,
 Wyrmhole Dragon,False,,

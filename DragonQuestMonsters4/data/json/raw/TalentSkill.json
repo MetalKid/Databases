@@ -1,47 +1,5 @@
 [
   {
-    "TalentSkillId": 327,
-    "TalentId": 45,
-    "SkillId": 90,
-    "Points": 3
-  },
-  {
-    "TalentSkillId": 328,
-    "TalentId": 45,
-    "SkillId": 74,
-    "Points": 10
-  },
-  {
-    "TalentSkillId": 329,
-    "TalentId": 45,
-    "SkillId": 139,
-    "Points": 20
-  },
-  {
-    "TalentSkillId": 330,
-    "TalentId": 45,
-    "SkillId": 112,
-    "Points": 30
-  },
-  {
-    "TalentSkillId": 331,
-    "TalentId": 45,
-    "SkillId": 117,
-    "Points": 70
-  },
-  {
-    "TalentSkillId": 332,
-    "TalentId": 45,
-    "SkillId": 83,
-    "Points": 85
-  },
-  {
-    "TalentSkillId": 333,
-    "TalentId": 45,
-    "SkillId": 103,
-    "Points": 100
-  },
-  {
     "TalentSkillId": 425,
     "TalentId": 91,
     "SkillId": 65,
@@ -434,13 +392,13 @@
   {
     "TalentSkillId": 550,
     "TalentId": 109,
-    "SkillId": 47,
+    "SkillId": 108,
     "Points": 30
   },
   {
     "TalentSkillId": 551,
     "TalentId": 109,
-    "SkillId": 108,
+    "SkillId": 208,
     "Points": 50
   },
   {

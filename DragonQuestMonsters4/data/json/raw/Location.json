@@ -1,52 +1,121 @@
 [
   {
+    "LocationId": 14,
+    "Name": "Battle Arena Lobby",
+    "JapaneseName": "拠点 - 闘技場ロビー",
+    "Identifier": "battle-arena-lobby",
+    "MapId": 7
+  },
+  {
+    "LocationId": 12,
+    "Name": "Boughborough",
+    "JapaneseName": "拠点 - 街",
+    "Identifier": "boughborough",
+    "MapId": 6
+  },
+  {
+    "LocationId": 13,
+    "Name": "Item Shop",
+    "JapaneseName": "拠点 - 道具屋",
+    "Identifier": "item-shop",
+    "MapId": 13
+  },
+  {
+    "LocationId": 15,
+    "Name": "Mini Medal Swap Shop",
+    "JapaneseName": "拠点 - メダル交換所",
+    "Identifier": "mini-medal-swap-shop",
+    "MapId": 14
+  },
+  {
+    "LocationId": 17,
+    "Name": "Paddock",
+    "JapaneseName": "拠点 - 牧場",
+    "Identifier": "paddock",
+    "MapId": 5
+  },
+  {
     "LocationId": 5,
     "Name": "Shrine of Serenity, Interior",
+    "JapaneseName": "カレキ - 祠ダンジョンB1F",
     "Identifier": "shrine-of-serenity,-interior",
-    "JapaneseName": null,
-    "MapLongitudeMax": null,
-    "MapLatitudeMax": null,
-    "MapLongitudeStart": null,
-    "MapLatitudeStart": null
+    "MapId": 16
+  },
+  {
+    "LocationId": 7,
+    "Name": "Shrine of Serenity, the Avian Haven",
+    "JapaneseName": "カレキ - 祠ダンジョン祭壇",
+    "Identifier": "shrine-of-serenity,-the-avian-haven",
+    "MapId": 18
+  },
+  {
+    "LocationId": 6,
+    "Name": "Shrine of Serenity, the Place of Peace",
+    "JapaneseName": "カレキ - 祠ダンジョンB2F",
+    "Identifier": "shrine-of-serenity,-the-place-of-peace",
+    "MapId": 17
+  },
+  {
+    "LocationId": 16,
+    "Name": "Tavern",
+    "JapaneseName": "拠点 - 酒場",
+    "Identifier": "tavern",
+    "MapId": 8
   },
   {
     "LocationId": 2,
     "Name": "The Parchland",
+    "JapaneseName": "カレキ - 荒野",
     "Identifier": "the-parchland",
-    "JapaneseName": null,
-    "MapLongitudeMax": null,
-    "MapLatitudeMax": null,
-    "MapLongitudeStart": null,
-    "MapLatitudeStart": null
+    "MapId": 19
+  },
+  {
+    "LocationId": 10,
+    "Name": "The Petal Portals",
+    "JapaneseName": "拠点 - 扉の間",
+    "Identifier": "the-petal-portals",
+    "MapId": 3
   },
   {
     "LocationId": 4,
     "Name": "The Sogswamp",
+    "JapaneseName": "カレキ - 湿原",
     "Identifier": "the-sogswamp",
-    "JapaneseName": null,
-    "MapLongitudeMax": null,
-    "MapLatitudeMax": null,
-    "MapLongitudeStart": null,
-    "MapLatitudeStart": null
+    "MapId": 19
   },
   {
     "LocationId": 3,
     "Name": "The Spelunk",
+    "JapaneseName": "カレキ - 洞窟ダンジョン",
     "Identifier": "the-spelunk",
-    "JapaneseName": null,
-    "MapLongitudeMax": null,
-    "MapLatitudeMax": null,
-    "MapLongitudeStart": null,
-    "MapLatitudeStart": null
+    "MapId": 15
+  },
+  {
+    "LocationId": 11,
+    "Name": "The Starry Shrine",
+    "JapaneseName": "拠点 - 星降りのほこら",
+    "Identifier": "the-starry-shrine",
+    "MapId": 3
+  },
+  {
+    "LocationId": 9,
+    "Name": "Throne Hall",
+    "JapaneseName": "拠点 - 玉座の間",
+    "Identifier": "throne-hall",
+    "MapId": 4
+  },
+  {
+    "LocationId": 8,
+    "Name": "Witherwood Castle",
+    "JapaneseName": "拠点 - 王城",
+    "Identifier": "witherwood-castle",
+    "MapId": 2
   },
   {
     "LocationId": 1,
     "Name": "Witherwood Plains",
+    "JapaneseName": "カレキ - 平原",
     "Identifier": "witherwood-plains",
-    "JapaneseName": null,
-    "MapLongitudeMax": null,
-    "MapLatitudeMax": null,
-    "MapLongitudeStart": null,
-    "MapLatitudeStart": null
+    "MapId": 19
   }
 ]

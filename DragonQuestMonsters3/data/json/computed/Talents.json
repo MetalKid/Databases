@@ -64,6 +64,12 @@
     "Parents": []
   },
   {
+    "Name": "Alarmist",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
     "Name": "Altruist",
     "IsEggOnly": false,
     "Children": [],
@@ -693,6 +699,12 @@
     ]
   },
   {
+    "Name": "Goliath",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
     "Name": "Good Knight",
     "IsEggOnly": false,
     "Children": [],
@@ -832,12 +844,6 @@
     "Parents": [
       "HP Booster III"
     ]
-  },
-  {
-    "Name": "Hulk",
-    "IsEggOnly": false,
-    "Children": [],
-    "Parents": []
   },
   {
     "Name": "Impactor",
@@ -1001,6 +1007,12 @@
     ]
   },
   {
+    "Name": "Mudmonger",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
     "Name": "Multidisciplinarian",
     "IsEggOnly": false,
     "Children": [],
@@ -1162,6 +1174,12 @@
     "Parents": []
   },
   {
+    "Name": "Princess",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
     "Name": "Protector",
     "IsEggOnly": false,
     "Children": [],
@@ -1211,6 +1229,12 @@
   },
   {
     "Name": "Rhapthorne",
+    "IsEggOnly": false,
+    "Children": [],
+    "Parents": []
+  },
+  {
+    "Name": "Roaster",
     "IsEggOnly": false,
     "Children": [],
     "Parents": []
@@ -1330,7 +1354,7 @@
     "Parents": []
   },
   {
-    "Name": "Soothsayer",
+    "Name": "Soothesayer",
     "IsEggOnly": false,
     "Children": [],
     "Parents": []
@@ -1595,7 +1619,9 @@
   {
     "Name": "Woosh Afficionado",
     "IsEggOnly": false,
-    "Children": [],
+    "Children": [
+      "Woosh Virtuoso"
+    ],
     "Parents": []
   },
   {
@@ -1604,7 +1630,9 @@
     "Children": [
       "Polariser"
     ],
-    "Parents": []
+    "Parents": [
+      "Woosh Afficionado"
+    ]
   },
   {
     "Name": "Woosh Ward",

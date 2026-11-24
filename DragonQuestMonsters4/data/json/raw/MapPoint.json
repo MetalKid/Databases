@@ -1,0 +1,184 @@
+[
+  {
+    "MapPointId": 1,
+    "MapId": 3,
+    "MapPointTypeId": 1,
+    "LocationX": 0.0000,
+    "LocationY": 14480.1490
+  },
+  {
+    "MapPointId": 2,
+    "MapId": 15,
+    "MapPointTypeId": 1,
+    "LocationX": -11408.0000,
+    "LocationY": -6711.0000
+  },
+  {
+    "MapPointId": 3,
+    "MapId": 16,
+    "MapPointTypeId": 1,
+    "LocationX": 6990.6235,
+    "LocationY": 10.7178
+  },
+  {
+    "MapPointId": 4,
+    "MapId": 19,
+    "MapPointTypeId": 1,
+    "LocationX": 13277.2330,
+    "LocationY": -18052.0980
+  },
+  {
+    "MapPointId": 5,
+    "MapId": 19,
+    "MapPointTypeId": 1,
+    "LocationX": -13086.7010,
+    "LocationY": -16789.2150
+  },
+  {
+    "MapPointId": 6,
+    "MapId": 19,
+    "MapPointTypeId": 1,
+    "LocationX": 17210.0000,
+    "LocationY": -9345.0000
+  },
+  {
+    "MapPointId": 7,
+    "MapId": 19,
+    "MapPointTypeId": 1,
+    "LocationX": -18171.6230,
+    "LocationY": 11779.5670
+  },
+  {
+    "MapPointId": 8,
+    "MapId": 19,
+    "MapPointTypeId": 1,
+    "LocationX": -2039.4974,
+    "LocationY": -10279.7710
+  },
+  {
+    "MapPointId": 9,
+    "MapId": 19,
+    "MapPointTypeId": 1,
+    "LocationX": 1250.9874,
+    "LocationY": 2301.1690
+  },
+  {
+    "MapPointId": 10,
+    "MapId": 19,
+    "MapPointTypeId": 1,
+    "LocationX": 17509.0270,
+    "LocationY": 18137.5640
+  },
+  {
+    "MapPointId": 11,
+    "MapId": 19,
+    "MapPointTypeId": 1,
+    "LocationX": -15542.5550,
+    "LocationY": -2005.4420
+  },
+  {
+    "MapPointId": 12,
+    "MapId": 19,
+    "MapPointTypeId": 2,
+    "LocationX": 11980.0000,
+    "LocationY": -10850.0000
+  },
+  {
+    "MapPointId": 13,
+    "MapId": 19,
+    "MapPointTypeId": 2,
+    "LocationX": 6450.0000,
+    "LocationY": -3910.0000
+  },
+  {
+    "MapPointId": 14,
+    "MapId": 19,
+    "MapPointTypeId": 2,
+    "LocationX": 4116.4380,
+    "LocationY": -9076.0210
+  },
+  {
+    "MapPointId": 15,
+    "MapId": 19,
+    "MapPointTypeId": 2,
+    "LocationX": 15640.0000,
+    "LocationY": 17780.0000
+  },
+  {
+    "MapPointId": 16,
+    "MapId": 19,
+    "MapPointTypeId": 2,
+    "LocationX": 10700.0000,
+    "LocationY": 9370.0000
+  },
+  {
+    "MapPointId": 17,
+    "MapId": 19,
+    "MapPointTypeId": 2,
+    "LocationX": -17610.0000,
+    "LocationY": -10200.0000
+  },
+  {
+    "MapPointId": 18,
+    "MapId": 19,
+    "MapPointTypeId": 2,
+    "LocationX": -5470.0000,
+    "LocationY": 3300.0000
+  },
+  {
+    "MapPointId": 19,
+    "MapId": 19,
+    "MapPointTypeId": 2,
+    "LocationX": 17050.0000,
+    "LocationY": 970.0000
+  },
+  {
+    "MapPointId": 20,
+    "MapId": 19,
+    "MapPointTypeId": 2,
+    "LocationX": -4840.0000,
+    "LocationY": 17430.0000
+  },
+  {
+    "MapPointId": 21,
+    "MapId": 19,
+    "MapPointTypeId": 2,
+    "LocationX": -12569.4240,
+    "LocationY": 16299.5340
+  },
+  {
+    "MapPointId": 22,
+    "MapId": 19,
+    "MapPointTypeId": 2,
+    "LocationX": -15150.0000,
+    "LocationY": -18320.0000
+  },
+  {
+    "MapPointId": 23,
+    "MapId": 19,
+    "MapPointTypeId": 2,
+    "LocationX": 700.0000,
+    "LocationY": -17000.0000
+  },
+  {
+    "MapPointId": 24,
+    "MapId": 19,
+    "MapPointTypeId": 2,
+    "LocationX": -15390.0000,
+    "LocationY": 8590.0000
+  },
+  {
+    "MapPointId": 25,
+    "MapId": 19,
+    "MapPointTypeId": 2,
+    "LocationX": 7999.8184,
+    "LocationY": -16559.6400
+  },
+  {
+    "MapPointId": 26,
+    "MapId": 19,
+    "MapPointTypeId": 2,
+    "LocationX": -5430.0000,
+    "LocationY": -11960.0000
+  }
+]

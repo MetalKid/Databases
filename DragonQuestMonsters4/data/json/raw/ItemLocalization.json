@@ -1,0 +1,4097 @@
+[
+  {
+    "ItemLocalizationId": 572,
+    "ItemId": 64,
+    "LanguageCode": "DE-DE",
+    "Name": "<DE99>Flachatmer<DE66>",
+    "Description": "Bringt einem die Begabung <DE99>Flachatmer<DE66> bei."
+  },
+  {
+    "ItemLocalizationId": 348,
+    "ItemId": 39,
+    "LanguageCode": "ES-ES",
+    "Name": "Aceite de sapo",
+    "Description": "Aceite extraído de un sapo."
+  },
+  {
+    "ItemLocalizationId": 517,
+    "ItemId": 58,
+    "LanguageCode": "IT-IT",
+    "Name": "Acqua fresca",
+    "Description": "Acqua sorgiva naturale, limpida e pura."
+  },
+  {
+    "ItemLocalizationId": 519,
+    "ItemId": 58,
+    "LanguageCode": "ES-ES",
+    "Name": "Agua fresca",
+    "Description": "Agua fresca de manantial y sin impurezas."
+  },
+  {
+    "ItemLocalizationId": 336,
+    "ItemId": 38,
+    "LanguageCode": "FR-FR",
+    "Name": "Aile de chauve-souris",
+    "Description": "Grande aile noire obtenue sur une chauve-souris."
+  },
+  {
+    "ItemLocalizationId": 339,
+    "ItemId": 38,
+    "LanguageCode": "ES-ES",
+    "Name": "Ala de murciélago",
+    "Description": "Ala grande y oscura de un murciélago."
+  },
+  {
+    "ItemLocalizationId": 337,
+    "ItemId": 38,
+    "LanguageCode": "IT-IT",
+    "Name": "Ala di pipistrello",
+    "Description": "Una grande ala nera che si ottiene da un pipistrello."
+  },
+  {
+    "ItemLocalizationId": 474,
+    "ItemId": 53,
+    "LanguageCode": "ES-ES",
+    "Name": "Algodón de hada",
+    "Description": "Algodón muy poco común cultivado por las hadas."
+  },
+  {
+    "ItemLocalizationId": 20,
+    "ItemId": 3,
+    "LanguageCode": "EN-GB",
+    "Name": "Amor Seco Essence",
+    "Description": "Restores 50 to 60 HP to all allies."
+  },
+  {
+    "ItemLocalizationId": 38,
+    "ItemId": 5,
+    "LanguageCode": "EN-GB",
+    "Name": "Antidotal Herb",
+    "Description": "Cures a single ally of poison and severe poison."
+  },
+  {
+    "ItemLocalizationId": 452,
+    "ItemId": 51,
+    "LanguageCode": "EN-GB",
+    "Name": "Avabranche",
+    "Description": "A chilly branch that seems to be wreathed in winter."
+  },
+  {
+    "ItemLocalizationId": 579,
+    "ItemId": 65,
+    "LanguageCode": "FR-FR",
+    "Name": "Balle bonus",
+    "Description": "Multiplie par 1,5 les points d'expérience et les pièces d'or gagnés pendant 10 combats ! Effet non cumulable avec celui d'autres objets similaires."
+  },
+  {
+    "ItemLocalizationId": 364,
+    "ItemId": 41,
+    "LanguageCode": "IT-IT",
+    "Name": "Batuffolo di lana",
+    "Description": "Una soffice lana che si ricava dalle pecore."
+  },
+  {
+    "ItemLocalizationId": 317,
+    "ItemId": 36,
+    "LanguageCode": "EN-GB",
+    "Name": "Beast Bone",
+    "Description": "A sturdy bone from a wild beast."
+  },
+  {
+    "ItemLocalizationId": 544,
+    "ItemId": 61,
+    "LanguageCode": "IT-IT",
+    "Name": "Belfungo",
+    "Description": "Un fungo meraviglioso e di splendido aspetto."
+  },
+  {
+    "ItemLocalizationId": 546,
+    "ItemId": 61,
+    "LanguageCode": "ES-ES",
+    "Name": "Bellaseta",
+    "Description": "Champiñón de una belleza inconcebible."
+  },
+  {
+    "ItemLocalizationId": 542,
+    "ItemId": 61,
+    "LanguageCode": "EN-GB",
+    "Name": "Belle Cap",
+    "Description": "A mushroom of heartbreaking beauty."
+  },
+  {
+    "ItemLocalizationId": 374,
+    "ItemId": 42,
+    "LanguageCode": "DE-DE",
+    "Name": "Blitzbrocken",
+    "Description": "Eine Kristallkugel, die die Kraft des Blitzes birgt."
+  },
+  {
+    "ItemLocalizationId": 96,
+    "ItemId": 11,
+    "LanguageCode": "ES-ES",
+    "Name": "Bocaditos de monstruos",
+    "Description": "Bocadito de carne que chifla a los monstruos. Dáselo a uno y aumentará ligeramente la probabilidad de que se quiera unir a ti."
+  },
+  {
+    "ItemLocalizationId": 453,
+    "ItemId": 51,
+    "LanguageCode": "FR-FR",
+    "Name": "Bois de givre",
+    "Description": "Branche fraîche qui s'enveloppe d'air froid."
+  },
+  {
+    "ItemLocalizationId": 582,
+    "ItemId": 65,
+    "LanguageCode": "ES-ES",
+    "Name": "Bola extra",
+    "Description": "¡Multiplica por 1,5 los puntos de experiencia y el oro durante 10 combates! Este efecto no es acumulable."
+  },
+  {
+    "ItemLocalizationId": 375,
+    "ItemId": 42,
+    "LanguageCode": "ES-ES",
+    "Name": "Bolatrueno",
+    "Description": "Esfera de cristal que se ha formado por el impacto de un rayo."
+  },
+  {
+    "ItemLocalizationId": 69,
+    "ItemId": 8,
+    "LanguageCode": "ES-ES",
+    "Name": "Boñiga de monstruo",
+    "Description": "Un desecho orgánico que se puede lanzar a los rivales. Inflige poco daño a un solo enemigo al usarse en combate."
+  },
+  {
+    "ItemLocalizationId": 578,
+    "ItemId": 65,
+    "LanguageCode": "EN-GB",
+    "Name": "Bonus Ball",
+    "Description": "Increases the amount of experience points and gold coins earned after battle by 1.5x. Effective for 10 battles. Only one of this or similar items can be in effect at any one time."
+  },
+  {
+    "ItemLocalizationId": 48,
+    "ItemId": 6,
+    "LanguageCode": "FR-FR",
+    "Name": "Botryche lunaire",
+    "Description": "Soigne un allié de la paralysie."
+  },
+  {
+    "ItemLocalizationId": 372,
+    "ItemId": 42,
+    "LanguageCode": "FR-FR",
+    "Name": "Boule de foudre",
+    "Description": "Orbe dans lequel est cristallisé le pouvoir de la foudre."
+  },
+  {
+    "ItemLocalizationId": 75,
+    "ItemId": 9,
+    "LanguageCode": "FR-FR",
+    "Name": "Bout de caillou",
+    "Description": "Petite pierre pouvant faire mal si lancée sur quelqu'un.\nInflige de légers dégâts à un ennemi lorsque utilisée en combat."
+  },
+  {
+    "ItemLocalizationId": 221,
+    "ItemId": 25,
+    "LanguageCode": "DE-DE",
+    "Name": "Buch der Launigkeit",
+    "Description": "Ein Buch, das die Persönlichkeit <DE99>Drama-Diva<DE66> verleiht. Sorgt dafür, dass sich das LP-Maximum und die Abwehr des Monsters gut entwickeln."
+  },
+  {
+    "ItemLocalizationId": 212,
+    "ItemId": 24,
+    "LanguageCode": "DE-DE",
+    "Name": "Buch der Passion",
+    "Description": "Ein Buch, das die Persönlichkeit <DE99>Visionär<DE66> verleiht. Sorgt dafür, dass sich das MP-Maximum des Monsters besonders gut entwickelt."
+  },
+  {
+    "ItemLocalizationId": 203,
+    "ItemId": 23,
+    "LanguageCode": "DE-DE",
+    "Name": "Buch der Vielseitigkeit",
+    "Description": "Ein Buch, das die Persönlichkeit <DE99>Allrounder<DE66> verleiht. Sorgt dafür, dass sich alle Attribute des Monsters gleich schnell entwickeln."
+  },
+  {
+    "ItemLocalizationId": 49,
+    "ItemId": 6,
+    "LanguageCode": "IT-IT",
+    "Name": "Bulbo di erbaluna",
+    "Description": "Guarisce un alleato dalla paralisi."
+  },
+  {
+    "ItemLocalizationId": 51,
+    "ItemId": 6,
+    "LanguageCode": "ES-ES",
+    "Name": "Bulbo lunar",
+    "Description": "Cura la parálisis a un solo aliado."
+  },
+  {
+    "ItemLocalizationId": 123,
+    "ItemId": 14,
+    "LanguageCode": "ES-ES",
+    "Name": "Carne curiosa",
+    "Description": "Carne sospechosa de origen desconocido. Dásela a un monstruo y aumentará aleatoriamente la probabilidad de que se quiera unir a ti."
+  },
+  {
+    "ItemLocalizationId": 121,
+    "ItemId": 14,
+    "LanguageCode": "IT-IT",
+    "Name": "Carne misteriosa",
+    "Description": "Un cibo enigmatico di origine sconosciuta. Aumenta in modo del tutto casuale le probabilità che un mostro nemico voglia unirsi a te."
+  },
+  {
+    "ItemLocalizationId": 114,
+    "ItemId": 13,
+    "LanguageCode": "ES-ES",
+    "Name": "Carne putrefacta",
+    "Description": "Un cacho de carne pocha que huele regulín. Dásela a un monstruo y aumentará ligeramente la probabilidad de que se quiera unir a ti, pero también se envenenará en el proceso."
+  },
+  {
+    "ItemLocalizationId": 112,
+    "ItemId": 13,
+    "LanguageCode": "IT-IT",
+    "Name": "Carne putrida",
+    "Description": "Putrida e maleodorante. Se la dai da mangiare a un mostro, aumenta di pochissimo le probabilità che la creatura voglia unirsi a te, e nel contempo la avveleni!"
+  },
+  {
+    "ItemLocalizationId": 488,
+    "ItemId": 55,
+    "LanguageCode": "EN-GB",
+    "Name": "Celestial Skein",
+    "Description": "Transcendental fibres that flow like fluid."
+  },
+  {
+    "ItemLocalizationId": 87,
+    "ItemId": 10,
+    "LanguageCode": "ES-ES",
+    "Name": "China",
+    "Description": "Una esfera de piedra muy dura que, cuando te da, hace mucha pupa. Inflige poco daño a un solo enemigo al usarse en combate, incluidos los monstruos metálicos."
+  },
+  {
+    "ItemLocalizationId": 76,
+    "ItemId": 9,
+    "LanguageCode": "IT-IT",
+    "Name": "Ciottolo pregiato",
+    "Description": "Una piccola pietra che può far male se scagliata con sufficiente forza. Infligge lievi danni a un nemico quando si usa in battaglia."
+  },
+  {
+    "ItemLocalizationId": 510,
+    "ItemId": 57,
+    "LanguageCode": "ES-ES",
+    "Name": "Concha descolorida",
+    "Description": "Concha de tonos níveos encontrada en una playa."
+  },
+  {
+    "ItemLocalizationId": 508,
+    "ItemId": 57,
+    "LanguageCode": "IT-IT",
+    "Name": "Conchiglia sbiadita",
+    "Description": "Una conchiglia candida rinvenuta sulla spiaggia."
+  },
+  {
+    "ItemLocalizationId": 103,
+    "ItemId": 12,
+    "LanguageCode": "IT-IT",
+    "Name": "Controfiletto affumicato",
+    "Description": "Tenero e succulento, è uno dei cibi preferiti dei mostri. Aumenta di poco le probabilità che un mostro nemico voglia unirsi a te."
+  },
+  {
+    "ItemLocalizationId": 245,
+    "ItemId": 28,
+    "LanguageCode": "EN-GB",
+    "Name": "Copper Ore",
+    "Description": "Common ore rich in copper."
+  },
+  {
+    "ItemLocalizationId": 507,
+    "ItemId": 57,
+    "LanguageCode": "FR-FR",
+    "Name": "Coquillage blanchi",
+    "Description": "Coquillage immaculé trouvé sur la plage."
+  },
+  {
+    "ItemLocalizationId": 461,
+    "ItemId": 52,
+    "LanguageCode": "EN-GB",
+    "Name": "Cottontop",
+    "Description": "A fluffy tuft of top-grade cotton."
+  },
+  {
+    "ItemLocalizationId": 66,
+    "ItemId": 8,
+    "LanguageCode": "FR-FR",
+    "Name": "Crottin de monstre",
+    "Description": "Déjection malodorante qui peut être lancée.\nInflige de légers dégâts à un ennemi lorsque utilisée en combat."
+  },
+  {
+    "ItemLocalizationId": 85,
+    "ItemId": 10,
+    "LanguageCode": "IT-IT",
+    "Name": "Dannosfera",
+    "Description": "Questa sfera durissima fa vedere le stelle a chi viene colpito da essa. Infligge lievi danni a un nemico quando si usa in battaglia, compresi i mostri metallici."
+  },
+  {
+    "ItemLocalizationId": 353,
+    "ItemId": 40,
+    "LanguageCode": "EN-GB",
+    "Name": "Densinium",
+    "Description": "A mass of metal that's much heavier than it looks."
+  },
+  {
+    "ItemLocalizationId": 354,
+    "ItemId": 40,
+    "LanguageCode": "FR-FR",
+    "Name": "Densinium",
+    "Description": "Bloc de métal remarquablement lourd."
+  },
+  {
+    "ItemLocalizationId": 355,
+    "ItemId": 40,
+    "LanguageCode": "IT-IT",
+    "Name": "Densinium",
+    "Description": "Un blocco di metallo eccezionalmente pesante."
+  },
+  {
+    "ItemLocalizationId": 23,
+    "ItemId": 3,
+    "LanguageCode": "DE-DE",
+    "Name": "Desmodium-Essenz",
+    "Description": "Gibt allen Verbündeten 50 bis 60<nbsp>LP zurück."
+  },
+  {
+    "ItemLocalizationId": 516,
+    "ItemId": 58,
+    "LanguageCode": "FR-FR",
+    "Name": "Eau fraîche",
+    "Description": "Eau de source naturelle très limpide."
+  },
+  {
+    "ItemLocalizationId": 489,
+    "ItemId": 55,
+    "LanguageCode": "FR-FR",
+    "Name": "Écheveau céleste",
+    "Description": "Fibre mystérieuse dont les fils sont couverts d'eau."
+  },
+  {
+    "ItemLocalizationId": 257,
+    "ItemId": 29,
+    "LanguageCode": "DE-DE",
+    "Name": "Eisenerz",
+    "Description": "Ein gewöhnliches Erz, das reich an Eisen ist."
+  },
+  {
+    "ItemLocalizationId": 481,
+    "ItemId": 54,
+    "LanguageCode": "IT-IT",
+    "Name": "Erba della brezza marina",
+    "Description": "Erba che emana il profumo della brezza marina."
+  },
+  {
+    "ItemLocalizationId": 4,
+    "ItemId": 1,
+    "LanguageCode": "IT-IT",
+    "Name": "Erba medicinale",
+    "Description": "Fa recuperare 30 PV a un alleato."
+  },
+  {
+    "ItemLocalizationId": 40,
+    "ItemId": 5,
+    "LanguageCode": "IT-IT",
+    "Name": "Erba per antidoti",
+    "Description": "Guarisce un alleato dall'avvelenamento (anche da quello grave)."
+  },
+  {
+    "ItemLocalizationId": 312,
+    "ItemId": 35,
+    "LanguageCode": "ES-ES",
+    "Name": "Escama pequeña",
+    "Description": "Escama pequeñita del tamaño de una uña."
+  },
+  {
+    "ItemLocalizationId": 24,
+    "ItemId": 3,
+    "LanguageCode": "ES-ES",
+    "Name": "Esencia de amor seco",
+    "Description": "Devuelve entre 50 y 60 PV a todos los aliados."
+  },
+  {
+    "ItemLocalizationId": 22,
+    "ItemId": 3,
+    "LanguageCode": "IT-IT",
+    "Name": "Essenza d'amor seco",
+    "Description": "Fa recuperare da 50 a 60 PV a tutti gli alleati."
+  },
+  {
+    "ItemLocalizationId": 470,
+    "ItemId": 53,
+    "LanguageCode": "EN-GB",
+    "Name": "Faerie Fluff",
+    "Description": "Fluffy stuff farmed by the fairest faerie folk."
+  },
+  {
+    "ItemLocalizationId": 509,
+    "ItemId": 57,
+    "LanguageCode": "DE-DE",
+    "Name": "Fahle Muschel",
+    "Description": "Eine schneeweiße Muschel, gefunden an einem Strand."
+  },
+  {
+    "ItemLocalizationId": 473,
+    "ItemId": 53,
+    "LanguageCode": "DE-DE",
+    "Name": "Feenwolle",
+    "Description": "Eine seltene, von Feen gezüchtete Baumwollpflanze."
+  },
+  {
+    "ItemLocalizationId": 256,
+    "ItemId": 29,
+    "LanguageCode": "IT-IT",
+    "Name": "Ferro",
+    "Description": "Un minerale comune contenente ferro."
+  },
+  {
+    "ItemLocalizationId": 266,
+    "ItemId": 30,
+    "LanguageCode": "DE-DE",
+    "Name": "Feuerstein",
+    "Description": "Ein großer Stein, der sich perfekt als Briefbeschwerer eignet."
+  },
+  {
+    "ItemLocalizationId": 31,
+    "ItemId": 4,
+    "LanguageCode": "IT-IT",
+    "Name": "Fiala piccola",
+    "Description": "Fa recuperare 10 PM a un alleato."
+  },
+  {
+    "ItemLocalizationId": 553,
+    "ItemId": 62,
+    "LanguageCode": "IT-IT",
+    "Name": "Fiammeterna",
+    "Description": "Una fiamma misteriosa, infusa di potere magico."
+  },
+  {
+    "ItemLocalizationId": 471,
+    "ItemId": 53,
+    "LanguageCode": "FR-FR",
+    "Name": "Fibres féeriques",
+    "Description": "Fleur de coton rare qui a été cultivée par des fées."
+  },
+  {
+    "ItemLocalizationId": 102,
+    "ItemId": 12,
+    "LanguageCode": "FR-FR",
+    "Name": "Filet fumé",
+    "Description": "Viande très appréciée par les monstres.\nAugmente légèrement la probabilité qu'un monstre accepte de se joindre à vous."
+  },
+  {
+    "ItemLocalizationId": 120,
+    "ItemId": 14,
+    "LanguageCode": "FR-FR",
+    "Name": "Filet mignon mystérieux",
+    "Description": "Viande au goût étrange. Augmente aléatoirement la probabilité qu'un monstre accepte de se joindre à vous."
+  },
+  {
+    "ItemLocalizationId": 497,
+    "ItemId": 56,
+    "LanguageCode": "EN-GB",
+    "Name": "Fine Fur",
+    "Description": "Toasty-warm fur once worn by a monster."
+  },
+  {
+    "ItemLocalizationId": 30,
+    "ItemId": 4,
+    "LanguageCode": "FR-FR",
+    "Name": "Fiole unique",
+    "Description": "Restaure 10 PM à un allié."
+  },
+  {
+    "ItemLocalizationId": 293,
+    "ItemId": 33,
+    "LanguageCode": "DE-DE",
+    "Name": "Flatterfeder",
+    "Description": "Eine Feder, die ein Vogel beim Schnellen durch die Lüfte verloren hat."
+  },
+  {
+    "ItemLocalizationId": 338,
+    "ItemId": 38,
+    "LanguageCode": "DE-DE",
+    "Name": "Fledermausflügel",
+    "Description": "Die ledrige Schwinge eines nachtaktiven Jägers."
+  },
+  {
+    "ItemLocalizationId": 462,
+    "ItemId": 52,
+    "LanguageCode": "FR-FR",
+    "Name": "Fleur de coton",
+    "Description": "Plante qui donne un coton léger."
+  },
+  {
+    "ItemLocalizationId": 167,
+    "ItemId": 19,
+    "LanguageCode": "DE-DE",
+    "Name": "Flinkheitssamen",
+    "Description": "Erhöht die Flinkheit eines Verbündeten um 3. Achtung: Es gibt für jede Monsterart eine feste Obergrenze, die nicht überschritten werden kann."
+  },
+  {
+    "ItemLocalizationId": 263,
+    "ItemId": 30,
+    "LanguageCode": "EN-GB",
+    "Name": "Flintstone",
+    "Description": "A big, heavy stone that's ideal for squishing sandwiches."
+  },
+  {
+    "ItemLocalizationId": 465,
+    "ItemId": 52,
+    "LanguageCode": "ES-ES",
+    "Name": "Flor de algodón",
+    "Description": "Hierba de la que se extrae un algodón muy esponjoso."
+  },
+  {
+    "ItemLocalizationId": 483,
+    "ItemId": 54,
+    "LanguageCode": "ES-ES",
+    "Name": "Flor de marea",
+    "Description": "Hierba flotante que arrastra consigo el aroma marino."
+  },
+  {
+    "ItemLocalizationId": 290,
+    "ItemId": 33,
+    "LanguageCode": "EN-GB",
+    "Name": "Flurry Feather",
+    "Description": "A plume lost in high winds by a bird on the wing."
+  },
+  {
+    "ItemLocalizationId": 498,
+    "ItemId": 56,
+    "LanguageCode": "FR-FR",
+    "Name": "Fourrure fine",
+    "Description": "Fourrure épaisse obtenue sur un monstre."
+  },
+  {
+    "ItemLocalizationId": 357,
+    "ItemId": 40,
+    "LanguageCode": "ES-ES",
+    "Name": "Fragmento de densinio",
+    "Description": "Bloque de metal más pesado de lo que parece a primera vista."
+  },
+  {
+    "ItemLocalizationId": 249,
+    "ItemId": 28,
+    "LanguageCode": "ES-ES",
+    "Name": "Fragmento de mineral de cobre",
+    "Description": "Mineral común con abundancia de cobre."
+  },
+  {
+    "ItemLocalizationId": 258,
+    "ItemId": 29,
+    "LanguageCode": "ES-ES",
+    "Name": "Fragmento de mineral de hierro",
+    "Description": "Mineral común con abundancia de hierro."
+  },
+  {
+    "ItemLocalizationId": 515,
+    "ItemId": 58,
+    "LanguageCode": "EN-GB",
+    "Name": "Fresh Water",
+    "Description": "Natural spring water, cool and clear."
+  },
+  {
+    "ItemLocalizationId": 518,
+    "ItemId": 58,
+    "LanguageCode": "DE-DE",
+    "Name": "Frisches Wasser",
+    "Description": "Natürliches Quellwasser, klar und rein."
+  },
+  {
+    "ItemLocalizationId": 455,
+    "ItemId": 51,
+    "LanguageCode": "DE-DE",
+    "Name": "Frostiger Zweig",
+    "Description": "Ein kalter Zweig, um den sich der Winter gelegt zu haben scheint."
+  },
+  {
+    "ItemLocalizationId": 113,
+    "ItemId": 13,
+    "LanguageCode": "DE-DE",
+    "Name": "Gammelfleisch",
+    "Description": "Ein fauliges Fleischstück, das einen stechenden Gestank verströmt. Füttere ein Monster damit, um die Chance minimal zu erhöhen, dass es sich dir anschließt, es gleichzeitig aber auch zu vergiften."
+  },
+  {
+    "ItemLocalizationId": 41,
+    "ItemId": 5,
+    "LanguageCode": "DE-DE",
+    "Name": "Gegengiftkraut",
+    "Description": "Heilt einen Verbündeten von Vergiftung und schwerer Vergiftung."
+  },
+  {
+    "ItemLocalizationId": 410,
+    "ItemId": 46,
+    "LanguageCode": "DE-DE",
+    "Name": "Gelbes Kleinod",
+    "Description": "Ein kostbarer Stein, der gelbes Licht verströmt."
+  },
+  {
+    "ItemLocalizationId": 454,
+    "ItemId": 51,
+    "LanguageCode": "IT-IT",
+    "Name": "Geloramo",
+    "Description": "Il ramo di una pianta fredda, avvolta da un'aura gelida."
+  },
+  {
+    "ItemLocalizationId": 463,
+    "ItemId": 52,
+    "LanguageCode": "IT-IT",
+    "Name": "Germoglio di cotone",
+    "Description": "Un'erba da cui si può raccogliere del soffice cotone."
+  },
+  {
+    "ItemLocalizationId": 272,
+    "ItemId": 31,
+    "LanguageCode": "EN-GB",
+    "Name": "Glass Frit",
+    "Description": "Soft sand used to polish things till they gleam."
+  },
+  {
+    "ItemLocalizationId": 527,
+    "ItemId": 59,
+    "LanguageCode": "DE-DE",
+    "Name": "Glitzerharz",
+    "Description": "Harz von einem Baum, der im Mondlicht leuchtet."
+  },
+  {
+    "ItemLocalizationId": 327,
+    "ItemId": 37,
+    "LanguageCode": "FR-FR",
+    "Name": "Glugoutte",
+    "Description": "Gelée élastique rappelant les gluants."
+  },
+  {
+    "ItemLocalizationId": 165,
+    "ItemId": 19,
+    "LanguageCode": "FR-FR",
+    "Name": "Graine d'agilité",
+    "Description": "Augmente l'agilité d'un allié de 3 points.\nNe permet toutefois pas de dépasser la limite de chaque type de monstre."
+  },
+  {
+    "ItemLocalizationId": 237,
+    "ItemId": 27,
+    "LanguageCode": "FR-FR",
+    "Name": "Graine d'agrandissement",
+    "Description": "Donne la taille G à un monstre allié."
+  },
+  {
+    "ItemLocalizationId": 183,
+    "ItemId": 21,
+    "LanguageCode": "FR-FR",
+    "Name": "Graine de compétence",
+    "Description": "Octroie 3 points de talent supplémentaires à un allié.\nNe permet toutefois pas à un monstre d'avoir plus de 999 points de talent disponibles."
+  },
+  {
+    "ItemLocalizationId": 192,
+    "ItemId": 22,
+    "LanguageCode": "FR-FR",
+    "Name": "Graine de croissance",
+    "Description": "Augmente le niveau d'un allié de 1 point."
+  },
+  {
+    "ItemLocalizationId": 147,
+    "ItemId": 17,
+    "LanguageCode": "FR-FR",
+    "Name": "Graine de force",
+    "Description": "Augmente l'attaque d'un allié de 3 points.\nNe permet toutefois pas de dépasser la limite de chaque type de monstre."
+  },
+  {
+    "ItemLocalizationId": 138,
+    "ItemId": 16,
+    "LanguageCode": "FR-FR",
+    "Name": "Graine de magie",
+    "Description": "Augmente les PM max. d'un allié de 3 points.\nNe permet toutefois pas de dépasser la limite de chaque type de monstre."
+  },
+  {
+    "ItemLocalizationId": 156,
+    "ItemId": 18,
+    "LanguageCode": "FR-FR",
+    "Name": "Graine de protection",
+    "Description": "Augmente la défense d'un allié de 3 points.\nNe permet toutefois pas de dépasser la limite de chaque type de monstre."
+  },
+  {
+    "ItemLocalizationId": 228,
+    "ItemId": 26,
+    "LanguageCode": "FR-FR",
+    "Name": "Graine de rapetissement",
+    "Description": "Donne la taille P à un monstre allié."
+  },
+  {
+    "ItemLocalizationId": 174,
+    "ItemId": 20,
+    "LanguageCode": "FR-FR",
+    "Name": "Graine de sagesse",
+    "Description": "Augmente la sagesse d'un allié de 3 points.\nNe permet toutefois pas de dépasser la limite de chaque type de monstre."
+  },
+  {
+    "ItemLocalizationId": 129,
+    "ItemId": 15,
+    "LanguageCode": "FR-FR",
+    "Name": "Graine de vie",
+    "Description": "Augmente les PV max. d'un allié de 3 points.\nNe permet toutefois pas de dépasser la limite de chaque type de monstre."
+  },
+  {
+    "ItemLocalizationId": 416,
+    "ItemId": 47,
+    "LanguageCode": "EN-GB",
+    "Name": "Green Eye",
+    "Description": "A precious stone that glows with green light."
+  },
+  {
+    "ItemLocalizationId": 419,
+    "ItemId": 47,
+    "LanguageCode": "DE-DE",
+    "Name": "Grünes Kleinod",
+    "Description": "Ein kostbarer Stein, der grünes Licht verströmt."
+  },
+  {
+    "ItemLocalizationId": 299,
+    "ItemId": 34,
+    "LanguageCode": "EN-GB",
+    "Name": "Hardy Hide",
+    "Description": "A tough pelt of the kind formerly found on monsters."
+  },
+  {
+    "ItemLocalizationId": 5,
+    "ItemId": 1,
+    "LanguageCode": "DE-DE",
+    "Name": "Heilkraut",
+    "Description": "Gibt einem Verbündeten 30<nbsp>LP zurück."
+  },
+  {
+    "ItemLocalizationId": 39,
+    "ItemId": 5,
+    "LanguageCode": "FR-FR",
+    "Name": "Herbe curative",
+    "Description": "Soigne un allié de l'empoisonnement ou de l'empoisonnement sévère."
+  },
+  {
+    "ItemLocalizationId": 3,
+    "ItemId": 1,
+    "LanguageCode": "FR-FR",
+    "Name": "Herbe médicinale",
+    "Description": "Restaure 30 PV à un allié."
+  },
+  {
+    "ItemLocalizationId": 491,
+    "ItemId": 55,
+    "LanguageCode": "DE-DE",
+    "Name": "Himmelsgebinde",
+    "Description": "Eine übersinnliche Faser, die geschmeidig fließt wie Wasser."
+  },
+  {
+    "ItemLocalizationId": 545,
+    "ItemId": 61,
+    "LanguageCode": "DE-DE",
+    "Name": "Hübschhut",
+    "Description": "Ein Pilz von vollendeter Schönheit."
+  },
+  {
+    "ItemLocalizationId": 321,
+    "ItemId": 36,
+    "LanguageCode": "ES-ES",
+    "Name": "Hueso de animal mágico",
+    "Description": "Hueso resistente de un animal salvaje."
+  },
+  {
+    "ItemLocalizationId": 345,
+    "ItemId": 39,
+    "LanguageCode": "FR-FR",
+    "Name": "Huile de crapaud",
+    "Description": "Mucus obtenu sur un crapaud."
+  },
+  {
+    "ItemLocalizationId": 254,
+    "ItemId": 29,
+    "LanguageCode": "EN-GB",
+    "Name": "Iron Ore",
+    "Description": "Common ore rich in iron."
+  },
+  {
+    "ItemLocalizationId": 311,
+    "ItemId": 35,
+    "LanguageCode": "DE-DE",
+    "Name": "Kleine Schuppe",
+    "Description": "Eine winzige Schuppe von der Größe eines Fingernagels."
+  },
+  {
+    "ItemLocalizationId": 383,
+    "ItemId": 43,
+    "LanguageCode": "DE-DE",
+    "Name": "Königliche Erde",
+    "Description": "Ein Brocken Erde mit magischen Kräften."
+  },
+  {
+    "ItemLocalizationId": 347,
+    "ItemId": 39,
+    "LanguageCode": "DE-DE",
+    "Name": "Krötenöl",
+    "Description": "Öl, das einer Kröte entnommen wurde<nbsp><--> wie, das fragt man besser nicht."
+  },
+  {
+    "ItemLocalizationId": 248,
+    "ItemId": 28,
+    "LanguageCode": "DE-DE",
+    "Name": "Kupfererz",
+    "Description": "Ein gewöhnliches Erz, das reich an Kupfer ist."
+  },
+  {
+    "ItemLocalizationId": 243,
+    "ItemId": 27,
+    "LanguageCode": "KO-KR",
+    "Name": "L 사이즈 씨앗",
+    "Description": "동료 1체가 L 사이즈가 된다."
+  },
+  {
+    "ItemLocalizationId": 363,
+    "ItemId": 41,
+    "LanguageCode": "FR-FR",
+    "Name": "Laine d'agneau",
+    "Description": "Laine légère obtenue sur un mouton."
+  },
+  {
+    "ItemLocalizationId": 362,
+    "ItemId": 41,
+    "LanguageCode": "EN-GB",
+    "Name": "Lambswool",
+    "Description": "Fluffy wool from a tender young sheep."
+  },
+  {
+    "ItemLocalizationId": 365,
+    "ItemId": 41,
+    "LanguageCode": "DE-DE",
+    "Name": "Lammwolle",
+    "Description": "Flauschige Wolle von einem flauschigen Schaf."
+  },
+  {
+    "ItemLocalizationId": 554,
+    "ItemId": 62,
+    "LanguageCode": "DE-DE",
+    "Name": "Lampenlicht",
+    "Description": "Flammen, die vor Magie knistern."
+  },
+  {
+    "ItemLocalizationId": 551,
+    "ItemId": 62,
+    "LanguageCode": "EN-GB",
+    "Name": "Lamplight",
+    "Description": "Flames that flicker with magical force."
+  },
+  {
+    "ItemLocalizationId": 366,
+    "ItemId": 41,
+    "LanguageCode": "ES-ES",
+    "Name": "Lana de cordero",
+    "Description": "Lana suavecita de una oveja bien cuidada."
+  },
+  {
+    "ItemLocalizationId": 552,
+    "ItemId": 62,
+    "LanguageCode": "FR-FR",
+    "Name": "Lanterne",
+    "Description": "Flamme étrange qui recèle un pouvoir magique."
+  },
+  {
+    "ItemLocalizationId": 131,
+    "ItemId": 15,
+    "LanguageCode": "DE-DE",
+    "Name": "Lebenssamen",
+    "Description": "Erhöht das LP-Maximum eines Verbündeten um 3. Achtung: Es gibt für jede Monsterart eine feste Obergrenze, die nicht überschritten werden kann."
+  },
+  {
+    "ItemLocalizationId": 211,
+    "ItemId": 24,
+    "LanguageCode": "IT-IT",
+    "Name": "Libro appassionante",
+    "Description": "Un libro per rendere visionario un mostro.\nAumenta di molto lo sviluppo dei PM max."
+  },
+  {
+    "ItemLocalizationId": 220,
+    "ItemId": 25,
+    "LanguageCode": "IT-IT",
+    "Name": "Libro bizzarro",
+    "Description": "Un libro per rendere capriccioso un mostro.\nAumenta lo sviluppo dei PV max e della Difesa."
+  },
+  {
+    "ItemLocalizationId": 202,
+    "ItemId": 23,
+    "LanguageCode": "IT-IT",
+    "Name": "Libro classico",
+    "Description": "Un libro per rendere normale un mostro.\nFa sviluppare tutti i parametri in maniera bilanciata."
+  },
+  {
+    "ItemLocalizationId": 330,
+    "ItemId": 37,
+    "LanguageCode": "ES-ES",
+    "Name": "Limogota",
+    "Description": "Gelatina que tiembla como un limo."
+  },
+  {
+    "ItemLocalizationId": 526,
+    "ItemId": 59,
+    "LanguageCode": "IT-IT",
+    "Name": "Linfa scintillante",
+    "Description": "Linfa di un albero che splende nelle notti illuminate dalla luna."
+  },
+  {
+    "ItemLocalizationId": 570,
+    "ItemId": 64,
+    "LanguageCode": "FR-FR",
+    "Name": "Livret de Petit souffleur",
+    "Description": "Enseigne le talent « Petit souffleur »."
+  },
+  {
+    "ItemLocalizationId": 555,
+    "ItemId": 62,
+    "LanguageCode": "ES-ES",
+    "Name": "Lucerna",
+    "Description": "Llamas extrañas que contienen energía mágica."
+  },
+  {
+    "ItemLocalizationId": 235,
+    "ItemId": 27,
+    "LanguageCode": "JP-JP",
+    "Name": "Lサイズのタネ",
+    "Description": "仲間１体のサイズが　Ｌサイズになる"
+  },
+  {
+    "ItemLocalizationId": 242,
+    "ItemId": 27,
+    "LanguageCode": "ZH-CN",
+    "Name": "Ｌ体型种子",
+    "Description": "使一个伙伴变成Ｌ体型"
+  },
+  {
+    "ItemLocalizationId": 241,
+    "ItemId": 27,
+    "LanguageCode": "ZH-TW",
+    "Name": "Ｌ體型種子",
+    "Description": "使一個夥伴變成Ｌ體型"
+  },
+  {
+    "ItemLocalizationId": 492,
+    "ItemId": 55,
+    "LanguageCode": "ES-ES",
+    "Name": "Madeja celestial",
+    "Description": "Fibra divina por cuyas hebras fluye el agua."
+  },
+  {
+    "ItemLocalizationId": 140,
+    "ItemId": 16,
+    "LanguageCode": "DE-DE",
+    "Name": "Magiesamen",
+    "Description": "Erhöht das MP-Maximum eines Verbündeten um 3. Achtung: Es gibt für jede Monsterart eine feste Obergrenze, die nicht überschritten werden kann."
+  },
+  {
+    "ItemLocalizationId": 110,
+    "ItemId": 13,
+    "LanguageCode": "EN-GB",
+    "Name": "Manky Meat",
+    "Description": "A piece of putrid flesh that exudes a sour stench. Feed to a monster to very slightly increase the likelihood of it wanting to join you, but also poison it in the process."
+  },
+  {
+    "ItemLocalizationId": 490,
+    "ItemId": 55,
+    "LanguageCode": "IT-IT",
+    "Name": "Matassa celeste",
+    "Description": "Una fibra misteriosa in cui scorre l'acqua."
+  },
+  {
+    "ItemLocalizationId": 236,
+    "ItemId": 27,
+    "LanguageCode": "EN-GB",
+    "Name": "Maximising Seed",
+    "Description": "Changes a single ally to L size."
+  },
+  {
+    "ItemLocalizationId": 15,
+    "ItemId": 2,
+    "LanguageCode": "ES-ES",
+    "Name": "Medicina fuerte",
+    "Description": "Devuelve 60 PV a un solo aliado."
+  },
+  {
+    "ItemLocalizationId": 13,
+    "ItemId": 2,
+    "LanguageCode": "IT-IT",
+    "Name": "Medicina potente",
+    "Description": "Fa recuperare 60 PV a un alleato."
+  },
+  {
+    "ItemLocalizationId": 2,
+    "ItemId": 1,
+    "LanguageCode": "EN-GB",
+    "Name": "Medicinal Herb",
+    "Description": "Restores 30 HP to a single ally."
+  },
+  {
+    "ItemLocalizationId": 219,
+    "ItemId": 25,
+    "LanguageCode": "FR-FR",
+    "Name": "Méthode du Capricieux sauvage",
+    "Description": "Livre conférant le caractère « capricieux sauvage » à un monstre.\nDéveloppe aussi ses PV max. et sa défense."
+  },
+  {
+    "ItemLocalizationId": 201,
+    "ItemId": 23,
+    "LanguageCode": "FR-FR",
+    "Name": "Méthode du Sérieux",
+    "Description": "Livre conférant le caractère « sérieux » à un monstre.\nDéveloppe aussi toutes les caractéristiques sans exception."
+  },
+  {
+    "ItemLocalizationId": 210,
+    "ItemId": 24,
+    "LanguageCode": "FR-FR",
+    "Name": "Méthode du Visionnaire",
+    "Description": "Livre conférant le caractère « visionnaire » à un monstre.\nDéveloppe aussi grandement ses PM max."
+  },
+  {
+    "ItemLocalizationId": 246,
+    "ItemId": 28,
+    "LanguageCode": "FR-FR",
+    "Name": "Minerai de cuivre",
+    "Description": "Morceau de minerai banal qui contient du cuivre."
+  },
+  {
+    "ItemLocalizationId": 255,
+    "ItemId": 29,
+    "LanguageCode": "FR-FR",
+    "Name": "Minerai de fer",
+    "Description": "Morceau de minerai banal qui contient du fer."
+  },
+  {
+    "ItemLocalizationId": 390,
+    "ItemId": 44,
+    "LanguageCode": "FR-FR",
+    "Name": "Minerai miroir",
+    "Description": "Pierre brillant comme un miroir."
+  },
+  {
+    "ItemLocalizationId": 561,
+    "ItemId": 63,
+    "LanguageCode": "FR-FR",
+    "Name": "Mini médaille",
+    "Description": "Médaille collectionnable qui peut être échangée contre une large gamme d'objets au comptoir de Monsieur Médaille."
+  },
+  {
+    "ItemLocalizationId": 560,
+    "ItemId": 63,
+    "LanguageCode": "EN-GB",
+    "Name": "Mini Medal",
+    "Description": "Can be traded with Monsieur Medaille for rewards at the Mini Medal Swap Shop."
+  },
+  {
+    "ItemLocalizationId": 562,
+    "ItemId": 63,
+    "LanguageCode": "IT-IT",
+    "Name": "Minimedaglia",
+    "Description": "Medaglie collezionabili che possono essere scambiate con un'ampia scelta di premi da Monsieur Medaglia, al Banco di scambio delle minimedaglie."
+  },
+  {
+    "ItemLocalizationId": 563,
+    "ItemId": 63,
+    "LanguageCode": "DE-DE",
+    "Name": "Minimedaille",
+    "Description": "Medaillen, die bei Monsieur Medaille im Medaillenkiosk gegen diverse Belohnungen eingetauscht werden können."
+  },
+  {
+    "ItemLocalizationId": 564,
+    "ItemId": 63,
+    "LanguageCode": "ES-ES",
+    "Name": "Minimedalla",
+    "Description": "Las minimedallas se intercambian en el mostrador de Mesié Medallón por una gran variedad de premios."
+  },
+  {
+    "ItemLocalizationId": 227,
+    "ItemId": 26,
+    "LanguageCode": "EN-GB",
+    "Name": "Minimising Seed",
+    "Description": "Changes a single ally to S size."
+  },
+  {
+    "ItemLocalizationId": 389,
+    "ItemId": 44,
+    "LanguageCode": "EN-GB",
+    "Name": "Mirrorstone",
+    "Description": "Rock that reflects light as well as any mirror."
+  },
+  {
+    "ItemLocalizationId": 50,
+    "ItemId": 6,
+    "LanguageCode": "DE-DE",
+    "Name": "Mondrauten-Knolle",
+    "Description": "Heilt einen Verbündeten von Lähmung."
+  },
+  {
+    "ItemLocalizationId": 65,
+    "ItemId": 8,
+    "LanguageCode": "EN-GB",
+    "Name": "Monster Manure",
+    "Description": "A pongy deposit that can be pitched at one's opponents. Inflicts minor damage to a single enemy when used in battle."
+  },
+  {
+    "ItemLocalizationId": 92,
+    "ItemId": 11,
+    "LanguageCode": "EN-GB",
+    "Name": "Monster Munchies",
+    "Description": "A meaty morsel that monsters love. Feed to a monster to very slightly increase the likelihood of it wanting to join you."
+  },
+  {
+    "ItemLocalizationId": 302,
+    "ItemId": 34,
+    "LanguageCode": "DE-DE",
+    "Name": "Monsterleder",
+    "Description": "Freundlicherweise von einem erlegten Monster zur Verfügung gestellt."
+  },
+  {
+    "ItemLocalizationId": 95,
+    "ItemId": 11,
+    "LanguageCode": "DE-DE",
+    "Name": "Monstermampf",
+    "Description": "Ein schmackhaftes Stückchen, das Monster sehr schätzen. Füttere ein Monster damit, um die Chance minimal zu erhöhen, dass es sich dir anschließt."
+  },
+  {
+    "ItemLocalizationId": 68,
+    "ItemId": 8,
+    "LanguageCode": "DE-DE",
+    "Name": "Monstermist",
+    "Description": "Eine äußerst übel riechende Ausscheidung, die auf Gegner geschleudert werden kann. Fügt einem Feind geringen Schaden zu, wenn sie im Kampf benutzt wird."
+  },
+  {
+    "ItemLocalizationId": 93,
+    "ItemId": 11,
+    "LanguageCode": "FR-FR",
+    "Name": "Monstrobec",
+    "Description": "Viande appréciée par les monstres.\nAugmente très légèrement la probabilité qu'un monstre accepte de se joindre à vous."
+  },
+  {
+    "ItemLocalizationId": 47,
+    "ItemId": 6,
+    "LanguageCode": "EN-GB",
+    "Name": "Moonwort Bulb",
+    "Description": "Cures a single ally of paralysis."
+  },
+  {
+    "ItemLocalizationId": 94,
+    "ItemId": 11,
+    "LanguageCode": "IT-IT",
+    "Name": "Mostrosnack",
+    "Description": "I mostri adorano questo cibo appetitoso! Aumenta di pochissimo le probabilità che un mostro nemico voglia unirsi a te."
+  },
+  {
+    "ItemLocalizationId": 119,
+    "ItemId": 14,
+    "LanguageCode": "EN-GB",
+    "Name": "Mystery Meat",
+    "Description": "Meat with an oddly familiar taste. Feed to a monster to increase the likelihood of it wanting to join you. Also applies a random effect."
+  },
+  {
+    "ItemLocalizationId": 86,
+    "ItemId": 10,
+    "LanguageCode": "DE-DE",
+    "Name": "Nadelkugel",
+    "Description": "Ein kugelförmiges Geschoss aus ganz hartem Gestein, das wahnsinnig wehtut. Kann im Kampf benutzt werden, um einem Feind geringen Schaden zuzufügen<nbsp><--> auch Metallmonstern."
+  },
+  {
+    "ItemLocalizationId": 285,
+    "ItemId": 32,
+    "LanguageCode": "ES-ES",
+    "Name": "Narcisoso",
+    "Description": "Planta de aspecto sumamente sospechoso."
+  },
+  {
+    "ItemLocalizationId": 281,
+    "ItemId": 32,
+    "LanguageCode": "EN-GB",
+    "Name": "Narspicious",
+    "Description": "A plant of dubious nature."
+  },
+  {
+    "ItemLocalizationId": 218,
+    "ItemId": 25,
+    "LanguageCode": "EN-GB",
+    "Name": "Nonconformity for All",
+    "Description": "A book so idiosyncratic that it changes a monster's personality to <6>nonconformist<9>. The monster will develop high max. HP and defence."
+  },
+  {
+    "ItemLocalizationId": 409,
+    "ItemId": 46,
+    "LanguageCode": "IT-IT",
+    "Name": "Occhio giallo",
+    "Description": "Una pietra preziosa che emana una luce gialla."
+  },
+  {
+    "ItemLocalizationId": 400,
+    "ItemId": 45,
+    "LanguageCode": "IT-IT",
+    "Name": "Occhio rosso",
+    "Description": "Una pietra preziosa che emana una luce rossa."
+  },
+  {
+    "ItemLocalizationId": 418,
+    "ItemId": 47,
+    "LanguageCode": "IT-IT",
+    "Name": "Occhio verde",
+    "Description": "Una pietra preziosa che emana una luce verde."
+  },
+  {
+    "ItemLocalizationId": 427,
+    "ItemId": 48,
+    "LanguageCode": "IT-IT",
+    "Name": "Occhio viola",
+    "Description": "Una pietra preziosa che emana una luce viola."
+  },
+  {
+    "ItemLocalizationId": 408,
+    "ItemId": 46,
+    "LanguageCode": "FR-FR",
+    "Name": "Œil jaune",
+    "Description": "Pierre précieuse émettant une lumière jaune."
+  },
+  {
+    "ItemLocalizationId": 399,
+    "ItemId": 45,
+    "LanguageCode": "FR-FR",
+    "Name": "Œil rouge",
+    "Description": "Pierre précieuse émettant une lumière rouge."
+  },
+  {
+    "ItemLocalizationId": 417,
+    "ItemId": 47,
+    "LanguageCode": "FR-FR",
+    "Name": "Œil vert",
+    "Description": "Pierre précieuse émettant une lumière verte."
+  },
+  {
+    "ItemLocalizationId": 426,
+    "ItemId": 48,
+    "LanguageCode": "FR-FR",
+    "Name": "Œil violet",
+    "Description": "Pierre précieuse émettant une lumière violette."
+  },
+  {
+    "ItemLocalizationId": 411,
+    "ItemId": 46,
+    "LanguageCode": "ES-ES",
+    "Name": "Ojo amarillo",
+    "Description": "Gema valiosa que emite un brillo amarillo."
+  },
+  {
+    "ItemLocalizationId": 429,
+    "ItemId": 48,
+    "LanguageCode": "ES-ES",
+    "Name": "Ojo púrpura",
+    "Description": "Gema valiosa que emite un brillo morado."
+  },
+  {
+    "ItemLocalizationId": 402,
+    "ItemId": 45,
+    "LanguageCode": "ES-ES",
+    "Name": "Ojo rojo",
+    "Description": "Gema que reluce con un tono rojizo y fuerte."
+  },
+  {
+    "ItemLocalizationId": 420,
+    "ItemId": 47,
+    "LanguageCode": "ES-ES",
+    "Name": "Ojo verde",
+    "Description": "Gema valiosa que emite un brillo verde."
+  },
+  {
+    "ItemLocalizationId": 32,
+    "ItemId": 4,
+    "LanguageCode": "DE-DE",
+    "Name": "Olé-Phiole",
+    "Description": "Gibt einem Verbündeten 10<nbsp>MP zurück."
+  },
+  {
+    "ItemLocalizationId": 346,
+    "ItemId": 39,
+    "LanguageCode": "IT-IT",
+    "Name": "Olio di rospo",
+    "Description": "Un olio ottenuto da un grosso rospo."
+  },
+  {
+    "ItemLocalizationId": 318,
+    "ItemId": 36,
+    "LanguageCode": "FR-FR",
+    "Name": "Os de bête",
+    "Description": "Os solide obtenu sur une bête."
+  },
+  {
+    "ItemLocalizationId": 319,
+    "ItemId": 36,
+    "LanguageCode": "IT-IT",
+    "Name": "Osso di mostro",
+    "Description": "L'osso robusto di una belva."
+  },
+  {
+    "ItemLocalizationId": 472,
+    "ItemId": 53,
+    "LanguageCode": "IT-IT",
+    "Name": "Ovatta fatata",
+    "Description": "Un raro fiore di cotone coltivato dalle fate."
+  },
+  {
+    "ItemLocalizationId": 434,
+    "ItemId": 49,
+    "LanguageCode": "EN-GB",
+    "Name": "Pale Pearl",
+    "Description": "A perfect pearl, pure and milky white."
+  },
+  {
+    "ItemLocalizationId": 274,
+    "ItemId": 31,
+    "LanguageCode": "IT-IT",
+    "Name": "Pasta vetrosa",
+    "Description": "Una sabbia che, se viene strofinata energicamente, conferisce lucentezza."
+  },
+  {
+    "ItemLocalizationId": 534,
+    "ItemId": 60,
+    "LanguageCode": "FR-FR",
+    "Name": "Peau de serpent",
+    "Description": "Peau laissée par un serpent lors de sa mue."
+  },
+  {
+    "ItemLocalizationId": 300,
+    "ItemId": 34,
+    "LanguageCode": "FR-FR",
+    "Name": "Peau résistante",
+    "Description": "Peau résistante obtenue sur un monstre."
+  },
+  {
+    "ItemLocalizationId": 267,
+    "ItemId": 30,
+    "LanguageCode": "ES-ES",
+    "Name": "Pedernal",
+    "Description": "Piedra grande y pesada, ideal para añadir un sabor contundente a cualquier plato."
+  },
+  {
+    "ItemLocalizationId": 301,
+    "ItemId": 34,
+    "LanguageCode": "IT-IT",
+    "Name": "Pelle di mostro",
+    "Description": "Pelle robusta che si ottiene dai mostri."
+  },
+  {
+    "ItemLocalizationId": 535,
+    "ItemId": 60,
+    "LanguageCode": "IT-IT",
+    "Name": "Pelle di serpente",
+    "Description": "Muta lasciata da un serpente dopo aver cambiato pelle."
+  },
+  {
+    "ItemLocalizationId": 499,
+    "ItemId": 56,
+    "LanguageCode": "IT-IT",
+    "Name": "Pelliccia di qualità",
+    "Description": "Una calda pelliccia ottenuta dai mostri."
+  },
+  {
+    "ItemLocalizationId": 84,
+    "ItemId": 10,
+    "LanguageCode": "FR-FR",
+    "Name": "Pelotox",
+    "Description": "Pierre sphérique très dure qui peut être lancée. Inflige de légers dégâts à un ennemi lorsque utilisée en combat.\nEfficace aussi contre les monstres métalliques."
+  },
+  {
+    "ItemLocalizationId": 573,
+    "ItemId": 64,
+    "LanguageCode": "ES-ES",
+    "Name": "Pergamino de Alentador suave",
+    "Description": "Enseña el talento Alentador suave."
+  },
+  {
+    "ItemLocalizationId": 438,
+    "ItemId": 49,
+    "LanguageCode": "ES-ES",
+    "Name": "Perla blanca",
+    "Description": "Perla blanca, impecable y muy valiosa."
+  },
+  {
+    "ItemLocalizationId": 436,
+    "ItemId": 49,
+    "LanguageCode": "IT-IT",
+    "Name": "Perla pallida",
+    "Description": "Una perla candida e colma di eleganza."
+  },
+  {
+    "ItemLocalizationId": 435,
+    "ItemId": 49,
+    "LanguageCode": "FR-FR",
+    "Name": "Perle d'ivoire",
+    "Description": "Perle immaculée possédant une certaine élégance."
+  },
+  {
+    "ItemLocalizationId": 309,
+    "ItemId": 35,
+    "LanguageCode": "FR-FR",
+    "Name": "Petite écaille",
+    "Description": "Écaille de la taille d'un ongle humain."
+  },
+  {
+    "ItemLocalizationId": 393,
+    "ItemId": 44,
+    "LanguageCode": "ES-ES",
+    "Name": "Petriespejo",
+    "Description": "Piedra que refleja la luz como si se tratara de un espejo."
+  },
+  {
+    "ItemLocalizationId": 283,
+    "ItemId": 32,
+    "LanguageCode": "IT-IT",
+    "Name": "Pianta del sospetto",
+    "Description": "Un'erba dall'aspetto palesemente sospetto."
+  },
+  {
+    "ItemLocalizationId": 78,
+    "ItemId": 9,
+    "LanguageCode": "ES-ES",
+    "Name": "Piedra bonita",
+    "Description": "Unas piedrecillas que pueden hacer bastante daño si se lanzan con fuerza. Infligen poco daño a un solo enemigo al usarse en combate."
+  },
+  {
+    "ItemLocalizationId": 537,
+    "ItemId": 60,
+    "LanguageCode": "ES-ES",
+    "Name": "Piel de serpiente",
+    "Description": "Piel mudada por una serpiente."
+  },
+  {
+    "ItemLocalizationId": 501,
+    "ItemId": 56,
+    "LanguageCode": "ES-ES",
+    "Name": "Piel fina",
+    "Description": "Pelaje calentito de monstruo."
+  },
+  {
+    "ItemLocalizationId": 303,
+    "ItemId": 34,
+    "LanguageCode": "ES-ES",
+    "Name": "Piel recia",
+    "Description": "Piel resistente de un monstruo."
+  },
+  {
+    "ItemLocalizationId": 83,
+    "ItemId": 10,
+    "LanguageCode": "EN-GB",
+    "Name": "Pinball",
+    "Description": "A sphere of the toughest stone that really hurts if it hits you. Inflicts minor damage to a single enemy when used in battle, including metallic monsters."
+  },
+  {
+    "ItemLocalizationId": 443,
+    "ItemId": 50,
+    "LanguageCode": "EN-GB",
+    "Name": "Pink Pine",
+    "Description": "A slender bough that's long and lovely."
+  },
+  {
+    "ItemLocalizationId": 292,
+    "ItemId": 33,
+    "LanguageCode": "IT-IT",
+    "Name": "Piuma eolica",
+    "Description": "Una piuma lasciata cadere da un uccello che vola fendendo il vento."
+  },
+  {
+    "ItemLocalizationId": 42,
+    "ItemId": 5,
+    "LanguageCode": "ES-ES",
+    "Name": "Planta de Fierabrás",
+    "Description": "Cura el envenenamiento y el envenenamiento grave a un aliado."
+  },
+  {
+    "ItemLocalizationId": 6,
+    "ItemId": 1,
+    "LanguageCode": "ES-ES",
+    "Name": "Planta medicinal",
+    "Description": "Devuelve 30 PV a un solo aliado."
+  },
+  {
+    "ItemLocalizationId": 294,
+    "ItemId": 33,
+    "LanguageCode": "ES-ES",
+    "Name": "Pluma peluda",
+    "Description": "Pluma desprendida del ala de un pájaro y mecida bien lejos por el viento."
+  },
+  {
+    "ItemLocalizationId": 291,
+    "ItemId": 33,
+    "LanguageCode": "FR-FR",
+    "Name": "Plume de vent",
+    "Description": "Plume perdue par un oiseau qui vole en fendant l'air."
+  },
+  {
+    "ItemLocalizationId": 275,
+    "ItemId": 31,
+    "LanguageCode": "DE-DE",
+    "Name": "Poliersand",
+    "Description": "Sand, mit dem man alles auf Hochglanz bringt."
+  },
+  {
+    "ItemLocalizationId": 276,
+    "ItemId": 31,
+    "LanguageCode": "ES-ES",
+    "Name": "Polvo de cristal",
+    "Description": "Arena fina que reluce y da esplendor."
+  },
+  {
+    "ItemLocalizationId": 273,
+    "ItemId": 31,
+    "LanguageCode": "FR-FR",
+    "Name": "Poussière de verre",
+    "Description": "Sable lisse qui a été rigoureusement poli."
+  },
+  {
+    "ItemLocalizationId": 500,
+    "ItemId": 56,
+    "LanguageCode": "DE-DE",
+    "Name": "Prächtiger Pelz",
+    "Description": "Warmes Fell, das einst einem Monster gehörte."
+  },
+  {
+    "ItemLocalizationId": 74,
+    "ItemId": 9,
+    "LanguageCode": "EN-GB",
+    "Name": "Pretty Pebble",
+    "Description": "A small stone that can sting quite sharply if thrown with enough force. Inflicts minor damage to a single enemy when used in battle."
+  },
+  {
+    "ItemLocalizationId": 200,
+    "ItemId": 23,
+    "LanguageCode": "EN-GB",
+    "Name": "Professional Development",
+    "Description": "A book so competent that it changes a monster's personality to <6>professional<9>. The monster's attributes will develop in a balanced way."
+  },
+  {
+    "ItemLocalizationId": 425,
+    "ItemId": 48,
+    "LanguageCode": "EN-GB",
+    "Name": "Purple Eye",
+    "Description": "A precious stone that glimmers with purple light."
+  },
+  {
+    "ItemLocalizationId": 282,
+    "ItemId": 32,
+    "LanguageCode": "FR-FR",
+    "Name": "Purpourra",
+    "Description": "Plante à l'apparence suspecte."
+  },
+  {
+    "ItemLocalizationId": 428,
+    "ItemId": 48,
+    "LanguageCode": "DE-DE",
+    "Name": "Purpurnes Kleinod",
+    "Description": "Ein kostbarer Stein, der purpurnes Licht verströmt."
+  },
+  {
+    "ItemLocalizationId": 447,
+    "ItemId": 50,
+    "LanguageCode": "ES-ES",
+    "Name": "Rama rosa",
+    "Description": "Rama alargada que agrada a la vista."
+  },
+  {
+    "ItemLocalizationId": 456,
+    "ItemId": 51,
+    "LanguageCode": "ES-ES",
+    "Name": "Ramalancha",
+    "Description": "Madera insuflada del frío del invierno."
+  },
+  {
+    "ItemLocalizationId": 247,
+    "ItemId": 28,
+    "LanguageCode": "IT-IT",
+    "Name": "Rame",
+    "Description": "Un minerale comune contenente rame."
+  },
+  {
+    "ItemLocalizationId": 444,
+    "ItemId": 50,
+    "LanguageCode": "FR-FR",
+    "Name": "Rameau rose",
+    "Description": "Branche longue et fine au charme subtil."
+  },
+  {
+    "ItemLocalizationId": 445,
+    "ItemId": 50,
+    "LanguageCode": "IT-IT",
+    "Name": "Ramoscello rosa",
+    "Description": "Un ramo dall'aspetto grazioso e slanciato."
+  },
+  {
+    "ItemLocalizationId": 104,
+    "ItemId": 12,
+    "LanguageCode": "DE-DE",
+    "Name": "Rauchfleisch",
+    "Description": "Ein ziemlich zartes Leckerli, das Monster lieben. Füttere ein Monster damit, um die Chance geringfügig zu erhöhen, dass es sich dir anschließt."
+  },
+  {
+    "ItemLocalizationId": 398,
+    "ItemId": 45,
+    "LanguageCode": "EN-GB",
+    "Name": "Red Eye",
+    "Description": "A precious stone that radiates bright red light."
+  },
+  {
+    "ItemLocalizationId": 581,
+    "ItemId": 65,
+    "LanguageCode": "DE-DE",
+    "Name": "Reichmacher",
+    "Description": "Erhöht für 10 Kämpfe die ausgeschüttete Menge an Gold und Erfahrung auf das 1,5-fache."
+  },
+  {
+    "ItemLocalizationId": 12,
+    "ItemId": 2,
+    "LanguageCode": "FR-FR",
+    "Name": "Remède puissant",
+    "Description": "Restaure 60 PV à un allié."
+  },
+  {
+    "ItemLocalizationId": 59,
+    "ItemId": 7,
+    "LanguageCode": "DE-DE",
+    "Name": "Riechsalz",
+    "Description": "Heilt einen Verbündeten von Schlaf und Verwirrung."
+  },
+  {
+    "ItemLocalizationId": 401,
+    "ItemId": 45,
+    "LanguageCode": "DE-DE",
+    "Name": "Rotes Kleinod",
+    "Description": "Ein kostbarer Stein, der rotes Licht verströmt."
+  },
+  {
+    "ItemLocalizationId": 380,
+    "ItemId": 43,
+    "LanguageCode": "EN-GB",
+    "Name": "Royal Soil",
+    "Description": "A clump of soil with thaumaturgic properties."
+  },
+  {
+    "ItemLocalizationId": 543,
+    "ItemId": 61,
+    "LanguageCode": "FR-FR",
+    "Name": "Russule jolie",
+    "Description": "Champignon splendide à l'apparence attirante."
+  },
+  {
+    "ItemLocalizationId": 234,
+    "ItemId": 26,
+    "LanguageCode": "KO-KR",
+    "Name": "S 사이즈 씨앗",
+    "Description": "동료 1체가 S 사이즈가 된다."
+  },
+  {
+    "ItemLocalizationId": 60,
+    "ItemId": 7,
+    "LanguageCode": "ES-ES",
+    "Name": "Sales",
+    "Description": "Cura la confusión y el sueño a un solo aliado."
+  },
+  {
+    "ItemLocalizationId": 58,
+    "ItemId": 7,
+    "LanguageCode": "IT-IT",
+    "Name": "Sali magici",
+    "Description": "Guarisce un alleato dalla confusione e dal sonno."
+  },
+  {
+    "ItemLocalizationId": 528,
+    "ItemId": 59,
+    "LanguageCode": "ES-ES",
+    "Name": "Savia brillante",
+    "Description": "Savia recolectada de árboles que brillan bajo la luz de la luna llena."
+  },
+  {
+    "ItemLocalizationId": 310,
+    "ItemId": 35,
+    "LanguageCode": "IT-IT",
+    "Name": "Scaglia piccola",
+    "Description": "Una piccola squama, grande all'incirca quanto un'unghia umana."
+  },
+  {
+    "ItemLocalizationId": 536,
+    "ItemId": 60,
+    "LanguageCode": "DE-DE",
+    "Name": "Schlangenhaut",
+    "Description": "Die abgelegte Haut einer Schlange."
+  },
+  {
+    "ItemLocalizationId": 329,
+    "ItemId": 37,
+    "LanguageCode": "DE-DE",
+    "Name": "Schleimtropfen",
+    "Description": "Äußerst schleimiger Gelee."
+  },
+  {
+    "ItemLocalizationId": 77,
+    "ItemId": 9,
+    "LanguageCode": "DE-DE",
+    "Name": "Schönes Steinchen",
+    "Description": "Ein kleiner Stein, der für stechenden Schmerz sorgen kann, wirft man ihn nur scharf genug. Fügt einem Feind geringen Schaden zu, wenn er im Kampf benutzt wird."
+  },
+  {
+    "ItemLocalizationId": 230,
+    "ItemId": 26,
+    "LanguageCode": "DE-DE",
+    "Name": "Schrumpfsamen",
+    "Description": "Macht einen Verbündeten klein."
+  },
+  {
+    "ItemLocalizationId": 158,
+    "ItemId": 18,
+    "LanguageCode": "DE-DE",
+    "Name": "Schutzsamen",
+    "Description": "Erhöht die Abwehr eines Verbündeten um 3. Achtung: Es gibt für jede Monsterart eine feste Obergrenze, die nicht überschritten werden kann."
+  },
+  {
+    "ItemLocalizationId": 356,
+    "ItemId": 40,
+    "LanguageCode": "DE-DE",
+    "Name": "Schwermetall",
+    "Description": "Ein Klumpen Metall, der sehr viel schwerer ist, als er aussieht."
+  },
+  {
+    "ItemLocalizationId": 164,
+    "ItemId": 19,
+    "LanguageCode": "EN-GB",
+    "Name": "Seed of Agility",
+    "Description": "Raises the agility of a single ally by 3. Note that each monster type has an upper limit to its agility that cannot be exceeded."
+  },
+  {
+    "ItemLocalizationId": 191,
+    "ItemId": 22,
+    "LanguageCode": "EN-GB",
+    "Name": "Seed of Growth",
+    "Description": "Raises the level of a single ally by 1."
+  },
+  {
+    "ItemLocalizationId": 128,
+    "ItemId": 15,
+    "LanguageCode": "EN-GB",
+    "Name": "Seed of Life",
+    "Description": "Raises the max. HP of a single ally by 3. Note that each monster type has an upper limit to its max. HP that cannot be exceeded."
+  },
+  {
+    "ItemLocalizationId": 137,
+    "ItemId": 16,
+    "LanguageCode": "EN-GB",
+    "Name": "Seed of Magic",
+    "Description": "Raises the max. MP of a single ally by 3. Note that each monster type has an upper limit to its max. MP that cannot be exceeded."
+  },
+  {
+    "ItemLocalizationId": 155,
+    "ItemId": 18,
+    "LanguageCode": "EN-GB",
+    "Name": "Seed of Resilience",
+    "Description": "Raises the defence of a single ally by 3. Note that each monster type has an upper limit to its defence that cannot be exceeded."
+  },
+  {
+    "ItemLocalizationId": 182,
+    "ItemId": 21,
+    "LanguageCode": "EN-GB",
+    "Name": "Seed of Skill",
+    "Description": "Provides a single ally with 3 additional talent points. Note that a monster can have a maximum of 999 available talent points."
+  },
+  {
+    "ItemLocalizationId": 146,
+    "ItemId": 17,
+    "LanguageCode": "EN-GB",
+    "Name": "Seed of Strength",
+    "Description": "Raises the attack of a single ally by 3. Note that each monster type has an upper limit to its attack that cannot be exceeded."
+  },
+  {
+    "ItemLocalizationId": 173,
+    "ItemId": 20,
+    "LanguageCode": "EN-GB",
+    "Name": "Seed of Wisdom",
+    "Description": "Raises the wisdom of a single ally by 3. Note that each monster type has an upper limit to its wisdom that cannot be exceeded."
+  },
+  {
+    "ItemLocalizationId": 265,
+    "ItemId": 30,
+    "LanguageCode": "IT-IT",
+    "Name": "Selce",
+    "Description": "Una pietra grande e pesante, ideale per tenere schiacciate le verdure in salamoia."
+  },
+  {
+    "ItemLocalizationId": 57,
+    "ItemId": 7,
+    "LanguageCode": "FR-FR",
+    "Name": "Sels de choc",
+    "Description": "Soigne un allié du sommeil et/ou de la confusion."
+  },
+  {
+    "ItemLocalizationId": 193,
+    "ItemId": 22,
+    "LanguageCode": "IT-IT",
+    "Name": "Seme della crescita",
+    "Description": "Aumenta di 1 il livello di un alleato."
+  },
+  {
+    "ItemLocalizationId": 148,
+    "ItemId": 17,
+    "LanguageCode": "IT-IT",
+    "Name": "Seme della forza",
+    "Description": "Aumenta di 3 l'Attacco di un alleato. Ricorda che ogni tipo di mostro ha un valore massimo per l'Attacco che non può essere superato."
+  },
+  {
+    "ItemLocalizationId": 139,
+    "ItemId": 16,
+    "LanguageCode": "IT-IT",
+    "Name": "Seme della magia",
+    "Description": "Aumenta di 3 i PM max di un alleato. Ricorda che ogni tipo di mostro ha una soglia massima di PM che non può essere superata."
+  },
+  {
+    "ItemLocalizationId": 157,
+    "ItemId": 18,
+    "LanguageCode": "IT-IT",
+    "Name": "Seme della resistenza",
+    "Description": "Aumenta di 3 la Difesa di un alleato. Ricorda che ogni tipo di mostro ha un valore massimo per la Difesa che non può essere superato."
+  },
+  {
+    "ItemLocalizationId": 229,
+    "ItemId": 26,
+    "LanguageCode": "IT-IT",
+    "Name": "Seme della riduzione",
+    "Description": "Fa diventare piccola la taglia di uno dei tuoi mostri."
+  },
+  {
+    "ItemLocalizationId": 175,
+    "ItemId": 20,
+    "LanguageCode": "IT-IT",
+    "Name": "Seme della saggezza",
+    "Description": "Aumenta di 3 la Saggezza di un alleato. Ricorda che ogni tipo di mostro ha un valore massimo per la Saggezza che non può essere superato."
+  },
+  {
+    "ItemLocalizationId": 130,
+    "ItemId": 15,
+    "LanguageCode": "IT-IT",
+    "Name": "Seme della vita",
+    "Description": "Aumenta di 3 i PV max di un alleato. Ricorda che ogni tipo di mostro ha una soglia massima di PV che non può essere superata."
+  },
+  {
+    "ItemLocalizationId": 184,
+    "ItemId": 21,
+    "LanguageCode": "IT-IT",
+    "Name": "Seme dell'abilità",
+    "Description": "Assegna a un alleato 3 Punti Talento in più. Ricorda che un mostro non può avere più di 999 Punti Talento disponibili."
+  },
+  {
+    "ItemLocalizationId": 166,
+    "ItemId": 19,
+    "LanguageCode": "IT-IT",
+    "Name": "Seme dell'agilità",
+    "Description": "Aumenta di 3 l'Agilità di un alleato. Ricorda che ogni tipo di mostro ha un valore massimo per l'Agilità che non può essere superato."
+  },
+  {
+    "ItemLocalizationId": 238,
+    "ItemId": 27,
+    "LanguageCode": "IT-IT",
+    "Name": "Seme dell'ingrandimento",
+    "Description": "Fa diventare grande la taglia di uno dei tuoi mostri."
+  },
+  {
+    "ItemLocalizationId": 21,
+    "ItemId": 3,
+    "LanguageCode": "FR-FR",
+    "Name": "Sève de desmodium",
+    "Description": "Restaure 50 à 60 PV à tous les alliés."
+  },
+  {
+    "ItemLocalizationId": 525,
+    "ItemId": 59,
+    "LanguageCode": "FR-FR",
+    "Name": "Sève étincelante",
+    "Description": "Récipient contenant la sève d'un arbre qui brille à la lumière de la lune."
+  },
+  {
+    "ItemLocalizationId": 580,
+    "ItemId": 65,
+    "LanguageCode": "IT-IT",
+    "Name": "Sfera del bonus",
+    "Description": "Moltiplica x1,5 la quantità di Punti Esperienza e monete d'oro ottenuti dopo un combattimento.\nEfficace per 10 battaglie. L'effetto non è cumulativo."
+  },
+  {
+    "ItemLocalizationId": 373,
+    "ItemId": 42,
+    "LanguageCode": "IT-IT",
+    "Name": "Sfera del tuono",
+    "Description": "Un globo in cui si è cristallizzato il potere del fulmine."
+  },
+  {
+    "ItemLocalizationId": 569,
+    "ItemId": 64,
+    "LanguageCode": "EN-GB",
+    "Name": "Shallow Breather's Scroll",
+    "Description": "Teaches the Shallow Breather talent."
+  },
+  {
+    "ItemLocalizationId": 264,
+    "ItemId": 30,
+    "LanguageCode": "FR-FR",
+    "Name": "Silex",
+    "Description": "Pierre grande et lourde qui serait idéale pour le saumurage des aliments."
+  },
+  {
+    "ItemLocalizationId": 168,
+    "ItemId": 19,
+    "LanguageCode": "ES-ES",
+    "Name": "Simiente de agilidad",
+    "Description": "Aumenta en 3 la agilidad de un solo aliado. Ten en cuenta que cada tipo de monstruo tiene un límite máximo de agilidad que no se puede superar."
+  },
+  {
+    "ItemLocalizationId": 240,
+    "ItemId": 27,
+    "LanguageCode": "ES-ES",
+    "Name": "Simiente de aumento",
+    "Description": "Aumenta el tamaño de un monstruo aliado a grande (G)."
+  },
+  {
+    "ItemLocalizationId": 195,
+    "ItemId": 22,
+    "LanguageCode": "ES-ES",
+    "Name": "Simiente de crecimiento",
+    "Description": "Aumenta en 1 el nivel de un solo aliado."
+  },
+  {
+    "ItemLocalizationId": 186,
+    "ItemId": 21,
+    "LanguageCode": "ES-ES",
+    "Name": "Simiente de destreza",
+    "Description": "Proporciona a un solo aliado 3 puntos de talento más. Ten en cuenta que un monstruo puede tener un máximo de 999 puntos de talento disponibles."
+  },
+  {
+    "ItemLocalizationId": 231,
+    "ItemId": 26,
+    "LanguageCode": "ES-ES",
+    "Name": "Simiente de disminución",
+    "Description": "Reduce el tamaño de un monstruo aliado a pequeño (P)."
+  },
+  {
+    "ItemLocalizationId": 150,
+    "ItemId": 17,
+    "LanguageCode": "ES-ES",
+    "Name": "Simiente de fuerza",
+    "Description": "Aumenta en 3 el ataque de un solo aliado. Ten en cuenta que cada tipo de monstruo tiene un límite máximo de ataque que no se puede superar."
+  },
+  {
+    "ItemLocalizationId": 141,
+    "ItemId": 16,
+    "LanguageCode": "ES-ES",
+    "Name": "Simiente de magia",
+    "Description": "Aumenta en 3 el PM máximo de un solo aliado. Ten en cuenta que cada tipo de monstruo tiene un máximo de PM que no se puede superar."
+  },
+  {
+    "ItemLocalizationId": 159,
+    "ItemId": 18,
+    "LanguageCode": "ES-ES",
+    "Name": "Simiente de resistencia",
+    "Description": "Aumenta en 3 la defensa de un solo aliado. Ten en cuenta que cada tipo de monstruo tiene un límite máximo de defensa que no se puede superar."
+  },
+  {
+    "ItemLocalizationId": 177,
+    "ItemId": 20,
+    "LanguageCode": "ES-ES",
+    "Name": "Simiente de sabiduría",
+    "Description": "Aumenta en 3 la sabiduría de un solo aliado. Ten en cuenta que cada tipo de monstruo tiene un límite máximo de sabiduría que no se puede superar."
+  },
+  {
+    "ItemLocalizationId": 132,
+    "ItemId": 15,
+    "LanguageCode": "ES-ES",
+    "Name": "Simiente de vida",
+    "Description": "Aumenta en 3 los PV máximos de un solo aliado. Ten en cuenta que cada tipo de monstruo tiene un máximo de PV que no se puede superar."
+  },
+  {
+    "ItemLocalizationId": 29,
+    "ItemId": 4,
+    "LanguageCode": "EN-GB",
+    "Name": "Single Phial",
+    "Description": "Restores 10 MP to a single ally."
+  },
+  {
+    "ItemLocalizationId": 326,
+    "ItemId": 37,
+    "LanguageCode": "EN-GB",
+    "Name": "Slimedrop",
+    "Description": "Jelly that quivers like a shivering slime."
+  },
+  {
+    "ItemLocalizationId": 308,
+    "ItemId": 35,
+    "LanguageCode": "EN-GB",
+    "Name": "Small Scale",
+    "Description": "A teensy tiny scale the size of a fingernail."
+  },
+  {
+    "ItemLocalizationId": 101,
+    "ItemId": 12,
+    "LanguageCode": "EN-GB",
+    "Name": "Smoked Sirloin",
+    "Description": "A tender treat that monsters adore. Feed to a monster to slightly increase the likelihood of it wanting to join you."
+  },
+  {
+    "ItemLocalizationId": 533,
+    "ItemId": 60,
+    "LanguageCode": "EN-GB",
+    "Name": "Snakeskin",
+    "Description": "A skin shed by its serpentine former owner."
+  },
+  {
+    "ItemLocalizationId": 105,
+    "ItemId": 12,
+    "LanguageCode": "ES-ES",
+    "Name": "Solomillo ahumado",
+    "Description": "Una delicia cárnica que los monstruos adoran. Dásela a uno y aumentará ligeramente la probabilidad de que se quiera unir a ti."
+  },
+  {
+    "ItemLocalizationId": 524,
+    "ItemId": 59,
+    "LanguageCode": "EN-GB",
+    "Name": "Sparkly Sap",
+    "Description": "Sap from a tree that glows in the moonlight."
+  },
+  {
+    "ItemLocalizationId": 391,
+    "ItemId": 44,
+    "LanguageCode": "IT-IT",
+    "Name": "Specchiosasso",
+    "Description": "Una pietra lucida come uno specchio."
+  },
+  {
+    "ItemLocalizationId": 392,
+    "ItemId": 44,
+    "LanguageCode": "DE-DE",
+    "Name": "Spiegelstein",
+    "Description": "Ein Gestein, das Licht wie ein Spiegel reflektiert."
+  },
+  {
+    "ItemLocalizationId": 14,
+    "ItemId": 2,
+    "LanguageCode": "DE-DE",
+    "Name": "Starke Arznei",
+    "Description": "Gibt einem Verbündeten 60<nbsp>LP zurück."
+  },
+  {
+    "ItemLocalizationId": 149,
+    "ItemId": 17,
+    "LanguageCode": "DE-DE",
+    "Name": "Stärkesamen",
+    "Description": "Erhöht den Angriff eines Verbündeten um 3. Achtung: Es gibt für jede Monsterart eine feste Obergrenze, die nicht überschritten werden kann."
+  },
+  {
+    "ItemLocalizationId": 56,
+    "ItemId": 7,
+    "LanguageCode": "EN-GB",
+    "Name": "Startle Dart",
+    "Description": "Cures a single ally of confusion and sleep."
+  },
+  {
+    "ItemLocalizationId": 67,
+    "ItemId": 8,
+    "LanguageCode": "IT-IT",
+    "Name": "Sterco di mostro",
+    "Description": "Un ammasso disgustoso e puzzolente che può essere lanciato contro il nemico. Infligge lievi danni a un nemico quando si usa in battaglia."
+  },
+  {
+    "ItemLocalizationId": 328,
+    "ItemId": 37,
+    "LanguageCode": "IT-IT",
+    "Name": "Stilla di slime",
+    "Description": "Una gelatina tremolante, simile a uno Slime."
+  },
+  {
+    "ItemLocalizationId": 11,
+    "ItemId": 2,
+    "LanguageCode": "EN-GB",
+    "Name": "Strong Medicine",
+    "Description": "Restores 60 HP to a single ally."
+  },
+  {
+    "ItemLocalizationId": 506,
+    "ItemId": 57,
+    "LanguageCode": "EN-GB",
+    "Name": "Sun-Bleached Seashell",
+    "Description": "A shell found on the beach that's white as bone."
+  },
+  {
+    "ItemLocalizationId": 382,
+    "ItemId": 43,
+    "LanguageCode": "IT-IT",
+    "Name": "Suolo reale",
+    "Description": "Un grumo di terra che racchiude potere magico."
+  },
+  {
+    "ItemLocalizationId": 226,
+    "ItemId": 26,
+    "LanguageCode": "JP-JP",
+    "Name": "Sサイズのタネ",
+    "Description": "仲間１体のサイズが　Ｓサイズになる"
+  },
+  {
+    "ItemLocalizationId": 233,
+    "ItemId": 26,
+    "LanguageCode": "ZH-CN",
+    "Name": "Ｓ体型种子",
+    "Description": "使一个伙伴变成Ｓ体型"
+  },
+  {
+    "ItemLocalizationId": 232,
+    "ItemId": 26,
+    "LanguageCode": "ZH-TW",
+    "Name": "Ｓ體型種子",
+    "Description": "使一個夥伴變成Ｓ體型"
+  },
+  {
+    "ItemLocalizationId": 185,
+    "ItemId": 21,
+    "LanguageCode": "DE-DE",
+    "Name": "Talentsamen",
+    "Description": "Gewährt einem Verbündeten 3 zusätzliche Begabungspunkte. Achtung: Ein Monster kann höchstens 999 verfügbare Begabungspunkte haben."
+  },
+  {
+    "ItemLocalizationId": 381,
+    "ItemId": 43,
+    "LanguageCode": "FR-FR",
+    "Name": "Terre sacrée",
+    "Description": "Bloc de terre recélant un pouvoir magique."
+  },
+  {
+    "ItemLocalizationId": 571,
+    "ItemId": 64,
+    "LanguageCode": "IT-IT",
+    "Name": "Testo del Respiro lieve",
+    "Description": "Insegna il Talento Respiro lieve."
+  },
+  {
+    "ItemLocalizationId": 209,
+    "ItemId": 24,
+    "LanguageCode": "EN-GB",
+    "Name": "The 20/20 Visionary",
+    "Description": "A book so forward-thinking that it changes a monster's personality to <6>visionary<9>. The monster will develop very high max. MP."
+  },
+  {
+    "ItemLocalizationId": 371,
+    "ItemId": 42,
+    "LanguageCode": "EN-GB",
+    "Name": "Thunderball",
+    "Description": "A crystal globe formed through the power of lightning."
+  },
+  {
+    "ItemLocalizationId": 320,
+    "ItemId": 36,
+    "LanguageCode": "DE-DE",
+    "Name": "Tierknochen",
+    "Description": "Der stabile Knochen einer wilden Bestie."
+  },
+  {
+    "ItemLocalizationId": 384,
+    "ItemId": 43,
+    "LanguageCode": "ES-ES",
+    "Name": "Tierra real",
+    "Description": "Puñado de barro cargado de energía mágica."
+  },
+  {
+    "ItemLocalizationId": 344,
+    "ItemId": 39,
+    "LanguageCode": "EN-GB",
+    "Name": "Toad Oil",
+    "Description": "Oil obtained from a toad (don't ask how)."
+  },
+  {
+    "ItemLocalizationId": 222,
+    "ItemId": 25,
+    "LanguageCode": "ES-ES",
+    "Name": "Tomo de caprichoso",
+    "Description": "Un libro que confiere un carácter caprichoso a un monstruo. Aumenta mucho los PV máximos y la defensa."
+  },
+  {
+    "ItemLocalizationId": 204,
+    "ItemId": 23,
+    "LanguageCode": "ES-ES",
+    "Name": "Tomo de solemne",
+    "Description": "Un libro que convierte a un monstruo en solemne. Aumenta todos los atributos por igual."
+  },
+  {
+    "ItemLocalizationId": 213,
+    "ItemId": 24,
+    "LanguageCode": "ES-ES",
+    "Name": "Tomo de visionario",
+    "Description": "Un libro que confiere un carácter visionario a un monstruo. Aumenta mucho el PM máximo."
+  },
+  {
+    "ItemLocalizationId": 480,
+    "ItemId": 54,
+    "LanguageCode": "FR-FR",
+    "Name": "Valgue",
+    "Description": "Plante autour de laquelle flotte un parfum de brise marine."
+  },
+  {
+    "ItemLocalizationId": 122,
+    "ItemId": 14,
+    "LanguageCode": "DE-DE",
+    "Name": "Verdächtiges Fleisch",
+    "Description": "Verdächtiges Fleisch unbekannten Ursprungs. Füttere ein Monster damit, um die Chance um ein zufälliges Maß zu erhöhen, dass es sich dir anschließt."
+  },
+  {
+    "ItemLocalizationId": 33,
+    "ItemId": 4,
+    "LanguageCode": "ES-ES",
+    "Name": "Vial",
+    "Description": "Devuelve 10 PM a un solo aliado."
+  },
+  {
+    "ItemLocalizationId": 111,
+    "ItemId": 13,
+    "LanguageCode": "FR-FR",
+    "Name": "Viande avariée",
+    "Description": "Viande avariée qui dégage une odeur aigre.\nAugmente très légèrement la probabilité qu'un monstre accepte de se joindre à vous, mais l'empoisonne par la même occasion."
+  },
+  {
+    "ItemLocalizationId": 239,
+    "ItemId": 27,
+    "LanguageCode": "DE-DE",
+    "Name": "Wachstumssamen",
+    "Description": "Macht einen Verbündeten groß."
+  },
+  {
+    "ItemLocalizationId": 194,
+    "ItemId": 22,
+    "LanguageCode": "DE-DE",
+    "Name": "Wachstumssamen",
+    "Description": "Lässt einen Verbündeten um eine Stufe aufsteigen."
+  },
+  {
+    "ItemLocalizationId": 482,
+    "ItemId": 54,
+    "LanguageCode": "DE-DE",
+    "Name": "Wattkraut",
+    "Description": "Seegras, das salzigen Duft verströmt."
+  },
+  {
+    "ItemLocalizationId": 479,
+    "ItemId": 54,
+    "LanguageCode": "EN-GB",
+    "Name": "Waveweed",
+    "Description": "Rhythmically reeling grass that reeks of the receding tide."
+  },
+  {
+    "ItemLocalizationId": 284,
+    "ItemId": 32,
+    "LanguageCode": "DE-DE",
+    "Name": "Weiazynthe",
+    "Description": "Ein verdächtig anmutendes Gewächs."
+  },
+  {
+    "ItemLocalizationId": 176,
+    "ItemId": 20,
+    "LanguageCode": "DE-DE",
+    "Name": "Weisheitssamen",
+    "Description": "Erhöht die Weisheit eines Verbündeten um 3. Achtung: Es gibt für jede Monsterart eine feste Obergrenze, die nicht überschritten werden kann."
+  },
+  {
+    "ItemLocalizationId": 437,
+    "ItemId": 49,
+    "LanguageCode": "DE-DE",
+    "Name": "Weiße Perle",
+    "Description": "Eine elegante Perle von vollkommenem Weiß."
+  },
+  {
+    "ItemLocalizationId": 335,
+    "ItemId": 38,
+    "LanguageCode": "EN-GB",
+    "Name": "Wing of Bat",
+    "Description": "A leathery wing from a fly-by-night supplier."
+  },
+  {
+    "ItemLocalizationId": 464,
+    "ItemId": 52,
+    "LanguageCode": "DE-DE",
+    "Name": "Wollgras",
+    "Description": "Eine Pflanze, von der wunderbar weiche Wolle geerntet werden kann."
+  },
+  {
+    "ItemLocalizationId": 407,
+    "ItemId": 46,
+    "LanguageCode": "EN-GB",
+    "Name": "Yellow Eye",
+    "Description": "A precious stone that gleams with yellow light."
+  },
+  {
+    "ItemLocalizationId": 446,
+    "ItemId": 50,
+    "LanguageCode": "DE-DE",
+    "Name": "Zierlicher Zweig",
+    "Description": "Ein filigraner Zweig von natürlicher Schönheit."
+  },
+  {
+    "ItemLocalizationId": 487,
+    "ItemId": 55,
+    "LanguageCode": "JP-JP",
+    "Name": "あまつゆのいと",
+    "Description": "糸に水が流れる　神秘のせんい"
+  },
+  {
+    "ItemLocalizationId": 19,
+    "ItemId": 3,
+    "LanguageCode": "JP-JP",
+    "Name": "アモールの水",
+    "Description": "仲間全体の\nＨＰを５０～６０回復"
+  },
+  {
+    "ItemLocalizationId": 406,
+    "ItemId": 46,
+    "LanguageCode": "JP-JP",
+    "Name": "イエローアイ",
+    "Description": "黄色い光を放つ　貴重な石"
+  },
+  {
+    "ItemLocalizationId": 370,
+    "ItemId": 42,
+    "LanguageCode": "JP-JP",
+    "Name": "いかずちのたま",
+    "Description": "雷のチカラが　結晶化した玉"
+  },
+  {
+    "ItemLocalizationId": 127,
+    "ItemId": 15,
+    "LanguageCode": "JP-JP",
+    "Name": "いのちのきのみ",
+    "Description": "仲間１体の最大ＨＰが　３上がる\nただし　種族ごとの最大値は超えない"
+  },
+  {
+    "ItemLocalizationId": 541,
+    "ItemId": 61,
+    "LanguageCode": "JP-JP",
+    "Name": "うるわしきのこ",
+    "Description": "見目うるわしい　ステキなキノコ"
+  },
+  {
+    "ItemLocalizationId": 388,
+    "ItemId": 44,
+    "LanguageCode": "JP-JP",
+    "Name": "かがみ石",
+    "Description": "鏡のように　光りかがやく石"
+  },
+  {
+    "ItemLocalizationId": 523,
+    "ItemId": 59,
+    "LanguageCode": "JP-JP",
+    "Name": "かがやきの樹液",
+    "Description": "月の夜に光る木の　樹液を集めたもの"
+  },
+  {
+    "ItemLocalizationId": 172,
+    "ItemId": 20,
+    "LanguageCode": "JP-JP",
+    "Name": "かしこさのたね",
+    "Description": "仲間１体のかしこさが　３上がる\nただし　種族ごとの最大値は超えない"
+  },
+  {
+    "ItemLocalizationId": 343,
+    "ItemId": 39,
+    "LanguageCode": "JP-JP",
+    "Name": "ガマの油",
+    "Description": "ガマガエルから採れるアブラ"
+  },
+  {
+    "ItemLocalizationId": 217,
+    "ItemId": 25,
+    "LanguageCode": "JP-JP",
+    "Name": "きまぐれの本",
+    "Description": "性格が　きまぐれ　になる本\n最大ＨＰと守備力が高い　モンスターに成長する"
+  },
+  {
+    "ItemLocalizationId": 514,
+    "ItemId": 58,
+    "LanguageCode": "JP-JP",
+    "Name": "きよめの水",
+    "Description": "きれいにすんだ　自然のわき水"
+  },
+  {
+    "ItemLocalizationId": 442,
+    "ItemId": 50,
+    "LanguageCode": "JP-JP",
+    "Name": "きれいな枝",
+    "Description": "見た目がきれいな　すらりとした枝"
+  },
+  {
+    "ItemLocalizationId": 109,
+    "ItemId": 13,
+    "LanguageCode": "JP-JP",
+    "Name": "くさったにく",
+    "Description": "すっぱいニオイがする　ちょっぴり腐った肉\nあげると　ほんの少し仲間になりやすくなるが\n毒状態になる"
+  },
+  {
+    "ItemLocalizationId": 415,
+    "ItemId": 47,
+    "LanguageCode": "JP-JP",
+    "Name": "グリーンアイ",
+    "Description": "緑の光を放つ　貴重な石"
+  },
+  {
+    "ItemLocalizationId": 100,
+    "ItemId": 12,
+    "LanguageCode": "JP-JP",
+    "Name": "くんせいにく",
+    "Description": "モンスターが大好きな肉\nあげると　少し仲間になりやすくなる"
+  },
+  {
+    "ItemLocalizationId": 451,
+    "ItemId": 51,
+    "LanguageCode": "JP-JP",
+    "Name": "こおりの樹木",
+    "Description": "冷気をまとう　ひんやりした樹木"
+  },
+  {
+    "ItemLocalizationId": 460,
+    "ItemId": 52,
+    "LanguageCode": "JP-JP",
+    "Name": "コットン草",
+    "Description": "ふわふわの綿が　採れる草"
+  },
+  {
+    "ItemLocalizationId": 190,
+    "ItemId": 22,
+    "LanguageCode": "JP-JP",
+    "Name": "しあわせのたね",
+    "Description": "仲間１体のレベルが　１上がる"
+  },
+  {
+    "ItemLocalizationId": 478,
+    "ItemId": 54,
+    "LanguageCode": "JP-JP",
+    "Name": "しおかぜ草",
+    "Description": "しおかぜの香りが　ただよう草"
+  },
+  {
+    "ItemLocalizationId": 208,
+    "ItemId": 24,
+    "LanguageCode": "JP-JP",
+    "Name": "じょうねつかの本",
+    "Description": "性格が　じょうねつか　になる本\n最大ＭＰがかなり高い　モンスターに成長する"
+  },
+  {
+    "ItemLocalizationId": 181,
+    "ItemId": 21,
+    "LanguageCode": "JP-JP",
+    "Name": "スキルのたね",
+    "Description": "仲間１体のスキルポイントが　３増える\nただし　最大ポイントは９９９まで"
+  },
+  {
+    "ItemLocalizationId": 163,
+    "ItemId": 19,
+    "LanguageCode": "JP-JP",
+    "Name": "すばやさのたね",
+    "Description": "仲間１体のすばやさが　３上がる\nただし　種族ごとの最大値は超えない"
+  },
+  {
+    "ItemLocalizationId": 325,
+    "ItemId": 37,
+    "LanguageCode": "JP-JP",
+    "Name": "スライムゼリー",
+    "Description": "スライムのような　プルプルゼリー"
+  },
+  {
+    "ItemLocalizationId": 559,
+    "ItemId": 63,
+    "LanguageCode": "JP-JP",
+    "Name": "ちいさなメダル",
+    "Description": "ちいさなメダル交換所にいる\nメダルおじさんに渡すと\nいろいろな　ごほうびがもらえる"
+  },
+  {
+    "ItemLocalizationId": 145,
+    "ItemId": 17,
+    "LanguageCode": "JP-JP",
+    "Name": "ちからのたね",
+    "Description": "仲間１体の攻撃力が　３上がる\nただし　種族ごとの最大値は超えない"
+  },
+  {
+    "ItemLocalizationId": 118,
+    "ItemId": 14,
+    "LanguageCode": "JP-JP",
+    "Name": "なぞのにく",
+    "Description": "ふしぎな味がする肉\nあげると　ランダムな効果で仲間になりやすくなる"
+  },
+  {
+    "ItemLocalizationId": 424,
+    "ItemId": 48,
+    "LanguageCode": "JP-JP",
+    "Name": "パープルアイ",
+    "Description": "紫の光を放つ　貴重な石"
+  },
+  {
+    "ItemLocalizationId": 496,
+    "ItemId": 56,
+    "LanguageCode": "JP-JP",
+    "Name": "ふさふさの毛皮",
+    "Description": "魔物が落とす　あたたかい毛皮"
+  },
+  {
+    "ItemLocalizationId": 136,
+    "ItemId": 16,
+    "LanguageCode": "JP-JP",
+    "Name": "ふしぎなきのみ",
+    "Description": "仲間１体の最大ＭＰが　３上がる\nただし　種族ごとの最大値は超えない"
+  },
+  {
+    "ItemLocalizationId": 550,
+    "ItemId": 62,
+    "LanguageCode": "JP-JP",
+    "Name": "ふしぎなひだね",
+    "Description": "魔力が込められた　ふしぎな炎"
+  },
+  {
+    "ItemLocalizationId": 199,
+    "ItemId": 23,
+    "LanguageCode": "JP-JP",
+    "Name": "ふつうの本",
+    "Description": "性格が　まじめ　になる本\nすべての能力が　まんべんなく上がる\nモンスターに成長する"
+  },
+  {
+    "ItemLocalizationId": 352,
+    "ItemId": 40,
+    "LanguageCode": "JP-JP",
+    "Name": "ヘビーメタル",
+    "Description": "ひときわ重い　金属のかたまり"
+  },
+  {
+    "ItemLocalizationId": 532,
+    "ItemId": 60,
+    "LanguageCode": "JP-JP",
+    "Name": "へびのぬけがら",
+    "Description": "蛇が脱皮したとき　残したぬけがら"
+  },
+  {
+    "ItemLocalizationId": 433,
+    "ItemId": 49,
+    "LanguageCode": "JP-JP",
+    "Name": "ホワイトパール",
+    "Description": "気品のある　真っ白な真珠"
+  },
+  {
+    "ItemLocalizationId": 154,
+    "ItemId": 18,
+    "LanguageCode": "JP-JP",
+    "Name": "まもりのたね",
+    "Description": "仲間１体の守備力が　３上がる\nただし　種族ごとの最大値は超えない"
+  },
+  {
+    "ItemLocalizationId": 379,
+    "ItemId": 43,
+    "LanguageCode": "JP-JP",
+    "Name": "まりょくの土",
+    "Description": "魔力を宿した　土のかたまり"
+  },
+  {
+    "ItemLocalizationId": 82,
+    "ItemId": 10,
+    "LanguageCode": "JP-JP",
+    "Name": "メタルストーン",
+    "Description": "戦闘中に投げて使う　とてもかたい石\n敵１体に　少しダメージを与える\nメタル系モンスターにも有効"
+  },
+  {
+    "ItemLocalizationId": 64,
+    "ItemId": 8,
+    "LanguageCode": "JP-JP",
+    "Name": "モンスターの糞",
+    "Description": "かぐわしいニオイがする落とし物\n戦闘中に投げて使うと\n敵１体に　少しダメージを与える"
+  },
+  {
+    "ItemLocalizationId": 361,
+    "ItemId": 41,
+    "LanguageCode": "JP-JP",
+    "Name": "やわらかウール",
+    "Description": "羊から採れる　ふわふわした毛"
+  },
+  {
+    "ItemLocalizationId": 469,
+    "ItemId": 53,
+    "LanguageCode": "JP-JP",
+    "Name": "ようせいの綿花",
+    "Description": "妖精が育てた　めずらしい綿花"
+  },
+  {
+    "ItemLocalizationId": 397,
+    "ItemId": 45,
+    "LanguageCode": "JP-JP",
+    "Name": "レッドアイ",
+    "Description": "赤い光を放つ　貴重な石"
+  },
+  {
+    "ItemLocalizationId": 63,
+    "ItemId": 7,
+    "LanguageCode": "KO-KR",
+    "Name": "각성의 바늘",
+    "Description": "동료 1체의\n수면 및 혼란을 치료한다."
+  },
+  {
+    "ItemLocalizationId": 396,
+    "ItemId": 44,
+    "LanguageCode": "KO-KR",
+    "Name": "거울돌",
+    "Description": "거울처럼 빛나는 돌."
+  },
+  {
+    "ItemLocalizationId": 423,
+    "ItemId": 47,
+    "LanguageCode": "KO-KR",
+    "Name": "그린 아이",
+    "Description": "초록빛을 뿜는 귀중한 돌."
+  },
+  {
+    "ItemLocalizationId": 270,
+    "ItemId": 30,
+    "LanguageCode": "KO-KR",
+    "Name": "누름돌",
+    "Description": "절임 요리에 최적인 크고 무거운 돌."
+  },
+  {
+    "ItemLocalizationId": 81,
+    "ItemId": 9,
+    "LanguageCode": "KO-KR",
+    "Name": "돌멩이",
+    "Description": "맞으면 아픈 돌멩이.\n전투 중에 던져서 사용하면\n적 1체에 조금의 대미지를 가한다."
+  },
+  {
+    "ItemLocalizationId": 252,
+    "ItemId": 28,
+    "LanguageCode": "KO-KR",
+    "Name": "동광석",
+    "Description": "구리가 함유된 평범한 광석."
+  },
+  {
+    "ItemLocalizationId": 351,
+    "ItemId": 39,
+    "LanguageCode": "KO-KR",
+    "Name": "두꺼비 기름",
+    "Description": "두꺼비한테서 채집할 수 있는 기름."
+  },
+  {
+    "ItemLocalizationId": 405,
+    "ItemId": 45,
+    "LanguageCode": "KO-KR",
+    "Name": "레드 아이",
+    "Description": "붉은빛을 뿜는 귀중한 돌."
+  },
+  {
+    "ItemLocalizationId": 387,
+    "ItemId": 43,
+    "LanguageCode": "KO-KR",
+    "Name": "마력의 흙",
+    "Description": "마력이 깃든 흙덩어리."
+  },
+  {
+    "ItemLocalizationId": 99,
+    "ItemId": 11,
+    "LanguageCode": "KO-KR",
+    "Name": "마물의 먹이",
+    "Description": "몬스터가 좋아하는 고기.\n선물하면 아주 조금 동료로 삼기 쉬워진다."
+  },
+  {
+    "ItemLocalizationId": 36,
+    "ItemId": 4,
+    "LanguageCode": "KO-KR",
+    "Name": "마법의 작은 병",
+    "Description": "동료 1체의\nMP를 10 회복한다."
+  },
+  {
+    "ItemLocalizationId": 54,
+    "ItemId": 6,
+    "LanguageCode": "KO-KR",
+    "Name": "만월초",
+    "Description": "동료 1체의\n마비를 치료한다."
+  },
+  {
+    "ItemLocalizationId": 522,
+    "ItemId": 58,
+    "LanguageCode": "KO-KR",
+    "Name": "맑은 물",
+    "Description": "맑고 투명한 자연의 용수."
+  },
+  {
+    "ItemLocalizationId": 90,
+    "ItemId": 10,
+    "LanguageCode": "KO-KR",
+    "Name": "메탈 스톤",
+    "Description": "매우 딱딱한 돌. 전투 중에 던져서 사용하면\n적 1체에 조금의 대미지를 가한다.\n메탈계 몬스터에도 유효하다."
+  },
+  {
+    "ItemLocalizationId": 72,
+    "ItemId": 8,
+    "LanguageCode": "KO-KR",
+    "Name": "몬스터의 똥",
+    "Description": "코를 자극하는 향기가 맴도는 물체.\n전투 중에 던져서 사용하면\n적 1체에 조금의 대미지를 가한다."
+  },
+  {
+    "ItemLocalizationId": 171,
+    "ItemId": 19,
+    "LanguageCode": "KO-KR",
+    "Name": "민첩의 씨앗",
+    "Description": "동료 1체의 민첩함이 3 증가한다.\n단, 종족별 최대치는 넘을 수 없다."
+  },
+  {
+    "ItemLocalizationId": 486,
+    "ItemId": 54,
+    "LanguageCode": "KO-KR",
+    "Name": "바닷바람 풀",
+    "Description": "바닷바람 향기가 감도는 풀."
+  },
+  {
+    "ItemLocalizationId": 297,
+    "ItemId": 33,
+    "LanguageCode": "KO-KR",
+    "Name": "바람의 깃털",
+    "Description": "바람을 가르며 나는 새가 떨어뜨린 깃털."
+  },
+  {
+    "ItemLocalizationId": 342,
+    "ItemId": 38,
+    "LanguageCode": "KO-KR",
+    "Name": "박쥐 날개",
+    "Description": "박쥐의 크고 검은 날개."
+  },
+  {
+    "ItemLocalizationId": 531,
+    "ItemId": 59,
+    "LanguageCode": "KO-KR",
+    "Name": "반짝이는 수액",
+    "Description": "달밤에 빛나는 나무의 수액을 모은 것."
+  },
+  {
+    "ItemLocalizationId": 162,
+    "ItemId": 18,
+    "LanguageCode": "KO-KR",
+    "Name": "방어의 씨앗",
+    "Description": "동료 1체의 수비력이 3 증가한다.\n단, 종족별 최대치는 넘을 수 없다."
+  },
+  {
+    "ItemLocalizationId": 441,
+    "ItemId": 49,
+    "LanguageCode": "KO-KR",
+    "Name": "백진주",
+    "Description": "기품이 넘치는 새하얀 진주."
+  },
+  {
+    "ItemLocalizationId": 540,
+    "ItemId": 60,
+    "LanguageCode": "KO-KR",
+    "Name": "뱀 껍질",
+    "Description": "뱀이 탈피하면서 남긴 허물."
+  },
+  {
+    "ItemLocalizationId": 225,
+    "ItemId": 25,
+    "LanguageCode": "KO-KR",
+    "Name": "변덕의 책",
+    "Description": "성격을 변덕으로 만드는 책.\n최대 HP와 수비력이 높은 몬스터로 성장한다."
+  },
+  {
+    "ItemLocalizationId": 369,
+    "ItemId": 41,
+    "LanguageCode": "KO-KR",
+    "Name": "부드러운 울",
+    "Description": "양한테서 채집할 수 있는 폭신한 털."
+  },
+  {
+    "ItemLocalizationId": 495,
+    "ItemId": 55,
+    "LanguageCode": "KO-KR",
+    "Name": "빗방울의 실",
+    "Description": "실에 물이 흐르는 신비로운 섬유."
+  },
+  {
+    "ItemLocalizationId": 18,
+    "ItemId": 2,
+    "LanguageCode": "KO-KR",
+    "Name": "상급 약초",
+    "Description": "동료 1체의\nHP를 60 회복한다."
+  },
+  {
+    "ItemLocalizationId": 135,
+    "ItemId": 15,
+    "LanguageCode": "KO-KR",
+    "Name": "생명의 나무 열매",
+    "Description": "동료 1체의 최대 HP가 3 증가한다.\n단, 종족별 최대치는 넘을 수 없다."
+  },
+  {
+    "ItemLocalizationId": 207,
+    "ItemId": 23,
+    "LanguageCode": "KO-KR",
+    "Name": "성실의 책",
+    "Description": "성격을 성실로 만드는 책.\n모든 능력치가 균등한 몬스터로 성장한다."
+  },
+  {
+    "ItemLocalizationId": 288,
+    "ItemId": 32,
+    "LanguageCode": "KO-KR",
+    "Name": "수상한 풀",
+    "Description": "척 보기에도 수상쩍은 풀."
+  },
+  {
+    "ItemLocalizationId": 576,
+    "ItemId": 64,
+    "LanguageCode": "KO-KR",
+    "Name": "숨결의 증표",
+    "Description": "스킬 '숨결'을 습득한다."
+  },
+  {
+    "ItemLocalizationId": 189,
+    "ItemId": 21,
+    "LanguageCode": "KO-KR",
+    "Name": "스킬의 씨앗",
+    "Description": "동료 1체의 스킬 포인트가 3 증가한다.\n단, 최대 포인트는 999를 넘을 수 없다."
+  },
+  {
+    "ItemLocalizationId": 333,
+    "ItemId": 37,
+    "LanguageCode": "KO-KR",
+    "Name": "슬라임 젤리",
+    "Description": "슬라임처럼 보들보들한 젤리."
+  },
+  {
+    "ItemLocalizationId": 144,
+    "ItemId": 16,
+    "LanguageCode": "KO-KR",
+    "Name": "신비한 나무 열매",
+    "Description": "동료 1체의 최대 MP가 3 증가한다.\n단, 종족별 최대치는 넘을 수 없다."
+  },
+  {
+    "ItemLocalizationId": 558,
+    "ItemId": 62,
+    "LanguageCode": "KO-KR",
+    "Name": "신비한 불씨",
+    "Description": "마력이 깃든 수수께끼의 불꽃."
+  },
+  {
+    "ItemLocalizationId": 117,
+    "ItemId": 13,
+    "LanguageCode": "KO-KR",
+    "Name": "썩은 고기",
+    "Description": "시큼한 냄새가 나는 살짝 썩은 고기.\n선물하면 아주 조금 동료로 삼기 쉬워지지만\n독 상태가 된다."
+  },
+  {
+    "ItemLocalizationId": 27,
+    "ItemId": 3,
+    "LanguageCode": "KO-KR",
+    "Name": "아모르의 물",
+    "Description": "동료 전체의\nHP를 50~60 회복한다."
+  },
+  {
+    "ItemLocalizationId": 9,
+    "ItemId": 1,
+    "LanguageCode": "KO-KR",
+    "Name": "약초",
+    "Description": "동료 1체의\nHP를 30 회복한다."
+  },
+  {
+    "ItemLocalizationId": 459,
+    "ItemId": 51,
+    "LanguageCode": "KO-KR",
+    "Name": "얼음 나무",
+    "Description": "냉기가 감도는 서늘한 나무."
+  },
+  {
+    "ItemLocalizationId": 279,
+    "ItemId": 31,
+    "LanguageCode": "KO-KR",
+    "Name": "연마 모래",
+    "Description": "북북 문질러서 윤기를 내는 모래."
+  },
+  {
+    "ItemLocalizationId": 549,
+    "ItemId": 61,
+    "LanguageCode": "KO-KR",
+    "Name": "영롱 버섯",
+    "Description": "윤기가 흐르는 멋진 버섯."
+  },
+  {
+    "ItemLocalizationId": 450,
+    "ItemId": 50,
+    "LanguageCode": "KO-KR",
+    "Name": "예쁜 가지",
+    "Description": "곧고 아름답게 뻗은 가지."
+  },
+  {
+    "ItemLocalizationId": 414,
+    "ItemId": 46,
+    "LanguageCode": "KO-KR",
+    "Name": "옐로 아이",
+    "Description": "노란빛을 뿜는 귀중한 돌."
+  },
+  {
+    "ItemLocalizationId": 477,
+    "ItemId": 53,
+    "LanguageCode": "KO-KR",
+    "Name": "요정의 목화",
+    "Description": "요정이 기른 진귀한 면화."
+  },
+  {
+    "ItemLocalizationId": 585,
+    "ItemId": 65,
+    "LanguageCode": "KO-KR",
+    "Name": "원기 구슬",
+    "Description": "배틀 10회 한정으로\n경험치와 골드 1.5배 획득!\n효과 발동 중에 중복으로 사용할 수 없다."
+  },
+  {
+    "ItemLocalizationId": 567,
+    "ItemId": 63,
+    "LanguageCode": "KO-KR",
+    "Name": "작은 메달",
+    "Description": "작은 메달 교환소에 있는\n메달 아저씨에게 건네면\n다양한 보상을 받을 수 있다."
+  },
+  {
+    "ItemLocalizationId": 315,
+    "ItemId": 35,
+    "LanguageCode": "KO-KR",
+    "Name": "작은 비늘",
+    "Description": "인간 손톱 크기의 작은 비늘."
+  },
+  {
+    "ItemLocalizationId": 216,
+    "ItemId": 24,
+    "LanguageCode": "KO-KR",
+    "Name": "정열가의 책",
+    "Description": "성격을 정열가로 만드는 책.\n최대 MP가 상당히 높은 몬스터로 성장한다."
+  },
+  {
+    "ItemLocalizationId": 126,
+    "ItemId": 14,
+    "LanguageCode": "KO-KR",
+    "Name": "정체 모를 고기",
+    "Description": "특이한 맛이 나는 고기.\n선물하면 랜덤한 효과가 발생하여 동료로 삼기 쉬워진다."
+  },
+  {
+    "ItemLocalizationId": 17,
+    "ItemId": 2,
+    "LanguageCode": "ZH-CN",
+    "Name": "上等药草",
+    "Description": "恢复一名伙伴\n６０点ＨＰ"
+  },
+  {
+    "ItemLocalizationId": 16,
+    "ItemId": 2,
+    "LanguageCode": "ZH-TW",
+    "Name": "上等藥草",
+    "Description": "恢復一名夥伴\n６０點ＨＰ"
+  },
+  {
+    "ItemLocalizationId": 10,
+    "ItemId": 2,
+    "LanguageCode": "JP-JP",
+    "Name": "上薬草",
+    "Description": "仲間１体の\nＨＰを６０回復"
+  },
+  {
+    "ItemLocalizationId": 306,
+    "ItemId": 34,
+    "LanguageCode": "KO-KR",
+    "Name": "짐승의 가죽",
+    "Description": "마물의 질긴 가죽."
+  },
+  {
+    "ItemLocalizationId": 324,
+    "ItemId": 36,
+    "LanguageCode": "KO-KR",
+    "Name": "짐승의 뼈",
+    "Description": "짐승의 질긴 가죽."
+  },
+  {
+    "ItemLocalizationId": 584,
+    "ItemId": 65,
+    "LanguageCode": "ZH-CN",
+    "Name": "元气珠",
+    "Description": "获得的经验值与金币增为１.５倍！\n效果持续１０场战斗\n生效期间无法叠加使用"
+  },
+  {
+    "ItemLocalizationId": 577,
+    "ItemId": 65,
+    "LanguageCode": "JP-JP",
+    "Name": "元気玉",
+    "Description": "バトル１０回の間だけ\n経験値とゴールドが　１.５倍に！\n効果発動中に　重ねては使えない"
+  },
+  {
+    "ItemLocalizationId": 583,
+    "ItemId": 65,
+    "LanguageCode": "ZH-TW",
+    "Name": "元氣珠",
+    "Description": "獲得的經驗值與金幣增為１.５倍！\n效果持續１０場戰鬥\n生效期間無法疊加使用"
+  },
+  {
+    "ItemLocalizationId": 378,
+    "ItemId": 42,
+    "LanguageCode": "KO-KR",
+    "Name": "천둥의 구슬",
+    "Description": "번개의 힘이 결정화한 구슬."
+  },
+  {
+    "ItemLocalizationId": 261,
+    "ItemId": 29,
+    "LanguageCode": "KO-KR",
+    "Name": "철광석",
+    "Description": "철이 함유된 평범한 광석."
+  },
+  {
+    "ItemLocalizationId": 458,
+    "ItemId": 51,
+    "LanguageCode": "ZH-CN",
+    "Name": "冰之树木",
+    "Description": "带有冷气的冰凉树木"
+  },
+  {
+    "ItemLocalizationId": 457,
+    "ItemId": 51,
+    "LanguageCode": "ZH-TW",
+    "Name": "冰之樹木",
+    "Description": "帶有冷氣的冰涼樹木"
+  },
+  {
+    "ItemLocalizationId": 521,
+    "ItemId": 58,
+    "LanguageCode": "ZH-CN",
+    "Name": "净化之水",
+    "Description": "清澈透明的天然涌泉"
+  },
+  {
+    "ItemLocalizationId": 180,
+    "ItemId": 20,
+    "LanguageCode": "KO-KR",
+    "Name": "총명의 씨앗",
+    "Description": "동료 1체의 총명함이 3 증가한다.\n단, 종족별 최대치는 넘을 수 없다."
+  },
+  {
+    "ItemLocalizationId": 152,
+    "ItemId": 17,
+    "LanguageCode": "ZH-CN",
+    "Name": "力量种子",
+    "Description": "使一名伙伴的攻击力提升３点\n但不会超过种族的上限值"
+  },
+  {
+    "ItemLocalizationId": 151,
+    "ItemId": 17,
+    "LanguageCode": "ZH-TW",
+    "Name": "力量種子",
+    "Description": "使一名夥伴的攻擊力提升３點\n但不會超過每個種族的上限值"
+  },
+  {
+    "ItemLocalizationId": 332,
+    "ItemId": 37,
+    "LanguageCode": "ZH-CN",
+    "Name": "史莱姆果冻",
+    "Description": "像史莱姆般富有弹性的果冻"
+  },
+  {
+    "ItemLocalizationId": 331,
+    "ItemId": 37,
+    "LanguageCode": "ZH-TW",
+    "Name": "史萊姆果凍",
+    "Description": "像史萊姆般富有彈性的果凍"
+  },
+  {
+    "ItemLocalizationId": 468,
+    "ItemId": 52,
+    "LanguageCode": "KO-KR",
+    "Name": "코튼초",
+    "Description": "포근한 면을 채집할 수 있는 풀."
+  },
+  {
+    "ItemLocalizationId": 432,
+    "ItemId": 48,
+    "LanguageCode": "KO-KR",
+    "Name": "퍼플 아이",
+    "Description": "보랏빛을 뿜는 귀중한 돌."
+  },
+  {
+    "ItemLocalizationId": 504,
+    "ItemId": 56,
+    "LanguageCode": "KO-KR",
+    "Name": "푹신푹신한 모피",
+    "Description": "마물의 따뜻한 모피."
+  },
+  {
+    "ItemLocalizationId": 287,
+    "ItemId": 32,
+    "LanguageCode": "ZH-CN",
+    "Name": "妖异草",
+    "Description": "光看就觉得很可疑的草"
+  },
+  {
+    "ItemLocalizationId": 286,
+    "ItemId": 32,
+    "LanguageCode": "ZH-TW",
+    "Name": "妖異草",
+    "Description": "光看就覺得很可疑的草"
+  },
+  {
+    "ItemLocalizationId": 475,
+    "ItemId": 53,
+    "LanguageCode": "ZH-TW",
+    "Name": "妖精的棉花",
+    "Description": "妖精培育的稀有棉花"
+  },
+  {
+    "ItemLocalizationId": 476,
+    "ItemId": 53,
+    "LanguageCode": "ZH-CN",
+    "Name": "妖精的棉花",
+    "Description": "妖精培育的稀有棉花"
+  },
+  {
+    "ItemLocalizationId": 280,
+    "ItemId": 32,
+    "LanguageCode": "JP-JP",
+    "Name": "妖草",
+    "Description": "見るからに　あやしげな草"
+  },
+  {
+    "ItemLocalizationId": 513,
+    "ItemId": 57,
+    "LanguageCode": "KO-KR",
+    "Name": "하얀 조개껍데기",
+    "Description": "해변에서 발견한 새하얀 조개껍데기."
+  },
+  {
+    "ItemLocalizationId": 45,
+    "ItemId": 5,
+    "LanguageCode": "KO-KR",
+    "Name": "해독초",
+    "Description": "동료 1체의\n독, 맹독을 치료한다."
+  },
+  {
+    "ItemLocalizationId": 198,
+    "ItemId": 22,
+    "LanguageCode": "KO-KR",
+    "Name": "행복의 씨앗",
+    "Description": "동료 1체의 레벨이 1 오른다."
+  },
+  {
+    "ItemLocalizationId": 360,
+    "ItemId": 40,
+    "LanguageCode": "KO-KR",
+    "Name": "헤비 메탈",
+    "Description": "말도 안 되게 무거운 금속 덩어리."
+  },
+  {
+    "ItemLocalizationId": 160,
+    "ItemId": 18,
+    "LanguageCode": "ZH-TW",
+    "Name": "守護種子",
+    "Description": "使一名夥伴的守備力提升３點\n但不會超過每個種族的上限值"
+  },
+  {
+    "ItemLocalizationId": 108,
+    "ItemId": 12,
+    "LanguageCode": "KO-KR",
+    "Name": "훈제 고기",
+    "Description": "몬스터가 아주 좋아하는 고기.\n선물하면 조금 동료로 삼기 쉬워진다."
+  },
+  {
+    "ItemLocalizationId": 307,
+    "ItemId": 35,
+    "LanguageCode": "JP-JP",
+    "Name": "小さな鱗",
+    "Description": "人のツメくらいの　小さいうろこ"
+  },
+  {
+    "ItemLocalizationId": 313,
+    "ItemId": 35,
+    "LanguageCode": "ZH-TW",
+    "Name": "小巧鱗片",
+    "Description": "像人的指甲般大小的鱗片"
+  },
+  {
+    "ItemLocalizationId": 565,
+    "ItemId": 63,
+    "LanguageCode": "ZH-TW",
+    "Name": "小徽章",
+    "Description": "交給小徽章兌換處的徽章大叔\n就能獲得各種獎勵"
+  },
+  {
+    "ItemLocalizationId": 566,
+    "ItemId": 63,
+    "LanguageCode": "ZH-CN",
+    "Name": "小徽章",
+    "Description": "交给小徽章兑换处的\n徽章大叔后\n可获得各种奖励"
+  },
+  {
+    "ItemLocalizationId": 314,
+    "ItemId": 35,
+    "LanguageCode": "ZH-CN",
+    "Name": "小鳞片",
+    "Description": "像人的指甲般大小的鳞片"
+  },
+  {
+    "ItemLocalizationId": 153,
+    "ItemId": 17,
+    "LanguageCode": "KO-KR",
+    "Name": "힘의 씨앗",
+    "Description": "동료 1체의 공격력이 3 증가한다.\n단, 종족별 최대치는 넘을 수 없다."
+  },
+  {
+    "ItemLocalizationId": 197,
+    "ItemId": 22,
+    "LanguageCode": "ZH-CN",
+    "Name": "幸福种子",
+    "Description": "使一名伙伴的等级提升１级"
+  },
+  {
+    "ItemLocalizationId": 196,
+    "ItemId": 22,
+    "LanguageCode": "ZH-TW",
+    "Name": "幸福種子",
+    "Description": "使一名夥伴的等級提升１級"
+  },
+  {
+    "ItemLocalizationId": 223,
+    "ItemId": 25,
+    "LanguageCode": "ZH-TW",
+    "Name": "心血來潮之書",
+    "Description": "使怪物性格變得心血來潮的書\n會成長為最大ＨＰ與守備力較高的怪物"
+  },
+  {
+    "ItemLocalizationId": 224,
+    "ItemId": 25,
+    "LanguageCode": "ZH-CN",
+    "Name": "心血来潮之书",
+    "Description": "使怪物性格变得心血来潮的书\n会成长为最大ＨＰ与防御力较高的怪物"
+  },
+  {
+    "ItemLocalizationId": 97,
+    "ItemId": 11,
+    "LanguageCode": "ZH-TW",
+    "Name": "怪物的飼料",
+    "Description": "怪物愛吃的肉\n投食後微幅提升怪物成為夥伴的機率"
+  },
+  {
+    "ItemLocalizationId": 98,
+    "ItemId": 11,
+    "LanguageCode": "ZH-CN",
+    "Name": "怪物的饲料",
+    "Description": "怪物喜欢吃的肉\n投喂后，略微提高成为伙伴的概率"
+  },
+  {
+    "ItemLocalizationId": 71,
+    "ItemId": 8,
+    "LanguageCode": "ZH-CN",
+    "Name": "怪物粪",
+    "Description": "芬芳的排泄物\n在战斗中投掷\n可对一个敌人造成少量伤害"
+  },
+  {
+    "ItemLocalizationId": 70,
+    "ItemId": 8,
+    "LanguageCode": "ZH-TW",
+    "Name": "怪物糞便",
+    "Description": "芬芳的排泄物\n在戰鬥中投擲出去\n可對一個敵人造成少量傷害"
+  },
+  {
+    "ItemLocalizationId": 568,
+    "ItemId": 64,
+    "LanguageCode": "JP-JP",
+    "Name": "息吹の証",
+    "Description": "スキル「息吹」を覚える"
+  },
+  {
+    "ItemLocalizationId": 25,
+    "ItemId": 3,
+    "LanguageCode": "ZH-TW",
+    "Name": "愛摩爾之水",
+    "Description": "恢復所有夥伴\n５０～６０點ＨＰ"
+  },
+  {
+    "ItemLocalizationId": 188,
+    "ItemId": 21,
+    "LanguageCode": "ZH-CN",
+    "Name": "技能种子",
+    "Description": "使一名伙伴的技能点数增加３点\n但不会超过９９９点的上限值"
+  },
+  {
+    "ItemLocalizationId": 187,
+    "ItemId": 21,
+    "LanguageCode": "ZH-TW",
+    "Name": "技能種子",
+    "Description": "使一名夥伴的技能點數增加３點\n但不會超過９９９點的上限值"
+  },
+  {
+    "ItemLocalizationId": 296,
+    "ItemId": 33,
+    "LanguageCode": "ZH-CN",
+    "Name": "拨风羽",
+    "Description": "迎风飞翔的鸟儿掉落的羽毛"
+  },
+  {
+    "ItemLocalizationId": 295,
+    "ItemId": 33,
+    "LanguageCode": "ZH-TW",
+    "Name": "撥風羽",
+    "Description": "迎風飛翔的鳥兒掉落的羽毛"
+  },
+  {
+    "ItemLocalizationId": 170,
+    "ItemId": 19,
+    "LanguageCode": "ZH-CN",
+    "Name": "敏捷种子",
+    "Description": "使一名伙伴的敏捷提升３点\n但不会超过种族的上限值"
+  },
+  {
+    "ItemLocalizationId": 179,
+    "ItemId": 20,
+    "LanguageCode": "ZH-CN",
+    "Name": "智力种子",
+    "Description": "使一名伙伴的智力提升３点\n但不会超过种族的上限值"
+  },
+  {
+    "ItemLocalizationId": 178,
+    "ItemId": 20,
+    "LanguageCode": "ZH-TW",
+    "Name": "智力種子",
+    "Description": "使一名夥伴的智力提升３點\n但不會超過每個種族的上限值"
+  },
+  {
+    "ItemLocalizationId": 466,
+    "ItemId": 52,
+    "LanguageCode": "ZH-TW",
+    "Name": "木棉草",
+    "Description": "可採得柔軟棉絮的草"
+  },
+  {
+    "ItemLocalizationId": 467,
+    "ItemId": 52,
+    "LanguageCode": "ZH-CN",
+    "Name": "木棉草",
+    "Description": "可采得柔软棉絮的草"
+  },
+  {
+    "ItemLocalizationId": 367,
+    "ItemId": 41,
+    "LanguageCode": "ZH-TW",
+    "Name": "柔軟的羊毛",
+    "Description": "從羊身上取得的柔軟羊毛"
+  },
+  {
+    "ItemLocalizationId": 368,
+    "ItemId": 41,
+    "LanguageCode": "ZH-CN",
+    "Name": "柔软的羊毛",
+    "Description": "从羊身上取得的柔软羊毛"
+  },
+  {
+    "ItemLocalizationId": 205,
+    "ItemId": 23,
+    "LanguageCode": "ZH-TW",
+    "Name": "正經之書",
+    "Description": "使怪物性格變得正經的書\n會成長為所有能力\n平均上升的怪物"
+  },
+  {
+    "ItemLocalizationId": 206,
+    "ItemId": 23,
+    "LanguageCode": "ZH-CN",
+    "Name": "正经之书",
+    "Description": "使怪物性格变得正经的书\n会成长为所有能力\n平均上升的怪物"
+  },
+  {
+    "ItemLocalizationId": 37,
+    "ItemId": 5,
+    "LanguageCode": "JP-JP",
+    "Name": "毒消し草",
+    "Description": "仲間１体の\n毒・猛毒を治す"
+  },
+  {
+    "ItemLocalizationId": 575,
+    "ItemId": 64,
+    "LanguageCode": "ZH-CN",
+    "Name": "气息之证",
+    "Description": "可学习技能“气息”"
+  },
+  {
+    "ItemLocalizationId": 574,
+    "ItemId": 64,
+    "LanguageCode": "ZH-TW",
+    "Name": "氣息之證",
+    "Description": "可學習技能「氣息」"
+  },
+  {
+    "ItemLocalizationId": 503,
+    "ItemId": 56,
+    "LanguageCode": "ZH-CN",
+    "Name": "浓密毛皮",
+    "Description": "怪物掉落的保暖毛皮"
+  },
+  {
+    "ItemLocalizationId": 484,
+    "ItemId": 54,
+    "LanguageCode": "ZH-TW",
+    "Name": "海風草",
+    "Description": "飄散海風香氣的草"
+  },
+  {
+    "ItemLocalizationId": 485,
+    "ItemId": 54,
+    "LanguageCode": "ZH-CN",
+    "Name": "海风草",
+    "Description": "飘散海风香气的草"
+  },
+  {
+    "ItemLocalizationId": 520,
+    "ItemId": 58,
+    "LanguageCode": "ZH-TW",
+    "Name": "淨化之水",
+    "Description": "清澈透明的天然湧泉"
+  },
+  {
+    "ItemLocalizationId": 46,
+    "ItemId": 6,
+    "LanguageCode": "JP-JP",
+    "Name": "満月草",
+    "Description": "仲間１体の\nマヒを治す"
+  },
+  {
+    "ItemLocalizationId": 53,
+    "ItemId": 6,
+    "LanguageCode": "ZH-CN",
+    "Name": "满月草",
+    "Description": "治疗一名伙伴的\n麻痹状态"
+  },
+  {
+    "ItemLocalizationId": 52,
+    "ItemId": 6,
+    "LanguageCode": "ZH-TW",
+    "Name": "滿月草",
+    "Description": "治療一名夥伴的\n麻痺狀態"
+  },
+  {
+    "ItemLocalizationId": 449,
+    "ItemId": 50,
+    "LanguageCode": "ZH-CN",
+    "Name": "漂亮树枝",
+    "Description": "外观漂亮的修长树枝"
+  },
+  {
+    "ItemLocalizationId": 448,
+    "ItemId": 50,
+    "LanguageCode": "ZH-TW",
+    "Name": "漂亮樹枝",
+    "Description": "外觀漂亮的修長樹枝"
+  },
+  {
+    "ItemLocalizationId": 262,
+    "ItemId": 30,
+    "LanguageCode": "JP-JP",
+    "Name": "漬け物石",
+    "Description": "漬け物作りに最適な　大きくて重い石"
+  },
+  {
+    "ItemLocalizationId": 107,
+    "ItemId": 12,
+    "LanguageCode": "ZH-CN",
+    "Name": "烟熏肉",
+    "Description": "怪物非常喜欢吃的肉\n投喂后，小幅提高成为伙伴的概率"
+  },
+  {
+    "ItemLocalizationId": 215,
+    "ItemId": 24,
+    "LanguageCode": "ZH-CN",
+    "Name": "热情奔放之书",
+    "Description": "使怪物性格变得热情奔放的书\n会成长为最大ＭＰ相当高的怪物"
+  },
+  {
+    "ItemLocalizationId": 214,
+    "ItemId": 24,
+    "LanguageCode": "ZH-TW",
+    "Name": "熱情奔放之書",
+    "Description": "使怪物性格變得熱情奔放的書\n會成長為最大ＭＰ相當高的怪物"
+  },
+  {
+    "ItemLocalizationId": 106,
+    "ItemId": 12,
+    "LanguageCode": "ZH-TW",
+    "Name": "燻肉",
+    "Description": "怪物非常愛吃的肉\n投食後小幅提升怪物成為夥伴的機率"
+  },
+  {
+    "ItemLocalizationId": 26,
+    "ItemId": 3,
+    "LanguageCode": "ZH-CN",
+    "Name": "爱摩尔之水",
+    "Description": "恢复所有伙伴\n５０～６０点ＨＰ"
+  },
+  {
+    "ItemLocalizationId": 298,
+    "ItemId": 34,
+    "LanguageCode": "JP-JP",
+    "Name": "獣の皮",
+    "Description": "魔物が落とす　じょうぶな皮"
+  },
+  {
+    "ItemLocalizationId": 316,
+    "ItemId": 36,
+    "LanguageCode": "JP-JP",
+    "Name": "獣の骨",
+    "Description": "獣が落とす　じょうぶな骨"
+  },
+  {
+    "ItemLocalizationId": 304,
+    "ItemId": 34,
+    "LanguageCode": "ZH-TW",
+    "Name": "獸皮",
+    "Description": "怪物掉落的堅韌皮革"
+  },
+  {
+    "ItemLocalizationId": 322,
+    "ItemId": 36,
+    "LanguageCode": "ZH-TW",
+    "Name": "獸骨",
+    "Description": "野獸掉落的堅韌骨頭"
+  },
+  {
+    "ItemLocalizationId": 134,
+    "ItemId": 15,
+    "LanguageCode": "ZH-CN",
+    "Name": "生命果实",
+    "Description": "使一名伙伴的最大ＨＰ提升３点\n但不会超过种族的上限值"
+  },
+  {
+    "ItemLocalizationId": 133,
+    "ItemId": 15,
+    "LanguageCode": "ZH-TW",
+    "Name": "生命果實",
+    "Description": "使一名夥伴的最大ＨＰ提升３點\n但不會超過每個種族的上限值"
+  },
+  {
+    "ItemLocalizationId": 505,
+    "ItemId": 57,
+    "LanguageCode": "JP-JP",
+    "Name": "白い貝がら",
+    "Description": "浜辺で見つけた　真っ白な貝殻"
+  },
+  {
+    "ItemLocalizationId": 439,
+    "ItemId": 49,
+    "LanguageCode": "ZH-TW",
+    "Name": "白珍珠",
+    "Description": "氣質高雅的潔白珍珠"
+  },
+  {
+    "ItemLocalizationId": 440,
+    "ItemId": 49,
+    "LanguageCode": "ZH-CN",
+    "Name": "白珍珠",
+    "Description": "气质高雅的洁白珍珠"
+  },
+  {
+    "ItemLocalizationId": 511,
+    "ItemId": 57,
+    "LanguageCode": "ZH-TW",
+    "Name": "白貝殼",
+    "Description": "在海邊找到的潔白貝殼"
+  },
+  {
+    "ItemLocalizationId": 512,
+    "ItemId": 57,
+    "LanguageCode": "ZH-CN",
+    "Name": "白贝壳",
+    "Description": "在海边找到的洁白贝壳"
+  },
+  {
+    "ItemLocalizationId": 55,
+    "ItemId": 7,
+    "LanguageCode": "JP-JP",
+    "Name": "目覚めの針",
+    "Description": "仲間１体の\n眠りや　混乱を治す"
+  },
+  {
+    "ItemLocalizationId": 73,
+    "ItemId": 9,
+    "LanguageCode": "JP-JP",
+    "Name": "石ころ",
+    "Description": "戦闘中に投げて使う\n当たると痛い　石ころ\n敵１体に　少しダメージを与える"
+  },
+  {
+    "ItemLocalizationId": 79,
+    "ItemId": 9,
+    "LanguageCode": "ZH-TW",
+    "Name": "石塊",
+    "Description": "戰鬥中用來投擲的石塊\n被砸到會很痛\n可對一個敵人造成少量傷害"
+  },
+  {
+    "ItemLocalizationId": 80,
+    "ItemId": 9,
+    "LanguageCode": "ZH-CN",
+    "Name": "石子",
+    "Description": "战斗中投掷使用的石子\n砸中会很疼\n可对一个敌人造成少量伤害"
+  },
+  {
+    "ItemLocalizationId": 277,
+    "ItemId": 31,
+    "LanguageCode": "ZH-TW",
+    "Name": "研磨砂",
+    "Description": "用力刷洗就能磨出光澤的沙"
+  },
+  {
+    "ItemLocalizationId": 278,
+    "ItemId": 31,
+    "LanguageCode": "ZH-CN",
+    "Name": "研磨砂",
+    "Description": "用力刷洗就能磨出光泽的沙"
+  },
+  {
+    "ItemLocalizationId": 271,
+    "ItemId": 31,
+    "LanguageCode": "JP-JP",
+    "Name": "磨き砂",
+    "Description": "ゴシゴシ磨いて　つやを出す砂"
+  },
+  {
+    "ItemLocalizationId": 142,
+    "ItemId": 16,
+    "LanguageCode": "ZH-TW",
+    "Name": "神奇果實",
+    "Description": "使一名夥伴的最大ＭＰ提升３點\n但不會超過每個種族的上限值"
+  },
+  {
+    "ItemLocalizationId": 557,
+    "ItemId": 62,
+    "LanguageCode": "ZH-CN",
+    "Name": "神奇火种",
+    "Description": "注入魔力的神奇火焰"
+  },
+  {
+    "ItemLocalizationId": 556,
+    "ItemId": 62,
+    "LanguageCode": "ZH-TW",
+    "Name": "神奇火種",
+    "Description": "注入魔力的神奇火焰"
+  },
+  {
+    "ItemLocalizationId": 124,
+    "ItemId": 14,
+    "LanguageCode": "ZH-TW",
+    "Name": "神祕的肉",
+    "Description": "味道不可思議的肉\n投食後隨機觸發提升怪物成為夥伴機率的效果"
+  },
+  {
+    "ItemLocalizationId": 125,
+    "ItemId": 14,
+    "LanguageCode": "ZH-CN",
+    "Name": "神秘的肉",
+    "Description": "味道不可思议的肉\n投食后随机触发提升怪物成为伙伴机率的效果"
+  },
+  {
+    "ItemLocalizationId": 403,
+    "ItemId": 45,
+    "LanguageCode": "ZH-TW",
+    "Name": "紅眼石",
+    "Description": "散發紅光的珍貴石頭"
+  },
+  {
+    "ItemLocalizationId": 430,
+    "ItemId": 48,
+    "LanguageCode": "ZH-TW",
+    "Name": "紫眼石",
+    "Description": "散發紫光的珍貴石頭"
+  },
+  {
+    "ItemLocalizationId": 431,
+    "ItemId": 48,
+    "LanguageCode": "ZH-CN",
+    "Name": "紫眼石",
+    "Description": "散发紫光的珍贵石头"
+  },
+  {
+    "ItemLocalizationId": 502,
+    "ItemId": 56,
+    "LanguageCode": "ZH-TW",
+    "Name": "絨毛皮",
+    "Description": "怪物掉落的保暖毛皮"
+  },
+  {
+    "ItemLocalizationId": 421,
+    "ItemId": 47,
+    "LanguageCode": "ZH-TW",
+    "Name": "綠眼石",
+    "Description": "散發綠光的珍貴石頭"
+  },
+  {
+    "ItemLocalizationId": 404,
+    "ItemId": 45,
+    "LanguageCode": "ZH-CN",
+    "Name": "红眼石",
+    "Description": "散发红光的珍贵石头"
+  },
+  {
+    "ItemLocalizationId": 422,
+    "ItemId": 47,
+    "LanguageCode": "ZH-CN",
+    "Name": "绿眼石",
+    "Description": "散发绿光的珍贵石头"
+  },
+  {
+    "ItemLocalizationId": 548,
+    "ItemId": 61,
+    "LanguageCode": "ZH-CN",
+    "Name": "美丽蘑菇",
+    "Description": "外观秀丽的漂亮菇类"
+  },
+  {
+    "ItemLocalizationId": 547,
+    "ItemId": 61,
+    "LanguageCode": "ZH-TW",
+    "Name": "美麗蘑菇",
+    "Description": "外觀秀麗的漂亮菇類"
+  },
+  {
+    "ItemLocalizationId": 269,
+    "ItemId": 30,
+    "LanguageCode": "ZH-CN",
+    "Name": "腌菜石",
+    "Description": "适合用来做腌渍物的沉重大石头"
+  },
+  {
+    "ItemLocalizationId": 116,
+    "ItemId": 13,
+    "LanguageCode": "ZH-CN",
+    "Name": "腐烂肉",
+    "Description": "散发酸味的微腐肉\n投喂后，略微提高成为伙伴的概率\n但会使其陷入中毒状态"
+  },
+  {
+    "ItemLocalizationId": 115,
+    "ItemId": 13,
+    "LanguageCode": "ZH-TW",
+    "Name": "腐肉",
+    "Description": "味道酸酸的微腐肉\n投食後微幅提升怪物成為夥伴的機率\n但會使其陷入中毒狀態"
+  },
+  {
+    "ItemLocalizationId": 62,
+    "ItemId": 7,
+    "LanguageCode": "ZH-CN",
+    "Name": "苏醒之针",
+    "Description": "治疗一名伙伴的\n沉睡和混乱状态"
+  },
+  {
+    "ItemLocalizationId": 8,
+    "ItemId": 1,
+    "LanguageCode": "ZH-CN",
+    "Name": "药草",
+    "Description": "恢复一名伙伴\n３０点ＨＰ"
+  },
+  {
+    "ItemLocalizationId": 1,
+    "ItemId": 1,
+    "LanguageCode": "JP-JP",
+    "Name": "薬草",
+    "Description": "仲間１体の\nＨＰを３０回復"
+  },
+  {
+    "ItemLocalizationId": 7,
+    "ItemId": 1,
+    "LanguageCode": "ZH-TW",
+    "Name": "藥草",
+    "Description": "恢復一名夥伴\n３０點ＨＰ"
+  },
+  {
+    "ItemLocalizationId": 538,
+    "ItemId": 60,
+    "LanguageCode": "ZH-TW",
+    "Name": "蛇蛻",
+    "Description": "蛇蛻皮時留下的蛇蛻"
+  },
+  {
+    "ItemLocalizationId": 539,
+    "ItemId": 60,
+    "LanguageCode": "ZH-CN",
+    "Name": "蛇蜕",
+    "Description": "蛇蜕皮时留下的蛇蜕"
+  },
+  {
+    "ItemLocalizationId": 349,
+    "ItemId": 39,
+    "LanguageCode": "ZH-TW",
+    "Name": "蛤蟆油",
+    "Description": "從蟾蜍身上採集的油脂"
+  },
+  {
+    "ItemLocalizationId": 350,
+    "ItemId": 39,
+    "LanguageCode": "ZH-CN",
+    "Name": "蛤蟆油",
+    "Description": "从蟾蜍身上采集的油脂"
+  },
+  {
+    "ItemLocalizationId": 334,
+    "ItemId": 38,
+    "LanguageCode": "JP-JP",
+    "Name": "蝙蝠の羽",
+    "Description": "コウモリが落とす　黒く大きな羽"
+  },
+  {
+    "ItemLocalizationId": 340,
+    "ItemId": 38,
+    "LanguageCode": "ZH-TW",
+    "Name": "蝙蝠翅膀",
+    "Description": "蝙蝠掉落的又黑又大的翅膀"
+  },
+  {
+    "ItemLocalizationId": 341,
+    "ItemId": 38,
+    "LanguageCode": "ZH-CN",
+    "Name": "蝙蝠翅膀",
+    "Description": "蝙蝠掉落的又黑又大的翅膀"
+  },
+  {
+    "ItemLocalizationId": 43,
+    "ItemId": 5,
+    "LanguageCode": "ZH-TW",
+    "Name": "解毒草",
+    "Description": "治療一名夥伴的\n中毒和猛毒狀態"
+  },
+  {
+    "ItemLocalizationId": 44,
+    "ItemId": 5,
+    "LanguageCode": "ZH-CN",
+    "Name": "解毒草",
+    "Description": "治疗一名伙伴的\n中毒和猛毒状态"
+  },
+  {
+    "ItemLocalizationId": 169,
+    "ItemId": 19,
+    "LanguageCode": "ZH-TW",
+    "Name": "速度種子",
+    "Description": "使一名夥伴的速度提升３點\n但不會超過每個種族的上限值"
+  },
+  {
+    "ItemLocalizationId": 268,
+    "ItemId": 30,
+    "LanguageCode": "ZH-TW",
+    "Name": "醃菜石",
+    "Description": "適合用來做醃漬物的沉重大石頭"
+  },
+  {
+    "ItemLocalizationId": 61,
+    "ItemId": 7,
+    "LanguageCode": "ZH-TW",
+    "Name": "醒神針",
+    "Description": "治療一名夥伴的\n睡眠和混亂狀態"
+  },
+  {
+    "ItemLocalizationId": 359,
+    "ItemId": 40,
+    "LanguageCode": "ZH-CN",
+    "Name": "重金属",
+    "Description": "格外沉重的金属块"
+  },
+  {
+    "ItemLocalizationId": 358,
+    "ItemId": 40,
+    "LanguageCode": "ZH-TW",
+    "Name": "重金屬",
+    "Description": "格外沉重的金屬塊"
+  },
+  {
+    "ItemLocalizationId": 305,
+    "ItemId": 34,
+    "LanguageCode": "ZH-CN",
+    "Name": "野兽原皮",
+    "Description": "怪物掉落的坚韧皮革"
+  },
+  {
+    "ItemLocalizationId": 323,
+    "ItemId": 36,
+    "LanguageCode": "ZH-CN",
+    "Name": "野兽原骨",
+    "Description": "野兽掉落的坚韧骨头"
+  },
+  {
+    "ItemLocalizationId": 89,
+    "ItemId": 10,
+    "LanguageCode": "ZH-CN",
+    "Name": "金属石",
+    "Description": "战斗中投掷使用的坚硬石块\n可对一个敌人造成少量伤害\n对金属系怪物也能发挥效果"
+  },
+  {
+    "ItemLocalizationId": 88,
+    "ItemId": 10,
+    "LanguageCode": "ZH-TW",
+    "Name": "金屬石頭",
+    "Description": "戰鬥中用來投擲的極硬石頭\n可對一個敵人造成少量傷害\n對金屬系怪物也能發揮效果"
+  },
+  {
+    "ItemLocalizationId": 253,
+    "ItemId": 29,
+    "LanguageCode": "JP-JP",
+    "Name": "鉄鉱石",
+    "Description": "鉄を含んだ　ありふれた鉱石"
+  },
+  {
+    "ItemLocalizationId": 244,
+    "ItemId": 28,
+    "LanguageCode": "JP-JP",
+    "Name": "銅の鉱石",
+    "Description": "銅を含んだ　ありふれた鉱石"
+  },
+  {
+    "ItemLocalizationId": 250,
+    "ItemId": 28,
+    "LanguageCode": "ZH-TW",
+    "Name": "銅礦石",
+    "Description": "含有銅的常見礦石"
+  },
+  {
+    "ItemLocalizationId": 394,
+    "ItemId": 44,
+    "LanguageCode": "ZH-TW",
+    "Name": "鏡之石",
+    "Description": "如鏡面般閃耀光輝的石頭"
+  },
+  {
+    "ItemLocalizationId": 259,
+    "ItemId": 29,
+    "LanguageCode": "ZH-TW",
+    "Name": "鐵礦石",
+    "Description": "含有鐵的常見礦石"
+  },
+  {
+    "ItemLocalizationId": 260,
+    "ItemId": 29,
+    "LanguageCode": "ZH-CN",
+    "Name": "铁矿石",
+    "Description": "含有铁的常见矿石"
+  },
+  {
+    "ItemLocalizationId": 251,
+    "ItemId": 28,
+    "LanguageCode": "ZH-CN",
+    "Name": "铜矿石",
+    "Description": "含有铜的常见矿石"
+  },
+  {
+    "ItemLocalizationId": 395,
+    "ItemId": 44,
+    "LanguageCode": "ZH-CN",
+    "Name": "镜之石",
+    "Description": "如镜面般闪耀光辉的石头"
+  },
+  {
+    "ItemLocalizationId": 529,
+    "ItemId": 59,
+    "LanguageCode": "ZH-TW",
+    "Name": "閃光樹汁",
+    "Description": "自月夜會發光的樹木採集的樹液"
+  },
+  {
+    "ItemLocalizationId": 530,
+    "ItemId": 59,
+    "LanguageCode": "ZH-CN",
+    "Name": "闪光树汁",
+    "Description": "自月夜会发光的树木采集的树液"
+  },
+  {
+    "ItemLocalizationId": 161,
+    "ItemId": 18,
+    "LanguageCode": "ZH-CN",
+    "Name": "防御种子",
+    "Description": "使一名伙伴的防御力提升３点\n但不会超过种族的上限值"
+  },
+  {
+    "ItemLocalizationId": 494,
+    "ItemId": 55,
+    "LanguageCode": "ZH-CN",
+    "Name": "雨露之丝",
+    "Description": "细线间流淌着水的神秘纤维"
+  },
+  {
+    "ItemLocalizationId": 493,
+    "ItemId": 55,
+    "LanguageCode": "ZH-TW",
+    "Name": "雨露之絲",
+    "Description": "細線間流淌著水的神祕纖維"
+  },
+  {
+    "ItemLocalizationId": 376,
+    "ItemId": 42,
+    "LanguageCode": "ZH-TW",
+    "Name": "雷鳴珠",
+    "Description": "雷之力量結晶而成的珠玉"
+  },
+  {
+    "ItemLocalizationId": 377,
+    "ItemId": 42,
+    "LanguageCode": "ZH-CN",
+    "Name": "雷鸣珠",
+    "Description": "雷之力量结晶而成的珠玉"
+  },
+  {
+    "ItemLocalizationId": 289,
+    "ItemId": 33,
+    "LanguageCode": "JP-JP",
+    "Name": "風切りの羽",
+    "Description": "風を切って飛ぶ　鳥の落とした羽"
+  },
+  {
+    "ItemLocalizationId": 385,
+    "ItemId": 43,
+    "LanguageCode": "ZH-TW",
+    "Name": "魔力之土",
+    "Description": "寄宿魔力的土塊"
+  },
+  {
+    "ItemLocalizationId": 386,
+    "ItemId": 43,
+    "LanguageCode": "ZH-CN",
+    "Name": "魔力之土",
+    "Description": "寄宿魔力的土块"
+  },
+  {
+    "ItemLocalizationId": 143,
+    "ItemId": 16,
+    "LanguageCode": "ZH-CN",
+    "Name": "魔力果实",
+    "Description": "使一名伙伴的最大ＭＰ提升３点\n但不会超过种族的上限值"
+  },
+  {
+    "ItemLocalizationId": 28,
+    "ItemId": 4,
+    "LanguageCode": "JP-JP",
+    "Name": "魔法の小瓶",
+    "Description": "仲間１体の\nＭＰを１０回復"
+  },
+  {
+    "ItemLocalizationId": 34,
+    "ItemId": 4,
+    "LanguageCode": "ZH-TW",
+    "Name": "魔法小瓶",
+    "Description": "恢復一名夥伴\n１０點ＭＰ"
+  },
+  {
+    "ItemLocalizationId": 35,
+    "ItemId": 4,
+    "LanguageCode": "ZH-CN",
+    "Name": "魔法小瓶",
+    "Description": "恢复一名伙伴\n１０点ＭＰ"
+  },
+  {
+    "ItemLocalizationId": 91,
+    "ItemId": 11,
+    "LanguageCode": "JP-JP",
+    "Name": "魔物のエサ",
+    "Description": "モンスターが好きな肉\nあげると　ほんの少し仲間になりやすくなる"
+  },
+  {
+    "ItemLocalizationId": 412,
+    "ItemId": 46,
+    "LanguageCode": "ZH-TW",
+    "Name": "黃眼石",
+    "Description": "散發黃光的珍貴石頭"
+  },
+  {
+    "ItemLocalizationId": 413,
+    "ItemId": 46,
+    "LanguageCode": "ZH-CN",
+    "Name": "黄眼石",
+    "Description": "散发黄光的珍贵石头"
+  }
+]

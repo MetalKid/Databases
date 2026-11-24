@@ -2,46 +2,61 @@
   {
     "AttackTypeId": 3,
     "Name": "Breath",
-    "Identifier": "breath"
+    "Identifier": "breath",
+    "JapaneseName": null
   },
   {
     "AttackTypeId": 5,
     "Name": "Dance",
-    "Identifier": "dance"
+    "Identifier": "dance",
+    "JapaneseName": null
   },
   {
     "AttackTypeId": 6,
     "Name": "Focus",
-    "Identifier": "focus"
+    "Identifier": "focus",
+    "JapaneseName": null
   },
   {
     "AttackTypeId": 2,
     "Name": "Impact",
-    "Identifier": "impact"
+    "Identifier": "impact",
+    "JapaneseName": null
   },
   {
     "AttackTypeId": 8,
     "Name": "Kick",
-    "Identifier": "kick"
+    "Identifier": "kick",
+    "JapaneseName": null
+  },
+  {
+    "AttackTypeId": 10,
+    "Name": "Other",
+    "Identifier": "other",
+    "JapaneseName": "その他"
   },
   {
     "AttackTypeId": 7,
     "Name": "Punch",
-    "Identifier": "punch"
+    "Identifier": "punch",
+    "JapaneseName": null
   },
   {
     "AttackTypeId": 9,
     "Name": "Shout",
-    "Identifier": "shout"
+    "Identifier": "shout",
+    "JapaneseName": null
   },
   {
     "AttackTypeId": 1,
     "Name": "Slash",
-    "Identifier": "slash"
+    "Identifier": "slash",
+    "JapaneseName": null
   },
   {
     "AttackTypeId": 4,
     "Name": "Spell",
-    "Identifier": "spell"
+    "Identifier": "spell",
+    "JapaneseName": "呪文"
   }
 ]

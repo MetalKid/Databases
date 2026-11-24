@@ -1,0 +1,12 @@
+[
+  {
+    "MapPointTypeId": 2,
+    "Name": "Flower",
+    "Identifier": "flower"
+  },
+  {
+    "MapPointTypeId": 1,
+    "Name": "Root",
+    "Identifier": "root"
+  }
+]

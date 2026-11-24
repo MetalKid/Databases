@@ -63,7 +63,7 @@
     "TraitId": 160,
     "Name": "Agility +12",
     "Identifier": "agility-12",
-    "JapaneseName": "すばやさ+12",
+    "JapaneseName": "すばやさプラス１２",
     "Description": "Raises agility by 12.",
     "HPBonus": null,
     "MPBonus": null,
@@ -72,13 +72,13 @@
     "AgilityBonus": 12,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 161,
     "Name": "Agility +16",
     "Identifier": "agility-16",
-    "JapaneseName": "かしこさ+16",
+    "JapaneseName": "すばやさプラス１６",
     "Description": "Raises agility by 16.",
     "HPBonus": null,
     "MPBonus": null,
@@ -93,7 +93,7 @@
     "TraitId": 211,
     "Name": "Agility +2",
     "Identifier": "agility-2",
-    "JapaneseName": "すばやさ+2",
+    "JapaneseName": "すばやさプラス２",
     "Description": "Raises agility by 2.",
     "HPBonus": null,
     "MPBonus": null,
@@ -102,13 +102,13 @@
     "AgilityBonus": 2,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 206,
     "Name": "Agility +20",
     "Identifier": "agility-20",
-    "JapaneseName": "すばやさ+20",
+    "JapaneseName": "すばやさプラス２０",
     "Description": "Raises agility by 20.",
     "HPBonus": null,
     "MPBonus": null,
@@ -117,13 +117,13 @@
     "AgilityBonus": 20,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 162,
     "Name": "Agility +24",
     "Identifier": "agility-24",
-    "JapaneseName": "すばやさ+24",
+    "JapaneseName": "すばやさプラス２４",
     "Description": "Raises agility by 24.",
     "HPBonus": null,
     "MPBonus": null,
@@ -132,13 +132,13 @@
     "AgilityBonus": 24,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 213,
     "Name": "Agility +30",
     "Identifier": "agility-30",
-    "JapaneseName": "すばやさ+30",
+    "JapaneseName": "すばやさプラス３０",
     "Description": "Raises agility by 30.",
     "HPBonus": null,
     "MPBonus": null,
@@ -147,13 +147,13 @@
     "AgilityBonus": 30,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 163,
     "Name": "Agility +32",
     "Identifier": "agility-32",
-    "JapaneseName": null,
+    "JapaneseName": "すばやさプラス３２",
     "Description": "Raises agility by 32.",
     "HPBonus": null,
     "MPBonus": null,
@@ -168,7 +168,7 @@
     "TraitId": 214,
     "Name": "Agility +36",
     "Identifier": "agility-36",
-    "JapaneseName": "すばやさ+36",
+    "JapaneseName": "すばやさプラス３６",
     "Description": "Raises agility by 36.",
     "HPBonus": null,
     "MPBonus": null,
@@ -177,13 +177,13 @@
     "AgilityBonus": 36,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 158,
     "Name": "Agility +4",
     "Identifier": "agility-4",
-    "JapaneseName": "すばやさ+4",
+    "JapaneseName": "すばやさプラス４",
     "Description": "Raises agility by 4.",
     "HPBonus": null,
     "MPBonus": null,
@@ -198,7 +198,7 @@
     "TraitId": 164,
     "Name": "Agility +40",
     "Identifier": "agility-40",
-    "JapaneseName": null,
+    "JapaneseName": "すばやさプラス４０",
     "Description": "Raises agility by 40.",
     "HPBonus": null,
     "MPBonus": null,
@@ -213,7 +213,7 @@
     "TraitId": 165,
     "Name": "Agility +48",
     "Identifier": "agility-48",
-    "JapaneseName": "すばやさ+48",
+    "JapaneseName": "すばやさプラス４８",
     "Description": "Raises agility by 48.",
     "HPBonus": null,
     "MPBonus": null,
@@ -222,13 +222,13 @@
     "AgilityBonus": 48,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 166,
     "Name": "Agility +64",
     "Identifier": "agility-64",
-    "JapaneseName": null,
+    "JapaneseName": "すばやさプラス６４",
     "Description": "Raises agility by 64.",
     "HPBonus": null,
     "MPBonus": null,
@@ -243,7 +243,7 @@
     "TraitId": 159,
     "Name": "Agility +8",
     "Identifier": "agility-8",
-    "JapaneseName": "すばやさ+8",
+    "JapaneseName": "すばやさプラス８",
     "Description": "Raises agility by 8.",
     "HPBonus": null,
     "MPBonus": null,
@@ -258,7 +258,7 @@
     "TraitId": 185,
     "Name": "Antitoxidant",
     "Identifier": "antitoxidant",
-    "JapaneseName": null,
+    "JapaneseName": "毒ガード",
     "Description": "Slightly increases resistance to poison and severe poison.",
     "HPBonus": null,
     "MPBonus": null,
@@ -273,7 +273,7 @@
     "TraitId": 142,
     "Name": "Attack +12",
     "Identifier": "attack-12",
-    "JapaneseName": "攻撃力+12",
+    "JapaneseName": "攻撃力プラス１２",
     "Description": "Raises attack by 12.",
     "HPBonus": null,
     "MPBonus": null,
@@ -288,7 +288,7 @@
     "TraitId": 143,
     "Name": "Attack +16",
     "Identifier": "attack-16",
-    "JapaneseName": "攻撃力+16",
+    "JapaneseName": "攻撃力プラス１６",
     "Description": "Raises attack by 16.",
     "HPBonus": null,
     "MPBonus": null,
@@ -303,7 +303,7 @@
     "TraitId": 226,
     "Name": "Attack +2",
     "Identifier": "attack-2",
-    "JapaneseName": "攻撃力+2",
+    "JapaneseName": "攻撃力プラス２",
     "Description": "Raises attack by 2.",
     "HPBonus": null,
     "MPBonus": null,
@@ -312,13 +312,13 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 222,
     "Name": "Attack +20",
     "Identifier": "attack-20",
-    "JapaneseName": "攻撃力+20",
+    "JapaneseName": "攻撃力プラス２０",
     "Description": "Raises attack by 20.",
     "HPBonus": null,
     "MPBonus": null,
@@ -327,13 +327,13 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 144,
     "Name": "Attack +24",
     "Identifier": "attack-24",
-    "JapaneseName": "攻撃力+24",
+    "JapaneseName": "攻撃力プラス２４",
     "Description": "Raises attack by 24.",
     "HPBonus": null,
     "MPBonus": null,
@@ -342,13 +342,13 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 228,
     "Name": "Attack +30",
     "Identifier": "attack-30",
-    "JapaneseName": "攻撃力+30",
+    "JapaneseName": "攻撃力プラス３０",
     "Description": "Raises attack by 30.",
     "HPBonus": null,
     "MPBonus": null,
@@ -357,13 +357,13 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 145,
     "Name": "Attack +32",
     "Identifier": "attack-32",
-    "JapaneseName": null,
+    "JapaneseName": "攻撃力プラス３２",
     "Description": "Raises attack by 32.",
     "HPBonus": null,
     "MPBonus": null,
@@ -378,7 +378,7 @@
     "TraitId": 229,
     "Name": "Attack +36",
     "Identifier": "attack-36",
-    "JapaneseName": "攻撃力+36",
+    "JapaneseName": "攻撃力プラス３６",
     "Description": "Raises attack by 36.",
     "HPBonus": null,
     "MPBonus": null,
@@ -387,13 +387,13 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 140,
     "Name": "Attack +4",
     "Identifier": "attack-4",
-    "JapaneseName": "攻撃力+4",
+    "JapaneseName": "攻撃力プラス４",
     "Description": "Raises attack by 4.",
     "HPBonus": null,
     "MPBonus": null,
@@ -408,7 +408,7 @@
     "TraitId": 146,
     "Name": "Attack +40",
     "Identifier": "attack-40",
-    "JapaneseName": null,
+    "JapaneseName": "攻撃力プラス４０",
     "Description": "Raises attack by 40.",
     "HPBonus": null,
     "MPBonus": null,
@@ -423,8 +423,8 @@
     "TraitId": 147,
     "Name": "Attack +48",
     "Identifier": "attack-48",
-    "JapaneseName": "攻撃力+48",
-    "Description": "Raises attack by 48",
+    "JapaneseName": "攻撃力プラス４８",
+    "Description": "Raises attack by 48.",
     "HPBonus": null,
     "MPBonus": null,
     "AttackBonus": 48,
@@ -432,13 +432,13 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 148,
     "Name": "Attack +64",
     "Identifier": "attack-64",
-    "JapaneseName": null,
+    "JapaneseName": "攻撃力プラス６４",
     "Description": "Raises attack by 64.",
     "HPBonus": null,
     "MPBonus": null,
@@ -453,7 +453,7 @@
     "TraitId": 141,
     "Name": "Attack +8",
     "Identifier": "attack-8",
-    "JapaneseName": "攻撃力+8",
+    "JapaneseName": "攻撃力プラス８",
     "Description": "Raises attack by 8.",
     "HPBonus": null,
     "MPBonus": null,
@@ -483,7 +483,7 @@
     "TraitId": 50,
     "Name": "Auto-Cadabra",
     "Identifier": "auto-cadabra",
-    "JapaneseName": "自動ＭＰ回復",
+    "JapaneseName": "自動MP回復",
     "Description": "Restores a small amount of MP after each action.",
     "HPBonus": null,
     "MPBonus": null,
@@ -498,7 +498,7 @@
     "TraitId": 49,
     "Name": "Auto-Restora",
     "Identifier": "auto-restora",
-    "JapaneseName": "自動ＨＰ回復",
+    "JapaneseName": "自動HP回復",
     "Description": "Restores a small amount of HP after each action.",
     "HPBonus": null,
     "MPBonus": null,
@@ -513,7 +513,7 @@
     "TraitId": 247,
     "Name": "Bang Ward",
     "Identifier": "bang-ward",
-    "JapaneseName": null,
+    "JapaneseName": "爆発ガード",
     "Description": "Slightly increases resistance to explosion attacks.",
     "HPBonus": null,
     "MPBonus": null,
@@ -633,7 +633,7 @@
     "TraitId": 51,
     "Name": "Castslasher",
     "Identifier": "castslasher",
-    "JapaneseName": "消費MP半分",
+    "JapaneseName": "しょうひＭＰ半分",
     "Description": "Reduces MP consumption by 1/2.",
     "HPBonus": null,
     "MPBonus": null,
@@ -642,13 +642,13 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 189,
     "Name": "Clear Thinker",
     "Identifier": "clear-thinker",
-    "JapaneseName": null,
+    "JapaneseName": "混乱ガード",
     "Description": "Slightly increases resistance to confusion.",
     "HPBonus": null,
     "MPBonus": null,
@@ -708,7 +708,7 @@
     "TraitId": 244,
     "Name": "Crack Ward",
     "Identifier": "crack-ward",
-    "JapaneseName": null,
+    "JapaneseName": "氷結ガード",
     "Description": "Slightly increases resistance to ice-elemental attacks.",
     "HPBonus": null,
     "MPBonus": null,
@@ -738,7 +738,7 @@
     "TraitId": 248,
     "Name": "Crafty Banger",
     "Identifier": "crafty-banger",
-    "JapaneseName": null,
+    "JapaneseName": "爆発ブレイク",
     "Description": "Slightly increases the damage inflicted by explosion attacks.",
     "HPBonus": null,
     "MPBonus": null,
@@ -753,7 +753,7 @@
     "TraitId": 245,
     "Name": "Crafty Cracker",
     "Identifier": "crafty-cracker",
-    "JapaneseName": null,
+    "JapaneseName": "氷結ブレイク",
     "Description": "Slightly increases the damage inflicted by ice-elemental attacks.",
     "HPBonus": null,
     "MPBonus": null,
@@ -768,7 +768,7 @@
     "TraitId": 258,
     "Name": "Crafty Cragger",
     "Identifier": "crafty-cragger",
-    "JapaneseName": null,
+    "JapaneseName": "地ブレイク",
     "Description": "Slightly increases the damage inflicted by earth-elemental attacks.",
     "HPBonus": null,
     "MPBonus": null,
@@ -798,7 +798,7 @@
     "TraitId": 255,
     "Name": "Crafty Frizzer",
     "Identifier": "crafty-frizzer",
-    "JapaneseName": null,
+    "JapaneseName": "火ブレイク",
     "Description": "Slightly increases the damage inflicted by fire-elemental attacks.",
     "HPBonus": null,
     "MPBonus": null,
@@ -813,7 +813,7 @@
     "TraitId": 256,
     "Name": "Crafty Sizzer",
     "Identifier": "crafty-sizzer",
-    "JapaneseName": null,
+    "JapaneseName": "光ブレイク",
     "Description": "Slightly increases the damage inflicted by light-elemental attacks.",
     "HPBonus": null,
     "MPBonus": null,
@@ -828,7 +828,7 @@
     "TraitId": 254,
     "Name": "Crafty Splasher",
     "Identifier": "crafty-spalsher",
-    "JapaneseName": null,
+    "JapaneseName": "水ブレイク",
     "Description": "Slightly increases the damage inflicted by water-elemental attacks.",
     "HPBonus": null,
     "MPBonus": null,
@@ -842,8 +842,8 @@
   {
     "TraitId": 261,
     "Name": "Crafty Woosher",
-    "Identifier": null,
-    "JapaneseName": null,
+    "Identifier": "crafty-woosher",
+    "JapaneseName": "風ブレイク",
     "Description": "Slightly increases the damage inflicted by wind-elemental attacks.",
     "HPBonus": null,
     "MPBonus": null,
@@ -858,7 +858,7 @@
     "TraitId": 250,
     "Name": "Crafty Zammer",
     "Identifier": "crafty-zammer",
-    "JapaneseName": null,
+    "JapaneseName": "闇ブレイク",
     "Description": "Slightly increases the damage inflicted by dark-elemental attacks.",
     "HPBonus": null,
     "MPBonus": null,
@@ -873,7 +873,7 @@
     "TraitId": 259,
     "Name": "Crafty Zapper",
     "Identifier": "crafty-zapper",
-    "JapaneseName": null,
+    "JapaneseName": "電撃ブレイク",
     "Description": "Slightly increases the damage inflicted by electrical attacks.",
     "HPBonus": null,
     "MPBonus": null,
@@ -888,7 +888,7 @@
     "TraitId": 257,
     "Name": "Crag Ward",
     "Identifier": "crag-ward",
-    "JapaneseName": null,
+    "JapaneseName": "地ガード",
     "Description": "Slightly increases resistance to earth-elemental attacks.",
     "HPBonus": null,
     "MPBonus": null,
@@ -918,7 +918,7 @@
     "TraitId": 238,
     "Name": "Critical Mastermind",
     "Identifier": "critical-mastermind",
-    "JapaneseName": "超魔力暴走率アップ",
+    "JapaneseName": "超呪文会心率アップ",
     "Description": "Makes it much easier to cast critical spells.",
     "HPBonus": null,
     "MPBonus": null,
@@ -948,7 +948,7 @@
     "TraitId": 44,
     "Name": "Critical Sensation",
     "Identifier": "critical-sensation",
-    "JapaneseName": "会心率アップ超",
+    "JapaneseName": "超会心率アップ",
     "Description": "Makes it much easier to inflict critical hits.",
     "HPBonus": null,
     "MPBonus": null,
@@ -963,7 +963,7 @@
     "TraitId": 46,
     "Name": "Critical Theorist",
     "Identifier": "critical-theorist",
-    "JapaneseName": "魔力暴走率アップ大",
+    "JapaneseName": "呪文会心率アップ大",
     "Description": "Makes it somewhat easier to cast critical spells.",
     "HPBonus": null,
     "MPBonus": null,
@@ -1008,7 +1008,7 @@
     "TraitId": 195,
     "Name": "Death Defier",
     "Identifier": "death-defier",
-    "JapaneseName": null,
+    "JapaneseName": "即死ガード",
     "Description": "Slightly increases resistance to instant death.",
     "HPBonus": null,
     "MPBonus": null,
@@ -1038,7 +1038,7 @@
     "TraitId": 151,
     "Name": "Defence +12",
     "Identifier": "defence-12",
-    "JapaneseName": null,
+    "JapaneseName": "守備力プラス１２",
     "Description": "Raises defence by 12.",
     "HPBonus": null,
     "MPBonus": null,
@@ -1053,7 +1053,7 @@
     "TraitId": 152,
     "Name": "Defence +16",
     "Identifier": "defence-16",
-    "JapaneseName": "守備力+16",
+    "JapaneseName": "守備力プラス１６",
     "Description": "Raises defence by 16.",
     "HPBonus": null,
     "MPBonus": null,
@@ -1068,7 +1068,7 @@
     "TraitId": 153,
     "Name": "Defence +24",
     "Identifier": "defence-24",
-    "JapaneseName": "守備力アップ+24",
+    "JapaneseName": "守備力プラス２４",
     "Description": "Raises defence by 24.",
     "HPBonus": null,
     "MPBonus": null,
@@ -1077,13 +1077,13 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 154,
     "Name": "Defence +32",
     "Identifier": "defence-32",
-    "JapaneseName": "守備力アップ+32",
+    "JapaneseName": "守備力プラス３２",
     "Description": "Raises defence by 32.",
     "HPBonus": null,
     "MPBonus": null,
@@ -1092,13 +1092,13 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 149,
     "Name": "Defence +4",
     "Identifier": "defence-4",
-    "JapaneseName": "守備力アップ+4",
+    "JapaneseName": "守備力プラス４",
     "Description": "Raises defence by 4.",
     "HPBonus": null,
     "MPBonus": null,
@@ -1113,7 +1113,7 @@
     "TraitId": 155,
     "Name": "Defence +40",
     "Identifier": "defence-40",
-    "JapaneseName": "守備力+40",
+    "JapaneseName": "守備力プラス４０",
     "Description": "Raises defence by 40.",
     "HPBonus": null,
     "MPBonus": null,
@@ -1122,13 +1122,13 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 156,
     "Name": "Defence +48",
     "Identifier": "defence-48",
-    "JapaneseName": "守備力アップ+48",
+    "JapaneseName": "守備力プラス４８",
     "Description": "Raises defence by 48.",
     "HPBonus": null,
     "MPBonus": null,
@@ -1137,13 +1137,13 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 215,
     "Name": "Defence +60",
     "Identifier": "defence-60",
-    "JapaneseName": "守備力アップ+60",
+    "JapaneseName": "守備力プラス６０",
     "Description": "Raises defence by 60.",
     "HPBonus": null,
     "MPBonus": null,
@@ -1152,13 +1152,13 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 157,
     "Name": "Defence +64",
     "Identifier": "defence-64",
-    "JapaneseName": null,
+    "JapaneseName": "守備力プラス６４",
     "Description": "Raises defence by 64.",
     "HPBonus": null,
     "MPBonus": null,
@@ -1173,7 +1173,7 @@
     "TraitId": 216,
     "Name": "Defence +72",
     "Identifier": "defence-72",
-    "JapaneseName": "守備力アップ+72",
+    "JapaneseName": "守備力プラス７２",
     "Description": "Raises defence by 72.",
     "HPBonus": null,
     "MPBonus": null,
@@ -1182,13 +1182,13 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 150,
     "Name": "Defence +8",
     "Identifier": "defence-8",
-    "JapaneseName": "守備力+8",
+    "JapaneseName": "守備力プラス８",
     "Description": "Raises defence by 8.",
     "HPBonus": null,
     "MPBonus": null,
@@ -1203,7 +1203,7 @@
     "TraitId": 217,
     "Name": "Defence +96",
     "Identifier": "defence-96",
-    "JapaneseName": "守備力アップ+96",
+    "JapaneseName": "守備力プラス９６",
     "Description": "Raises defence by 96.",
     "HPBonus": null,
     "MPBonus": null,
@@ -1212,7 +1212,7 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 94,
@@ -1248,7 +1248,7 @@
     "TraitId": 48,
     "Name": "Desperate Measures",
     "Identifier": "desperate-measures",
-    "JapaneseName": "会心完全ガード",
+    "JapaneseName": "会心かんぜんガード",
     "Description": "Negates all damage suffered from critical hits and critical spells.",
     "HPBonus": null,
     "MPBonus": null,
@@ -1308,7 +1308,7 @@
     "TraitId": 203,
     "Name": "Drain Blocker",
     "Identifier": "drain-blocker",
-    "JapaneseName": null,
+    "JapaneseName": "MP吸収ガード",
     "Description": "Slightly increases resistance to MP absorption.",
     "HPBonus": null,
     "MPBonus": null,
@@ -1353,7 +1353,7 @@
     "TraitId": 193,
     "Name": "Fidget",
     "Identifier": "fidget",
-    "JapaneseName": null,
+    "JapaneseName": "マヒガード",
     "Description": "Slightly increases resistance to paralysis.",
     "HPBonus": null,
     "MPBonus": null,
@@ -1368,7 +1368,7 @@
     "TraitId": 246,
     "Name": "Frizz Ward",
     "Identifier": "frizz-ward",
-    "JapaneseName": null,
+    "JapaneseName": "火ガード",
     "Description": "Slightly increases resistance to fire-elemental attacks.",
     "HPBonus": null,
     "MPBonus": null,
@@ -1413,7 +1413,7 @@
     "TraitId": 188,
     "Name": "Granite Chin",
     "Identifier": "granite-chin",
-    "JapaneseName": null,
+    "JapaneseName": "休みガード",
     "Description": "Slightly increases resistance to being stunned.",
     "HPBonus": null,
     "MPBonus": null,
@@ -1458,7 +1458,7 @@
     "TraitId": 19,
     "Name": "High Heal",
     "Identifier": "high-heal",
-    "JapaneseName": "癒やしの大力",
+    "JapaneseName": "癒しの大力",
     "Description": "Sometimes restores 80 or more HP to all allies during battle. Higher wisdom makes the healing effect more powerful.",
     "HPBonus": null,
     "MPBonus": null,
@@ -1473,7 +1473,7 @@
     "TraitId": 265,
     "Name": "Hit Squad x2",
     "Identifier": "hit-squad-x2",
-    "JapaneseName": "れんぞく×2",
+    "JapaneseName": "れんぞく",
     "Description": "Direct attacks hit multiple times, but the damage per hit decreases as the number of hits increases.",
     "HPBonus": null,
     "MPBonus": null,
@@ -1488,7 +1488,7 @@
     "TraitId": 264,
     "Name": "Hit Squad x3",
     "Identifier": "hit-squad-x3",
-    "JapaneseName": "れんぞく×3",
+    "JapaneseName": "れんぞく３",
     "Description": "Direct attacks hit multiple times, but the damage per hit decreases as the number of hits increases.",
     "HPBonus": null,
     "MPBonus": null,
@@ -1503,7 +1503,7 @@
     "TraitId": 262,
     "Name": "Hit Squad x4",
     "Identifier": "hit-squad-xr4",
-    "JapaneseName": "れんぞく×4",
+    "JapaneseName": "れんぞく４",
     "Description": "Direct attacks hit multiple times, but the damage per hit decreases as the number of hits increases.",
     "HPBonus": null,
     "MPBonus": null,
@@ -1518,7 +1518,7 @@
     "TraitId": 266,
     "Name": "Hit Squad x6",
     "Identifier": "hit-squad-x6",
-    "JapaneseName": "れんぞく×6",
+    "JapaneseName": "れんぞく６",
     "Description": "Direct attacks hit multiple times, but the damage per hit decreases as the number of hits increases.",
     "HPBonus": null,
     "MPBonus": null,
@@ -1578,7 +1578,7 @@
     "TraitId": 191,
     "Name": "Insomniac",
     "Identifier": "insomniac",
-    "JapaneseName": null,
+    "JapaneseName": "眠りガード",
     "Description": "Slightly increases resistance to being put to sleep.",
     "HPBonus": null,
     "MPBonus": null,
@@ -1758,7 +1758,7 @@
     "TraitId": 18,
     "Name": "Low Heal",
     "Identifier": "low-heal",
-    "JapaneseName": "癒やしの力",
+    "JapaneseName": "癒しの力",
     "Description": "Sometimes restores 30 or more HP to all allies during battle. Higher wisdom makes the healing effect more powerful.",
     "HPBonus": null,
     "MPBonus": null,
@@ -1773,7 +1773,7 @@
     "TraitId": 47,
     "Name": "Magical Moment",
     "Identifier": "magical-moment",
-    "JapaneseName": "ピンチで魔力暴走",
+    "JapaneseName": "ピンチで呪文会心",
     "Description": "Makes it easier to cast critical spells when HP drops to 1/2 or less<--->even more so when HP drops to 1/4 or less!",
     "HPBonus": null,
     "MPBonus": null,
@@ -1818,7 +1818,7 @@
     "TraitId": 124,
     "Name": "Max. HP +12",
     "Identifier": "max-hp-12",
-    "JapaneseName": "最大HP+12",
+    "JapaneseName": "最大HPプラス１２",
     "Description": "Raises max. HP by 12.",
     "HPBonus": 12,
     "MPBonus": null,
@@ -1827,13 +1827,13 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 125,
     "Name": "Max. HP +16",
     "Identifier": "max-hp-16",
-    "JapaneseName": "最大HP+16",
+    "JapaneseName": "最大HPプラス１６",
     "Description": "Raises max. HP by 16.",
     "HPBonus": 16,
     "MPBonus": null,
@@ -1842,13 +1842,13 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 220,
     "Name": "Max. HP +2",
     "Identifier": "max-hp-2",
-    "JapaneseName": "最大HP+2",
+    "JapaneseName": "最大HPプラス２",
     "Description": "Raises max. HP by 2.",
     "HPBonus": 2,
     "MPBonus": null,
@@ -1857,13 +1857,13 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 209,
     "Name": "Max. HP +20",
     "Identifier": "max-hp-20",
-    "JapaneseName": "最大HP+20",
+    "JapaneseName": "最大HPプラス２０",
     "Description": "Raises max. HP by 20.",
     "HPBonus": 20,
     "MPBonus": null,
@@ -1872,13 +1872,13 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 126,
     "Name": "Max. HP +24",
     "Identifier": "max-hp-24",
-    "JapaneseName": "最大HP+24",
+    "JapaneseName": "最大HPプラス２４",
     "Description": "Raises max. HP by 24.",
     "HPBonus": 24,
     "MPBonus": null,
@@ -1887,13 +1887,13 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 221,
     "Name": "Max. HP +30",
     "Identifier": "max-hp-30",
-    "JapaneseName": "最大HP+30",
+    "JapaneseName": "最大HPプラス３０",
     "Description": "Raises max. HP by 30.",
     "HPBonus": 30,
     "MPBonus": null,
@@ -1902,13 +1902,13 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 127,
     "Name": "Max. HP +32",
     "Identifier": "max-hp-32",
-    "JapaneseName": null,
+    "JapaneseName": "最大HPプラス３２",
     "Description": "Raises max. HP by 32.",
     "HPBonus": 32,
     "MPBonus": null,
@@ -1923,8 +1923,8 @@
     "TraitId": 210,
     "Name": "Max. HP +36",
     "Identifier": "max-hp-36",
-    "JapaneseName": "最大HP+36",
-    "Description": "Raises max. HP by 36.",
+    "JapaneseName": "最大HPプラス３６",
+    "Description": "Raises max. HP by 36",
     "HPBonus": 36,
     "MPBonus": null,
     "AttackBonus": null,
@@ -1932,13 +1932,13 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 122,
     "Name": "Max. HP +4",
     "Identifier": "max-hp-4",
-    "JapaneseName": "最大HP+4",
+    "JapaneseName": "最大HPプラス４",
     "Description": "Raises max. HP by 4.",
     "HPBonus": 4,
     "MPBonus": null,
@@ -1953,7 +1953,7 @@
     "TraitId": 128,
     "Name": "Max. HP +40",
     "Identifier": "max-hp-40",
-    "JapaneseName": null,
+    "JapaneseName": "最大HPプラス４０",
     "Description": "Raises max. HP by 40.",
     "HPBonus": 40,
     "MPBonus": null,
@@ -1968,7 +1968,7 @@
     "TraitId": 129,
     "Name": "Max. HP +48",
     "Identifier": "max-hp-48",
-    "JapaneseName": "最大HP+48",
+    "JapaneseName": "最大HPプラス４８",
     "Description": "Raises max. HP by 48.",
     "HPBonus": 48,
     "MPBonus": null,
@@ -1977,13 +1977,13 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 130,
     "Name": "Max. HP +64",
     "Identifier": "max-hp-64",
-    "JapaneseName": null,
+    "JapaneseName": "最大HPプラス６４",
     "Description": "Raises max. HP by 64.",
     "HPBonus": 64,
     "MPBonus": null,
@@ -1998,7 +1998,7 @@
     "TraitId": 123,
     "Name": "Max. HP +8",
     "Identifier": "max-hp-8",
-    "JapaneseName": "最大HP+8",
+    "JapaneseName": "最大HPプラス８",
     "Description": "Raises max. HP by 8.",
     "HPBonus": 8,
     "MPBonus": null,
@@ -2013,7 +2013,7 @@
     "TraitId": 133,
     "Name": "Max. MP +12",
     "Identifier": "max-mp-12",
-    "JapaneseName": null,
+    "JapaneseName": "最大MPプラス１２",
     "Description": "Raises max. MP by 12.",
     "HPBonus": null,
     "MPBonus": 12,
@@ -2028,7 +2028,7 @@
     "TraitId": 134,
     "Name": "Max. MP +16",
     "Identifier": "max-mp-16",
-    "JapaneseName": "最大MP+16",
+    "JapaneseName": "最大MPプラス１６",
     "Description": "Raises max. MP by 16.",
     "HPBonus": null,
     "MPBonus": 16,
@@ -2043,7 +2043,7 @@
     "TraitId": 207,
     "Name": "Max. MP +20",
     "Identifier": "max-mp-20",
-    "JapaneseName": null,
+    "JapaneseName": "最大MPプラス２０",
     "Description": "Raises max. MP by 20.",
     "HPBonus": null,
     "MPBonus": 20,
@@ -2058,7 +2058,7 @@
     "TraitId": 135,
     "Name": "Max. MP +24",
     "Identifier": "max-mp-24",
-    "JapaneseName": "最大MP+24",
+    "JapaneseName": "最大MPプラス２４",
     "Description": "Raises max. MP by 24.",
     "HPBonus": null,
     "MPBonus": 24,
@@ -2073,7 +2073,7 @@
     "TraitId": 136,
     "Name": "Max. MP +32",
     "Identifier": "max-mp-32",
-    "JapaneseName": "最大MP+32",
+    "JapaneseName": "最大MPプラス３２",
     "Description": "Raises max. MP by 32.",
     "HPBonus": null,
     "MPBonus": 32,
@@ -2082,13 +2082,13 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 131,
     "Name": "Max. MP +4",
     "Identifier": "max-mp-4",
-    "JapaneseName": "最大MP+4",
+    "JapaneseName": "最大MPプラス４",
     "Description": "Raises max. MP by 4.",
     "HPBonus": null,
     "MPBonus": 4,
@@ -2103,7 +2103,7 @@
     "TraitId": 137,
     "Name": "Max. MP +40",
     "Identifier": "max-mp-40",
-    "JapaneseName": "最大MP+40",
+    "JapaneseName": "最大MPプラス４０",
     "Description": "Raises max. MP by 40.",
     "HPBonus": null,
     "MPBonus": 40,
@@ -2112,13 +2112,13 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 138,
     "Name": "Max. MP +48",
     "Identifier": "max-mp-48",
-    "JapaneseName": "最大MP+48",
+    "JapaneseName": "最大MPプラス４８",
     "Description": "Raises max. MP by 48.",
     "HPBonus": null,
     "MPBonus": 48,
@@ -2127,13 +2127,13 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 218,
     "Name": "Max. MP +60",
     "Identifier": "max-mp-60",
-    "JapaneseName": "最大MP+60",
+    "JapaneseName": "最大MPプラス６０",
     "Description": "Raises max. MP by 60.",
     "HPBonus": null,
     "MPBonus": 60,
@@ -2142,13 +2142,13 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 139,
     "Name": "Max. MP +64",
     "Identifier": "max-mp-64",
-    "JapaneseName": "最大MP+8",
+    "JapaneseName": "最大MPプラス６４",
     "Description": "Raises max. MP by 64.",
     "HPBonus": null,
     "MPBonus": 64,
@@ -2163,7 +2163,7 @@
     "TraitId": 208,
     "Name": "Max. MP +72",
     "Identifier": "max-mp-72",
-    "JapaneseName": "最大MP+72",
+    "JapaneseName": "最大MPプラス７２",
     "Description": "Raises max. MP by 72.",
     "HPBonus": null,
     "MPBonus": 72,
@@ -2172,13 +2172,13 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 132,
     "Name": "Max. MP +8",
     "Identifier": "max-mp-8",
-    "JapaneseName": "最大MP+8",
+    "JapaneseName": "最大MPプラス８",
     "Description": "Raises max. MP by 8.",
     "HPBonus": null,
     "MPBonus": 8,
@@ -2193,7 +2193,7 @@
     "TraitId": 219,
     "Name": "Max. MP +96",
     "Identifier": "max-mp-96",
-    "JapaneseName": "最大MP+96",
+    "JapaneseName": "最大MPプラス９６",
     "Description": "Raises max. MP by 96.",
     "HPBonus": null,
     "MPBonus": 96,
@@ -2202,7 +2202,7 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 70,
@@ -2508,7 +2508,7 @@
     "TraitId": 251,
     "Name": "Sizz Ward",
     "Identifier": "sizz-ward",
-    "JapaneseName": null,
+    "JapaneseName": "光ガード",
     "Description": "Slightly increases resistance to light-elemental attacks.",
     "HPBonus": null,
     "MPBonus": null,
@@ -2643,7 +2643,7 @@
     "TraitId": 201,
     "Name": "Spellbinder",
     "Identifier": "spellbinder",
-    "JapaneseName": null,
+    "JapaneseName": "封じガード",
     "Description": "Slightly increases resistance to antimagic.",
     "HPBonus": null,
     "MPBonus": null,
@@ -2673,7 +2673,7 @@
     "TraitId": 253,
     "Name": "Splish Ward",
     "Identifier": "splish-wrd",
-    "JapaneseName": null,
+    "JapaneseName": "水ガード",
     "Description": "Slightly increases resistance to water-elemental attacks.",
     "HPBonus": null,
     "MPBonus": null,
@@ -2808,7 +2808,7 @@
     "TraitId": 41,
     "Name": "Supreme Sidestepper",
     "Identifier": "supreme-sidestepper",
-    "JapaneseName": "みかわしアップ超",
+    "JapaneseName": "超みかわしアップ",
     "Description": "Makes it much easier to avoid enemy attacks.",
     "HPBonus": null,
     "MPBonus": null,
@@ -2823,7 +2823,7 @@
     "TraitId": 2,
     "Name": "Tactical Commander",
     "Identifier": "tactical-commander",
-    "JapaneseName": "2回行動",
+    "JapaneseName": "行動回数２",
     "Description": "Performs 2 actions in a row. The number of actions is not affected if you don't issue specific orders. Slightly lowers the monster's max. attributes.",
     "HPBonus": null,
     "MPBonus": null,
@@ -2838,7 +2838,7 @@
     "TraitId": 3,
     "Name": "Tactical Genius",
     "Identifier": "tactical-genius",
-    "JapaneseName": "1〜3回行動",
+    "JapaneseName": "行動回数１から３",
     "Description": "Sometimes performs 2 or 3 actions in a row. The number of actions is not affected if you don't issue specific orders. Slightly lowers the monster's max. attributes.",
     "HPBonus": null,
     "MPBonus": null,
@@ -2853,7 +2853,7 @@
     "TraitId": 4,
     "Name": "Tactical Titan",
     "Identifier": "tactical-titan",
-    "JapaneseName": "2〜3回行動",
+    "JapaneseName": "行動回数２から３",
     "Description": "Performs 2 or 3 actions in a row. The number of actions is not affected if you don't issue specific orders. Lowers the monster's max. attributes.",
     "HPBonus": null,
     "MPBonus": null,
@@ -2868,7 +2868,7 @@
     "TraitId": 1,
     "Name": "Tactical Trooper",
     "Identifier": "tactical-trooper",
-    "JapaneseName": "1〜2回行動",
+    "JapaneseName": "行動回数１から２",
     "Description": "Sometimes performs 2 actions in a row. The number of actions is not affected if you don't issue specific orders. Very slightly lowers the monster's max. attributes.",
     "HPBonus": null,
     "MPBonus": null,
@@ -2898,7 +2898,7 @@
     "TraitId": 197,
     "Name": "Tough Customer",
     "Identifier": "tough-customer",
-    "JapaneseName": null,
+    "JapaneseName": "弱体化ガード",
     "Description": "Slightly increases resistance to debilitation.",
     "HPBonus": null,
     "MPBonus": null,
@@ -3048,7 +3048,7 @@
     "TraitId": 186,
     "Name": "Ultra Antitoxidant",
     "Identifier": "ultra-antitoxidant",
-    "JapaneseName": "どくガード大",
+    "JapaneseName": "毒ガード大",
     "Description": "Greatly increases resistance to poison and severe poison.",
     "HPBonus": null,
     "MPBonus": null,
@@ -3057,7 +3057,7 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": "Increases resistance by 50%.",
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 180,
@@ -3072,13 +3072,13 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": "Increases resistance by 50%.",
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 190,
     "Name": "Ultra Clear Thinker",
     "Identifier": "ultra-clear-thinker",
-    "JapaneseName": "こんらんガード大",
+    "JapaneseName": "混乱ガード大",
     "Description": "Greatly increases resistance to confusion.",
     "HPBonus": null,
     "MPBonus": null,
@@ -3087,7 +3087,7 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": "Increases resistance by 50%.",
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 181,
@@ -3102,7 +3102,7 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": "Increases resistance by 50%.",
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 106,
@@ -3123,7 +3123,7 @@
     "TraitId": 115,
     "Name": "Ultra Crafty Confuser",
     "Identifier": "ultra-crafty-confuser",
-    "JapaneseName": "こんらんブレイク大",
+    "JapaneseName": "混乱ブレイク大",
     "Description": "Makes it much easier to confuse the enemy.",
     "HPBonus": null,
     "MPBonus": null,
@@ -3243,7 +3243,7 @@
     "TraitId": 119,
     "Name": "Ultra Crafty Poisoner",
     "Identifier": "ultra-crafty-poisoner",
-    "JapaneseName": "どくブレイク大",
+    "JapaneseName": "毒ブレイク大",
     "Description": "Makes it much easier to poison or severely poison the enemy.",
     "HPBonus": null,
     "MPBonus": null,
@@ -3273,7 +3273,7 @@
     "TraitId": 116,
     "Name": "Ultra Crafty Sleeper",
     "Identifier": "ultra-crafty-sleeper",
-    "JapaneseName": "ねむりブレイク大",
+    "JapaneseName": "眠りブレイク大",
     "Description": "Makes it much easier to put the enemy to sleep.",
     "HPBonus": null,
     "MPBonus": null,
@@ -3402,7 +3402,7 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": "Increases resistance by 50%.",
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 196,
@@ -3417,7 +3417,7 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": "Increases resistance by 50%.",
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 204,
@@ -3432,7 +3432,7 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": "Increases resistance by 50%.",
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 194,
@@ -3447,7 +3447,7 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": "Increases resistance by 50%.",
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 176,
@@ -3462,7 +3462,7 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": "Increases resistance by 50%.",
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 187,
@@ -3477,13 +3477,13 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": "Increases resistance by 50%.",
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 192,
     "Name": "Ultra Insomniac",
     "Identifier": "ultra-insomniac",
-    "JapaneseName": "ねむりガード大",
+    "JapaneseName": "眠りガード大",
     "Description": "Greatly increases resistance to being put to sleep.",
     "HPBonus": null,
     "MPBonus": null,
@@ -3492,7 +3492,7 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": "Increases resistance by 50%.",
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 183,
@@ -3507,7 +3507,7 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": "Increases resistance by 50%.",
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 202,
@@ -3522,7 +3522,7 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": "Increases resistance by 50%.",
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 177,
@@ -3537,7 +3537,7 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": "Increases resistance by 50%.",
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 198,
@@ -3552,7 +3552,7 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": "Increases resistance by 50%.",
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 200,
@@ -3567,7 +3567,7 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": "Increases resistance by 50%.",
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 178,
@@ -3582,7 +3582,7 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": "Increases resistance by 50%.",
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 184,
@@ -3597,7 +3597,7 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": "Increases resistance by 50%.",
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 182,
@@ -3612,7 +3612,7 @@
     "AgilityBonus": null,
     "WisdomBonus": null,
     "Notes": "Increases resistance by 50%.",
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 96,
@@ -3633,7 +3633,7 @@
     "TraitId": 199,
     "Name": "Visionary",
     "Identifier": "visionary",
-    "JapaneseName": null,
+    "JapaneseName": "幻惑ガード",
     "Description": "Slightly increases resistance to bedazzlement.",
     "HPBonus": null,
     "MPBonus": null,
@@ -3648,7 +3648,7 @@
     "TraitId": 267,
     "Name": "Weedy Touch",
     "Identifier": "weedy-touch",
-    "JapaneseName": null,
+    "JapaneseName": "パワードレイン",
     "Description": "Regular attacks sometimes absorb a portion of the enemy's attack, defence, agility, wisdom, or resistance attributes.",
     "HPBonus": null,
     "MPBonus": null,
@@ -3663,7 +3663,7 @@
     "TraitId": 169,
     "Name": "Wisdom +12",
     "Identifier": "wisdom-12",
-    "JapaneseName": null,
+    "JapaneseName": "かしこさプラス１２",
     "Description": "Raises wisdom by 12.",
     "HPBonus": null,
     "MPBonus": null,
@@ -3678,7 +3678,7 @@
     "TraitId": 170,
     "Name": "Wisdom +16",
     "Identifier": "wisdom-16",
-    "JapaneseName": "かしこさ+16",
+    "JapaneseName": "かしこさプラス１６",
     "Description": "Raises wisdom by 16.",
     "HPBonus": null,
     "MPBonus": null,
@@ -3693,7 +3693,7 @@
     "TraitId": 171,
     "Name": "Wisdom +24",
     "Identifier": "wisdom-24",
-    "JapaneseName": "かしこさ+24",
+    "JapaneseName": "かしこさプラス２４",
     "Description": "Raises wisdom by 24.",
     "HPBonus": null,
     "MPBonus": null,
@@ -3708,7 +3708,7 @@
     "TraitId": 172,
     "Name": "Wisdom +32",
     "Identifier": "wisdom-32",
-    "JapaneseName": "かしこさ+32",
+    "JapaneseName": "かしこさプラス３２",
     "Description": "Raises wisdom by 32.",
     "HPBonus": null,
     "MPBonus": null,
@@ -3723,7 +3723,7 @@
     "TraitId": 167,
     "Name": "Wisdom +4",
     "Identifier": "wisdom-4",
-    "JapaneseName": "かしこさ+4",
+    "JapaneseName": "かしこさプラス４",
     "Description": "Raises wisdom by 4.",
     "HPBonus": null,
     "MPBonus": null,
@@ -3732,13 +3732,13 @@
     "AgilityBonus": null,
     "WisdomBonus": 4,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 173,
     "Name": "Wisdom +40",
     "Identifier": "wisdom-40",
-    "JapaneseName": "かしこさ+40",
+    "JapaneseName": "かしこさプラス４０",
     "Description": "Raises wisdom by 40.",
     "HPBonus": null,
     "MPBonus": null,
@@ -3747,13 +3747,13 @@
     "AgilityBonus": null,
     "WisdomBonus": 40,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 174,
     "Name": "Wisdom +48",
     "Identifier": "wisdom-48",
-    "JapaneseName": "かしこさ+48",
+    "JapaneseName": "かしこさプラス４８",
     "Description": "Raises wisdom by 48.",
     "HPBonus": null,
     "MPBonus": null,
@@ -3762,13 +3762,13 @@
     "AgilityBonus": null,
     "WisdomBonus": 48,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 223,
     "Name": "Wisdom +60",
     "Identifier": "wisdom-60",
-    "JapaneseName": "かしこさ+60",
+    "JapaneseName": "かしこさプラス６０",
     "Description": "Raises wisdom by 60.",
     "HPBonus": null,
     "MPBonus": null,
@@ -3777,13 +3777,13 @@
     "AgilityBonus": null,
     "WisdomBonus": 60,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 175,
     "Name": "Wisdom +64",
     "Identifier": "wisdom-64",
-    "JapaneseName": null,
+    "JapaneseName": "かしこさプラス６４",
     "Description": "Raises wisdom by 64.",
     "HPBonus": null,
     "MPBonus": null,
@@ -3798,7 +3798,7 @@
     "TraitId": 224,
     "Name": "Wisdom +72",
     "Identifier": "wisdom-72",
-    "JapaneseName": "かしこさ+72",
+    "JapaneseName": "かしこさプラス７２",
     "Description": "Raises wisdom by 72.",
     "HPBonus": null,
     "MPBonus": null,
@@ -3807,13 +3807,13 @@
     "AgilityBonus": null,
     "WisdomBonus": 72,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 168,
     "Name": "Wisdom +8",
     "Identifier": "wisdom-8",
-    "JapaneseName": "かしこさ+8",
+    "JapaneseName": "かしこさプラス８",
     "Description": "Raises wisdom by 8.",
     "HPBonus": null,
     "MPBonus": null,
@@ -3828,7 +3828,7 @@
     "TraitId": 225,
     "Name": "Wisdom +96",
     "Identifier": "wisdom-96",
-    "JapaneseName": "かしこさ+96",
+    "JapaneseName": "かしこさプラス９６",
     "Description": "Raises wisdom by 96.",
     "HPBonus": null,
     "MPBonus": null,
@@ -3837,7 +3837,7 @@
     "AgilityBonus": null,
     "WisdomBonus": 96,
     "Notes": null,
-    "IsVerified": false
+    "IsVerified": true
   },
   {
     "TraitId": 205,
@@ -3873,7 +3873,7 @@
     "TraitId": 260,
     "Name": "Woosh Ward",
     "Identifier": "woosh-ward",
-    "JapaneseName": null,
+    "JapaneseName": "風ガード",
     "Description": "Slightly increases resistance to wind-elemental attacks.",
     "HPBonus": null,
     "MPBonus": null,
@@ -3903,7 +3903,7 @@
     "TraitId": 249,
     "Name": "Zam Ward",
     "Identifier": "zam-ward",
-    "JapaneseName": null,
+    "JapaneseName": "闇ガード",
     "Description": "Slightly increases resistance to dark-elemental attacks.",
     "HPBonus": null,
     "MPBonus": null,
@@ -3933,7 +3933,7 @@
     "TraitId": 252,
     "Name": "Zap Ward",
     "Identifier": "zap-ward",
-    "JapaneseName": null,
+    "JapaneseName": "電撃ガード",
     "Description": "Slightly increases resistance to electrical attacks.",
     "HPBonus": null,
     "MPBonus": null,

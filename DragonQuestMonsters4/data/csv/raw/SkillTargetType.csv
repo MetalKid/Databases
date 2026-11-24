@@ -1,9 +1,17 @@
-SkillTargetTypeId,Name,Identifier
-4,All Allies,all-allies
-2,All Enemies,all-enemies
-8,Random Allies,random-allies
-7,Random Enemies,random-enemies
-6,Random Enemy or Ally,random-enemy-or-ally
-5,Self,self
-3,Single Ally,single-ally
-1,Single Enemy,single-enemy
+SkillTargetTypeId,Name,Identifier,JapaneseName,Map
+10,All,all,敵味方全体,All
+15,All Allied Party and Standby,all-allied-party-and-standby,スタンバイ含む味方全体,AllyAllPartyAndStandby
+4,All Allies,all-allies,味方全体,AllyAll
+2,All Enemies,all-enemies,敵全体,OpponentAll
+13,All Other Allied Party and Standby,all-other-allied-party-and-standy,自分以外スタンバイ含む味方全体,OtherAllyAllPartyAndStandby
+16,All Other Allies,all-other-allies,自分以外味方全体,OtherAllyAll
+12,Field,field,戦場,Field
+11,Random All,random-all,敵味方全体ランダム,AllRandom
+8,Random Allies,random-allies,味方ランダム,AllyRandom
+7,Random Enemies,random-enemies,敵ランダム,OpponentRandom
+6,Random Enemy or Ally,random-enemy-or-ally,自分以外敵味方全体ランダム,OtherAllRandom
+14,Random Other Allies,random-other-allies,自分以外味方ランダム,OtherAllyRandom
+9,Random Single Enemy,random-enemy,敵単体ランダム,OpponentSingleRandom
+5,Self,self,自分,Myself
+3,Single Ally,single-ally,味方単体,AllySingle
+1,Single Enemy,single-enemy,敵単体,OpponentSingle

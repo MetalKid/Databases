@@ -1,0 +1,704 @@
+[
+  {
+    "PersonalityLocalizationId": 15,
+    "PersonalityId": 2,
+    "LanguageCode": "ES-ES",
+    "Name": "Afanoso"
+  },
+  {
+    "PersonalityLocalizationId": 5,
+    "PersonalityId": 1,
+    "LanguageCode": "DE-DE",
+    "Name": "Allrounder"
+  },
+  {
+    "PersonalityLocalizationId": 14,
+    "PersonalityId": 2,
+    "LanguageCode": "DE-DE",
+    "Name": "Arbeitstier"
+  },
+  {
+    "PersonalityLocalizationId": 110,
+    "PersonalityId": 12,
+    "LanguageCode": "EN-GB",
+    "Name": "Bossyboots"
+  },
+  {
+    "PersonalityLocalizationId": 58,
+    "PersonalityId": 7,
+    "LanguageCode": "IT-IT",
+    "Name": "Calmo"
+  },
+  {
+    "PersonalityLocalizationId": 103,
+    "PersonalityId": 11,
+    "LanguageCode": "IT-IT",
+    "Name": "Capriccioso"
+  },
+  {
+    "PersonalityLocalizationId": 105,
+    "PersonalityId": 11,
+    "LanguageCode": "ES-ES",
+    "Name": "Caprichoso"
+  },
+  {
+    "PersonalityLocalizationId": 102,
+    "PersonalityId": 11,
+    "LanguageCode": "FR-FR",
+    "Name": "Capricieux sauvage"
+  },
+  {
+    "PersonalityLocalizationId": 66,
+    "PersonalityId": 8,
+    "LanguageCode": "FR-FR",
+    "Name": "Casse-cou"
+  },
+  {
+    "PersonalityLocalizationId": 57,
+    "PersonalityId": 7,
+    "LanguageCode": "FR-FR",
+    "Name": "Clairvoyant"
+  },
+  {
+    "PersonalityLocalizationId": 56,
+    "PersonalityId": 7,
+    "LanguageCode": "EN-GB",
+    "Name": "Cool Dude"
+  },
+  {
+    "PersonalityLocalizationId": 59,
+    "PersonalityId": 7,
+    "LanguageCode": "DE-DE",
+    "Name": "Cooles Kerlchen"
+  },
+  {
+    "PersonalityLocalizationId": 31,
+    "PersonalityId": 4,
+    "LanguageCode": "IT-IT",
+    "Name": "Coraggioso"
+  },
+  {
+    "PersonalityLocalizationId": 65,
+    "PersonalityId": 8,
+    "LanguageCode": "EN-GB",
+    "Name": "Daredevil"
+  },
+  {
+    "PersonalityLocalizationId": 69,
+    "PersonalityId": 8,
+    "LanguageCode": "ES-ES",
+    "Name": "De armas tomar"
+  },
+  {
+    "PersonalityLocalizationId": 92,
+    "PersonalityId": 10,
+    "LanguageCode": "EN-GB",
+    "Name": "Do-Gooder"
+  },
+  {
+    "PersonalityLocalizationId": 104,
+    "PersonalityId": 11,
+    "LanguageCode": "DE-DE",
+    "Name": "Drama-Diva"
+  },
+  {
+    "PersonalityLocalizationId": 68,
+    "PersonalityId": 8,
+    "LanguageCode": "DE-DE",
+    "Name": "Draufgänger"
+  },
+  {
+    "PersonalityLocalizationId": 11,
+    "PersonalityId": 2,
+    "LanguageCode": "EN-GB",
+    "Name": "Drudge"
+  },
+  {
+    "PersonalityLocalizationId": 96,
+    "PersonalityId": 10,
+    "LanguageCode": "ES-ES",
+    "Name": "Empático"
+  },
+  {
+    "PersonalityLocalizationId": 48,
+    "PersonalityId": 6,
+    "LanguageCode": "FR-FR",
+    "Name": "Fonceur"
+  },
+  {
+    "PersonalityLocalizationId": 76,
+    "PersonalityId": 9,
+    "LanguageCode": "IT-IT",
+    "Name": "Frenetico"
+  },
+  {
+    "PersonalityLocalizationId": 47,
+    "PersonalityId": 6,
+    "LanguageCode": "EN-GB",
+    "Name": "Go-Getter"
+  },
+  {
+    "PersonalityLocalizationId": 74,
+    "PersonalityId": 9,
+    "LanguageCode": "EN-GB",
+    "Name": "Hotspur"
+  },
+  {
+    "PersonalityLocalizationId": 49,
+    "PersonalityId": 6,
+    "LanguageCode": "IT-IT",
+    "Name": "Intraprendente"
+  },
+  {
+    "PersonalityLocalizationId": 77,
+    "PersonalityId": 9,
+    "LanguageCode": "DE-DE",
+    "Name": "Kleiner Rebell"
+  },
+  {
+    "PersonalityLocalizationId": 50,
+    "PersonalityId": 6,
+    "LanguageCode": "DE-DE",
+    "Name": "Macher"
+  },
+  {
+    "PersonalityLocalizationId": 114,
+    "PersonalityId": 12,
+    "LanguageCode": "ES-ES",
+    "Name": "Mandón"
+  },
+  {
+    "PersonalityLocalizationId": 39,
+    "PersonalityId": 5,
+    "LanguageCode": "FR-FR",
+    "Name": "Mauvais perdant"
+  },
+  {
+    "PersonalityLocalizationId": 95,
+    "PersonalityId": 10,
+    "LanguageCode": "DE-DE",
+    "Name": "Mitfühlender Typ"
+  },
+  {
+    "PersonalityLocalizationId": 33,
+    "PersonalityId": 4,
+    "LanguageCode": "ES-ES",
+    "Name": "Montaraz"
+  },
+  {
+    "PersonalityLocalizationId": 101,
+    "PersonalityId": 11,
+    "LanguageCode": "EN-GB",
+    "Name": "Nonconformist"
+  },
+  {
+    "PersonalityLocalizationId": 4,
+    "PersonalityId": 1,
+    "LanguageCode": "IT-IT",
+    "Name": "Normale"
+  },
+  {
+    "PersonalityLocalizationId": 83,
+    "PersonalityId": 13,
+    "LanguageCode": "EN-GB",
+    "Name": "Optimist"
+  },
+  {
+    "PersonalityLocalizationId": 86,
+    "PersonalityId": 13,
+    "LanguageCode": "DE-DE",
+    "Name": "Optimist"
+  },
+  {
+    "PersonalityLocalizationId": 87,
+    "PersonalityId": 13,
+    "LanguageCode": "ES-ES",
+    "Name": "Optimista"
+  },
+  {
+    "PersonalityLocalizationId": 84,
+    "PersonalityId": 13,
+    "LanguageCode": "FR-FR",
+    "Name": "Optimiste"
+  },
+  {
+    "PersonalityLocalizationId": 40,
+    "PersonalityId": 5,
+    "LanguageCode": "IT-IT",
+    "Name": "Ostinato"
+  },
+  {
+    "PersonalityLocalizationId": 85,
+    "PersonalityId": 13,
+    "LanguageCode": "IT-IT",
+    "Name": "Ottimista"
+  },
+  {
+    "PersonalityLocalizationId": 12,
+    "PersonalityId": 2,
+    "LanguageCode": "FR-FR",
+    "Name": "Persévérant"
+  },
+  {
+    "PersonalityLocalizationId": 111,
+    "PersonalityId": 12,
+    "LanguageCode": "FR-FR",
+    "Name": "Petit chef"
+  },
+  {
+    "PersonalityLocalizationId": 75,
+    "PersonalityId": 9,
+    "LanguageCode": "FR-FR",
+    "Name": "Petit rebelle"
+  },
+  {
+    "PersonalityLocalizationId": 42,
+    "PersonalityId": 5,
+    "LanguageCode": "ES-ES",
+    "Name": "Picajoso"
+  },
+  {
+    "PersonalityLocalizationId": 32,
+    "PersonalityId": 4,
+    "LanguageCode": "DE-DE",
+    "Name": "Pionier"
+  },
+  {
+    "PersonalityLocalizationId": 30,
+    "PersonalityId": 4,
+    "LanguageCode": "FR-FR",
+    "Name": "Pionnier"
+  },
+  {
+    "PersonalityLocalizationId": 94,
+    "PersonalityId": 10,
+    "LanguageCode": "IT-IT",
+    "Name": "Premuroso"
+  },
+  {
+    "PersonalityLocalizationId": 112,
+    "PersonalityId": 12,
+    "LanguageCode": "IT-IT",
+    "Name": "Presuntuoso"
+  },
+  {
+    "PersonalityLocalizationId": 2,
+    "PersonalityId": 1,
+    "LanguageCode": "EN-GB",
+    "Name": "Professional"
+  },
+  {
+    "PersonalityLocalizationId": 113,
+    "PersonalityId": 12,
+    "LanguageCode": "DE-DE",
+    "Name": "Rumkommandierer"
+  },
+  {
+    "PersonalityLocalizationId": 41,
+    "PersonalityId": 5,
+    "LanguageCode": "DE-DE",
+    "Name": "Schlechter Verlierer"
+  },
+  {
+    "PersonalityLocalizationId": 3,
+    "PersonalityId": 1,
+    "LanguageCode": "FR-FR",
+    "Name": "Sérieux"
+  },
+  {
+    "PersonalityLocalizationId": 13,
+    "PersonalityId": 2,
+    "LanguageCode": "IT-IT",
+    "Name": "Sgobbone"
+  },
+  {
+    "PersonalityLocalizationId": 51,
+    "PersonalityId": 6,
+    "LanguageCode": "ES-ES",
+    "Name": "Sin complejos"
+  },
+  {
+    "PersonalityLocalizationId": 6,
+    "PersonalityId": 1,
+    "LanguageCode": "ES-ES",
+    "Name": "Solemne"
+  },
+  {
+    "PersonalityLocalizationId": 38,
+    "PersonalityId": 5,
+    "LanguageCode": "EN-GB",
+    "Name": "Sore Loser"
+  },
+  {
+    "PersonalityLocalizationId": 60,
+    "PersonalityId": 7,
+    "LanguageCode": "ES-ES",
+    "Name": "Sosegado"
+  },
+  {
+    "PersonalityLocalizationId": 93,
+    "PersonalityId": 10,
+    "LanguageCode": "FR-FR",
+    "Name": "Sympathisant"
+  },
+  {
+    "PersonalityLocalizationId": 67,
+    "PersonalityId": 8,
+    "LanguageCode": "IT-IT",
+    "Name": "Testa calda"
+  },
+  {
+    "PersonalityLocalizationId": 29,
+    "PersonalityId": 4,
+    "LanguageCode": "EN-GB",
+    "Name": "Trailblazer"
+  },
+  {
+    "PersonalityLocalizationId": 78,
+    "PersonalityId": 9,
+    "LanguageCode": "ES-ES",
+    "Name": "Travieso"
+  },
+  {
+    "PersonalityLocalizationId": 23,
+    "PersonalityId": 3,
+    "LanguageCode": "DE-DE",
+    "Name": "Visionär"
+  },
+  {
+    "PersonalityLocalizationId": 24,
+    "PersonalityId": 3,
+    "LanguageCode": "ES-ES",
+    "Name": "Visionario"
+  },
+  {
+    "PersonalityLocalizationId": 22,
+    "PersonalityId": 3,
+    "LanguageCode": "IT-IT",
+    "Name": "Visionario"
+  },
+  {
+    "PersonalityLocalizationId": 20,
+    "PersonalityId": 3,
+    "LanguageCode": "EN-GB",
+    "Name": "Visionary"
+  },
+  {
+    "PersonalityLocalizationId": 21,
+    "PersonalityId": 3,
+    "LanguageCode": "FR-FR",
+    "Name": "Visionnaire"
+  },
+  {
+    "PersonalityLocalizationId": 117,
+    "PersonalityId": 12,
+    "LanguageCode": "KO-KR",
+    "Name": "교만"
+  },
+  {
+    "PersonalityLocalizationId": 90,
+    "PersonalityId": 13,
+    "LanguageCode": "KO-KR",
+    "Name": "낙천가"
+  },
+  {
+    "PersonalityLocalizationId": 63,
+    "PersonalityId": 7,
+    "LanguageCode": "KO-KR",
+    "Name": "냉정"
+  },
+  {
+    "PersonalityLocalizationId": 18,
+    "PersonalityId": 2,
+    "LanguageCode": "KO-KR",
+    "Name": "노력가"
+  },
+  {
+    "PersonalityLocalizationId": 54,
+    "PersonalityId": 6,
+    "LanguageCode": "KO-KR",
+    "Name": "능동"
+  },
+  {
+    "PersonalityLocalizationId": 72,
+    "PersonalityId": 8,
+    "LanguageCode": "KO-KR",
+    "Name": "만용"
+  },
+  {
+    "PersonalityLocalizationId": 108,
+    "PersonalityId": 11,
+    "LanguageCode": "KO-KR",
+    "Name": "변덕"
+  },
+  {
+    "PersonalityLocalizationId": 9,
+    "PersonalityId": 1,
+    "LanguageCode": "KO-KR",
+    "Name": "성실"
+  },
+  {
+    "PersonalityLocalizationId": 45,
+    "PersonalityId": 5,
+    "LanguageCode": "KO-KR",
+    "Name": "승부욕의 화신"
+  },
+  {
+    "PersonalityLocalizationId": 36,
+    "PersonalityId": 4,
+    "LanguageCode": "KO-KR",
+    "Name": "용기"
+  },
+  {
+    "PersonalityLocalizationId": 99,
+    "PersonalityId": 10,
+    "LanguageCode": "KO-KR",
+    "Name": "인정"
+  },
+  {
+    "PersonalityLocalizationId": 81,
+    "PersonalityId": 9,
+    "LanguageCode": "KO-KR",
+    "Name": "저돌맹진"
+  },
+  {
+    "PersonalityLocalizationId": 27,
+    "PersonalityId": 3,
+    "LanguageCode": "KO-KR",
+    "Name": "정열가"
+  },
+  {
+    "PersonalityLocalizationId": 43,
+    "PersonalityId": 5,
+    "LanguageCode": "ZH-TW",
+    "Name": "不服輸"
+  },
+  {
+    "PersonalityLocalizationId": 44,
+    "PersonalityId": 5,
+    "LanguageCode": "ZH-CN",
+    "Name": "不服输"
+  },
+  {
+    "PersonalityLocalizationId": 89,
+    "PersonalityId": 13,
+    "LanguageCode": "ZH-CN",
+    "Name": "乐天"
+  },
+  {
+    "PersonalityLocalizationId": 91,
+    "PersonalityId": 10,
+    "LanguageCode": "JP-JP",
+    "Name": "人情家"
+  },
+  {
+    "PersonalityLocalizationId": 55,
+    "PersonalityId": 7,
+    "LanguageCode": "JP-JP",
+    "Name": "冷静"
+  },
+  {
+    "PersonalityLocalizationId": 62,
+    "PersonalityId": 7,
+    "LanguageCode": "ZH-CN",
+    "Name": "冷静"
+  },
+  {
+    "PersonalityLocalizationId": 61,
+    "PersonalityId": 7,
+    "LanguageCode": "ZH-TW",
+    "Name": "冷靜"
+  },
+  {
+    "PersonalityLocalizationId": 28,
+    "PersonalityId": 4,
+    "LanguageCode": "JP-JP",
+    "Name": "勇敢"
+  },
+  {
+    "PersonalityLocalizationId": 34,
+    "PersonalityId": 4,
+    "LanguageCode": "ZH-TW",
+    "Name": "勇敢"
+  },
+  {
+    "PersonalityLocalizationId": 35,
+    "PersonalityId": 4,
+    "LanguageCode": "ZH-CN",
+    "Name": "勇敢"
+  },
+  {
+    "PersonalityLocalizationId": 17,
+    "PersonalityId": 2,
+    "LanguageCode": "ZH-CN",
+    "Name": "勤奋努力"
+  },
+  {
+    "PersonalityLocalizationId": 16,
+    "PersonalityId": 2,
+    "LanguageCode": "ZH-TW",
+    "Name": "勤奮努力"
+  },
+  {
+    "PersonalityLocalizationId": 64,
+    "PersonalityId": 8,
+    "LanguageCode": "JP-JP",
+    "Name": "命知らず"
+  },
+  {
+    "PersonalityLocalizationId": 106,
+    "PersonalityId": 11,
+    "LanguageCode": "ZH-TW",
+    "Name": "心血來潮"
+  },
+  {
+    "PersonalityLocalizationId": 107,
+    "PersonalityId": 11,
+    "LanguageCode": "ZH-CN",
+    "Name": "心血来潮"
+  },
+  {
+    "PersonalityLocalizationId": 19,
+    "PersonalityId": 3,
+    "LanguageCode": "JP-JP",
+    "Name": "情熱家"
+  },
+  {
+    "PersonalityLocalizationId": 71,
+    "PersonalityId": 8,
+    "LanguageCode": "ZH-CN",
+    "Name": "无所畏惧"
+  },
+  {
+    "PersonalityLocalizationId": 1,
+    "PersonalityId": 1,
+    "LanguageCode": "JP-JP",
+    "Name": "普通"
+  },
+  {
+    "PersonalityLocalizationId": 98,
+    "PersonalityId": 10,
+    "LanguageCode": "ZH-CN",
+    "Name": "有情有义"
+  },
+  {
+    "PersonalityLocalizationId": 97,
+    "PersonalityId": 10,
+    "LanguageCode": "ZH-TW",
+    "Name": "有情有義"
+  },
+  {
+    "PersonalityLocalizationId": 82,
+    "PersonalityId": 13,
+    "LanguageCode": "JP-JP",
+    "Name": "楽天家"
+  },
+  {
+    "PersonalityLocalizationId": 88,
+    "PersonalityId": 13,
+    "LanguageCode": "ZH-TW",
+    "Name": "樂天"
+  },
+  {
+    "PersonalityLocalizationId": 80,
+    "PersonalityId": 9,
+    "LanguageCode": "ZH-CN",
+    "Name": "横冲直撞"
+  },
+  {
+    "PersonalityLocalizationId": 79,
+    "PersonalityId": 9,
+    "LanguageCode": "ZH-TW",
+    "Name": "橫衝直撞"
+  },
+  {
+    "PersonalityLocalizationId": 7,
+    "PersonalityId": 1,
+    "LanguageCode": "ZH-TW",
+    "Name": "正經"
+  },
+  {
+    "PersonalityLocalizationId": 8,
+    "PersonalityId": 1,
+    "LanguageCode": "ZH-CN",
+    "Name": "正经"
+  },
+  {
+    "PersonalityLocalizationId": 100,
+    "PersonalityId": 11,
+    "LanguageCode": "JP-JP",
+    "Name": "気まぐれ"
+  },
+  {
+    "PersonalityLocalizationId": 26,
+    "PersonalityId": 3,
+    "LanguageCode": "ZH-CN",
+    "Name": "热情奔放"
+  },
+  {
+    "PersonalityLocalizationId": 70,
+    "PersonalityId": 8,
+    "LanguageCode": "ZH-TW",
+    "Name": "無所畏懼"
+  },
+  {
+    "PersonalityLocalizationId": 25,
+    "PersonalityId": 3,
+    "LanguageCode": "ZH-TW",
+    "Name": "熱情奔放"
+  },
+  {
+    "PersonalityLocalizationId": 73,
+    "PersonalityId": 9,
+    "LanguageCode": "JP-JP",
+    "Name": "猪突猛進"
+  },
+  {
+    "PersonalityLocalizationId": 116,
+    "PersonalityId": 12,
+    "LanguageCode": "ZH-CN",
+    "Name": "盛气凌人"
+  },
+  {
+    "PersonalityLocalizationId": 115,
+    "PersonalityId": 12,
+    "LanguageCode": "ZH-TW",
+    "Name": "盛氣凌人"
+  },
+  {
+    "PersonalityLocalizationId": 53,
+    "PersonalityId": 6,
+    "LanguageCode": "ZH-CN",
+    "Name": "积极"
+  },
+  {
+    "PersonalityLocalizationId": 52,
+    "PersonalityId": 6,
+    "LanguageCode": "ZH-TW",
+    "Name": "積極"
+  },
+  {
+    "PersonalityLocalizationId": 46,
+    "PersonalityId": 6,
+    "LanguageCode": "JP-JP",
+    "Name": "積極的"
+  },
+  {
+    "PersonalityLocalizationId": 37,
+    "PersonalityId": 5,
+    "LanguageCode": "JP-JP",
+    "Name": "負けず嫌い"
+  },
+  {
+    "PersonalityLocalizationId": 10,
+    "PersonalityId": 2,
+    "LanguageCode": "JP-JP",
+    "Name": "頑張り屋"
+  },
+  {
+    "PersonalityLocalizationId": 109,
+    "PersonalityId": 12,
+    "LanguageCode": "JP-JP",
+    "Name": "高飛車"
+  }
+]

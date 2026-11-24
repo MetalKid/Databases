@@ -1,1 +1,1262 @@
-[]
+[
+  {
+    "MonsterItemDropId": 1,
+    "MonsterId": 109,
+    "ItemId": 1,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 2,
+    "MonsterId": 109,
+    "ItemId": 70,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 3,
+    "MonsterId": 223,
+    "ItemId": 5,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 4,
+    "MonsterId": 223,
+    "ItemId": 36,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 5,
+    "MonsterId": 127,
+    "ItemId": 2,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 6,
+    "MonsterId": 127,
+    "ItemId": 36,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 7,
+    "MonsterId": 162,
+    "ItemId": 2,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 8,
+    "MonsterId": 162,
+    "ItemId": 30,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 9,
+    "MonsterId": 221,
+    "ItemId": 41,
+    "IsRare": true,
+    "Rate": 4.000
+  },
+  {
+    "MonsterItemDropId": 10,
+    "MonsterId": 199,
+    "ItemId": 71,
+    "IsRare": true,
+    "Rate": 4.000
+  },
+  {
+    "MonsterItemDropId": 11,
+    "MonsterId": 128,
+    "ItemId": 8,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 12,
+    "MonsterId": 128,
+    "ItemId": 56,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 13,
+    "MonsterId": 161,
+    "ItemId": 9,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 14,
+    "MonsterId": 161,
+    "ItemId": 60,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 15,
+    "MonsterId": 252,
+    "ItemId": 9,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 16,
+    "MonsterId": 252,
+    "ItemId": 33,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 17,
+    "MonsterId": 171,
+    "ItemId": 9,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 18,
+    "MonsterId": 171,
+    "ItemId": 29,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 19,
+    "MonsterId": 116,
+    "ItemId": 9,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 20,
+    "MonsterId": 116,
+    "ItemId": 49,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 21,
+    "MonsterId": 157,
+    "ItemId": 9,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 22,
+    "MonsterId": 157,
+    "ItemId": 36,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 23,
+    "MonsterId": 269,
+    "ItemId": 7,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 24,
+    "MonsterId": 269,
+    "ItemId": 45,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 25,
+    "MonsterId": 257,
+    "ItemId": 4,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 26,
+    "MonsterId": 257,
+    "ItemId": 73,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 27,
+    "MonsterId": 231,
+    "ItemId": 1,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 28,
+    "MonsterId": 231,
+    "ItemId": 74,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 29,
+    "MonsterId": 238,
+    "ItemId": 1,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 30,
+    "MonsterId": 238,
+    "ItemId": 50,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 31,
+    "MonsterId": 141,
+    "ItemId": 4,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 32,
+    "MonsterId": 141,
+    "ItemId": 54,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 33,
+    "MonsterId": 154,
+    "ItemId": 4,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 34,
+    "MonsterId": 154,
+    "ItemId": 28,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 35,
+    "MonsterId": 313,
+    "ItemId": 15,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 36,
+    "MonsterId": 313,
+    "ItemId": 30,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 37,
+    "MonsterId": 140,
+    "ItemId": 4,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 38,
+    "MonsterId": 140,
+    "ItemId": 55,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 39,
+    "MonsterId": 211,
+    "ItemId": 77,
+    "IsRare": true,
+    "Rate": 4.000
+  },
+  {
+    "MonsterItemDropId": 40,
+    "MonsterId": 254,
+    "ItemId": 1,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 41,
+    "MonsterId": 254,
+    "ItemId": 50,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 42,
+    "MonsterId": 264,
+    "ItemId": 43,
+    "IsRare": true,
+    "Rate": 4.000
+  },
+  {
+    "MonsterItemDropId": 43,
+    "MonsterId": 256,
+    "ItemId": 78,
+    "IsRare": true,
+    "Rate": 4.000
+  },
+  {
+    "MonsterItemDropId": 44,
+    "MonsterId": 320,
+    "ItemId": 17,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 45,
+    "MonsterId": 320,
+    "ItemId": 36,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 46,
+    "MonsterId": 169,
+    "ItemId": 79,
+    "IsRare": true,
+    "Rate": 4.000
+  },
+  {
+    "MonsterItemDropId": 47,
+    "MonsterId": 138,
+    "ItemId": 1,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 48,
+    "MonsterId": 138,
+    "ItemId": 80,
+    "IsRare": true,
+    "Rate": 4.000
+  },
+  {
+    "MonsterItemDropId": 49,
+    "MonsterId": 306,
+    "ItemId": 9,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 50,
+    "MonsterId": 306,
+    "ItemId": 70,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 51,
+    "MonsterId": 166,
+    "ItemId": 4,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 52,
+    "MonsterId": 166,
+    "ItemId": 58,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 53,
+    "MonsterId": 187,
+    "ItemId": 1,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 54,
+    "MonsterId": 187,
+    "ItemId": 35,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 55,
+    "MonsterId": 271,
+    "ItemId": 4,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 56,
+    "MonsterId": 271,
+    "ItemId": 54,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 57,
+    "MonsterId": 130,
+    "ItemId": 4,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 58,
+    "MonsterId": 130,
+    "ItemId": 31,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 59,
+    "MonsterId": 234,
+    "ItemId": 4,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 60,
+    "MonsterId": 234,
+    "ItemId": 78,
+    "IsRare": true,
+    "Rate": 4.000
+  },
+  {
+    "MonsterItemDropId": 61,
+    "MonsterId": 505,
+    "ItemId": 16,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 62,
+    "MonsterId": 505,
+    "ItemId": 51,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 63,
+    "MonsterId": 239,
+    "ItemId": 2,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 64,
+    "MonsterId": 239,
+    "ItemId": 51,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 65,
+    "MonsterId": 273,
+    "ItemId": 4,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 66,
+    "MonsterId": 273,
+    "ItemId": 32,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 67,
+    "MonsterId": 224,
+    "ItemId": 2,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 68,
+    "MonsterId": 224,
+    "ItemId": 39,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 69,
+    "MonsterId": 101,
+    "ItemId": 1,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 70,
+    "MonsterId": 101,
+    "ItemId": 37,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 71,
+    "MonsterId": 245,
+    "ItemId": 10,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 72,
+    "MonsterId": 245,
+    "ItemId": 57,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 73,
+    "MonsterId": 243,
+    "ItemId": 1,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 74,
+    "MonsterId": 243,
+    "ItemId": 37,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 75,
+    "MonsterId": 236,
+    "ItemId": 1,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 76,
+    "MonsterId": 236,
+    "ItemId": 57,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 77,
+    "MonsterId": 126,
+    "ItemId": 2,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 78,
+    "MonsterId": 126,
+    "ItemId": 46,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 79,
+    "MonsterId": 417,
+    "ItemId": 81,
+    "IsRare": true,
+    "Rate": 4.000
+  },
+  {
+    "MonsterItemDropId": 80,
+    "MonsterId": 115,
+    "ItemId": 51,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 81,
+    "MonsterId": 212,
+    "ItemId": 82,
+    "IsRare": true,
+    "Rate": 4.000
+  },
+  {
+    "MonsterItemDropId": 82,
+    "MonsterId": 195,
+    "ItemId": 2,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 83,
+    "MonsterId": 195,
+    "ItemId": 61,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 84,
+    "MonsterId": 147,
+    "ItemId": 83,
+    "IsRare": true,
+    "Rate": 4.000
+  },
+  {
+    "MonsterItemDropId": 85,
+    "MonsterId": 267,
+    "ItemId": 2,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 86,
+    "MonsterId": 267,
+    "ItemId": 84,
+    "IsRare": true,
+    "Rate": 4.000
+  },
+  {
+    "MonsterItemDropId": 87,
+    "MonsterId": 149,
+    "ItemId": 4,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 88,
+    "MonsterId": 149,
+    "ItemId": 38,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 89,
+    "MonsterId": 121,
+    "ItemId": 48,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 90,
+    "MonsterId": 110,
+    "ItemId": 84,
+    "IsRare": true,
+    "Rate": 4.000
+  },
+  {
+    "MonsterItemDropId": 91,
+    "MonsterId": 229,
+    "ItemId": 9,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 92,
+    "MonsterId": 229,
+    "ItemId": 31,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 93,
+    "MonsterId": 205,
+    "ItemId": 1,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 94,
+    "MonsterId": 205,
+    "ItemId": 48,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 95,
+    "MonsterId": 206,
+    "ItemId": 4,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 96,
+    "MonsterId": 206,
+    "ItemId": 47,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 97,
+    "MonsterId": 230,
+    "ItemId": 9,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 98,
+    "MonsterId": 230,
+    "ItemId": 49,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 99,
+    "MonsterId": 263,
+    "ItemId": 8,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 100,
+    "MonsterId": 263,
+    "ItemId": 54,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 101,
+    "MonsterId": 103,
+    "ItemId": 5,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 102,
+    "MonsterId": 103,
+    "ItemId": 47,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 103,
+    "MonsterId": 119,
+    "ItemId": 9,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 104,
+    "MonsterId": 119,
+    "ItemId": 33,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 105,
+    "MonsterId": 155,
+    "ItemId": 2,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 106,
+    "MonsterId": 155,
+    "ItemId": 29,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 107,
+    "MonsterId": 131,
+    "ItemId": 63,
+    "IsRare": false,
+    "Rate": 70.000
+  },
+  {
+    "MonsterItemDropId": 108,
+    "MonsterId": 131,
+    "ItemId": 85,
+    "IsRare": true,
+    "Rate": 30.000
+  },
+  {
+    "MonsterItemDropId": 109,
+    "MonsterId": 158,
+    "ItemId": 6,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 110,
+    "MonsterId": 158,
+    "ItemId": 52,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 111,
+    "MonsterId": 142,
+    "ItemId": 5,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 112,
+    "MonsterId": 142,
+    "ItemId": 59,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 113,
+    "MonsterId": 183,
+    "ItemId": 4,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 114,
+    "MonsterId": 183,
+    "ItemId": 58,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 115,
+    "MonsterId": 202,
+    "ItemId": 71,
+    "IsRare": true,
+    "Rate": 4.000
+  },
+  {
+    "MonsterItemDropId": 116,
+    "MonsterId": 222,
+    "ItemId": 8,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 117,
+    "MonsterId": 222,
+    "ItemId": 45,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 118,
+    "MonsterId": 201,
+    "ItemId": 86,
+    "IsRare": true,
+    "Rate": 4.000
+  },
+  {
+    "MonsterItemDropId": 119,
+    "MonsterId": 260,
+    "ItemId": 8,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 120,
+    "MonsterId": 260,
+    "ItemId": 39,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 121,
+    "MonsterId": 104,
+    "ItemId": 4,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 122,
+    "MonsterId": 104,
+    "ItemId": 37,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 123,
+    "MonsterId": 122,
+    "ItemId": 34,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 124,
+    "MonsterId": 198,
+    "ItemId": 87,
+    "IsRare": true,
+    "Rate": 4.000
+  },
+  {
+    "MonsterItemDropId": 125,
+    "MonsterId": 204,
+    "ItemId": 4,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 126,
+    "MonsterId": 204,
+    "ItemId": 61,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 127,
+    "MonsterId": 106,
+    "ItemId": 5,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 128,
+    "MonsterId": 106,
+    "ItemId": 53,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 129,
+    "MonsterId": 219,
+    "ItemId": 4,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 130,
+    "MonsterId": 219,
+    "ItemId": 30,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 131,
+    "MonsterId": 194,
+    "ItemId": 8,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 132,
+    "MonsterId": 194,
+    "ItemId": 45,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 133,
+    "MonsterId": 178,
+    "ItemId": 10,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 134,
+    "MonsterId": 178,
+    "ItemId": 88,
+    "IsRare": true,
+    "Rate": 4.000
+  },
+  {
+    "MonsterItemDropId": 135,
+    "MonsterId": 160,
+    "ItemId": 4,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 136,
+    "MonsterId": 160,
+    "ItemId": 62,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 137,
+    "MonsterId": 259,
+    "ItemId": 8,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 138,
+    "MonsterId": 259,
+    "ItemId": 38,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 139,
+    "MonsterId": 218,
+    "ItemId": 1,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 140,
+    "MonsterId": 218,
+    "ItemId": 34,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 141,
+    "MonsterId": 208,
+    "ItemId": 7,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 142,
+    "MonsterId": 208,
+    "ItemId": 52,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 143,
+    "MonsterId": 188,
+    "ItemId": 4,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 144,
+    "MonsterId": 188,
+    "ItemId": 62,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 145,
+    "MonsterId": 132,
+    "ItemId": 2,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 146,
+    "MonsterId": 132,
+    "ItemId": 29,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 147,
+    "MonsterId": 191,
+    "ItemId": 8,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 148,
+    "MonsterId": 191,
+    "ItemId": 60,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 149,
+    "MonsterId": 120,
+    "ItemId": 5,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 150,
+    "MonsterId": 120,
+    "ItemId": 61,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 151,
+    "MonsterId": 186,
+    "ItemId": 73,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 152,
+    "MonsterId": 664,
+    "ItemId": 1,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 153,
+    "MonsterId": 664,
+    "ItemId": 58,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 154,
+    "MonsterId": 644,
+    "ItemId": 1,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 155,
+    "MonsterId": 644,
+    "ItemId": 44,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 156,
+    "MonsterId": 674,
+    "ItemId": 63,
+    "IsRare": false,
+    "Rate": 70.000
+  },
+  {
+    "MonsterItemDropId": 157,
+    "MonsterId": 674,
+    "ItemId": 43,
+    "IsRare": true,
+    "Rate": 30.000
+  },
+  {
+    "MonsterItemDropId": 158,
+    "MonsterId": 665,
+    "ItemId": 4,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 159,
+    "MonsterId": 665,
+    "ItemId": 59,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 160,
+    "MonsterId": 669,
+    "ItemId": 4,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 161,
+    "MonsterId": 669,
+    "ItemId": 32,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 162,
+    "MonsterId": 643,
+    "ItemId": 8,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 163,
+    "MonsterId": 643,
+    "ItemId": 56,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 164,
+    "MonsterId": 663,
+    "ItemId": 1,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 165,
+    "MonsterId": 663,
+    "ItemId": 28,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 166,
+    "MonsterId": 645,
+    "ItemId": 4,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 167,
+    "MonsterId": 645,
+    "ItemId": 55,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 168,
+    "MonsterId": 655,
+    "ItemId": 1,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 169,
+    "MonsterId": 655,
+    "ItemId": 40,
+    "IsRare": true,
+    "Rate": 4.000
+  },
+  {
+    "MonsterItemDropId": 170,
+    "MonsterId": 661,
+    "ItemId": 60,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 171,
+    "MonsterId": 668,
+    "ItemId": 89,
+    "IsRare": true,
+    "Rate": 4.000
+  },
+  {
+    "MonsterItemDropId": 172,
+    "MonsterId": 647,
+    "ItemId": 10,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 173,
+    "MonsterId": 647,
+    "ItemId": 59,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 174,
+    "MonsterId": 653,
+    "ItemId": 3,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 175,
+    "MonsterId": 653,
+    "ItemId": 87,
+    "IsRare": true,
+    "Rate": 4.000
+  },
+  {
+    "MonsterItemDropId": 176,
+    "MonsterId": 646,
+    "ItemId": 4,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 177,
+    "MonsterId": 646,
+    "ItemId": 46,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 178,
+    "MonsterId": 650,
+    "ItemId": 32,
+    "IsRare": true,
+    "Rate": 5.000
+  },
+  {
+    "MonsterItemDropId": 179,
+    "MonsterId": 657,
+    "ItemId": 5,
+    "IsRare": false,
+    "Rate": 8.000
+  },
+  {
+    "MonsterItemDropId": 180,
+    "MonsterId": 657,
+    "ItemId": 47,
+    "IsRare": true,
+    "Rate": 5.000
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "FamilyLocalizationId": 64,
+    "FamilyId": 8,
+    "LanguageCode": "JP-JP",
+    "Name": "？？？"
+  },
+  {
+    "FamilyLocalizationId": 65,
+    "FamilyId": 8,
+    "LanguageCode": "EN-GB",
+    "Name": "???"
+  },
+  {
+    "FamilyLocalizationId": 66,
+    "FamilyId": 8,
+    "LanguageCode": "FR-FR",
+    "Name": "???"
+  },
+  {
+    "FamilyLocalizationId": 67,
+    "FamilyId": 8,
+    "LanguageCode": "IT-IT",
+    "Name": "???"
+  },
+  {
+    "FamilyLocalizationId": 68,
+    "FamilyId": 8,
+    "LanguageCode": "DE-DE",
+    "Name": "???"
+  },
+  {
+    "FamilyLocalizationId": 70,
+    "FamilyId": 8,
+    "LanguageCode": "ZH-TW",
+    "Name": "？？？"
+  },
+  {
+    "FamilyLocalizationId": 71,
+    "FamilyId": 8,
+    "LanguageCode": "ZH-CN",
+    "Name": "？？？"
+  },
+  {
+    "FamilyLocalizationId": 72,
+    "FamilyId": 8,
+    "LanguageCode": "KO-KR",
+    "Name": "???"
+  },
+  {
+    "FamilyLocalizationId": 69,
+    "FamilyId": 8,
+    "LanguageCode": "ES-ES",
+    "Name": "¿?"
+  },
+  {
+    "FamilyLocalizationId": 29,
+    "FamilyId": 4,
+    "LanguageCode": "EN-GB",
+    "Name": "Beast"
+  },
+  {
+    "FamilyLocalizationId": 33,
+    "FamilyId": 4,
+    "LanguageCode": "ES-ES",
+    "Name": "Bestias"
+  },
+  {
+    "FamilyLocalizationId": 32,
+    "FamilyId": 4,
+    "LanguageCode": "DE-DE",
+    "Name": "Bestien"
+  },
+  {
+    "FamilyLocalizationId": 30,
+    "FamilyId": 4,
+    "LanguageCode": "FR-FR",
+    "Name": "Bêtes"
+  },
+  {
+    "FamilyLocalizationId": 50,
+    "FamilyId": 6,
+    "LanguageCode": "DE-DE",
+    "Name": "Dämonen"
+  },
+  {
+    "FamilyLocalizationId": 31,
+    "FamilyId": 4,
+    "LanguageCode": "IT-IT",
+    "Name": "Delle belve"
+  },
+  {
+    "FamilyLocalizationId": 47,
+    "FamilyId": 6,
+    "LanguageCode": "EN-GB",
+    "Name": "Demon"
+  },
+  {
+    "FamilyLocalizationId": 49,
+    "FamilyId": 6,
+    "LanguageCode": "IT-IT",
+    "Name": "Demoni"
+  },
+  {
+    "FamilyLocalizationId": 51,
+    "FamilyId": 6,
+    "LanguageCode": "ES-ES",
+    "Name": "Demonios"
+  },
+  {
+    "FamilyLocalizationId": 48,
+    "FamilyId": 6,
+    "LanguageCode": "FR-FR",
+    "Name": "Démons"
+  },
+  {
+    "FamilyLocalizationId": 14,
+    "FamilyId": 2,
+    "LanguageCode": "DE-DE",
+    "Name": "Drachen"
+  },
+  {
+    "FamilyLocalizationId": 13,
+    "FamilyId": 2,
+    "LanguageCode": "IT-IT",
+    "Name": "Draghi"
+  },
+  {
+    "FamilyLocalizationId": 11,
+    "FamilyId": 2,
+    "LanguageCode": "EN-GB",
+    "Name": "Dragon"
+  },
+  {
+    "FamilyLocalizationId": 15,
+    "FamilyId": 2,
+    "LanguageCode": "ES-ES",
+    "Name": "Dragones"
+  },
+  {
+    "FamilyLocalizationId": 12,
+    "FamilyId": 2,
+    "LanguageCode": "FR-FR",
+    "Name": "Dragons"
+  },
+  {
+    "FamilyLocalizationId": 3,
+    "FamilyId": 1,
+    "LanguageCode": "FR-FR",
+    "Name": "Gluants"
+  },
+  {
+    "FamilyLocalizationId": 6,
+    "FamilyId": 1,
+    "LanguageCode": "ES-ES",
+    "Name": "Limos"
+  },
+  {
+    "FamilyLocalizationId": 38,
+    "FamilyId": 5,
+    "LanguageCode": "EN-GB",
+    "Name": "Material"
+  },
+  {
+    "FamilyLocalizationId": 41,
+    "FamilyId": 5,
+    "LanguageCode": "DE-DE",
+    "Name": "Material"
+  },
+  {
+    "FamilyLocalizationId": 42,
+    "FamilyId": 5,
+    "LanguageCode": "ES-ES",
+    "Name": "Material"
+  },
+  {
+    "FamilyLocalizationId": 40,
+    "FamilyId": 5,
+    "LanguageCode": "IT-IT",
+    "Name": "Materiali"
+  },
+  {
+    "FamilyLocalizationId": 39,
+    "FamilyId": 5,
+    "LanguageCode": "FR-FR",
+    "Name": "Matières"
+  },
+  {
+    "FamilyLocalizationId": 23,
+    "FamilyId": 3,
+    "LanguageCode": "DE-DE",
+    "Name": "Natur"
+  },
+  {
+    "FamilyLocalizationId": 24,
+    "FamilyId": 3,
+    "LanguageCode": "ES-ES",
+    "Name": "Natural"
+  },
+  {
+    "FamilyLocalizationId": 22,
+    "FamilyId": 3,
+    "LanguageCode": "IT-IT",
+    "Name": "Naturali"
+  },
+  {
+    "FamilyLocalizationId": 20,
+    "FamilyId": 3,
+    "LanguageCode": "EN-GB",
+    "Name": "Nature"
+  },
+  {
+    "FamilyLocalizationId": 21,
+    "FamilyId": 3,
+    "LanguageCode": "FR-FR",
+    "Name": "Naturels"
+  },
+  {
+    "FamilyLocalizationId": 60,
+    "FamilyId": 7,
+    "LanguageCode": "ES-ES",
+    "Name": "No muertos"
+  },
+  {
+    "FamilyLocalizationId": 58,
+    "FamilyId": 7,
+    "LanguageCode": "IT-IT",
+    "Name": "Non-morti"
+  },
+  {
+    "FamilyLocalizationId": 5,
+    "FamilyId": 1,
+    "LanguageCode": "DE-DE",
+    "Name": "Schleim"
+  },
+  {
+    "FamilyLocalizationId": 4,
+    "FamilyId": 1,
+    "LanguageCode": "IT-IT",
+    "Name": "Slime"
+  },
+  {
+    "FamilyLocalizationId": 2,
+    "FamilyId": 1,
+    "LanguageCode": "EN-GB",
+    "Name": "Slime"
+  },
+  {
+    "FamilyLocalizationId": 56,
+    "FamilyId": 7,
+    "LanguageCode": "EN-GB",
+    "Name": "Undead"
+  },
+  {
+    "FamilyLocalizationId": 59,
+    "FamilyId": 7,
+    "LanguageCode": "DE-DE",
+    "Name": "Untoten"
+  },
+  {
+    "FamilyLocalizationId": 57,
+    "FamilyId": 7,
+    "LanguageCode": "FR-FR",
+    "Name": "Zombies"
+  },
+  {
+    "FamilyLocalizationId": 1,
+    "FamilyId": 1,
+    "LanguageCode": "JP-JP",
+    "Name": "スライム"
+  },
+  {
+    "FamilyLocalizationId": 55,
+    "FamilyId": 7,
+    "LanguageCode": "JP-JP",
+    "Name": "ゾンビ"
+  },
+  {
+    "FamilyLocalizationId": 10,
+    "FamilyId": 2,
+    "LanguageCode": "JP-JP",
+    "Name": "ドラゴン"
+  },
+  {
+    "FamilyLocalizationId": 18,
+    "FamilyId": 2,
+    "LanguageCode": "KO-KR",
+    "Name": "드래곤"
+  },
+  {
+    "FamilyLocalizationId": 36,
+    "FamilyId": 4,
+    "LanguageCode": "KO-KR",
+    "Name": "마수"
+  },
+  {
+    "FamilyLocalizationId": 45,
+    "FamilyId": 5,
+    "LanguageCode": "KO-KR",
+    "Name": "물질"
+  },
+  {
+    "FamilyLocalizationId": 9,
+    "FamilyId": 1,
+    "LanguageCode": "KO-KR",
+    "Name": "슬라임"
+  },
+  {
+    "FamilyLocalizationId": 54,
+    "FamilyId": 6,
+    "LanguageCode": "KO-KR",
+    "Name": "악마"
+  },
+  {
+    "FamilyLocalizationId": 27,
+    "FamilyId": 3,
+    "LanguageCode": "KO-KR",
+    "Name": "자연"
+  },
+  {
+    "FamilyLocalizationId": 63,
+    "FamilyId": 7,
+    "LanguageCode": "KO-KR",
+    "Name": "좀비"
+  },
+  {
+    "FamilyLocalizationId": 62,
+    "FamilyId": 7,
+    "LanguageCode": "ZH-CN",
+    "Name": "僵尸"
+  },
+  {
+    "FamilyLocalizationId": 8,
+    "FamilyId": 1,
+    "LanguageCode": "ZH-CN",
+    "Name": "史莱姆"
+  },
+  {
+    "FamilyLocalizationId": 7,
+    "FamilyId": 1,
+    "LanguageCode": "ZH-TW",
+    "Name": "史萊姆"
+  },
+  {
+    "FamilyLocalizationId": 61,
+    "FamilyId": 7,
+    "LanguageCode": "ZH-TW",
+    "Name": "喪屍"
+  },
+  {
+    "FamilyLocalizationId": 53,
+    "FamilyId": 6,
+    "LanguageCode": "ZH-CN",
+    "Name": "恶魔"
+  },
+  {
+    "FamilyLocalizationId": 46,
+    "FamilyId": 6,
+    "LanguageCode": "JP-JP",
+    "Name": "悪魔"
+  },
+  {
+    "FamilyLocalizationId": 52,
+    "FamilyId": 6,
+    "LanguageCode": "ZH-TW",
+    "Name": "惡魔"
+  },
+  {
+    "FamilyLocalizationId": 37,
+    "FamilyId": 5,
+    "LanguageCode": "JP-JP",
+    "Name": "物質"
+  },
+  {
+    "FamilyLocalizationId": 43,
+    "FamilyId": 5,
+    "LanguageCode": "ZH-TW",
+    "Name": "物質"
+  },
+  {
+    "FamilyLocalizationId": 44,
+    "FamilyId": 5,
+    "LanguageCode": "ZH-CN",
+    "Name": "物质"
+  },
+  {
+    "FamilyLocalizationId": 19,
+    "FamilyId": 3,
+    "LanguageCode": "JP-JP",
+    "Name": "自然"
+  },
+  {
+    "FamilyLocalizationId": 25,
+    "FamilyId": 3,
+    "LanguageCode": "ZH-TW",
+    "Name": "自然"
+  },
+  {
+    "FamilyLocalizationId": 26,
+    "FamilyId": 3,
+    "LanguageCode": "ZH-CN",
+    "Name": "自然"
+  },
+  {
+    "FamilyLocalizationId": 35,
+    "FamilyId": 4,
+    "LanguageCode": "ZH-CN",
+    "Name": "魔兽"
+  },
+  {
+    "FamilyLocalizationId": 28,
+    "FamilyId": 4,
+    "LanguageCode": "JP-JP",
+    "Name": "魔獣"
+  },
+  {
+    "FamilyLocalizationId": 34,
+    "FamilyId": 4,
+    "LanguageCode": "ZH-TW",
+    "Name": "魔獸"
+  },
+  {
+    "FamilyLocalizationId": 16,
+    "FamilyId": 2,
+    "LanguageCode": "ZH-TW",
+    "Name": "龍"
+  },
+  {
+    "FamilyLocalizationId": 17,
+    "FamilyId": 2,
+    "LanguageCode": "ZH-CN",
+    "Name": "龙"
+  }
+]

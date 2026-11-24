@@ -846,12 +846,6 @@
     ]
   },
   {
-    "Name": "Hulk",
-    "IsEggOnly": false,
-    "Children": [],
-    "Parents": []
-  },
-  {
     "Name": "Impactor",
     "IsEggOnly": false,
     "Children": [
@@ -1625,7 +1619,9 @@
   {
     "Name": "Woosh Afficionado",
     "IsEggOnly": false,
-    "Children": [],
+    "Children": [
+      "Woosh Virtuoso"
+    ],
     "Parents": []
   },
   {
@@ -1634,7 +1630,9 @@
     "Children": [
       "Polariser"
     ],
-    "Parents": []
+    "Parents": [
+      "Woosh Afficionado"
+    ]
   },
   {
     "Name": "Woosh Ward",

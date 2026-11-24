@@ -1,6 +1,18 @@
-LocationId,Name,Identifier,JapaneseName,MapLongitudeMax,MapLatitudeMax,MapLongitudeStart,MapLatitudeStart
-5,"Shrine of Serenity, Interior","shrine-of-serenity,-interior",,,,,
-2,The Parchland,the-parchland,,,,,
-4,The Sogswamp,the-sogswamp,,,,,
-3,The Spelunk,the-spelunk,,,,,
-1,Witherwood Plains,witherwood-plains,,,,,
+LocationId,Name,JapaneseName,Identifier,MapId
+14,Battle Arena Lobby,拠点 - 闘技場ロビー,battle-arena-lobby,7
+12,Boughborough,拠点 - 街,boughborough,6
+13,Item Shop,拠点 - 道具屋,item-shop,13
+15,Mini Medal Swap Shop,拠点 - メダル交換所,mini-medal-swap-shop,14
+17,Paddock,拠点 - 牧場,paddock,5
+5,"Shrine of Serenity, Interior",カレキ - 祠ダンジョンB1F,"shrine-of-serenity,-interior",16
+7,"Shrine of Serenity, the Avian Haven",カレキ - 祠ダンジョン祭壇,"shrine-of-serenity,-the-avian-haven",18
+6,"Shrine of Serenity, the Place of Peace",カレキ - 祠ダンジョンB2F,"shrine-of-serenity,-the-place-of-peace",17
+16,Tavern,拠点 - 酒場,tavern,8
+2,The Parchland,カレキ - 荒野,the-parchland,19
+10,The Petal Portals,拠点 - 扉の間,the-petal-portals,3
+4,The Sogswamp,カレキ - 湿原,the-sogswamp,19
+3,The Spelunk,カレキ - 洞窟ダンジョン,the-spelunk,15
+11,The Starry Shrine,拠点 - 星降りのほこら,the-starry-shrine,3
+9,Throne Hall,拠点 - 玉座の間,throne-hall,4
+8,Witherwood Castle,拠点 - 王城,witherwood-castle,2
+1,Witherwood Plains,カレキ - 平原,witherwood-plains,19

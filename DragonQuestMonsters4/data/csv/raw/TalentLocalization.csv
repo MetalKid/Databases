@@ -1,0 +1,1270 @@
+TalentLocalizationId,TalentId,LanguageCode,Name
+408,248,FR-FR,Abjection
+1157,80,DE-DE,Absorptionsausweicher
+662,54,DE-DE,Abwehren
+941,62,DE-DE,Abwehrverstärker I
+950,63,DE-DE,Abwehrverstärker II
+959,120,DE-DE,Abwehrverstärker III
+968,121,DE-DE,Abwehrverstärker IV
+381,95,FR-FR,Accélérateur
+384,95,ES-ES,Acelerador
+319,32,IT-IT,Acquamantis
+365,36,DE-DE,Adrenalinjunkie
+741,188,FR-FR,Agent infiltré
+974,64,EN-GB,Agility Booster I
+983,65,EN-GB,Agility Booster II
+992,122,EN-GB,Agility Booster III
+1001,123,EN-GB,Agility Booster IV
+749,91,EN-GB,Air Fryer
+605,251,EN-GB,Alarmist
+825,127,ES-ES,Alentador arrollador
+213,21,ES-ES,Alentador profundo
+204,20,ES-ES,Alentador suave
+366,36,ES-ES,Amante de las emociones
+392,96,DE-DE,Amor
+905,60,DE-DE,Angriffsverstärker I
+914,61,DE-DE,Angriffsverstärker II
+923,118,DE-DE,Angriffsverstärker III
+932,119,DE-DE,Angriffsverstärker IV
+1158,80,ES-ES,Antiabsorción
+1176,82,ES-ES,Antiaturdimiento
+1084,72,IT-IT,Anti-Bang
+1120,76,IT-IT,Anti-Elektron
+1048,68,IT-IT,Anti-Fiamma
+1057,69,IT-IT,Anti-Fluidi
+1102,74,IT-IT,Anti-Fulmine
+1111,75,IT-IT,Anti-Fuoco
+1093,73,IT-IT,Anti-Gelo
+651,113,FR-FR,Antimage
+1145,79,EN-GB,Antimagic Avoider
+650,113,EN-GB,Antimagician
+1148,79,DE-DE,Antimagie-Abwender
+654,113,ES-ES,Antimagos
+1075,71,IT-IT,Anti-Roccia
+1066,70,IT-IT,Anti-Vento
+1149,79,ES-ES,Apartador de antimagia
+708,55,ES-ES,Apestador
+75,9,FR-FR,Apprenti de Bang
+129,15,FR-FR,Apprenti de Crame
+3,1,FR-FR,Apprenti de Flamme
+111,13,FR-FR,Apprenti de Foudre
+93,11,FR-FR,Apprenti de Glace
+57,7,FR-FR,Apprenti de Séisme
+21,3,FR-FR,Apprenti de Superplouf
+39,5,FR-FR,Apprenti de Tornade
+147,17,FR-FR,Apprenti d'Élec
+317,32,EN-GB,Aquapothecary
+318,32,FR-FR,Aquapothicaire
+320,32,DE-DE,Aquatheker
+751,91,IT-IT,Aria bollente
+760,130,IT-IT,Aria tempestosa
+292,29,IT-IT,Artista delle tenebre
+519,44,ES-ES,Asesino
+515,44,EN-GB,Assassin
+516,44,FR-FR,Assassin
+517,44,IT-IT,Assassinio
+824,127,DE-DE,Atemhelfer
+644,111,DE-DE,Atemrauber
+762,130,ES-ES,Atormentador
+902,60,EN-GB,Attack Booster I
+911,61,EN-GB,Attack Booster II
+920,118,EN-GB,Attack Booster III
+929,119,EN-GB,Attack Booster IV
+976,64,IT-IT,Aumento di agilità I
+985,65,IT-IT,Aumento di agilità II
+994,122,IT-IT,Aumento di agilità III
+1003,123,IT-IT,Aumento di agilità IV
+1012,66,IT-IT,Aumento di saggezza I
+1021,67,IT-IT,Aumento di saggezza II
+1030,124,IT-IT,Aumento di saggezza III
+1039,125,IT-IT,Aumento di saggezza IV
+940,62,IT-IT,Aumento difensivo I
+949,63,IT-IT,Aumento difensivo II
+958,120,IT-IT,Aumento difensivo III
+967,121,IT-IT,Aumento difensivo IV
+868,58,IT-IT,Aumento magico I
+877,59,IT-IT,Aumento magico II
+886,116,IT-IT,Aumento magico III
+895,117,IT-IT,Aumento magico IV
+904,60,IT-IT,Aumento offensivo I
+913,61,IT-IT,Aumento offensivo II
+922,118,IT-IT,Aumento offensivo III
+931,119,IT-IT,Aumento offensivo IV
+832,56,IT-IT,Aumento vitale I
+841,57,IT-IT,Aumento vitale II
+850,114,IT-IT,Aumento vitale III
+859,115,IT-IT,Aumento vitale IV
+222,22,ES-ES,Bailarín
+437,107,DE-DE,Bandit
+74,9,EN-GB,Bang Afficionado
+83,10,EN-GB,Bang Virtuoso
+1082,72,EN-GB,Bang Ward
+672,89,ES-ES,Barricada
+668,89,EN-GB,Barricade
+669,89,FR-FR,Barricade
+670,89,IT-IT,Barricata
+671,89,DE-DE,Barrikade
+489,98,FR-FR,Beau-parleur
+1256,132,DE-DE,Bebenschild
+1136,78,EN-GB,Bedazzlement Blocker
+633,53,FR-FR,Bénévole
+1175,82,DE-DE,Betäubungsbezwinger
+482,42,DE-DE,Beutelschneider
+194,126,DE-DE,Bitterkaltblüter
+461,41,EN-GB,Blade Maven
+164,19,EN-GB,Blazer
+1139,78,DE-DE,Blendungsblocker
+821,127,EN-GB,Blowhard
+344,34,EN-GB,Blowy Slasher
+299,30,EN-GB,Blusterer
+499,181,IT-IT,Bollore
+975,64,FR-FR,Bonus d'agilité I
+984,65,FR-FR,Bonus d'agilité II
+993,122,FR-FR,Bonus d'agilité III
+1002,123,FR-FR,Bonus d'agilité IV
+903,60,FR-FR,Bonus d'attaque I
+912,61,FR-FR,Bonus d'attaque II
+921,118,FR-FR,Bonus d'attaque III
+930,119,FR-FR,Bonus d'attaque IV
+939,62,FR-FR,Bonus de défense I
+948,63,FR-FR,Bonus de défense II
+957,120,FR-FR,Bonus de défense III
+966,121,FR-FR,Bonus de défense IV
+867,58,FR-FR,Bonus de PM I
+876,59,FR-FR,Bonus de PM II
+885,116,FR-FR,Bonus de PM III
+894,117,FR-FR,Bonus de PM IV
+831,56,FR-FR,Bonus de PV I
+840,57,FR-FR,Bonus de PV II
+849,114,FR-FR,Bonus de PV III
+858,115,FR-FR,Bonus de PV IV
+1011,66,FR-FR,Bonus de sagesse I
+1020,67,FR-FR,Bonus de sagesse II
+1029,124,FR-FR,Bonus de sagesse III
+1038,125,FR-FR,Bonus de sagesse IV
+1245,133,FR-FR,Bouclier clair-obscur SP
+1236,134,FR-FR,Bouclier cyclonique SP
+1263,131,FR-FR,Bouclier électrique SP
+1218,135,FR-FR,Bouclier magmatique SP
+1227,136,FR-FR,Bouclier polaire SP
+1254,132,FR-FR,Bouclier tectonique SP
+641,111,EN-GB,Breath Taker
+444,40,FR-FR,Brisquard
+59,7,DE-DE,Bröckel-Fan
+1076,71,DE-DE,Bröckelresistenz
+68,8,DE-DE,Bröckel-Virtuose
+546,46,ES-ES,Bromista
+399,250,FR-FR,Brûleur
+795,93,FR-FR,Bûcher-charcuteur SP
+474,88,ES-ES,Buen caballero
+391,96,IT-IT,Buon cuore
+544,46,IT-IT,Burla
+264,26,FR-FR,Cafardeur
+168,19,ES-ES,Calcinador
+177,105,ES-ES,Calcinador inteligente
+753,91,ES-ES,Calcinante aéreo
+501,181,ES-ES,Caldeador
+435,107,FR-FR,Canaille
+768,103,FR-FR,Canon à neige
+690,90,ES-ES,Cansino
+695,112,EN-GB,Charmer
+696,112,FR-FR,Charmeur
+698,112,DE-DE,Charmeur
+777,129,FR-FR,Chaud-froid
+471,88,FR-FR,Chevalier servant
+1244,133,EN-GB,Chiaroscuro Shield
+182,110,EN-GB,Chilly Receptionist
+228,109,FR-FR,Chorégraphe
+230,109,DE-DE,Choreograph
+227,109,EN-GB,Choreographer
+246,24,FR-FR,Cœur de dragon
+447,40,ES-ES,Combatiente
+445,40,IT-IT,Combattimento
+1190,84,EN-GB,Confusion Controller
+606,251,FR-FR,Confusionniste
+816,94,ES-ES,Conjurador de primera
+112,13,IT-IT,Conoscenza dei fulmini
+22,3,IT-IT,Conoscenza dei liquidi
+40,5,IT-IT,Conoscenza dei venti
+4,1,IT-IT,Conoscenza del fuoco
+94,11,IT-IT,Conoscenza del ghiaccio
+130,15,IT-IT,Conoscenza della luce
+76,9,IT-IT,Conoscenza delle esplosioni
+58,7,IT-IT,Conoscenza delle rocce
+148,17,IT-IT,Conoscenza dell'oscurità
+1138,78,IT-IT,Contro-abbagliamento
+1147,79,IT-IT,Contro-antincanto
+1156,80,IT-IT,Contro-assorbimento
+1165,81,IT-IT,Contro-avvelenamento
+1192,84,IT-IT,Contro-confusione
+1129,77,IT-IT,Contro-indebolimento
+1194,84,ES-ES,Controlador de confusión
+1210,86,IT-IT,Contro-morte
+1201,85,IT-IT,Contro-paralisi
+1183,83,IT-IT,Contro-sonno
+1174,82,IT-IT,Contro-stordimento
+249,24,ES-ES,Corazón de dragón
+231,109,ES-ES,Coreógrafo
+480,42,FR-FR,Coupe-jarrets
+642,111,FR-FR,Coupe-souffle
+92,11,EN-GB,Crack Afficionado
+101,12,EN-GB,Crack Virtuoso
+1091,73,EN-GB,Crack Ward
+56,7,EN-GB,Crag Afficionado
+65,8,EN-GB,Crag Virtuoso
+1073,71,EN-GB,Crag Ward
+294,29,ES-ES,Creador oscuro
+312,31,ES-ES,Criatura de la naturaleza
+429,39,ES-ES,Criatura salvaje
+436,107,IT-IT,Criminalità
+389,96,EN-GB,Cupid
+393,96,ES-ES,Cupido
+390,96,FR-FR,Cupidon
+479,42,EN-GB,Cutpurse
+1235,134,EN-GB,Cyclone Shield
+218,22,EN-GB,Dancer
+219,22,FR-FR,Danseuse
+220,22,IT-IT,Danza
+290,29,EN-GB,Dark Artist
+1208,86,EN-GB,Death Defier
+627,52,ES-ES,Debilitador
+1127,77,EN-GB,Debilitation Ducker
+786,104,FR-FR,Débiteur SP
+209,21,EN-GB,Deep Breather
+938,62,EN-GB,Defence Booster I
+947,63,EN-GB,Defence Booster II
+956,120,EN-GB,Defence Booster III
+965,121,EN-GB,Defence Booster IV
+659,54,EN-GB,Defender
+660,54,FR-FR,Défenseur
+663,54,ES-ES,Defensor
+438,107,ES-ES,Delincuente
+291,29,FR-FR,Démonologue
+1212,86,ES-ES,Desafío a la muerte
+1131,77,ES-ES,Desviador de debilitación
+1140,78,ES-ES,Desviador de deslumbramiento
+771,103,ES-ES,Detonador de hielo
+797,93,DE-DE,Dicker Brummer
+723,219,FR-FR,Doudouleur
+248,24,DE-DE,Drachenherz
+245,24,EN-GB,Dragonheart
+1154,80,EN-GB,Drain Dodger
+463,41,IT-IT,Eccellenza con la spada
+454,106,IT-IT,Eccellenza magica
+770,103,DE-DE,Eisbombe
+492,98,ES-ES,Empalagoso
+699,112,ES-ES,Encantador
+615,51,FR-FR,Énergiseur
+411,248,ES-ES,Enfangar
+426,39,FR-FR,Enfant sauvage
+623,52,EN-GB,Enfeebler
+526,247,IT-IT,Enormità
+678,97,FR-FR,Enquiquineur
+1130,77,DE-DE,Entkräftungsentgeher
+267,26,ES-ES,Entomólogo
+653,113,DE-DE,Entzauberer
+1239,134,ES-ES,Escudo ciclónico
+1248,133,ES-ES,Escudo claroscuro
+1266,131,ES-ES,Escudo fulgurante
+1230,136,ES-ES,Escudo glacial
+1221,135,ES-ES,Escudo magmático
+1257,132,ES-ES,Escudo telúrico
+465,41,ES-ES,Esgrimista experto
+339,87,ES-ES,Espadachín aguado
+357,35,ES-ES,Espadachín pétreo
+330,33,ES-ES,Espadachín picante
+348,34,ES-ES,Espadachín ventoso
+327,33,FR-FR,Estoqueur de feu
+354,35,FR-FR,Estoqueur de pierre
+345,34,FR-FR,Estoqueur de vent
+336,87,FR-FR,Estoqueur d'eau
+375,37,ES-ES,Excomulgador
+24,3,ES-ES,Fan de Aspersión
+6,1,ES-ES,Fan de Miniataque ígneo
+114,13,ES-ES,Fan de Minidescarga
+78,9,ES-ES,Fan de Miniexplosión
+96,11,ES-ES,Fan de Minihelada
+132,15,ES-ES,Fan de Miniincendio
+150,17,ES-ES,Fan de Minirrayo
+60,7,ES-ES,Fan de Minirrisco
+42,5,ES-ES,Fan de Minitornado
+5,1,DE-DE,Fauch-Fan
+1049,68,DE-DE,Fauchresistenz
+14,2,DE-DE,Fauch-Virtuose
+329,33,DE-DE,Feurige Klinge
+443,40,EN-GB,Fighter
+203,20,DE-DE,Flachatmer
+743,188,DE-DE,Flaumel
+977,64,DE-DE,Flinkheitsverstärker I
+986,65,DE-DE,Flinkheitsverstärker II
+995,122,DE-DE,Flinkheitsverstärker III
+1004,123,DE-DE,Flinkheitsverstärker IV
+383,95,DE-DE,Flitzer
+725,219,DE-DE,Fluffi
+722,219,EN-GB,Fluffy
+166,19,IT-IT,Focosità
+175,105,IT-IT,Focosità plus
+715,158,IT-IT,Forte magia
+618,51,ES-ES,Fortificador
+616,51,IT-IT,Fortificazione
+614,51,EN-GB,Fortifier
+310,31,IT-IT,Forza della natura
+364,36,IT-IT,Freddi brividi
+767,103,EN-GB,Freeze Popper
+776,129,EN-GB,Freezer Burner
+183,110,FR-FR,Frigo
+2,1,EN-GB,Frizz Afficionado
+11,2,EN-GB,Frizz Virtuoso
+1046,68,EN-GB,Frizz Ward
+338,87,DE-DE,Frostige Klinge
+191,126,EN-GB,Frosty Receptionist
+1262,131,EN-GB,Fulgurite Shield
+1265,131,DE-DE,Fulguritschild
+778,129,IT-IT,Fuoco ghiacciato
+427,39,IT-IT,Furia selvaggia
+740,188,EN-GB,Fuzzy Thinker
+779,129,DE-DE,Gefrierbrandstifter
+769,103,IT-IT,Gelo esplosivo
+761,130,DE-DE,Gewitterguru
+257,25,DE-DE,Giftiger Grufti
+528,247,ES-ES,Gigantez
+400,250,IT-IT,Giocare col fuoco
+1226,136,EN-GB,Glacier Shield
+192,126,FR-FR,Glacière
+1229,136,DE-DE,Gletscherschild
+524,247,EN-GB,Goliath
+470,88,EN-GB,Good Knight
+661,54,IT-IT,Gran difesa
+210,21,FR-FR,Grand souffleur
+418,38,IT-IT,Grande potenza
+254,25,EN-GB,Graveheart
+149,17,DE-DE,Gritz-Fan
+1121,76,DE-DE,Gritzresistenz
+158,18,DE-DE,Gritz-Virtuose
+562,47,IT-IT,Guarigione
+581,49,DE-DE,Gute Fee
+788,104,DE-DE,Haarspalter
+785,104,EN-GB,Hair Splitter
+560,47,EN-GB,Healer
+717,158,ES-ES,Hechizador potente
+563,47,DE-DE,Heiler
+500,181,DE-DE,Heiße Sohle
+176,105,DE-DE,Heizungsmeister
+167,19,DE-DE,Heizungstechniker
+371,37,EN-GB,Hexcommunicator
+374,37,DE-DE,Hexorzist
+321,32,ES-ES,Hidrotecario
+263,26,EN-GB,Hive Mind
+497,181,EN-GB,Hottie
+830,56,EN-GB,HP Booster I
+839,57,EN-GB,HP Booster II
+848,114,EN-GB,HP Booster III
+857,115,EN-GB,HP Booster IV
+837,56,KO-KR,HP UP 1
+846,57,KO-KR,HP UP 2
+855,114,KO-KR,HP UP 3
+864,115,KO-KR,HP UP 4
+567,47,KO-KR,HP 회복
+829,56,JP-JP,HPアップ１
+838,57,JP-JP,HPアップ２
+847,114,JP-JP,HPアップ３
+856,115,JP-JP,HPアップ４
+559,47,JP-JP,HP回復
+566,47,ZH-CN,ＨＰ恢复
+565,47,ZH-TW,ＨＰ恢復
+835,56,ZH-TW,ＨＰ提升１
+836,56,ZH-CN,ＨＰ提升１
+844,57,ZH-TW,ＨＰ提升２
+845,57,ZH-CN,ＨＰ提升２
+853,114,ZH-TW,ＨＰ提升３
+854,114,ZH-CN,ＨＰ提升３
+862,115,ZH-TW,ＨＰ提升４
+863,115,ZH-CN,ＨＰ提升４
+798,93,ES-ES,Impactante
+794,93,EN-GB,Impactor
+796,93,IT-IT,Impatto incandescente
+165,19,FR-FR,Incendiaire
+625,52,IT-IT,Indebolimento
+265,26,IT-IT,Insector
+677,97,EN-GB,Irritant
+681,97,ES-ES,Irritante
+679,97,IT-IT,Irritazione
+402,250,ES-ES,Jugar con fuego
+185,110,DE-DE,Kaltblüter
+446,40,DE-DE,Kämpfer
+464,41,DE-DE,Klingenkenner
+95,11,DE-DE,Knirsch-Fan
+1094,73,DE-DE,Knirschresistenz
+104,12,DE-DE,Knirsch-Virtuose
+131,15,DE-DE,Knister-Fan
+1112,75,DE-DE,Knisterresistenz
+140,16,DE-DE,Knister-Virtuose
+266,26,DE-DE,Kollektivbewusstsein
+527,247,DE-DE,Koloss
+428,39,DE-DE,Krawallmacher
+473,88,DE-DE,Kreuzbraver Ritter
+1202,85,DE-DE,Lähmungslöser
+346,34,IT-IT,Lama eolica
+328,33,IT-IT,Lama infuocata
+337,87,IT-IT,Lama liquida
+787,104,IT-IT,Lama maestra
+355,35,IT-IT,Lama rocciosa
+240,23,ES-ES,Limero
+490,98,IT-IT,Lingua dolce
+507,43,FR-FR,Linguiste
+508,43,IT-IT,Linguistica
+833,56,DE-DE,LP-Verstärker I
+842,57,DE-DE,LP-Verstärker II
+851,114,DE-DE,LP-Verstärker III
+860,115,DE-DE,LP-Verstärker IV
+752,91,DE-DE,Lufterhitzer
+121,14,IT-IT,Maestria dei fulmini
+31,4,IT-IT,Maestria dei liquidi
+49,6,IT-IT,Maestria dei venti
+13,2,IT-IT,Maestria del fuoco
+103,12,IT-IT,Maestria del ghiaccio
+139,16,IT-IT,Maestria della luce
+85,10,IT-IT,Maestria delle esplosioni
+67,8,IT-IT,Maestria delle rocce
+157,18,IT-IT,Maestria dell'oscurità
+714,158,FR-FR,Mage maousse
+814,94,IT-IT,Magia suprema
+452,106,EN-GB,Magic Maven
+455,106,DE-DE,Magie-Magister
+1217,135,EN-GB,Magma Shield
+1220,135,DE-DE,Magmaschild
+456,106,ES-ES,Mago experto
+373,37,IT-IT,Maledicenza
+483,42,ES-ES,Manilargo
+417,38,FR-FR,Marmule
+537,99,ES-ES,Mártir
+535,99,IT-IT,Martirio
+533,99,EN-GB,Martyr
+534,99,FR-FR,Martyr
+536,99,DE-DE,Märtyrer
+274,27,IT-IT,Materialismo
+275,27,DE-DE,Materialist
+272,27,EN-GB,Materialist
+276,27,ES-ES,Materialista
+273,27,FR-FR,Matérialiste
+687,90,FR-FR,Mauvaise langue
+815,94,DE-DE,Meistermagier
+518,44,DE-DE,Meuchler
+580,49,IT-IT,Mistificazione
+866,58,EN-GB,MP Booster I
+875,59,EN-GB,MP Booster II
+884,116,EN-GB,MP Booster III
+893,117,EN-GB,MP Booster IV
+873,58,KO-KR,MP UP 1
+882,59,KO-KR,MP UP 2
+891,116,KO-KR,MP UP 3
+900,117,KO-KR,MP UP 4
+1161,80,KO-KR,MP 흡수 가드
+869,58,DE-DE,MP-Verstärker I
+878,59,DE-DE,MP-Verstärker II
+887,116,DE-DE,MP-Verstärker III
+896,117,DE-DE,MP-Verstärker IV
+865,58,JP-JP,MPアップ１
+874,59,JP-JP,MPアップ２
+883,116,JP-JP,MPアップ３
+892,117,JP-JP,MPアップ４
+1153,80,JP-JP,MP吸収ガード
+1160,80,ZH-CN,ＭＰ吸收防护
+1159,80,ZH-TW,ＭＰ吸收防護
+871,58,ZH-TW,ＭＰ提升１
+872,58,ZH-CN,ＭＰ提升１
+880,59,ZH-TW,ＭＰ提升２
+881,59,ZH-CN,ＭＰ提升２
+889,116,ZH-TW,ＭＰ提升３
+890,116,ZH-CN,ＭＰ提升３
+898,117,ZH-TW,ＭＰ提升４
+899,117,ZH-CN,ＭＰ提升４
+407,248,EN-GB,Mudmonger
+734,220,DE-DE,Muffi
+283,28,IT-IT,Naturalismo
+281,28,EN-GB,Naturalist
+285,28,ES-ES,Naturalista
+282,28,FR-FR,Naturaliste
+284,28,DE-DE,Naturbestie
+308,31,EN-GB,Nature Child
+311,31,DE-DE,Naturkind
+309,31,FR-FR,Naturopathe
+256,25,IT-IT,Necromanzia
+258,25,ES-ES,Nigromante
+472,88,IT-IT,Nobile cavalleria
+372,37,FR-FR,Occultiste
+706,55,IT-IT,Odore nauseabondo
+688,90,IT-IT,Oppressione
+434,107,EN-GB,Outlaw
+724,219,IT-IT,Ovattino
+607,251,IT-IT,Panico
+609,251,ES-ES,Pánico
+608,251,DE-DE,Panikmacher
+1199,85,EN-GB,Paralysis Protector
+569,48,EN-GB,Paramedic
+573,48,ES-ES,Paramédico
+744,188,ES-ES,pelocha
+726,219,ES-ES,peludín
+735,220,ES-ES,Peludoncho
+77,9,DE-DE,Peng-Fan
+1085,72,DE-DE,Pengresistenz
+86,10,DE-DE,Peng-Virtuose
+742,188,IT-IT,Pensiero confuso
+813,94,FR-FR,Pentacliste SP
+812,94,EN-GB,Perfect Speller
+201,20,FR-FR,Petit souffleur
+689,90,DE-DE,Plagegeist
+229,109,IT-IT,Pluridanza
+1163,81,EN-GB,Poison Preventer
+806,92,DE-DE,Polarexzess
+803,92,EN-GB,Polariser
+807,92,ES-ES,Polarizador
+805,92,IT-IT,Polarizzazione
+409,248,IT-IT,Poltiglia
+545,46,DE-DE,Possenreißer
+237,23,FR-FR,Pot de glu
+978,64,ES-ES,Potenciador de agilidad I
+987,65,ES-ES,Potenciador de agilidad II
+996,122,ES-ES,Potenciador de agilidad III
+1005,123,ES-ES,Potenciador de agilidad IV
+906,60,ES-ES,Potenciador de ataque I
+915,61,ES-ES,Potenciador de ataque II
+924,118,ES-ES,Potenciador de ataque III
+933,119,ES-ES,Potenciador de ataque IV
+942,62,ES-ES,Potenciador de defensa I
+951,63,ES-ES,Potenciador de defensa II
+960,120,ES-ES,Potenciador de defensa III
+969,121,ES-ES,Potenciador de defensa IV
+870,58,ES-ES,Potenciador de PM I
+879,59,ES-ES,Potenciador de PM II
+888,116,ES-ES,Potenciador de PM III
+897,117,ES-ES,Potenciador de PM IV
+834,56,ES-ES,Potenciador de PV I
+843,57,ES-ES,Potenciador de PV II
+852,114,ES-ES,Potenciador de PV III
+861,115,ES-ES,Potenciador de PV IV
+1014,66,ES-ES,Potenciador de sabiduría I
+1023,67,ES-ES,Potenciador de sabiduría II
+1032,124,ES-ES,Potenciador de sabiduría III
+1041,125,ES-ES,Potenciador de sabiduría IV
+420,38,ES-ES,Potenciador poderoso
+732,220,FR-FR,Poupouille
+416,38,EN-GB,Power Player
+542,46,EN-GB,Prankster
+555,249,ES-ES,Princesa
+551,249,EN-GB,Princess
+552,249,FR-FR,Princesse
+553,249,IT-IT,Principessa
+554,249,DE-DE,Prinzessin
+634,53,IT-IT,Pronto ausilio
+1104,74,ES-ES,Protección aislante
+1068,70,ES-ES,Protección antieólica
+1086,72,ES-ES,Protección antiexplosiones
+1113,75,ES-ES,Protección antincendios
+1050,68,ES-ES,Protección ignífuga
+1059,69,ES-ES,Protección impermeable
+1122,76,ES-ES,Protección pararrayos
+1077,71,ES-ES,Protección telúrica
+1095,73,ES-ES,Protección térmica
+1128,77,FR-FR,Protection Affaiblissement
+1155,80,FR-FR,Protection Aspirmagie
+1083,72,FR-FR,Protection Bang
+1191,84,FR-FR,Protection Confusion
+1110,75,FR-FR,Protection Crame
+1137,78,FR-FR,Protection Éblouissement
+1119,76,FR-FR,Protection Élec
+1146,79,FR-FR,Protection Empêchement
+1164,81,FR-FR,Protection Empoisonnement
+1173,82,FR-FR,Protection Étourdissement
+1047,68,FR-FR,Protection Flamme
+1101,74,FR-FR,Protection Foudre
+1092,73,FR-FR,Protection Glace
+1209,86,FR-FR,Protection Mort subite
+1200,85,FR-FR,Protection Paralysie
+1056,69,FR-FR,Protection Plouf
+1074,71,FR-FR,Protection Séisme
+1182,83,FR-FR,Protection Sommeil
+1065,70,FR-FR,Protection Tornade
+1203,85,ES-ES,Protector de parálisis
+174,105,FR-FR,Pyromane
+780,129,ES-ES,Quemador de hielo
+303,30,ES-ES,Racheador
+624,52,FR-FR,Ramollisseur
+186,110,ES-ES,Recepcionista frío
+195,126,ES-ES,Recepcionista helado
+579,49,FR-FR,Remèdiateur
+823,127,IT-IT,Respiro grandioso
+202,20,IT-IT,Respiro lieve
+211,21,IT-IT,Respiro pesante
+363,36,FR-FR,Risque-tout
+398,250,EN-GB,Roaster
+419,38,DE-DE,Rowdy
+543,46,FR-FR,Sacripant
+804,92,FR-FR,Saint de glace SP
+564,47,ES-ES,Sanador
+193,126,IT-IT,Sangue congelato
+184,110,IT-IT,Sangue freddo
+582,49,ES-ES,Sanitario
+572,48,DE-DE,Sanitäter
+645,111,ES-ES,Saquealientos
+716,158,DE-DE,Sauberer Zauberer
+41,5,DE-DE,Säusel-Fan
+1067,70,DE-DE,Säuselresistenz
+50,6,DE-DE,Säusel-Virtuose
+1184,83,DE-DE,Schlafstopper
+590,100,DE-DE,Schlaftherapeut
+410,248,DE-DE,Schlammatiker
+239,23,DE-DE,Schleimer
+705,55,FR-FR,Schlinguiste
+509,43,DE-DE,Schmieriger Typ
+23,3,DE-DE,Schütt-Fan
+32,4,DE-DE,Schütt-Virtuose
+626,52,DE-DE,Schwächer
+293,29,DE-DE,Schwarzkünstler
+1247,133,DE-DE,Schwarzweiß-Schild
+481,42,IT-IT,Scippo
+733,220,IT-IT,Scruffy
+731,220,EN-GB,Scruffy
+1246,133,IT-IT,Scudo del chiaroscuro
+1237,134,IT-IT,Scudo del ciclone
+1228,136,IT-IT,Scudo del ghiaccio
+1219,135,IT-IT,Scudo del magma
+1255,132,IT-IT,Scudo del tremore
+1264,131,IT-IT,Scudo della folgore
+697,112,IT-IT,Seduzione
+200,20,EN-GB,Shallow Breather
+652,113,IT-IT,Silenzia magia
+643,111,IT-IT,Silenzia respiri
+128,15,EN-GB,Sizz Afficionado
+137,16,EN-GB,Sizz Virtuoso
+1109,75,EN-GB,Sizz Ward
+587,100,EN-GB,Sleep Counsellor
+1181,83,EN-GB,Sleep Suppressor
+236,23,EN-GB,Slimer
+238,23,IT-IT,Slimer
+173,105,EN-GB,Smart Blazer
+335,87,EN-GB,Soggy Slasher
+561,47,FR-FR,Soigneur
+453,106,FR-FR,Sommité des sorts
+462,41,FR-FR,Sommité du sabre
+591,100,ES-ES,Somnífero
+589,100,IT-IT,Sonno pacifico
+578,49,EN-GB,Soothesayer
+822,127,FR-FR,Souffle-souffre SP
+380,95,EN-GB,Speedster
+326,33,EN-GB,Spicy Slasher
+247,24,IT-IT,Spirito di drago
+20,3,EN-GB,Splash Afficionado
+29,4,EN-GB,Splash Virtuoso
+1055,69,EN-GB,Splish Ward
+1058,69,DE-DE,Spritzresistenz
+617,51,DE-DE,Stärker
+356,35,DE-DE,Steinige Klinge
+704,55,EN-GB,Stinker
+707,55,DE-DE,Stinkstiefel
+353,35,EN-GB,Stony Slasher
+680,97,DE-DE,Störenfried
+758,130,EN-GB,Storm Brewer
+713,158,EN-GB,Strong Speller
+1172,82,EN-GB,Stun Stopper
+382,95,IT-IT,Super velocità
+1185,83,ES-ES,Supresor de sueño
+491,98,DE-DE,Süßholzraspler
+488,98,EN-GB,Sweet-Talker
+789,104,ES-ES,Tajador nato
+221,22,DE-DE,Tänzer
+571,48,IT-IT,Terapia
+362,36,EN-GB,Thrill-Seeker
+212,21,DE-DE,Tiefatmer
+525,247,FR-FR,Titan
+1211,86,DE-DE,Todesverweigerer
+506,43,EN-GB,Tongue Twister
+759,130,FR-FR,Tonitrueur
+598,50,IT-IT,Tossicologia
+750,91,FR-FR,Touffeur
+596,50,EN-GB,Toxicologist
+600,50,ES-ES,Toxicólogo
+597,50,FR-FR,Toxicologue
+599,50,DE-DE,Toxikologe
+510,43,ES-ES,Trabalenguas
+1253,132,EN-GB,Tremor Shield
+498,181,FR-FR,Troubalourdeur
+588,100,FR-FR,Tsé-tsérapeuthe
+300,30,FR-FR,Typhon
+570,48,FR-FR,Urgentiste
+301,30,IT-IT,Ventilazione
+1166,81,DE-DE,Vergiftungsvereitler
+1193,84,DE-DE,Verwirrungsvermeider
+1167,81,ES-ES,Vetavenenos
+686,90,EN-GB,Vexologist
+84,10,FR-FR,Virtuose de Bang
+138,16,FR-FR,Virtuose de Crame
+12,2,FR-FR,Virtuose de Flamme
+120,14,FR-FR,Virtuose de Foudre
+102,12,FR-FR,Virtuose de Glace
+66,8,FR-FR,Virtuose de Séisme
+30,4,FR-FR,Virtuose de Superplouf
+48,6,FR-FR,Virtuose de Tornade
+156,18,FR-FR,Virtuose d'Élec
+33,4,ES-ES,Virtuoso de Aspersión
+15,2,ES-ES,Virtuoso de Miniataque ígneo
+123,14,ES-ES,Virtuoso de Minidescarga
+87,10,ES-ES,Virtuoso de Miniexplosión
+105,12,ES-ES,Virtuoso de Minihelada
+141,16,ES-ES,Virtuoso de Miniincendio
+159,18,ES-ES,Virtuoso de Minirrayo
+69,8,ES-ES,Virtuoso de Minirrisco
+51,6,ES-ES,Virtuoso de Minitornado
+636,53,ES-ES,Voluntarioso
+1013,66,DE-DE,Weisheitsverstärker I
+1022,67,DE-DE,Weisheitsverstärker II
+1031,124,DE-DE,Weisheitsverstärker III
+1040,125,DE-DE,Weisheitsverstärker IV
+425,39,EN-GB,Wild Child
+635,53,DE-DE,Williger Helfer
+632,53,EN-GB,Willing Helper
+347,34,DE-DE,Windige Klinge
+302,30,DE-DE,Wirbelmacher
+1010,66,EN-GB,Wisdom Booster I
+1019,67,EN-GB,Wisdom Booster II
+1028,124,EN-GB,Wisdom Booster III
+1037,125,EN-GB,Wisdom Booster IV
+38,5,EN-GB,Woosh Afficionado
+47,6,EN-GB,Woosh Virtuoso
+1064,70,EN-GB,Woosh Ward
+146,17,EN-GB,Zam Afficionado
+155,18,EN-GB,Zam Virtuoso
+1118,76,EN-GB,Zam Ward
+110,13,EN-GB,Zap Afficionado
+119,14,EN-GB,Zap Virtuoso
+1100,74,EN-GB,Zap Ward
+113,13,DE-DE,Zick-Fan
+1103,74,DE-DE,Zickresistenz
+122,14,DE-DE,Zick-Virtuose
+255,25,FR-FR,Zombivant
+401,250,DE-DE,Zündteufel
+1238,134,DE-DE,Zyklonschild
+703,55,JP-JP,あくしゅう
+514,44,JP-JP,アサシン
+613,51,JP-JP,アッパー
+424,39,JP-JP,あばれんぼう
+649,113,JP-JP,アンチスペル
+640,111,JP-JP,アンチブレス
+253,25,JP-JP,アンデッド
+352,35,JP-JP,イエローソード
+271,27,JP-JP,いしあたま
+541,46,JP-JP,いたずら
+442,40,JP-JP,ウォリアー
+226,109,JP-JP,エンターテイナー
+370,37,JP-JP,カース
+1009,66,JP-JP,かしこさアップ１
+1018,67,JP-JP,かしこさアップ２
+1027,124,JP-JP,かしこさアップ３
+1036,125,JP-JP,かしこさアップ４
+388,96,JP-JP,キューピット
+811,94,JP-JP,グランスペルSP
+820,127,JP-JP,グランドブレスSP
+343,34,JP-JP,グリーンソード
+280,28,JP-JP,けもの道
+784,104,JP-JP,けんごうSP
+631,53,JP-JP,サポーター
+532,99,JP-JP,じこぎせい
+676,97,JP-JP,ジャマー
+379,95,JP-JP,しんそく
+487,98,JP-JP,スイート
+973,64,JP-JP,すばやさアップ１
+982,65,JP-JP,すばやさアップ２
+991,122,JP-JP,すばやさアップ３
+1000,123,JP-JP,すばやさアップ４
+235,23,JP-JP,スラフォース
+361,36,JP-JP,スリラー
+712,158,JP-JP,ソーサラー
+622,52,JP-JP,ダウナー
+217,22,JP-JP,ダンサー
+415,38,JP-JP,ちからもち
+298,30,JP-JP,つむじ風
+667,89,JP-JP,てっぺき
+244,24,JP-JP,ドラゴンソウル
+685,90,JP-JP,トリッキー
+496,181,JP-JP,トロピカル
+307,31,JP-JP,ナチュラル
+478,42,JP-JP,ぬすっと
+505,43,JP-JP,ヌメヌメ
+604,251,JP-JP,パニック
+433,107,JP-JP,バンデッド
+739,188,JP-JP,ピピぼう
+550,249,JP-JP,プリンセス
+334,87,JP-JP,ブルーソード
+208,21,JP-JP,ブレスマスター
+406,248,JP-JP,ヘドロ
+658,54,JP-JP,ぼうぎょ
+1198,85,JP-JP,マヒガード
+316,32,JP-JP,みずげい
+694,112,JP-JP,みわく
+262,26,JP-JP,むしのしらせ
+325,33,JP-JP,レッドソード
+721,219,JP-JP,わたぼう
+730,220,JP-JP,ワルぼう
+531,247,KO-KR,거구
+468,41,KO-KR,검술
+792,104,KO-KR,검호 SP
+909,60,KO-KR,공격력 UP 1
+918,61,KO-KR,공격력 UP 2
+927,118,KO-KR,공격력 UP 3
+936,119,KO-KR,공격력 UP 4
+558,249,KO-KR,공주
+819,94,KO-KR,그랑 스펠 SP
+828,127,KO-KR,그랜드 브레스 SP
+351,34,KO-KR,그린 소드
+477,88,KO-KR,기사도
+315,31,KO-KR,내추럴
+189,110,KO-KR,눈보라
+630,52,KO-KR,다우너
+225,22,KO-KR,댄서
+486,42,KO-KR,도적
+1170,81,KO-KR,독 가드
+603,50,KO-KR,독설
+279,27,KO-KR,돌머리
+252,24,KO-KR,드래곤 소울
+1080,71,KO-KR,땅 가드
+63,7,KO-KR,땅의 마음
+72,8,KO-KR,땅의 오의
+333,33,KO-KR,레드 소드
+1206,85,KO-KR,마비 가드
+459,106,KO-KR,마술
+702,112,KO-KR,매혹
+1062,69,KO-KR,물 가드
+27,3,KO-KR,물의 마음
+36,4,KO-KR,물의 오의
+513,43,KO-KR,미끈미끈
+981,64,KO-KR,민첩함 UP 1
+990,65,KO-KR,민첩함 UP 2
+999,122,KO-KR,민첩함 UP 3
+1008,123,KO-KR,민첩함 UP 4
+1071,70,KO-KR,바람 가드
+45,5,KO-KR,바람의 마음
+54,6,KO-KR,바람의 오의
+666,54,KO-KR,방어
+441,107,KO-KR,밴디트
+1269,131,KO-KR,번개 가드 SP
+270,26,KO-KR,벌레의 경고
+1152,79,KO-KR,봉인 가드
+1053,68,KO-KR,불 가드
+9,1,KO-KR,불의 마음
+18,2,KO-KR,불의 오의
+405,250,KO-KR,불장난
+216,21,KO-KR,브레스 마스터
+342,87,KO-KR,블루 소드
+1098,73,KO-KR,빙결 가드
+99,11,KO-KR,빙결의 마음
+108,12,KO-KR,빙결의 오의
+783,129,KO-KR,빙염의 검기
+198,126,KO-KR,빙옥
+1116,75,KO-KR,빛 가드
+135,15,KO-KR,빛의 마음
+144,16,KO-KR,빛의 오의
+747,188,KO-KR,삐삐몬
+639,53,KO-KR,서포터
+720,158,KO-KR,소서러
+594,100,KO-KR,수마
+1188,83,KO-KR,수면 가드
+945,62,KO-KR,수비력 UP 1
+954,63,KO-KR,수비력 UP 2
+963,120,KO-KR,수비력 UP 3
+972,121,KO-KR,수비력 UP 4
+324,32,KO-KR,수예
+207,20,KO-KR,숨결
+369,36,KO-KR,스릴러
+495,98,KO-KR,스위트
+243,23,KO-KR,슬라 포스
+810,92,KO-KR,신성한 눈보라 SP
+387,95,KO-KR,신속
+297,29,KO-KR,악마의 속삭임
+711,55,KO-KR,악취
+648,111,KO-KR,안티 브레스
+657,113,KO-KR,안티 스펠
+1134,77,KO-KR,약체화 가드
+1125,76,KO-KR,어둠 가드
+153,17,KO-KR,어둠의 마음
+162,18,KO-KR,어둠의 오의
+801,93,KO-KR,어둠의 폭염 SP
+522,44,KO-KR,어새신
+621,51,KO-KR,어퍼
+261,25,KO-KR,언데드
+234,109,KO-KR,엔터테이너
+360,35,KO-KR,옐로 소드
+180,105,KO-KR,옥염
+585,49,KO-KR,요정
+1224,135,KO-KR,용암 가드 SP
+450,40,KO-KR,워리어
+1233,136,KO-KR,유빙 가드 SP
+738,220,KO-KR,이블 코튼몬
+576,48,KO-KR,이상 회복
+540,99,KO-KR,자기희생
+549,46,KO-KR,장난
+684,97,KO-KR,재머
+1107,74,KO-KR,전격 가드
+117,13,KO-KR,전격의 마음
+126,14,KO-KR,전격의 오의
+260,25,ZH-CN,不死
+259,25,ZH-TW,不死者
+268,26,ZH-TW,不祥預感
+269,26,ZH-CN,不祥预感
+394,96,ZH-TW,丘比特
+395,96,ZH-CN,丘比特
+1215,86,KO-KR,즉사 가드
+414,248,KO-KR,진흙
+288,28,KO-KR,짐승의 길
+1171,82,JP-JP,休みガード
+1178,82,ZH-CN,休息防护
+1177,82,ZH-TW,休息防護
+818,94,ZH-CN,伟大咒文ＳＰ
+1108,75,JP-JP,光ガード
+127,15,JP-JP,光の心
+136,16,JP-JP,光の極意
+142,16,ZH-TW,光之奧祕
+133,15,ZH-TW,光之心
+134,15,ZH-CN,光之心
+143,16,ZH-CN,光之精髓
+1115,75,ZH-CN,光之防护
+1114,75,ZH-TW,光防護
+556,249,ZH-TW,公主
+557,249,ZH-CN,公主
+423,38,KO-KR,천하장사
+675,89,KO-KR,철벽
+782,129,ZH-CN,冰火剑技
+781,129,ZH-TW,冰炎劍技
+197,126,ZH-CN,冰狱
+196,126,ZH-TW,冰獄
+106,12,ZH-TW,冰結之奧祕
+97,11,ZH-TW,冰結之心
+1096,73,ZH-TW,冰結防護
+98,11,ZH-CN,冰结之心
+107,12,ZH-CN,冰结之精髓
+1097,73,ZH-CN,冰结防护
+1259,132,ZH-CN,冲击防护ＳＰ
+1017,66,KO-KR,총명함 UP 1
+1026,67,KO-KR,총명함 UP 2
+1035,124,KO-KR,총명함 UP 3
+1044,125,KO-KR,총명함 UP 4
+520,44,ZH-TW,刺客
+521,44,ZH-CN,刺客
+467,41,ZH-CN,剑术
+791,104,ZH-CN,剑豪ＳＰ
+460,41,JP-JP,剣術
+1169,81,ZH-CN,剧毒防护
+1260,132,KO-KR,충격 가드 SP
+466,41,ZH-TW,劍術
+790,104,ZH-TW,劍豪ＳＰ
+448,40,ZH-TW,勇士
+449,40,ZH-CN,勇士
+1207,86,JP-JP,即死ガード
+1214,86,ZH-CN,即死防护
+1213,86,ZH-TW,即死防護
+378,37,KO-KR,커스
+242,23,ZH-CN,史莱姆源力
+241,23,ZH-TW,史萊姆源力
+214,21,ZH-TW,吐息大師
+215,21,ZH-CN,吐息至尊
+729,219,KO-KR,코튼몬
+181,110,JP-JP,吹雪
+746,188,ZH-CN,哔哔精
+396,96,KO-KR,큐피드
+1072,71,JP-JP,地ガード
+55,7,JP-JP,地の心
+64,8,JP-JP,地の極意
+70,8,ZH-TW,地之奧祕
+61,7,ZH-TW,地之心
+62,7,ZH-CN,地之心
+71,8,ZH-CN,地之精髓
+1079,71,ZH-CN,地之防护
+1078,71,ZH-TW,地防護
+278,27,ZH-CN,坚硬脑袋
+504,181,KO-KR,트로피컬
+693,90,KO-KR,트리키
+612,251,KO-KR,패닉
+432,39,KO-KR,폭거
+1089,72,KO-KR,폭발 가드
+81,9,KO-KR,폭발의 마음
+90,10,KO-KR,폭발의 오의
+774,103,KO-KR,폭빙의 검기
+1242,134,KO-KR,폭풍 가드 SP
+421,38,ZH-TW,大力士
+422,38,ZH-CN,大力士
+827,127,ZH-CN,大吐息ＳＰ
+765,130,KO-KR,풍뢰의 검기
+756,91,KO-KR,풍염의 검기
+719,158,ZH-CN,妖术师
+577,49,JP-JP,妖精
+583,49,ZH-TW,妖精
+584,49,ZH-CN,妖精
+718,158,ZH-TW,妖術師
+233,109,ZH-CN,娱乐家
+1197,84,KO-KR,혼란 가드
+171,19,KO-KR,화염
+1143,78,KO-KR,환혹 가드
+306,30,KO-KR,회오리바람
+937,62,JP-JP,守備力アップ１
+946,63,JP-JP,守備力アップ２
+955,120,JP-JP,守備力アップ３
+964,121,JP-JP,守備力アップ４
+943,62,ZH-TW,守備力提升１
+952,63,ZH-TW,守備力提升２
+961,120,ZH-TW,守備力提升３
+970,121,ZH-TW,守備力提升４
+1179,82,KO-KR,휴식 가드
+1144,79,JP-JP,封じガード
+1151,79,ZH-CN,封印防护
+1150,79,ZH-TW,封印防護
+1251,133,KO-KR,흑백 가드 SP
+601,50,ZH-TW,尖酸刻薄
+602,50,ZH-CN,尖酸刻薄
+826,127,ZH-TW,崇高吐息ＳＰ
+817,94,ZH-TW,崇高咒文ＳＰ
+523,247,JP-JP,巨漢
+530,247,ZH-CN,巨躯
+529,247,ZH-TW,巨軀
+683,97,ZH-CN,干扰
+682,97,ZH-TW,干擾
+1135,78,JP-JP,幻惑ガード
+575,48,ZH-CN,异常解除
+1126,77,JP-JP,弱体化ガード
+628,52,ZH-TW,弱化者
+629,52,ZH-CN,弱化者
+1133,77,ZH-CN,弱化防护
+1132,77,ZH-TW,弱化防護
+619,51,ZH-TW,強化者
+620,51,ZH-CN,强化者
+368,36,ZH-CN,恐惧
+610,251,ZH-TW,恐慌
+611,251,ZH-CN,恐慌
+199,20,JP-JP,息吹
+440,107,ZH-CN,恶棍
+710,55,ZH-CN,恶臭
+296,29,ZH-CN,恶魔的低语
+289,29,JP-JP,悪魔のささやき
+547,46,ZH-TW,惡作劇
+439,107,ZH-TW,惡棍
+709,55,ZH-TW,惡臭
+295,29,ZH-TW,惡魔的呢喃
+646,111,ZH-TW,抗吐息
+647,111,ZH-CN,抗吐息
+655,113,ZH-TW,抗咒文
+656,113,ZH-CN,抗咒文
+548,46,ZH-CN,捣蛋
+637,53,ZH-TW,支援者
+638,53,ZH-CN,支援者
+908,60,ZH-CN,攻击力提升１
+917,61,ZH-CN,攻击力提升２
+926,118,ZH-CN,攻击力提升３
+935,119,ZH-CN,攻击力提升４
+901,60,JP-JP,攻撃力アップ１
+910,61,JP-JP,攻撃力アップ２
+919,118,JP-JP,攻撃力アップ３
+928,119,JP-JP,攻撃力アップ４
+907,60,ZH-TW,攻擊力提升１
+916,61,ZH-TW,攻擊力提升２
+925,118,ZH-TW,攻擊力提升３
+934,119,ZH-TW,攻擊力提升４
+980,64,ZH-CN,敏捷提升１
+989,65,ZH-CN,敏捷提升２
+998,122,ZH-CN,敏捷提升３
+1007,123,ZH-CN,敏捷提升４
+304,30,ZH-TW,旋風
+305,30,ZH-CN,旋风
+1015,66,ZH-TW,智力提升１
+1016,66,ZH-CN,智力提升１
+1024,67,ZH-TW,智力提升２
+1025,67,ZH-CN,智力提升２
+1033,124,ZH-TW,智力提升３
+1034,124,ZH-CN,智力提升３
+1042,125,ZH-TW,智力提升４
+1043,125,ZH-CN,智力提升４
+152,17,ZH-CN,暗之心
+161,18,ZH-CN,暗之精髓
+1124,76,ZH-CN,暗之防护
+430,39,ZH-TW,暴徒
+431,39,ZH-CN,暴徒
+187,110,ZH-TW,暴雪
+188,110,ZH-CN,暴雪
+1162,81,JP-JP,毒ガード
+595,50,JP-JP,毒舌
+1168,81,ZH-TW,毒防護
+206,20,ZH-CN,气息
+1241,134,ZH-CN,气浪防护ＳＰ
+205,20,ZH-TW,氣息
+1054,69,JP-JP,水ガード
+19,3,JP-JP,水の心
+28,4,JP-JP,水の極意
+34,4,ZH-TW,水之奧祕
+25,3,ZH-TW,水之心
+26,3,ZH-CN,水之心
+323,32,ZH-CN,水之技艺
+322,32,ZH-TW,水之技藝
+35,4,ZH-CN,水之精髓
+1061,69,ZH-CN,水之防护
+1060,69,ZH-TW,水防護
+775,129,JP-JP,氷炎の剣技
+190,126,JP-JP,氷獄
+1090,73,JP-JP,氷結ガード
+91,11,JP-JP,氷結の心
+100,12,JP-JP,氷結の極意
+1187,83,ZH-CN,沉睡防护
+1231,136,ZH-TW,流冰防護ＳＰ
+1225,136,JP-JP,流氷ガードSP
+1232,136,ZH-CN,浮冰防护ＳＰ
+737,220,ZH-CN,淘气精
+736,220,ZH-TW,淘氣精
+412,248,ZH-TW,淤泥
+413,248,ZH-CN,淤泥
+1189,84,JP-JP,混乱ガード
+1196,84,ZH-CN,混乱防护
+1195,84,ZH-TW,混亂防護
+1216,135,JP-JP,溶岩ガードSP
+512,43,ZH-CN,滑溜溜
+1045,68,JP-JP,火ガード
+1,1,JP-JP,火の心
+10,2,JP-JP,火の極意
+16,2,ZH-TW,火之奧祕
+7,1,ZH-TW,火之心
+8,1,ZH-CN,火之心
+17,2,ZH-CN,火之精髓
+1052,68,ZH-CN,火之防护
+163,19,JP-JP,火炎
+169,19,ZH-TW,火焰
+170,19,ZH-CN,火焰
+397,250,JP-JP,火遊び
+1051,68,ZH-TW,火防護
+503,181,ZH-CN,热带
+1223,135,ZH-CN,熔岩防护ＳＰ
+1222,135,ZH-TW,熔岩防護ＳＰ
+502,181,ZH-TW,熱帶
+773,103,ZH-CN,爆冰剑技
+772,103,ZH-TW,爆冰劍技
+766,103,JP-JP,爆氷の剣技
+88,10,ZH-TW,爆炸之奧祕
+79,9,ZH-TW,爆炸之心
+80,9,ZH-CN,爆炸之心
+89,10,ZH-CN,爆炸之精髓
+1088,72,ZH-CN,爆炸防护
+1087,72,ZH-TW,爆炸防護
+1081,72,JP-JP,爆発ガード
+73,9,JP-JP,爆発の心
+82,10,JP-JP,爆発の極意
+1234,134,JP-JP,爆風ガードSP
+1240,134,ZH-TW,爆風防護ＳＰ
+692,90,ZH-CN,狡猾
+179,105,ZH-CN,狱焰
+178,105,ZH-TW,獄炎
+172,105,JP-JP,獄炎
+403,250,ZH-TW,玩火
+404,250,ZH-CN,玩火
+493,98,ZH-TW,甜蜜
+494,98,ZH-CN,甜蜜
+116,13,ZH-CN,电击之心
+125,14,ZH-CN,电击之精髓
+1106,74,ZH-CN,电击防护
+568,48,JP-JP,異常回復
+574,48,ZH-TW,異常解除
+1243,133,JP-JP,白黒ガードSP
+745,188,ZH-TW,皮皮精
+485,42,ZH-CN,盗贼
+484,42,ZH-TW,盜賊
+1180,83,JP-JP,眠りガード
+1186,83,ZH-TW,睡眠防護
+586,100,JP-JP,睡魔
+592,100,ZH-TW,睡魔
+593,100,ZH-CN,睡魔
+277,27,ZH-TW,石頭腦袋
+809,92,ZH-CN,神圣暴雪ＳＰ
+808,92,ZH-TW,神聖暴雪ＳＰ
+385,95,ZH-TW,神速
+386,95,ZH-CN,神速
+1261,131,JP-JP,稲妻ガードSP
+331,33,ZH-TW,紅之劍
+349,34,ZH-TW,綠之劍
+727,219,ZH-TW,綿綿精
+332,33,ZH-CN,红剑
+728,219,ZH-CN,绒绒精
+350,34,ZH-CN,绿剑
+802,92,JP-JP,聖なる吹雪SP
+539,99,ZH-CN,自我牺牲
+538,99,ZH-TW,自我犧牲
+313,31,ZH-TW,自然
+314,31,ZH-CN,自然
+223,22,ZH-TW,舞者
+224,22,ZH-CN,舞者
+341,87,ZH-CN,蓝剑
+340,87,ZH-TW,藍之劍
+232,109,ZH-TW,藝人
+1252,132,JP-JP,衝撃ガードSP
+1258,132,ZH-TW,衝擊防護ＳＰ
+376,37,ZH-TW,詛咒
+691,90,ZH-TW,詭計
+377,37,ZH-CN,诅咒
+1141,78,ZH-TW,迷幻防護
+1142,78,ZH-CN,迷惑防护
+979,64,ZH-TW,速度提升１
+988,65,ZH-TW,速度提升２
+997,122,ZH-TW,速度提升３
+1006,123,ZH-TW,速度提升４
+287,28,ZH-CN,野兽之道
+286,28,ZH-TW,野獸道
+673,89,ZH-TW,鐵壁
+674,89,ZH-CN,铁壁
+1267,131,ZH-TW,閃電防護ＳＰ
+1117,76,JP-JP,闇ガード
+145,17,JP-JP,闇の心
+154,18,JP-JP,闇の極意
+793,93,JP-JP,闇の爆炎SP
+160,18,ZH-TW,闇之奧祕
+151,17,ZH-TW,闇之心
+799,93,ZH-TW,闇之烈焰ＳＰ
+1123,76,ZH-TW,闇防護
+1268,131,ZH-CN,闪电防护ＳＰ
+665,54,ZH-CN,防御
+944,62,ZH-CN,防御力提升１
+953,63,ZH-CN,防御力提升２
+962,120,ZH-CN,防御力提升３
+971,121,ZH-CN,防御力提升４
+664,54,ZH-TW,防禦
+1099,74,JP-JP,電撃ガード
+109,13,JP-JP,電撃の心
+118,14,JP-JP,電撃の極意
+124,14,ZH-TW,電擊之奧祕
+115,13,ZH-TW,電擊之心
+1105,74,ZH-TW,電擊防護
+1063,70,JP-JP,風ガード
+37,5,JP-JP,風の心
+46,6,JP-JP,風の極意
+52,6,ZH-TW,風之奧祕
+43,5,ZH-TW,風之心
+748,91,JP-JP,風炎の剣技
+754,91,ZH-TW,風炎劍技
+1069,70,ZH-TW,風防護
+757,130,JP-JP,風雷の剣技
+763,130,ZH-TW,風雷劍技
+44,5,ZH-CN,风之心
+53,6,ZH-CN,风之精髓
+1070,70,ZH-CN,风之防护
+755,91,ZH-CN,风火剑技
+764,130,ZH-CN,风雷剑技
+475,88,ZH-TW,騎士精神
+469,88,JP-JP,騎士道
+367,36,ZH-TW,驚悚
+476,88,ZH-CN,骑士精神
+700,112,ZH-TW,魅惑
+701,112,ZH-CN,魅惑
+458,106,ZH-CN,魔术
+457,106,ZH-TW,魔術
+451,106,JP-JP,魔術
+1205,85,ZH-CN,麻痹防护
+1204,85,ZH-TW,麻痺防護
+358,35,ZH-TW,黃之劍
+359,35,ZH-CN,黄剑
+511,43,ZH-TW,黏滑
+800,93,ZH-CN,黑暗爆炎ＳＰ
+1250,133,ZH-CN,黑白防护ＳＰ
+1249,133,ZH-TW,黑白防護ＳＰ
+250,24,ZH-TW,龍魂
+251,24,ZH-CN,龙魂
