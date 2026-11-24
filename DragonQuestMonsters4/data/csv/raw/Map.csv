@@ -1,0 +1,20 @@
+MapId,Name,Identifier,OriginX,OriginY,MaxWidth,MaxHeight,PixelWidth,PixelHeight
+6,Boughborough,map_0_town,600.0000,3810.0000,30000.0000,30000.0000,1024,1024
+7,Boughborough - Arena,map_0_town_arena,50000.0000,-6000.0000,4500.0000,4500.0000,1024,1024
+8,Boughborough - Bar,map_0_town_bar,55743.0000,5766.0000,4500.0000,4500.0000,1024,1024
+9,Boughborough - House #1,map_0_town_house_0,50000.0000,5700.0000,4500.0000,4500.0000,1024,1024
+10,Boughborough - House #2,map_0_town_house_1,45000.0000,5690.0000,4500.0000,4500.0000,1024,1024
+11,Boughborough - House #3,map_0_town_house_2,39503.6900,5498.2910,4500.0000,4500.0000,1024,1024
+12,Boughborough - House #4,map_0_town_house_3,39320.0000,0.0000,4500.0000,4500.0000,1024,1024
+14,Boughborough - Medal Shop,map_0_town_medalshop,55485.9140,-5499.0710,4500.0000,4500.0000,1024,1024
+5,Boughborough - Paddock,map_0_farm,600.0000,5100.0000,30000.0000,30000.0000,1024,1024
+13,Boughborough - Shop,map_0_town_shop,39300.0000,-5000.0000,4500.0000,4500.0000,1024,1024
+19,Witherwood,map_1_field_0,0.0000,0.0000,42000.0000,42000.0000,1024,1024
+16,Witherwood - The Shrine of Serenity,map_1_dungeon1_0,0.0000,0.0000,25000.0000,25000.0000,1024,1024
+18,Witherwood - The Shrine of Serenity - Interior,map_1_dungeon1_2,330.0000,0.0000,16500.0000,16500.0000,1024,1024
+17,Witherwood - The Shrine of Serenity - Place of Peace,map_1_dungeon1_1,330.0000,0.0000,16500.0000,16500.0000,1024,1024
+15,Witherwood - The Spelunk,map_1_dungeon0_0,-6800.0000,-7900.0000,23000.0000,23000.0000,1024,1024
+2,Witherwood Castle - Atrium,map_0_castle_1,0.0000,1552.3396,15000.0000,15000.0000,1024,1024
+1,Witherwood Castle - Hallway,map_0_castle_0,-4390.1350,-3961.0337,15000.0000,15000.0000,1024,1024
+4,Witherwood Castle - King,map_0_castle_3,0.0000,4107.3394,15000.0000,15000.0000,1024,1024
+3,Witherwood Castle - The Starry Shrine,map_0_castle_2,-20.5162,10755.6680,15000.0000,15000.0000,1024,1024

@@ -1,0 +1,211 @@
+[
+  {
+    "MapId": 6,
+    "Name": "Boughborough",
+    "Identifier": "map_0_town",
+    "OriginX": 600.0000,
+    "OriginY": 3810.0000,
+    "MaxWidth": 30000.0000,
+    "MaxHeight": 30000.0000,
+    "PixelWidth": 1024,
+    "PixelHeight": 1024
+  },
+  {
+    "MapId": 7,
+    "Name": "Boughborough - Arena",
+    "Identifier": "map_0_town_arena",
+    "OriginX": 50000.0000,
+    "OriginY": -6000.0000,
+    "MaxWidth": 4500.0000,
+    "MaxHeight": 4500.0000,
+    "PixelWidth": 1024,
+    "PixelHeight": 1024
+  },
+  {
+    "MapId": 8,
+    "Name": "Boughborough - Bar",
+    "Identifier": "map_0_town_bar",
+    "OriginX": 55743.0000,
+    "OriginY": 5766.0000,
+    "MaxWidth": 4500.0000,
+    "MaxHeight": 4500.0000,
+    "PixelWidth": 1024,
+    "PixelHeight": 1024
+  },
+  {
+    "MapId": 9,
+    "Name": "Boughborough - House #1",
+    "Identifier": "map_0_town_house_0",
+    "OriginX": 50000.0000,
+    "OriginY": 5700.0000,
+    "MaxWidth": 4500.0000,
+    "MaxHeight": 4500.0000,
+    "PixelWidth": 1024,
+    "PixelHeight": 1024
+  },
+  {
+    "MapId": 10,
+    "Name": "Boughborough - House #2",
+    "Identifier": "map_0_town_house_1",
+    "OriginX": 45000.0000,
+    "OriginY": 5690.0000,
+    "MaxWidth": 4500.0000,
+    "MaxHeight": 4500.0000,
+    "PixelWidth": 1024,
+    "PixelHeight": 1024
+  },
+  {
+    "MapId": 11,
+    "Name": "Boughborough - House #3",
+    "Identifier": "map_0_town_house_2",
+    "OriginX": 39503.6900,
+    "OriginY": 5498.2910,
+    "MaxWidth": 4500.0000,
+    "MaxHeight": 4500.0000,
+    "PixelWidth": 1024,
+    "PixelHeight": 1024
+  },
+  {
+    "MapId": 12,
+    "Name": "Boughborough - House #4",
+    "Identifier": "map_0_town_house_3",
+    "OriginX": 39320.0000,
+    "OriginY": 0.0000,
+    "MaxWidth": 4500.0000,
+    "MaxHeight": 4500.0000,
+    "PixelWidth": 1024,
+    "PixelHeight": 1024
+  },
+  {
+    "MapId": 14,
+    "Name": "Boughborough - Medal Shop",
+    "Identifier": "map_0_town_medalshop",
+    "OriginX": 55485.9140,
+    "OriginY": -5499.0710,
+    "MaxWidth": 4500.0000,
+    "MaxHeight": 4500.0000,
+    "PixelWidth": 1024,
+    "PixelHeight": 1024
+  },
+  {
+    "MapId": 5,
+    "Name": "Boughborough - Paddock",
+    "Identifier": "map_0_farm",
+    "OriginX": 600.0000,
+    "OriginY": 5100.0000,
+    "MaxWidth": 30000.0000,
+    "MaxHeight": 30000.0000,
+    "PixelWidth": 1024,
+    "PixelHeight": 1024
+  },
+  {
+    "MapId": 13,
+    "Name": "Boughborough - Shop",
+    "Identifier": "map_0_town_shop",
+    "OriginX": 39300.0000,
+    "OriginY": -5000.0000,
+    "MaxWidth": 4500.0000,
+    "MaxHeight": 4500.0000,
+    "PixelWidth": 1024,
+    "PixelHeight": 1024
+  },
+  {
+    "MapId": 19,
+    "Name": "Witherwood",
+    "Identifier": "map_1_field_0",
+    "OriginX": 0.0000,
+    "OriginY": 0.0000,
+    "MaxWidth": 42000.0000,
+    "MaxHeight": 42000.0000,
+    "PixelWidth": 1024,
+    "PixelHeight": 1024
+  },
+  {
+    "MapId": 16,
+    "Name": "Witherwood - The Shrine of Serenity",
+    "Identifier": "map_1_dungeon1_0",
+    "OriginX": 0.0000,
+    "OriginY": 0.0000,
+    "MaxWidth": 25000.0000,
+    "MaxHeight": 25000.0000,
+    "PixelWidth": 1024,
+    "PixelHeight": 1024
+  },
+  {
+    "MapId": 18,
+    "Name": "Witherwood - The Shrine of Serenity - Interior",
+    "Identifier": "map_1_dungeon1_2",
+    "OriginX": 330.0000,
+    "OriginY": 0.0000,
+    "MaxWidth": 16500.0000,
+    "MaxHeight": 16500.0000,
+    "PixelWidth": 1024,
+    "PixelHeight": 1024
+  },
+  {
+    "MapId": 17,
+    "Name": "Witherwood - The Shrine of Serenity - Place of Peace",
+    "Identifier": "map_1_dungeon1_1",
+    "OriginX": 330.0000,
+    "OriginY": 0.0000,
+    "MaxWidth": 16500.0000,
+    "MaxHeight": 16500.0000,
+    "PixelWidth": 1024,
+    "PixelHeight": 1024
+  },
+  {
+    "MapId": 15,
+    "Name": "Witherwood - The Spelunk",
+    "Identifier": "map_1_dungeon0_0",
+    "OriginX": -6800.0000,
+    "OriginY": -7900.0000,
+    "MaxWidth": 23000.0000,
+    "MaxHeight": 23000.0000,
+    "PixelWidth": 1024,
+    "PixelHeight": 1024
+  },
+  {
+    "MapId": 2,
+    "Name": "Witherwood Castle - Atrium",
+    "Identifier": "map_0_castle_1",
+    "OriginX": 0.0000,
+    "OriginY": 1552.3396,
+    "MaxWidth": 15000.0000,
+    "MaxHeight": 15000.0000,
+    "PixelWidth": 1024,
+    "PixelHeight": 1024
+  },
+  {
+    "MapId": 1,
+    "Name": "Witherwood Castle - Hallway",
+    "Identifier": "map_0_castle_0",
+    "OriginX": -4390.1350,
+    "OriginY": -3961.0337,
+    "MaxWidth": 15000.0000,
+    "MaxHeight": 15000.0000,
+    "PixelWidth": 1024,
+    "PixelHeight": 1024
+  },
+  {
+    "MapId": 4,
+    "Name": "Witherwood Castle - King",
+    "Identifier": "map_0_castle_3",
+    "OriginX": 0.0000,
+    "OriginY": 4107.3394,
+    "MaxWidth": 15000.0000,
+    "MaxHeight": 15000.0000,
+    "PixelWidth": 1024,
+    "PixelHeight": 1024
+  },
+  {
+    "MapId": 3,
+    "Name": "Witherwood Castle - The Starry Shrine",
+    "Identifier": "map_0_castle_2",
+    "OriginX": -20.5162,
+    "OriginY": 10755.6680,
+    "MaxWidth": 15000.0000,
+    "MaxHeight": 15000.0000,
+    "PixelWidth": 1024,
+    "PixelHeight": 1024
+  }
+]

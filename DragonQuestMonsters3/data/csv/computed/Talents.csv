@@ -7,6 +7,7 @@ Agility Booster III,False,Agility Booster IV,Agility Booster II
 Agility Booster IV,False,,Agility Booster III
 Air Fryer,False,Hair Splitter,Spicy Slasher + Blowy Slasher
 Airhead,False,,
+Alarmist,False,,
 Altruist,False,,
 Anaesthetist,False,,
 Antimagic Avoider,False,,
@@ -96,6 +97,7 @@ Frosty Receptionist,False,Blowhard,Chilly Receptionist
 Fulgurite Shield,False,,Zap Ward + Sizz Ward
 Fuzzy Thinker,False,,
 Glacier Shield,False,,Crack Ward + Splish Ward
+Goliath,False,,
 Good Knight,False,,
 Graveheart,False,,
 Greygnarl,False,,
@@ -116,7 +118,6 @@ HP Booster I,False,HP Booster II,
 HP Booster II,False,HP Booster III,HP Booster I
 HP Booster III,False,HP Booster IV,HP Booster II
 HP Booster IV,False,,HP Booster III
-Hulk,False,,
 Impactor,False,Perfect Speller,"Crag Virtuoso + Bang Virtuoso, Crag Virtuoso + Frizz Virtuoso, Crag Virtuoso + Zam Virtuoso, Frizz Virtuoso + Zam Virtuoso, Frizz Virtuoso + Bang Virtuoso, Zam Virtuoso + Bang Virtuoso"
 Irritant,False,,
 Jasper Unbound,False,,
@@ -140,6 +141,7 @@ MP Booster I,False,MP Booster II,
 MP Booster II,False,MP Booster III,MP Booster I
 MP Booster III,False,MP Booster IV,MP Booster II
 MP Booster IV,False,,MP Booster III
+Mudmonger,False,,
 Multidisciplinarian,False,,
 Murdaw,False,,
 Musclehead,False,,
@@ -164,6 +166,7 @@ Pop Diva,False,,
 Pop Idol,False,,
 Power Player,False,,
 Prankster,False,,
+Princess,False,,
 Protector,False,,
 Psaro the Manslayer,False,,
 Pyrotechnician,False,,
@@ -173,6 +176,7 @@ Razerburn,False,,
 Refrigerator,False,,
 Respirator,False,,
 Rhapthorne,False,,
+Roaster,False,,
 Rockin' Roller,False,,
 Rug Cutter,False,,
 Sage,False,,
@@ -189,7 +193,7 @@ Smart Blazer,False,Blowhard,Blazer
 Smarty-Pants,False,,
 Snow Drifer,False,,
 Soggy Slasher,False,"Freeze Popper, Freezer Burner",
-Soothsayer,False,,
+Soothesayer,False,,
 Sovereign,False,,
 Sparkling Warder,True,,
 Speedster,False,,
@@ -227,8 +231,8 @@ Wisdom Booster I,False,Wisdom Booster II,
 Wisdom Booster II,False,Wisdom Booster III,Wisdom Booster I
 Wisdom Booster III,False,Wisdom Booster IV,Wisdom Booster II
 Wisdom Booster IV,False,,Wisdom Booster III
-Woosh Afficionado,False,,
-Woosh Virtuoso,False,Polariser,
+Woosh Afficionado,False,Woosh Virtuoso,
+Woosh Virtuoso,False,Polariser,Woosh Afficionado
 Woosh Ward,False,Cyclone Shield,
 Wrecker,False,,
 Wyrmhole Dragon,False,,

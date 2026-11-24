@@ -1,1037 +1,1457 @@
 [
   {
     "Result": "Antguzzler",
+    "ResultNumber": 223,
     "Parent1": "Fat Rat",
-    "Parent2": "Toady"
+    "Parent1Number": "227",
+    "Parent2": "Toady",
+    "Parent2Number": "156"
   },
   {
     "Result": "Armoured Wartoise",
+    "ResultNumber": 79,
     "Parent1": "Dragon Family (F)",
     "Parent2": "Material Family (F)"
   },
   {
     "Result": "Avian Android",
+    "ResultNumber": 319,
     "Parent1": "Kingfuschia",
+    "Parent1Number": "153",
     "Parent2": "Material Family (Any)"
   },
   {
     "Result": "Avian Android",
+    "ResultNumber": 319,
     "Parent1": "Material Family (F)",
     "Parent2": "Beast Family (F)"
   },
   {
     "Result": "Avian Android",
+    "ResultNumber": 319,
     "Parent1": "Mecha-Mynah",
-    "Parent2": "Damselfly"
+    "Parent1Number": "312",
+    "Parent2": "Damselfly",
+    "Parent2Number": "76"
   },
   {
     "Result": "Bad Apple",
+    "ResultNumber": 161,
     "Parent1": "Mad Mollusk",
-    "Parent2": "Piña Marauder"
+    "Parent1Number": "151",
+    "Parent2": "Piña Marauder",
+    "Parent2Number": "382"
   },
   {
     "Result": "Bad Apple",
+    "ResultNumber": 161,
     "Parent1": "Nature Family (F)",
     "Parent2": "Undead Family (F)"
   },
   {
     "Result": "Bad Egg",
+    "ResultNumber": 6,
     "Parent1": "Slime Family (G)",
     "Parent2": "Dragon Family (G)"
   },
   {
     "Result": "Bambooligan",
+    "ResultNumber": 306,
     "Parent1": "String Fella",
-    "Parent2": "Cruelcumber"
+    "Parent1Number": "305",
+    "Parent2": "Cruelcumber",
+    "Parent2Number": "150"
   },
   {
     "Result": "Bantamweight",
+    "ResultNumber": 145,
     "Parent1": "Stark Raven",
-    "Parent2": "Crested Viper"
+    "Parent1Number": "144",
+    "Parent2": "Crested Viper",
+    "Parent2Number": "72"
   },
   {
     "Result": "Bludgerigar",
+    "ResultNumber": 154,
     "Parent1": "Mecha-Mynah",
-    "Parent2": "Candy Cat"
+    "Parent1Number": "312",
+    "Parent2": "Candy Cat",
+    "Parent2Number": "229"
   },
   {
     "Result": "Bodkin Archer",
+    "ResultNumber": 389,
     "Parent1": "Demon Family (G)",
     "Parent2": "Material Family (G)"
   },
   {
     "Result": "Bongo Drongo",
+    "ResultNumber": 318,
     "Parent1": "Material Family (F)",
     "Parent2": "Undead Family (F)"
   },
   {
     "Result": "Boppin' Badger",
+    "ResultNumber": 246,
     "Parent1": "Beast Family (F)",
     "Parent2": "Slime Family (F)"
   },
   {
     "Result": "Boppin' Badger",
+    "ResultNumber": 246,
     "Parent1": "Feralball",
-    "Parent2": "Fright Bulb"
+    "Parent1Number": "231",
+    "Parent2": "Fright Bulb",
+    "Parent2Number": "11"
   },
   {
     "Result": "Box Slime",
+    "ResultNumber": 22,
     "Parent1": "Bubble Slime",
-    "Parent2": "She-Slime"
+    "Parent1Number": "9",
+    "Parent2": "She-Slime",
+    "Parent2Number": "17"
   },
   {
     "Result": "Bubble Slime",
+    "ResultNumber": 9,
     "Parent1": "Slime Family (G)",
     "Parent2": "Undead Family (G)"
   },
   {
     "Result": "Buddy Slime",
+    "ResultNumber": 5,
     "Parent1": "Slime Family (G)",
     "Parent2": "Nature Family (G)"
   },
   {
     "Result": "Bullfinch",
+    "ResultNumber": 158,
     "Parent1": "Bantamweight",
+    "Parent1Number": "145",
     "Parent2": "Beast Family (Any)"
   },
   {
     "Result": "Bullfinch",
+    "ResultNumber": 158,
     "Parent1": "Nature Family (F)",
     "Parent2": "Beast Family (F)"
   },
   {
     "Result": "Bunicorn",
+    "ResultNumber": 225,
     "Parent1": "Fat Rat",
-    "Parent2": "Nardragon"
+    "Parent1Number": "227",
+    "Parent2": "Nardragon",
+    "Parent2Number": "69"
   },
   {
     "Result": "Burr Baby",
+    "ResultNumber": 307,
     "Parent1": "Material Family (G)",
     "Parent2": "Slime Family (G)"
   },
   {
     "Result": "Cactiball",
+    "ResultNumber": 165,
     "Parent1": "Burr Baby",
+    "Parent1Number": "307",
     "Parent2": "Nature Family (Any)"
   },
   {
     "Result": "Candy Cat",
+    "ResultNumber": 229,
     "Parent1": "Great Sabrecub",
-    "Parent2": "Teeny Sanguini"
+    "Parent1Number": "232",
+    "Parent2": "Teeny Sanguini",
+    "Parent2Number": "387"
   },
   {
     "Result": "Cannibox",
+    "ResultNumber": 323,
     "Parent1": "Erazor Blade",
-    "Parent2": "Box Slime"
+    "Parent1Number": "322",
+    "Parent2": "Box Slime",
+    "Parent2Number": "22"
   },
   {
     "Result": "Cannonbrawler",
+    "ResultNumber": 399,
     "Parent1": "Bodkin Archer",
-    "Parent2": "Lampling"
+    "Parent1Number": "389",
+    "Parent2": "Lampling",
+    "Parent2Number": "313"
   },
   {
     "Result": "Cannonbrawler",
+    "ResultNumber": 399,
     "Parent1": "Demon Family (F)",
     "Parent2": "Material Family (F)"
   },
   {
     "Result": "Capsichum",
+    "ResultNumber": 149,
     "Parent1": "Cruelcumber",
-    "Parent2": "Ornery Onion"
+    "Parent1Number": "150",
+    "Parent2": "Ornery Onion",
+    "Parent2Number": "146"
   },
   {
     "Result": "Cauldragon",
+    "ResultNumber": 87,
     "Parent1": "Dragon Family (F)",
     "Parent2": "Undead Family (F)"
   },
   {
     "Result": "Cauldragon",
+    "ResultNumber": 87,
     "Parent1": "Killer Gila",
+    "Parent1Number": "78",
     "Parent2": "Undead Family (Any)"
   },
   {
     "Result": "Coconut Slime",
+    "ResultNumber": 20,
     "Parent1": "Buddy Slime",
-    "Parent2": "Piña Marauder"
+    "Parent1Number": "5",
+    "Parent2": "Piña Marauder",
+    "Parent2Number": "382"
   },
   {
     "Result": "Crabid",
+    "ResultNumber": 164,
     "Parent1": "Scorpion",
-    "Parent2": "Swarmtroop"
+    "Parent1Number": "159",
+    "Parent2": "Swarmtroop",
+    "Parent2Number": "147"
   },
   {
     "Result": "Crested Viper",
+    "ResultNumber": 72,
     "Parent1": "Dragon Family (G)",
     "Parent2": "Undead Family (G)"
   },
   {
     "Result": "Croc-a-Bugle-Doo",
+    "ResultNumber": 82,
     "Parent1": "Vegandragora",
-    "Parent2": "Bongo Drongo"
+    "Parent1Number": "74",
+    "Parent2": "Bongo Drongo",
+    "Parent2Number": "318"
   },
   {
     "Result": "Cruelcumber",
+    "ResultNumber": 150,
     "Parent1": "Nature Family (G)",
     "Parent2": "Material Family (G)"
   },
   {
     "Result": "Cumaulus",
+    "ResultNumber": 304,
     "Parent1": "Material Family (G)",
     "Parent2": "Nature Family (G)"
   },
   {
     "Result": "Cyclown",
+    "ResultNumber": 162,
     "Parent1": "Nature Family (F)",
     "Parent2": "Material Family (F)"
   },
   {
     "Result": "Damselfly",
+    "ResultNumber": 76,
     "Parent1": "Vegandragora",
-    "Parent2": "Wing Slime"
+    "Parent1Number": "74",
+    "Parent2": "Wing Slime",
+    "Parent2Number": "8"
   },
   {
     "Result": "Dancing Devil",
+    "ResultNumber": 396,
     "Parent1": "Imp",
-    "Parent2": "Woebergine"
-  },
-  {
-    "Result": "Dancing Devil",
-    "Parent1": "Imp",
+    "Parent1Number": "385",
     "Parent2": "Beast Family (Any)"
   },
   {
-    "Result": "Dessert Demon",
+    "Result": "Dancing Devil",
+    "ResultNumber": 396,
     "Parent1": "Imp",
-    "Parent2": "Coconut Slime"
+    "Parent1Number": "385",
+    "Parent2": "Woebergine",
+    "Parent2Number": "152"
+  },
+  {
+    "Result": "Dessert Demon",
+    "ResultNumber": 394,
+    "Parent1": "Imp",
+    "Parent1Number": "385",
+    "Parent2": "Coconut Slime",
+    "Parent2Number": "20"
   },
   {
     "Result": "Dracky",
+    "ResultNumber": 383,
     "Parent1": "Demon Family (G)",
     "Parent2": "Dragon Family (G)"
   },
   {
     "Result": "Drag Racer",
+    "ResultNumber": 85,
     "Parent1": "Dragon Family (F)",
     "Parent2": "Beast Family (F)"
   },
   {
     "Result": "Drag Racer",
+    "ResultNumber": 85,
     "Parent1": "Nardragon",
-    "Parent2": "Antguzzler"
+    "Parent1Number": "69",
+    "Parent2": "Antguzzler",
+    "Parent2Number": "223"
   },
   {
     "Result": "Dragonthorn",
+    "ResultNumber": 70,
     "Parent1": "Burr Baby",
-    "Parent2": "Pteranodon"
+    "Parent1Number": "307",
+    "Parent2": "Pteranodon",
+    "Parent2Number": "77"
   },
   {
     "Result": "Drake Slime",
+    "ResultNumber": 19,
     "Parent1": "Slime",
+    "Parent1Number": "1",
     "Parent2": "Dragon Family (Any)"
   },
   {
     "Result": "Drake Slime",
+    "ResultNumber": 19,
     "Parent1": "Slime Family (F)",
     "Parent2": "Dragon Family (F)"
   },
   {
     "Result": "Drake Slime",
+    "ResultNumber": 19,
     "Parent1": "Wing Slime",
-    "Parent2": "Small Fry"
+    "Parent1Number": "8",
+    "Parent2": "Small Fry",
+    "Parent2Number": "73"
   },
   {
     "Result": "Dread Squirrel",
+    "ResultNumber": 236,
     "Parent1": "Beast Family (F)",
     "Parent2": "Nature Family (F)"
   },
   {
     "Result": "Dread Squirrel",
+    "ResultNumber": 236,
     "Parent1": "Funky Ferret",
+    "Parent1Number": "228",
     "Parent2": "Nature Family (Any)"
   },
   {
     "Result": "Drohl Drone",
+    "ResultNumber": 466,
     "Parent1": "Funghoul",
-    "Parent2": "Mad Mollusk"
+    "Parent1Number": "460",
+    "Parent2": "Mad Mollusk",
+    "Parent2Number": "151"
   },
   {
     "Result": "Eggsoskeleton",
+    "ResultNumber": 303,
     "Parent1": "Mecha-Mynah",
-    "Parent2": "Bad Egg"
+    "Parent1Number": "312",
+    "Parent2": "Bad Egg",
+    "Parent2Number": "6"
   },
   {
     "Result": "Erazor Blade",
+    "ResultNumber": 322,
     "Parent1": "Material Family (F)",
     "Parent2": "Demon Family (F)"
   },
   {
     "Result": "Erazor Blade",
+    "ResultNumber": 322,
     "Parent1": "Wax Murderer",
+    "Parent1Number": "461",
     "Parent2": "Material Family (Any)"
   },
   {
     "Result": "Ethereal Serpent",
+    "ResultNumber": 83,
     "Parent1": "Flython",
-    "Parent2": "Cumaulus"
+    "Parent1Number": "80",
+    "Parent2": "Cumaulus",
+    "Parent2Number": "304"
   },
   {
     "Result": "Fat Rat",
+    "ResultNumber": 227,
     "Parent1": "Beast Family (G)",
     "Parent2": "Undead Family (G)"
   },
   {
     "Result": "Feral Slime",
+    "ResultNumber": 13,
     "Parent1": "Fright Bulb",
-    "Parent2": "Dragonthorn"
+    "Parent1Number": "11",
+    "Parent2": "Dragonthorn",
+    "Parent2Number": "70"
   },
   {
     "Result": "Feralball",
+    "ResultNumber": 231,
     "Parent1": "Beast Family (G)",
     "Parent2": "Nature Family (G)"
   },
   {
     "Result": "Firespirit",
+    "ResultNumber": 469,
     "Parent1": "Undead Family (G)",
     "Parent2": "Dragon Family (G)"
   },
   {
     "Result": "Flython",
+    "ResultNumber": 80,
     "Parent1": "Crested Viper",
-    "Parent2": "Gremlin"
+    "Parent1Number": "72",
+    "Parent2": "Gremlin",
+    "Parent2Number": "381"
   },
   {
     "Result": "Flython",
+    "ResultNumber": 80,
     "Parent1": "Dragon Family (F)",
     "Parent2": "Demon Family (F)"
   },
   {
     "Result": "Foo Dog",
+    "ResultNumber": 315,
     "Parent1": "Putrefido",
+    "Parent1Number": "459",
     "Parent2": "Material Family (Any)"
   },
   {
     "Result": "Fright Bulb",
+    "ResultNumber": 11,
     "Parent1": "Buddy Slime",
-    "Parent2": "Woebergine"
+    "Parent1Number": "5",
+    "Parent2": "Woebergine",
+    "Parent2Number": "152"
   },
   {
     "Result": "Fromage Fray",
+    "ResultNumber": 310,
     "Parent1": "Material Family (G)",
     "Parent2": "Beast Family (G)"
   },
   {
     "Result": "Funghoul",
+    "ResultNumber": 460,
     "Parent1": "Stump Chump",
-    "Parent2": "Ornery Onion"
+    "Parent1Number": "463",
+    "Parent2": "Ornery Onion",
+    "Parent2Number": "146"
   },
   {
     "Result": "Funky Ferret",
+    "ResultNumber": 228,
     "Parent1": "Beast Family (G)",
     "Parent2": "Dragon Family (G)"
   },
   {
     "Result": "Gasbagon",
+    "ResultNumber": 88,
     "Parent1": "Killer Gila",
-    "Parent2": "Swarmtroop"
+    "Parent1Number": "78",
+    "Parent2": "Swarmtroop",
+    "Parent2Number": "147"
   },
   {
     "Result": "Gasbagon",
+    "ResultNumber": 88,
     "Parent1": "Vegandragora",
+    "Parent1Number": "74",
     "Parent2": "Slime Family (Any)"
   },
   {
     "Result": "Ghost",
+    "ResultNumber": 464,
     "Parent1": "Undead Family (G)",
     "Parent2": "Slime Family (G)"
   },
   {
     "Result": "Gloomy Grublin",
+    "ResultNumber": 233,
     "Parent1": "Beast Family (G)",
     "Parent2": "Demon Family (G)"
   },
   {
     "Result": "Gold Golem",
+    "ResultNumber": 316,
     "Parent1": "Pocus Poppet",
-    "Parent2": "Jargon"
+    "Parent1Number": "324",
+    "Parent2": "Jargon",
+    "Parent2Number": "86"
   },
   {
     "Result": "Goonache Goodie",
+    "ResultNumber": 2,
     "Parent1": "Shell Slime",
-    "Parent2": "Fromage Fray"
+    "Parent1Number": "4",
+    "Parent2": "Fromage Fray",
+    "Parent2Number": "310"
   },
   {
     "Result": "Great Sabrecub",
+    "ResultNumber": 232,
     "Parent1": "Beast Family (G)",
     "Parent2": "Slime Family (G)"
   },
   {
     "Result": "Greater Dracky",
+    "ResultNumber": 393,
     "Parent1": "Dracky",
-    "Parent2": "Gasbagon"
+    "Parent1Number": "383",
+    "Parent2": "Dracky",
+    "Parent2Number": "383"
   },
   {
     "Result": "Greater Dracky",
+    "ResultNumber": 393,
     "Parent1": "Dracky",
-    "Parent2": "Dracky"
+    "Parent1Number": "383",
+    "Parent2": "Gasbagon",
+    "Parent2Number": "88"
   },
   {
     "Result": "Gremlin",
+    "ResultNumber": 381,
     "Parent1": "Demon Family (G)",
     "Parent2": "Beast Family (G)"
   },
   {
     "Result": "Guaardvark",
+    "ResultNumber": 241,
     "Parent1": "Beast Family (F)",
     "Parent2": "Undead Family (F)"
   },
   {
     "Result": "Guaardvark",
+    "ResultNumber": 241,
     "Parent1": "Funky Ferret",
-    "Parent2": "Stark Raven"
+    "Parent1Number": "228",
+    "Parent2": "Stark Raven",
+    "Parent2Number": "144"
   },
   {
     "Result": "Guaardvark",
+    "ResultNumber": 241,
     "Parent1": "Skeleton",
+    "Parent1Number": "462",
     "Parent2": "Beast Family (Any)"
   },
   {
     "Result": "Hammerhood",
+    "ResultNumber": 226,
     "Parent1": "Mischievous Mole",
-    "Parent2": "Stump Chump"
+    "Parent1Number": "224",
+    "Parent2": "Stump Chump",
+    "Parent2Number": "463"
   },
   {
     "Result": "Hangelabra",
+    "ResultNumber": 395,
     "Parent1": "Demon Family (F)",
     "Parent2": "Undead Family (F)"
   },
   {
     "Result": "Hangelabra",
+    "ResultNumber": 395,
     "Parent1": "Lampling",
+    "Parent1Number": "313",
     "Parent2": "Demon Family (Any)"
   },
   {
     "Result": "Hangelabra",
+    "ResultNumber": 395,
     "Parent1": "Lunatick",
-    "Parent2": "Will-o'-the-Whips"
+    "Parent1Number": "386",
+    "Parent2": "Will-o'-the-Whips",
+    "Parent2Number": "467"
   },
   {
     "Result": "Healslime",
+    "ResultNumber": 10,
     "Parent1": "Slime Family (G)",
     "Parent2": "Demon Family (G)"
   },
   {
     "Result": "Hellbound Horror",
+    "ResultNumber": 479,
     "Parent1": "Will-o'-the-Whips",
-    "Parent2": "Bodkin Archer"
+    "Parent1Number": "467",
+    "Parent2": "Bodkin Archer",
+    "Parent2Number": "389"
   },
   {
     "Result": "Hunter Mech",
+    "ResultNumber": 325,
     "Parent1": "Avian Android",
-    "Parent2": "Restless Armour"
+    "Parent1Number": "319",
+    "Parent2": "Restless Armour",
+    "Parent2Number": "472"
   },
   {
     "Result": "Icy Dragling",
+    "ResultNumber": 75,
     "Parent1": "Small Fry",
-    "Parent2": "Healslime"
+    "Parent1Number": "73",
+    "Parent2": "Healslime",
+    "Parent2Number": "10"
   },
   {
     "Result": "Imp",
+    "ResultNumber": 385,
     "Parent1": "Gremlin",
-    "Parent2": "Fromage Fray"
+    "Parent1Number": "381",
+    "Parent2": "Fromage Fray",
+    "Parent2Number": "310"
   },
   {
     "Result": "Jargon",
+    "ResultNumber": 86,
     "Parent1": "Komodo",
-    "Parent2": "Gasbagon"
+    "Parent1Number": "71",
+    "Parent2": "Gasbagon",
+    "Parent2Number": "88"
   },
   {
     "Result": "Jargon",
+    "ResultNumber": 86,
     "Parent1": "Komodo",
+    "Parent1Number": "71",
     "Parent2": "Material Family (Any)"
   },
   {
     "Result": "Jingle Bug",
+    "ResultNumber": 166,
     "Parent1": "Eggsoskeleton",
+    "Parent1Number": "303",
     "Parent2": "Nature Family (Any)"
   },
   {
     "Result": "Khalamari Kid",
+    "ResultNumber": 155,
     "Parent1": "Nature Family (G)",
     "Parent2": "Slime Family (G)"
   },
   {
     "Result": "Killer Gila",
+    "ResultNumber": 78,
     "Parent1": "Komodo",
-    "Parent2": "Bubble Slime"
+    "Parent1Number": "71",
+    "Parent2": "Bubble Slime",
+    "Parent2Number": "9"
   },
   {
     "Result": "Killerpillar",
+    "ResultNumber": 148,
     "Parent1": "Nature Family (G)",
     "Parent2": "Dragon Family (G)"
   },
   {
     "Result": "King Kelp",
+    "ResultNumber": 480,
     "Parent1": "Fromage Fray",
+    "Parent1Number": "310",
     "Parent2": "Undead Family (Any)"
   },
   {
     "Result": "King Kelp",
+    "ResultNumber": 480,
     "Parent1": "Scarfish",
-    "Parent2": "Woebergine"
+    "Parent1Number": "470",
+    "Parent2": "Woebergine",
+    "Parent2Number": "152"
   },
   {
     "Result": "Kingfuschia",
+    "ResultNumber": 153,
     "Parent1": "Bludgerigar",
-    "Parent2": "Vegandragora"
+    "Parent1Number": "154",
+    "Parent2": "Vegandragora",
+    "Parent2Number": "74"
   },
   {
     "Result": "Komodo",
+    "ResultNumber": 71,
     "Parent1": "Dragon Family (G)",
     "Parent2": "Beast Family (G)"
   },
   {
     "Result": "Lampling",
+    "ResultNumber": 313,
     "Parent1": "Lunatick",
-    "Parent2": "Wax Murderer"
+    "Parent1Number": "386",
+    "Parent2": "Wax Murderer",
+    "Parent2Number": "461"
   },
   {
     "Result": "Leafy Larrikin",
+    "ResultNumber": 168,
     "Parent1": "Ornery Onion",
-    "Parent2": "Skipper"
+    "Parent1Number": "146",
+    "Parent2": "Skipper",
+    "Parent2Number": "465"
   },
   {
     "Result": "Lips",
+    "ResultNumber": 388,
     "Parent1": "Mad Mollusk",
-    "Parent2": "Toady"
+    "Parent1Number": "151",
+    "Parent2": "Toady",
+    "Parent2Number": "156"
   },
   {
     "Result": "Little Devil",
+    "ResultNumber": 390,
     "Parent1": "Demon Family (F)",
     "Parent2": "Slime Family (F)"
   },
   {
     "Result": "Little Devil",
+    "ResultNumber": 390,
     "Parent1": "Gremlin",
-    "Parent2": "Bodkin Archer"
+    "Parent1Number": "381",
+    "Parent2": "Bodkin Archer",
+    "Parent2Number": "389"
   },
   {
     "Result": "Lump Shaman",
+    "ResultNumber": 376,
     "Parent1": "Demon Family (G)",
     "Parent2": "Undead Family (G)"
   },
   {
     "Result": "Lump Wizard",
+    "ResultNumber": 384,
     "Parent1": "Demon Family (G)",
     "Parent2": "Undead Family (G)"
   },
   {
     "Result": "Lunatick",
+    "ResultNumber": 386,
     "Parent1": "Winky",
-    "Parent2": "Healslime"
+    "Parent1Number": "380",
+    "Parent2": "Healslime",
+    "Parent2Number": "10"
   },
   {
     "Result": "Mad Moai",
+    "ResultNumber": 321,
     "Parent1": "Material Family (F)",
     "Parent2": "Dragon Family (F)"
   },
   {
     "Result": "Mad Mollusk",
+    "ResultNumber": 151,
     "Parent1": "Nature Family (G)",
     "Parent2": "Undead Family (G)"
   },
   {
     "Result": "Marislime",
+    "ResultNumber": 12,
     "Parent1": "Scallop Slime",
-    "Parent2": "Toady"
+    "Parent1Number": "7",
+    "Parent2": "Toady",
+    "Parent2Number": "156"
   },
   {
     "Result": "Mecha-Mynah",
+    "ResultNumber": 312,
     "Parent1": "Material Family (G)",
     "Parent2": "Dragon Family (G)"
   },
   {
     "Result": "Merman",
+    "ResultNumber": 397,
     "Parent1": "Demon Family (F)",
     "Parent2": "Dragon Family (F)"
   },
   {
     "Result": "Midnight Horknight",
+    "ResultNumber": 157,
     "Parent1": "Gloomy Grublin",
+    "Parent1Number": "233",
     "Parent2": "Nature Family (Any)"
   },
   {
     "Result": "Mischievous Mole",
+    "ResultNumber": 224,
     "Parent1": "Beast Family (G)",
     "Parent2": "Material Family (G)"
   },
   {
     "Result": "Mitey Oak",
+    "ResultNumber": 167,
     "Parent1": "Nature Family (F)",
     "Parent2": "Slime Family (F)"
   },
   {
     "Result": "Mitey Oak",
+    "ResultNumber": 167,
     "Parent1": "Stump Chump",
-    "Parent2": "Bad Egg"
+    "Parent1Number": "463",
+    "Parent2": "Bad Egg",
+    "Parent2Number": "6"
   },
   {
     "Result": "Molten Slime",
+    "ResultNumber": 23,
     "Parent1": "Bubble Slime",
+    "Parent1Number": "9",
     "Parent2": "Dragon Family (Any)"
   },
   {
     "Result": "Molten Slime",
+    "ResultNumber": 23,
     "Parent1": "Bubble Slime",
-    "Parent2": "Firespirit"
+    "Parent1Number": "9",
+    "Parent2": "Firespirit",
+    "Parent2Number": "469"
   },
   {
     "Result": "Monolog",
+    "ResultNumber": 475,
     "Parent1": "Stump Chump",
-    "Parent2": "Lunatick"
+    "Parent1Number": "463",
+    "Parent2": "Lunatick",
+    "Parent2Number": "386"
   },
   {
     "Result": "Mottle Slime",
+    "ResultNumber": 21,
     "Parent1": "Slime",
+    "Parent1Number": "1",
     "Parent2": "Beast Family (Any)"
   },
   {
     "Result": "Mottle Slime",
+    "ResultNumber": 21,
     "Parent1": "Slime Family (F)",
     "Parent2": "Beast Family (F)"
   },
   {
     "Result": "Mouldfish",
+    "ResultNumber": 478,
     "Parent1": "Undead Family (F)",
     "Parent2": "Nature Family (F)"
   },
   {
     "Result": "Mud Mannequin",
+    "ResultNumber": 309,
     "Parent1": "String Fella",
-    "Parent2": "Sacksquatch"
+    "Parent1Number": "305",
+    "Parent2": "Sacksquatch",
+    "Parent2Number": "308"
   },
   {
     "Result": "Muddy Hand",
+    "ResultNumber": 476,
     "Parent1": "Sacksquatch",
+    "Parent1Number": "308",
     "Parent2": "Undead Family (Any)"
   },
   {
     "Result": "Muddy Hand",
+    "ResultNumber": 476,
     "Parent1": "Undead Family (F)",
     "Parent2": "Material Family (F)"
   },
   {
     "Result": "Mudraker",
+    "ResultNumber": 320,
     "Parent1": "Material Family (F)",
     "Parent2": "Slime Family (F)"
   },
   {
     "Result": "Mudraker",
+    "ResultNumber": 320,
     "Parent1": "Mud Mannequin",
+    "Parent1Number": "309",
     "Parent2": "Undead Family (Any)"
   },
   {
     "Result": "Mummy Boy",
+    "ResultNumber": 477,
     "Parent1": "Skeleton",
-    "Parent2": "String Fella"
+    "Parent1Number": "462",
+    "Parent2": "String Fella",
+    "Parent2Number": "305"
   },
   {
     "Result": "Napir",
+    "ResultNumber": 247,
     "Parent1": "Tongue Fu Fighter",
-    "Parent2": "Will-o'-the-Whips"
+    "Parent1Number": "243",
+    "Parent2": "Will-o'-the-Whips",
+    "Parent2Number": "467"
   },
   {
     "Result": "Nardragon",
+    "ResultNumber": 69,
     "Parent1": "Dragon Family (G)",
     "Parent2": "Material Family (G)"
   },
   {
     "Result": "Odd Cob",
+    "ResultNumber": 163,
     "Parent1": "Capsichum",
-    "Parent2": "Lunatick"
+    "Parent1Number": "149",
+    "Parent2": "Lunatick",
+    "Parent2Number": "386"
   },
   {
     "Result": "Odd Cob",
+    "ResultNumber": 163,
     "Parent1": "Nature Family (F)",
     "Parent2": "Demon Family (F)"
   },
   {
     "Result": "Odd Cob",
+    "ResultNumber": 163,
     "Parent1": "Woebergine",
+    "Parent1Number": "152",
     "Parent2": "Undead Family (Any)"
   },
   {
     "Result": "Onion Slime",
+    "ResultNumber": 18,
     "Parent1": "Buddy Slime",
+    "Parent1Number": "5",
     "Parent2": "Nature Family (Any)"
   },
   {
     "Result": "Onion Slime",
+    "ResultNumber": 18,
     "Parent1": "Slime Family (F)",
     "Parent2": "Nature Family (F)"
   },
   {
     "Result": "Orc",
+    "ResultNumber": 238,
     "Parent1": "Sham Hatwitch",
+    "Parent1Number": "230",
     "Parent2": "Demon Family (Any)"
   },
   {
     "Result": "Orc",
+    "ResultNumber": 238,
     "Parent1": "Sham Hatwitch",
-    "Parent2": "Cruelcumber"
+    "Parent1Number": "230",
+    "Parent2": "Cruelcumber",
+    "Parent2Number": "150"
   },
   {
     "Result": "Ornery Onion",
+    "ResultNumber": 146,
     "Parent1": "Nature Family (G)",
     "Parent2": "Beast Family (G)"
   },
   {
     "Result": "Piña Marauder",
+    "ResultNumber": 382,
     "Parent1": "Demon Family (G)",
     "Parent2": "Nature Family (G)"
   },
   {
     "Result": "Platypunk",
+    "ResultNumber": 234,
     "Parent1": "Feralball",
-    "Parent2": "Bludgerigar"
+    "Parent1Number": "231",
+    "Parent2": "Bludgerigar",
+    "Parent2Number": "154"
   },
   {
     "Result": "Platypup",
+    "ResultNumber": 235,
     "Parent1": "Platypunk",
-    "Parent2": "Putrefido"
+    "Parent1Number": "234",
+    "Parent2": "Putrefido",
+    "Parent2Number": "459"
   },
   {
     "Result": "Pocus Poppet",
+    "ResultNumber": 324,
     "Parent1": "Material Family (F)",
     "Parent2": "Nature Family (F)"
   },
   {
     "Result": "Pocus Poppet",
+    "ResultNumber": 324,
     "Parent1": "Mud Mannequin",
-    "Parent2": "Swarmtroop"
+    "Parent1Number": "309",
+    "Parent2": "Swarmtroop",
+    "Parent2Number": "147"
   },
   {
     "Result": "Powie Yowie",
+    "ResultNumber": 237,
     "Parent1": "Platypunk",
+    "Parent1Number": "234",
     "Parent2": "Demon Family (Any)"
   },
   {
     "Result": "Powie Yowie",
+    "ResultNumber": 237,
     "Parent1": "Teeny Sanguini",
-    "Parent2": "Snowmangler"
+    "Parent1Number": "387",
+    "Parent2": "Snowmangler",
+    "Parent2Number": "14"
   },
   {
     "Result": "Prestidigitator",
+    "ResultNumber": 398,
     "Parent1": "Lump Wizard",
-    "Parent2": "Ghost"
+    "Parent1Number": "384",
+    "Parent2": "Ghost",
+    "Parent2Number": "464"
   },
   {
     "Result": "Pteranodon",
+    "ResultNumber": 77,
     "Parent1": "Dragon Family (G)",
     "Parent2": "Demon Family (G)"
   },
   {
     "Result": "Putrefido",
+    "ResultNumber": 459,
     "Parent1": "Undead Family (G)",
     "Parent2": "Beast Family (G)"
   },
   {
     "Result": "Raptile",
+    "ResultNumber": 84,
     "Parent1": "Damselfly",
-    "Parent2": "Skipper"
+    "Parent1Number": "76",
+    "Parent2": "Skipper",
+    "Parent2Number": "465"
   },
   {
     "Result": "Raptile",
+    "ResultNumber": 84,
     "Parent1": "Dragon Family (F)",
     "Parent2": "Slime Family (F)"
   },
   {
     "Result": "Raptile",
+    "ResultNumber": 84,
     "Parent1": "Small Fry",
+    "Parent1Number": "73",
     "Parent2": "Nature Family (Any)"
   },
   {
     "Result": "Restless Armour",
+    "ResultNumber": 472,
     "Parent1": "Bambooligan",
+    "Parent1Number": "306",
     "Parent2": "Undead Family (Any)"
   },
   {
     "Result": "Restless Armour",
+    "ResultNumber": 472,
     "Parent1": "Slime Knight",
-    "Parent2": "Bambooligan"
+    "Parent1Number": "16",
+    "Parent2": "Bambooligan",
+    "Parent2Number": "306"
   },
   {
     "Result": "Robber Rabbit",
+    "ResultNumber": 245,
     "Parent1": "Beast Family (F)",
     "Parent2": "Demon Family (F)"
   },
   {
     "Result": "Robber Rabbit",
+    "ResultNumber": 245,
     "Parent1": "Bunicorn",
+    "Parent1Number": "225",
     "Parent2": "Demon Family (Any)"
   },
   {
     "Result": "Robber Rabbit",
+    "ResultNumber": 245,
     "Parent1": "Bunicorn",
-    "Parent2": "Mischievous Mole"
+    "Parent1Number": "225",
+    "Parent2": "Mischievous Mole",
+    "Parent2Number": "224"
   },
   {
     "Result": "Ruff Ruffian",
+    "ResultNumber": 240,
     "Parent1": "Beast Family (F)",
     "Parent2": "Material Family (F)"
   },
   {
     "Result": "Ruff Ruffian",
+    "ResultNumber": 240,
     "Parent1": "Mischievous Mole",
-    "Parent2": "Putrefido"
+    "Parent1Number": "224",
+    "Parent2": "Putrefido",
+    "Parent2Number": "459"
   },
   {
     "Result": "Sacksquatch",
+    "ResultNumber": 308,
     "Parent1": "Material Family (G)",
     "Parent2": "Undead Family (G)"
   },
   {
     "Result": "Scallop Slime",
+    "ResultNumber": 7,
     "Parent1": "Slime Family (G)",
     "Parent2": "Material Family (G)"
   },
   {
     "Result": "Scarfish",
+    "ResultNumber": 470,
     "Parent1": "Funghoul",
-    "Parent2": "Khalamari Kid"
+    "Parent1Number": "460",
+    "Parent2": "Khalamari Kid",
+    "Parent2Number": "155"
   },
   {
     "Result": "Scarfish",
+    "ResultNumber": 470,
     "Parent1": "Undead Family (F)",
     "Parent2": "Slime Family (F)"
   },
   {
     "Result": "Scorpion",
+    "ResultNumber": 159,
     "Parent1": "Killerpillar",
-    "Parent2": "Killer Gila"
+    "Parent1Number": "148",
+    "Parent2": "Killer Gila",
+    "Parent2Number": "78"
   },
   {
     "Result": "Scorpion",
+    "ResultNumber": 159,
     "Parent1": "Nature Family (F)",
     "Parent2": "Dragon Family (F)"
   },
   {
     "Result": "Seasaur",
+    "ResultNumber": 81,
     "Parent1": "Dragon Family (F)",
     "Parent2": "Nature Family (F)"
   },
   {
     "Result": "See Urchin",
+    "ResultNumber": 392,
     "Parent1": "Demon Family (F)",
     "Parent2": "Nature Family (F)"
   },
   {
     "Result": "See Urchin",
+    "ResultNumber": 392,
     "Parent1": "Lunatick",
+    "Parent1Number": "386",
     "Parent2": "Nature Family (Any)"
   },
   {
     "Result": "Shadow",
+    "ResultNumber": 473,
     "Parent1": "Ghost",
-    "Parent2": "Wax Murderer"
+    "Parent1Number": "464",
+    "Parent2": "Wax Murderer",
+    "Parent2Number": "461"
   },
   {
     "Result": "Shadow",
+    "ResultNumber": 473,
     "Parent1": "Undead Family (F)",
     "Parent2": "Demon Family (F)"
   },
   {
     "Result": "Sham Hatwitch",
+    "ResultNumber": 230,
     "Parent1": "Candy Cat",
-    "Parent2": "Ghost"
+    "Parent1Number": "229",
+    "Parent2": "Ghost",
+    "Parent2Number": "464"
   },
   {
     "Result": "Shell Slime",
+    "ResultNumber": 4,
     "Parent1": "Scallop Slime",
-    "Parent2": "Mad Mollusk"
+    "Parent1Number": "7",
+    "Parent2": "Mad Mollusk",
+    "Parent2Number": "151"
   },
   {
     "Result": "She-Slime",
+    "ResultNumber": 17,
     "Parent1": "Slime",
-    "Parent2": "Firespirit"
+    "Parent1Number": "1",
+    "Parent2": "Firespirit",
+    "Parent2Number": "469"
   },
   {
     "Result": "Skeleton",
+    "ResultNumber": 462,
     "Parent1": "Undead Family (G)",
     "Parent2": "Demon Family (G)"
   },
   {
     "Result": "Skipper",
+    "ResultNumber": 465,
     "Parent1": "Bunicorn",
-    "Parent2": "Winky"
+    "Parent1Number": "225",
+    "Parent2": "Winky",
+    "Parent2Number": "380"
   },
   {
     "Result": "Skullrider",
+    "ResultNumber": 474,
     "Parent1": "Undead Family (F)",
     "Parent2": "Dragon Family (F)"
   },
   {
     "Result": "Sky Fry",
+    "ResultNumber": 311,
     "Parent1": "Cumaulus",
-    "Parent2": "Ghost"
+    "Parent1Number": "304",
+    "Parent2": "Ghost",
+    "Parent2Number": "464"
   },
   {
     "Result": "Slick Slime",
+    "ResultNumber": 27,
     "Parent1": "Slime Family (G)",
     "Parent2": "Beast Family (G)"
   },
   {
     "Result": "Slime Knight",
+    "ResultNumber": 16,
     "Parent1": "Slime Family (F)",
     "Parent2": "Demon Family (F)"
   },
   {
     "Result": "Slime Knight",
+    "ResultNumber": 16,
     "Parent1": "Slime Stack",
-    "Parent2": "Gloomy Grublin"
+    "Parent1Number": "3",
+    "Parent2": "Gloomy Grublin",
+    "Parent2Number": "233"
   },
   {
     "Result": "Slime Stack",
+    "ResultNumber": 3,
     "Parent1": "Slime Family (G)",
     "Parent2": "Beast Family (G)"
   },
   {
     "Result": "Small Fry",
+    "ResultNumber": 73,
     "Parent1": "Dragon Family (G)",
     "Parent2": "Slime Family (G)"
   },
   {
     "Result": "Smog",
+    "ResultNumber": 317,
     "Parent1": "Cumaulus",
-    "Parent2": "Will-o'-the-Whips"
+    "Parent1Number": "304",
+    "Parent2": "Will-o'-the-Whips",
+    "Parent2Number": "467"
   },
   {
     "Result": "Snail Slime",
+    "ResultNumber": 15,
     "Parent1": "Shell Slime",
-    "Parent2": "Drohl Drone"
+    "Parent1Number": "4",
+    "Parent2": "Drohl Drone",
+    "Parent2Number": "466"
   },
   {
     "Result": "Snail Slime",
+    "ResultNumber": 15,
     "Parent1": "Slime Family (F)",
     "Parent2": "Material Family (F)"
   },
   {
     "Result": "Snowmangler",
+    "ResultNumber": 14,
     "Parent1": "Slime Family (F)",
     "Parent2": "Undead Family (F)"
   },
   {
     "Result": "Soft Serve Spook",
+    "ResultNumber": 468,
     "Parent1": "Ghost",
-    "Parent2": "Goonache Goodie"
+    "Parent1Number": "464",
+    "Parent2": "Goonache Goodie",
+    "Parent2Number": "2"
   },
   {
     "Result": "Stark Raven",
+    "ResultNumber": 144,
     "Parent1": "Bludgerigar",
-    "Parent2": "Skeleton"
+    "Parent1Number": "154",
+    "Parent2": "Skeleton",
+    "Parent2Number": "462"
   },
   {
     "Result": "String Fella",
+    "ResultNumber": 305,
     "Parent1": "Material Family (G)",
     "Parent2": "Demon Family (G)"
   },
   {
     "Result": "Stump Chump",
+    "ResultNumber": 463,
     "Parent1": "Undead Family (G)",
     "Parent2": "Nature Family (G)"
   },
   {
     "Result": "Succubat",
+    "ResultNumber": 391,
     "Parent1": "Demon Family (F)",
     "Parent2": "Beast Family (F)"
   },
   {
     "Result": "Suckling Ocker",
+    "ResultNumber": 160,
     "Parent1": "Khalamari Kid",
-    "Parent2": "Winky"
+    "Parent1Number": "155",
+    "Parent2": "Winky",
+    "Parent2Number": "380"
   },
   {
     "Result": "Swarmtroop",
+    "ResultNumber": 147,
     "Parent1": "Nature Family (G)",
     "Parent2": "Demon Family (G)"
   },
   {
     "Result": "Teeny Sanguini",
+    "ResultNumber": 387,
     "Parent1": "Dracky",
-    "Parent2": "Platypunk"
+    "Parent1Number": "383",
+    "Parent2": "Platypunk",
+    "Parent2Number": "234"
   },
   {
     "Result": "Toady",
+    "ResultNumber": 156,
     "Parent1": "Khalamari Kid",
-    "Parent2": "Bunicorn"
+    "Parent1Number": "155",
+    "Parent2": "Bunicorn",
+    "Parent2Number": "225"
   },
   {
     "Result": "Tongue Fu Fighter",
+    "ResultNumber": 243,
     "Parent1": "Antguzzler",
-    "Parent2": "Lips"
+    "Parent1Number": "223",
+    "Parent2": "Lips",
+    "Parent2Number": "388"
   },
   {
     "Result": "Urnexpected",
+    "ResultNumber": 314,
     "Parent1": "Eggsoskeleton",
-    "Parent2": "Dancing Devil"
+    "Parent1Number": "303",
+    "Parent2": "Dancing Devil",
+    "Parent2Number": "396"
   },
   {
     "Result": "Vampire Cat",
+    "ResultNumber": 239,
     "Parent1": "Beast Family (F)",
     "Parent2": "Dragon Family (F)"
   },
   {
     "Result": "Vampire Cat",
+    "ResultNumber": 239,
     "Parent1": "Candy Cat",
+    "Parent1Number": "229",
     "Parent2": "Dragon Family (Any)"
   },
   {
     "Result": "Vegandragora",
+    "ResultNumber": 74,
     "Parent1": "Dragon Family (G)",
     "Parent2": "Nature Family (G)"
   },
   {
     "Result": "Walking Corpse",
+    "ResultNumber": 471,
     "Parent1": "Skeleton",
-    "Parent2": "Putrefido"
+    "Parent1Number": "462",
+    "Parent2": "Putrefido",
+    "Parent2Number": "459"
   },
   {
     "Result": "Walking Corpse",
+    "ResultNumber": 471,
     "Parent1": "Undead Family (F)",
     "Parent2": "Beast Family (F)"
   },
   {
     "Result": "Warhog",
+    "ResultNumber": 242,
     "Parent1": "Gloomy Grublin",
-    "Parent2": "Foo Dog"
+    "Parent1Number": "233",
+    "Parent2": "Foo Dog",
+    "Parent2Number": "315"
   },
   {
     "Result": "Wax Murderer",
+    "ResultNumber": 461,
     "Parent1": "Undead Family (G)",
     "Parent2": "Material Family (G)"
   },
   {
     "Result": "Weartiger",
+    "ResultNumber": 244,
     "Parent1": "Great Sabrecub",
-    "Parent2": "Mummy Boy"
+    "Parent1Number": "232",
+    "Parent2": "Mummy Boy",
+    "Parent2Number": "477"
   },
   {
     "Result": "Will-o'-the-Whips",
+    "ResultNumber": 467,
     "Parent1": "Firespirit",
-    "Parent2": "Crested Viper"
+    "Parent1Number": "469",
+    "Parent2": "Crested Viper",
+    "Parent2Number": "72"
   },
   {
     "Result": "Wing Slime",
+    "ResultNumber": 8,
     "Parent1": "Healslime",
-    "Parent2": "Bludgerigar"
+    "Parent1Number": "10",
+    "Parent2": "Bludgerigar",
+    "Parent2Number": "154"
   },
   {
     "Result": "Winky",
+    "ResultNumber": 380,
     "Parent1": "Demon Family (G)",
     "Parent2": "Slime Family (G)"
   },
   {
     "Result": "Woebergine",
+    "ResultNumber": 152,
     "Parent1": "Ornery Onion",
-    "Parent2": "String Fella"
+    "Parent1Number": "146",
+    "Parent2": "String Fella",
+    "Parent2Number": "305"
   }
 ]
