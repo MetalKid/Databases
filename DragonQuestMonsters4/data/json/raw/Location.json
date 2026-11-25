@@ -14,6 +14,48 @@
     "MapId": 6
   },
   {
+    "LocationId": 26,
+    "Name": "Boughborough - Arena",
+    "JapaneseName": "拠点 - 闘技場",
+    "Identifier": "boughborough-arena",
+    "MapId": 7
+  },
+  {
+    "LocationId": 22,
+    "Name": "Boughborough - House #1",
+    "JapaneseName": "拠点 - 民家 - 0",
+    "Identifier": "boughborough-house-1",
+    "MapId": 9
+  },
+  {
+    "LocationId": 23,
+    "Name": "Boughborough - House #2",
+    "JapaneseName": "拠点 - 民家 - 1",
+    "Identifier": "boughborough-house-2",
+    "MapId": 10
+  },
+  {
+    "LocationId": 24,
+    "Name": "Boughborough - House #3",
+    "JapaneseName": "拠点 - 民家 - 2",
+    "Identifier": "boughborough-house-3",
+    "MapId": 11
+  },
+  {
+    "LocationId": 25,
+    "Name": "Boughborough - House #4",
+    "JapaneseName": "拠点 - 民家 - 3",
+    "Identifier": "boughborough-house-4",
+    "MapId": 12
+  },
+  {
+    "LocationId": 27,
+    "Name": "Boughborough - Medal Shop",
+    "JapaneseName": "拠点 - ちいさなメダル交換所",
+    "Identifier": "boughborough-medal-shop",
+    "MapId": 14
+  },
+  {
     "LocationId": 13,
     "Name": "Item Shop",
     "JapaneseName": "拠点 - 道具屋",
@@ -35,24 +77,24 @@
     "MapId": 5
   },
   {
-    "LocationId": 5,
-    "Name": "Shrine of Serenity, Interior",
-    "JapaneseName": "カレキ - 祠ダンジョンB1F",
-    "Identifier": "shrine-of-serenity,-interior",
+    "LocationId": 7,
+    "Name": "Shrine of Serenity",
+    "JapaneseName": "カレキ - 祠ダンジョン祭壇",
+    "Identifier": "shrine-of-serenity",
     "MapId": 16
   },
   {
-    "LocationId": 7,
-    "Name": "Shrine of Serenity, the Avian Haven",
-    "JapaneseName": "カレキ - 祠ダンジョン祭壇",
-    "Identifier": "shrine-of-serenity,-the-avian-haven",
+    "LocationId": 5,
+    "Name": "Shrine of Serenity, Interior",
+    "JapaneseName": "カレキ - 祠ダンジョンB1F",
+    "Identifier": "shrine-of-serenity-interior",
     "MapId": 18
   },
   {
     "LocationId": 6,
     "Name": "Shrine of Serenity, the Place of Peace",
     "JapaneseName": "カレキ - 祠ダンジョンB2F",
-    "Identifier": "shrine-of-serenity,-the-place-of-peace",
+    "Identifier": "shrine-of-serenity-the-place-of-peace",
     "MapId": 17
   },
   {
@@ -109,6 +151,13 @@
     "Name": "Witherwood Castle",
     "JapaneseName": "拠点 - 王城",
     "Identifier": "witherwood-castle",
+    "MapId": 2
+  },
+  {
+    "LocationId": 18,
+    "Name": "Witherwood Castle - Atrium",
+    "JapaneseName": "拠点 - 上層",
+    "Identifier": "witherwood-castle-atrium",
     "MapId": 2
   },
   {

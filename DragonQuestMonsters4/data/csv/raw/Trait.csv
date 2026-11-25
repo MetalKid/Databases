@@ -190,7 +190,7 @@ TraitId,Name,Identifier,JapaneseName,Description,HPBonus,MPBonus,AttackBonus,Def
 2,Tactical Commander,tactical-commander,行動回数２,Performs 2 actions in a row. The number of actions is not affected if you don't issue specific orders. Slightly lowers the monster's max. attributes.,,,,,,,Reduces all stats by 20%.,True
 3,Tactical Genius,tactical-genius,行動回数１から３,Sometimes performs 2 or 3 actions in a row. The number of actions is not affected if you don't issue specific orders. Slightly lowers the monster's max. attributes.,,,,,,,Reduces all stats by 20%. Attacks 1 to 3 times.,True
 4,Tactical Titan,tactical-titan,行動回数２から３,Performs 2 or 3 actions in a row. The number of actions is not affected if you don't issue specific orders. Lowers the monster's max. attributes.,,,,,,,Reduces all stats by 30%.,True
-1,Tactical Trooper,tactical-trooper,行動回数１から２,Sometimes performs 2 actions in a row. The number of actions is not affected if you don't issue specific orders. Very slightly lowers the monster's max. attributes.,,,,,,,Reduces all stats by 10%. Attacks 1 to 2 times. ,True
+1,Tactical Trooper,tactical-trooper,行動回数１から２,Sometimes performs 2 actions in a row. The number of actions is not affected if you don't issue specific orders. Very slightly lowers the monster's max. attributes.,,,,,,,"Reduces all stats by 10%. Attacks 1 to 2 times. ",True
 91,Tit for Tat,tit-for-tat,しっぺがえし,"When a monster is inflicted with a status ailment, the attacking enemy will have the same ailment inflicted back on them.",,,,,,,,True
 197,Tough Customer,tough-customer,弱体化ガード,Slightly increases resistance to debilitation.,,,,,,,Increases resistance by 10%.,False
 101,Trance State,trance-state,マジシャンズハイ,Greatly increases wisdom after casting a critical spell.,,,,,,,,True
